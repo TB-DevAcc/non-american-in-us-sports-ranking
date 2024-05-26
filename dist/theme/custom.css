@@ -557,3 +557,10 @@ figcaption:before {
 .booktabs-table tbody tr:hover {
   background-color: #e9e9e9;
 }
+
+.title-slide .slide-container {
+  background-image: url(../../../src/img/cover_stylized.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}

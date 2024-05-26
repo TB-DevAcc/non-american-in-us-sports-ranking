@@ -278,3 +278,9 @@ figcaption:before {
 // ---------------------------------------------
 
 // Title Slide
+.title-slide .slide-container {
+  background-image: url(../../../src/img/cover_stylized.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
