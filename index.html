@@ -21,16 +21,12 @@
 <body>
 	<div class="reveal">
 		<div class="menubar">
-			<div class="slide-logo-container">
-				<img src="src/img/Tsinghua_University_Logo.svg" alt="Tsinghua logo" class="slide-logo">
-			</div>
-			<ul class="menu"></ul> <!-- Keep this empty -->
 			<div class='slide-number'></div>
 		</div>
 		<div class="slides">
 			<!-- Dynamically loaded slides will appear here -->
 		</div>
-		<div class="horizontal-line"></div>
+		<!-- <div class="horizontal-line"></div> -->
 		<div class="citation-container"></div>
 	</div>
 
@@ -54,7 +50,7 @@
 	<script>
 		async function loadSlides() {
 			// Base names of your slides
-			const slideNames = ["title", "agenda", "datasets", "deepar_intro", "deepar_model", "deepar_results", "iTr_intro", "iTr_model", "iTr_results", "sota", "summary"];
+			const slideNames = ["title"];
 
 			// Select the container for the slides
 			const slideContainer = document.querySelector(".slides");
@@ -76,7 +72,7 @@
 				margin: 0,
 				center: false,
 				controls: true,
-				progress: true,
+				progress: false,
 				hash: true,
 				slideNumber: "c/t",
 				mathjax3: {
@@ -101,7 +97,18 @@
 						}
 					]
 				},
-				plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight, RevealMenu, Simplemenu, CounterAct, Reveald3, RevealMath.MathJax3],
+				plugins: [
+					RevealZoom,
+					RevealNotes,
+					RevealSearch,
+					RevealMarkdown,
+					RevealHighlight,
+					RevealMenu,
+					Simplemenu,
+					CounterAct,
+					Reveald3,
+					RevealMath.MathJax3
+				],
 			}).then(function () {
 				addCitationListeners();
 				updateCitations();
@@ -112,6 +119,7 @@
 	</script>
 
 	<script>
+		// Citation handling
 		function addCitationListeners() {
 			Reveal.addEventListener('slidechanged', updateCitations);
 			Reveal.addEventListener('fragmentshown', updateCitations);

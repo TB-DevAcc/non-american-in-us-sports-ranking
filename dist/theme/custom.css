@@ -4,6 +4,7 @@
  * By Tobias Becher, https://tobiasbecher.com
  */
 @import url(./fonts/computer-modern/computer-modern.css);
+@import url(./fonts/spectral/spectral.css);
 html {
   font-size: 1vw;
 }
@@ -11,10 +12,10 @@ html {
 label, text, caption, figcaption, button {
   font-size: 1.35rem;
   color: #000;
-  font-family: "CMU Serif", Times, serif;
+  font-family: "Spectral", Times, serif;
 }
 .svg-legend-text {
-  font-family: "CMU Serif", Times, serif;
+  font-family: "Spectral", Times, serif;
   font-size: 1.35rem;
   fill: #000;
 }
@@ -27,6 +28,7 @@ label, text, caption, figcaption, button {
 .slide-number,
 .reveal.has-logo .slide-number {
   position: fixed;
+  top: 30px !important;
   right: 30px !important;
   bottom: unset !important;
 }
@@ -123,6 +125,7 @@ label, text, caption, figcaption, button {
 }
 
 .reveal .slide-menu-button {
+  opacity: 0.05;
   position: fixed;
   left: 30px;
   bottom: 40px;
@@ -139,12 +142,12 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 :root {
   --r-background-color: #FFFFFF;
-  --r-main-font: CMU Serif, Times, serif;
+  --r-main-font: Spectral, Times, serif;
   --r-main-font-size: 1.35rem;
   --r-main-color: #000;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
-  --r-heading-font: CMU Serif, Times, serif;
+  --r-heading-font: Spectral, Times, serif;
   --r-heading-color: #6510AD;
   --r-heading-line-height: 1.2;
   --r-heading-letter-spacing: normal;
@@ -522,123 +525,6 @@ figcaption:before {
   content: "Tab. " attr(data-count-table-caption) ": ";
 }
 
-.title-slide h1 {
-  margin: 0;
-}
-
-.title-slide h3 {
-  margin-top: 2rem;
-  margin-bottom: 10rem;
-}
-
-.title-slide .info-line {
-  display: flex;
-  align-items: center;
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-.title-slide .label {
-  width: 15%;
-  text-align: left;
-  margin-right: 1rem;
-}
-
-.title-slide .value {
-  display: block;
-}
-
-.title-slide .controls {
-  display: none;
-}
-
-.title-slide .slide-logo {
-  display: none;
-}
-
-.title-slide .slide-number {
-  display: none;
-}
-
-/* Flex container for images to ensure they are in a row */
-.title-slide .slide-container img {
-  display: flex;
-  justify-content: start;
-  gap: 3rem;
-  max-width: 10rem;
-  height: auto;
-}
-
-.agenda-slide {
-  position: relative;
-  height: 100vh;
-}
-
-.agenda-slide .gallery-wrap {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  height: 70vh;
-  overflow: hidden;
-}
-
-.agenda-slide .item {
-  flex: 1;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  transition: flex 0.8s ease;
-  border-top: 0.15em dotted #6510AD;
-  border-bottom: 0.15em dotted #6510AD;
-  box-sizing: border-box;
-  overflow: hidden;
-  background-color: rgba(0, 0, 0, 0.04);
-}
-
-.fragment.accordion.current-fragment {
-  flex: 7;
-}
-
-.fragment.accordion.current-fragment img {
-  transform: rotate(0deg);
-}
-
-.agenda-slide .item img {
-  transition: transform 0.8s ease, width 0.8s ease, height 0.8s ease;
-  transform: rotate(-90deg);
-  height: 60%;
-  width: auto;
-  max-width: none !important;
-  max-height: none !important;
-  z-index: -1;
-}
-
-.agenda-slide .item-1 {
-  margin-right: 3em;
-}
-
-.agenda-slide .item-2 {
-  margin-right: 3em;
-  outline: 3em solid white;
-}
-
-.agenda-slide .item-3 {
-  margin-right: 3em;
-}
-
-.agenda-slide .item-4 {
-  margin-right: 3em;
-  outline: 3em solid white;
-}
-
-.agenda-slide .item-final {
-  flex: 0;
-}
-
 .booktabs-table {
   border-collapse: separate;
   border-spacing: 0;
@@ -670,245 +556,4 @@ figcaption:before {
 }
 .booktabs-table tbody tr:hover {
   background-color: #e9e9e9;
-}
-
-/* DeepAR Intro Slide Styling */
-/* --------------------------------------------- */
-.deepar-intro-slide img {
-  width: 35vw;
-}
-
-.deepar-intro-slide h2 {
-  margin-bottom: 1rem;
-}
-
-.custom-list {
-  list-style-type: none !important;
-  list-style: none;
-  padding-left: 0;
-  padding-top: 1em;
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-}
-
-.custom-list li.fragment {
-  position: relative;
-  padding-left: 2em;
-  margin-bottom: 10px;
-  line-height: 1.5;
-  transition: transform 0.3s ease;
-  flex: 1;
-  display: block;
-  align-items: flex-start;
-}
-
-.custom-list li.fragment:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 10%;
-  background-color: rgba(0, 0, 0, 0.4);
-  height: 0.5em;
-  width: 0.5em;
-  transition: background-color 0.3s ease-out;
-}
-
-.custom-list li.fragment.current-fragment:before {
-  background-color: #6510AD;
-  transform: scale(1.5);
-}
-
-.custom-list ul {
-  padding-left: 1em;
-  display: block;
-}
-
-#probabilities-flow {
-  height: 100vh;
-  width: 100vw;
-}
-#probabilities-flow #graph-container {
-  width: 100%;
-  height: 100%;
-}
-#probabilities-flow g.node rect {
-  fill: white;
-  stroke: #333;
-}
-#probabilities-flow g.edgePath path {
-  stroke: black;
-  fill: none;
-  stroke-width: 2px;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-}
-#probabilities-flow g.edgePath path.path {
-  fill: black;
-}
-#probabilities-flow .node-label {
-  font-size: 1.35rem;
-  padding: 0.3375rem;
-}
-
-#people-icon {
-  fill: #6510AD;
-  width: 2.7rem;
-}
-
-#pie-chart-icon {
-  fill: #6510AD;
-  width: 2.7rem;
-}
-
-.deepar-model-slide .booktabs-table {
-  font-size: 1.08rem;
-}
-
-.equation {
-  margin-top: 1em;
-  margin-bottom: 1em;
-  text-align: center;
-}
-
-#distributions {
-  height: 100vh;
-}
-#distributions .slider {
-  font-size: 1.215rem;
-  padding: 0.5em;
-  outline: 0.5px solid rgba(0, 0, 0, 0.4);
-}
-#distributions input[type=range] {
-  width: 100%;
-  margin-top: 0.25em;
-}
-#distributions #graph-container {
-  width: 80%;
-  margin: auto;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
-  align-items: center;
-}
-
-.dar-scale-covariates-slide img {
-  width: 100%;
-}
-
-#dar-metric-header {
-  font-size: 3em;
-}
-
-.axis text {
-  font-size: 14px;
-}
-
-.axis line,
-.axis path {
-  shape-rendering: crispEdges;
-  stroke: #000;
-  fill: none;
-}
-
-.hist-bar {
-  fill: none;
-  outline: 2px dashed skyblue;
-  outline-offset: -2px;
-}
-
-.median-text {
-  color: #47682c;
-}
-
-.median-label {
-  fill: #47682c;
-  font-weight: bold;
-}
-
-.median-line {
-  stroke: #47682c;
-  stroke-width: 3;
-  stroke-dasharray: 10, 3;
-}
-
-.percentile-text {
-  color: #EF3054;
-}
-
-.percentile-label {
-  fill: #EF3054;
-  font-weight: bold;
-}
-
-.percentile-line {
-  stroke: #EF3054;
-  stroke-width: 3;
-  stroke-dasharray: 10, 3;
-}
-
-.iTr-intro-slide img {
-  width: 40vw;
-}
-
-.iTr-model-slide #header-list-group li div {
-  color: rgba(0, 0, 0, 0.4);
-}
-
-#iT-architecture-img {
-  width: 85vw;
-}
-
-#iT-eff-img {
-  width: 60vh;
-}
-
-#iT-partial-img img {
-  height: 40vh;
-}
-
-#iT-vary-input-img img {
-  height: 40vh;
-}
-
-#iT-analysis-img img {
-  height: 40vh;
-}
-
-.header-list-group li div {
-  color: rgba(0, 0, 0, 0.4);
-}
-
-.summary-slide .custom-list {
-  list-style-type: none;
-  padding-left: 0;
-  padding-top: 1em;
-  display: flex;
-  flex-direction: column;
-  flex-grow: 1;
-}
-.summary-slide .custom-list li.fragment {
-  content: none;
-  position: relative;
-  padding-left: 2.5em;
-  margin-bottom: 10px;
-  line-height: 1.5;
-  display: block;
-}
-.summary-slide .custom-list li.fragment::before {
-  content: none;
-}
-.summary-slide .custom-list li.fragment svg {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-30%);
-  width: 1.25em;
-  height: 1.25em;
-  fill: rgba(0, 0, 0, 0.4);
-  transition: fill 0.3s ease, transform 0.3s ease;
-}
-.summary-slide .custom-list li.fragment.current-fragment svg {
-  fill: #6510AD;
-  transform: scale(1.8);
 }
