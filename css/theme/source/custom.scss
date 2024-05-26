@@ -1,0 +1,677 @@
+/**
+ * Based on the White theme for reveal.js. This is a custom theme, primarily used for academia.
+ *
+ * By Tobias Becher, https://tobiasbecher.com
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+// Include theme-specific fonts
+@import url(./fonts/computer-modern/computer-modern.css);
+
+
+// Primary Brand Colors
+$color-primary: #6510AD; // Used for primary elements and to represent the brand
+
+// Neutral Colors
+$color-neutral-white: #FFFFFF; // Used for backgrounds and primary content areas
+$color-neutral-black: #000; // Used for text and icons
+
+// Override theme settings (see ../template/settings.scss)
+$backgroundColor: $color-neutral-white;
+$mainColor: $color-neutral-black;
+$mainColorTransparent: rgba(red($mainColor), green($mainColor), blue($mainColor), 0.4);
+$headingColor: $color-primary;
+$mainFontSize: 1.35rem;
+$mainFont: 'CMU Serif', Times, serif;
+$headingFont: 'CMU Serif', Times, serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: 600;
+$linkColor: $color-primary;
+$linkColorHover: lighten($linkColor, 15%);
+$selectionBackgroundColor: lighten($linkColor, 25%);
+
+$heading1Size: 2.5em;
+$heading2Size: 1.6em;
+$heading3Size: 1.3em;
+$heading4Size: 1.0em;
+
+$overlayElementBgColor: 0, 0, 0;
+$overlayElementFgColor: 240, 240, 240;
+
+html {
+  font-size: 1vw; // Scale base font-size with the viewport width
+}
+
+label, text, caption, figcaption, button {
+  font-size: $mainFontSize;
+  color: $mainColor;
+  font-family: $mainFont;
+  h1 {$heading1Size: 2.5em;}
+  h2 {$heading2Size: 1.6em;}
+  h3 {$heading3Size: 1.3em;}
+  h4 {$heading4Size: 1.0em;}
+}
+
+.svg-legend-text {
+  font-family: $mainFont;
+  font-size: $mainFontSize;
+  fill: $mainColor;
+}
+
+.reveal .progress {
+  position: absolute;
+  top: 5vh;
+}
+
+.slide-number,
+.reveal.has-logo .slide-number {
+  position: fixed;
+  // top: 30px !important;
+  right: 30px !important;
+  bottom: unset !important;
+}
+
+.menubar {
+  margin-top: 0.2rem;
+}
+
+.menubar .slide-logo-container{
+    display: -webkit-box !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    justify-items: center;
+    z-index: 0;
+    padding: 0;
+    padding-right: 1em;
+  }
+
+.slide-logo {
+  position: fixed;
+  margin: 0 !important;
+  left: 30px;
+  // top: 10px;
+  max-height: 3vh !important;
+  width: auto;
+  // z-index: 30;
+}
+
+.reveal .controls {
+  bottom: 14px; 
+  right: 30px; 
+}
+
+.citation {
+  vertical-align: top;
+  font-size: max(8px, 0.4em);
+  color: $mainColorTransparent;
+  margin: 0.1em;
+}
+
+.citation-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  position: fixed;
+  width: 100%;
+  height: 11vh;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  margin-left: calc(30px + 6em);
+  max-width: 70%;
+  color: $mainColorTransparent;
+  z-index: 30;
+  font-size: $mainFontSize * 0.5;
+  flex-direction: column;
+  align-content: flex-start;
+  // outline: 2px solid red;
+  // outline-offset: -2px;
+}
+
+.horizontal-line {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 12vh;
+  background-color: $mainColorTransparent;
+  height: 0.75px;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), $mainColorTransparent, rgba(255, 255, 255, 0));
+  filter: blur(1px);
+  box-shadow: 0px -2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.citation-entry {
+  display: table-row;
+  margin: 0.2em;
+}
+
+.citation-number {
+  display: table-cell;
+  padding-right: 1em;
+  text-align: right;
+  vertical-align: top;
+  width: 1%;
+  white-space: nowrap;
+}
+
+.citation-text {
+  display: table-cell;
+  text-align: justify;
+}
+
+.reveal .slide-menu-button {
+  position: fixed;
+  left: 30px;
+  bottom: 40px;
+  z-index: 30;
+  font-size: 24px;
+}
+
+// Change text colors against dark slide backgrounds
+@include dark-bg-text-color(#fff);
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
+
+.slide-container {
+  text-align: left;
+  position: relative;
+  top: 10vh;
+  left: 5vw;
+  width: 90vw; // Responsive width based on parent
+  height: 80vh; 
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.container-fluid {
+  height: 90%;
+}
+
+.slide-container h1, h2, h3, h4, h5, h6 {
+  text-transform: none !important;
+}
+
+figure {
+  margin-top: 2em;
+}
+
+.figure-caption {
+  font-size: $mainFontSize * 0.8 !important;
+  margin-top: 0.75em;
+}
+
+figcaption:before {
+  content: "Fig. " attr(data-count-figcaption) ": ";
+}
+
+.caption {
+  margin-top: 0.75em;
+}
+.table-caption {
+  font-size: $mainFontSize * 0.8 !important;
+}
+.table-caption:before {
+  content: "Tab. " attr(data-count-table-caption) ": ";
+}
+
+// Slide specific styles
+
+// TITLE SLIDE
+// ---------------------------------------------
+.title-slide h1{
+  margin: 0;
+}
+.title-slide h3 {
+  margin-top: 2rem;
+  margin-bottom: 10rem;
+}
+
+.title-slide .info-line {
+  display: flex;
+  align-items: center;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.title-slide .label {
+  width: 15%;
+  text-align: left;
+  margin-right: 1rem;
+}
+
+.title-slide .value {
+  display: block;
+}
+
+.title-slide .controls {
+  display: none;
+}
+.title-slide .slide-logo {
+  display: none;
+}
+.title-slide .slide-number {
+  display: none;
+}
+
+/* Flex container for images to ensure they are in a row */
+.title-slide .slide-container img {
+  display: flex;
+  justify-content: start;
+  gap: 3rem;
+  max-width: 10rem;
+  height: auto;
+}
+
+// AGENDA SLIDE
+// ---------------------------------------------
+.agenda-slide {
+  position: relative;
+  height: 100vh;
+}
+
+.agenda-slide .gallery-wrap {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 70vh;
+  overflow: hidden;
+}
+
+.agenda-slide .item {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: flex 0.8s ease;
+  border-top: 0.15em dotted $color-primary;
+  border-bottom: 0.15em dotted $color-primary;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+
+.fragment.accordion.current-fragment {
+  flex: 7;
+}
+
+.fragment.accordion.current-fragment img {
+  transform: rotate(0deg);
+  // height: auto;
+  // width: 100%;
+}
+
+.agenda-slide .item img {
+  transition: transform 0.8s ease, width 0.8s ease, height 0.8s ease;
+  transform: rotate(-90deg);
+  height: 60%;
+  width: auto;
+  max-width: none !important;
+  max-height: none !important;
+  z-index: -1;
+}
+
+.agenda-slide .item-1 {
+  margin-right: 3em;
+}
+
+.agenda-slide .item-2 {
+  margin-right: 3em;
+  outline: 3em solid white;
+}
+
+.agenda-slide .item-3 {
+  margin-right: 3em;
+}
+
+.agenda-slide .item-4 {
+  margin-right: 3em;
+  outline: 3em solid white;
+}
+
+.agenda-slide .item-final {
+  flex: 0;
+}
+
+// Datasets Slide
+// ---------------------------------------------
+
+.booktabs-table {
+  border-collapse: separate;
+  border-spacing: 0; 
+  border: 2px solid #000;
+  border-width: 2px 0;
+  font-size: $mainFontSize * 0.8;
+
+  th,
+  td {
+    padding: 8px 12px; // Consistent padding, adjust to fit content
+    word-wrap: break-word;
+    vertical-align: top;
+    border-bottom: none;
+    text-align: left;
+    line-height: 1.4;
+  }
+
+  th:last-child,
+  td:last-child {
+    padding-right: 0; // Ensures right padding is removed for the last column
+  }
+
+  thead th {
+    border-bottom: 2px solid #000; // Thicker bottom border for header
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none; // Removes the bottom border from the last row
+  }
+
+  tbody tr {
+    &:nth-child(odd) {
+      background-color: #f9f9f9; // Keeps alternating row color for better readability
+    }
+
+    &:hover {
+      background-color: #e9e9e9; // Hover effect for rows
+    }
+  }
+}
+
+
+/* DeepAR Intro Slide Styling */
+/* --------------------------------------------- */
+
+
+.deepar-intro-slide img {
+  width: 35vw;
+}
+
+.deepar-intro-slide h2 {
+  margin-bottom: 1rem;
+}
+
+.custom-list {
+  list-style-type: none !important;
+  list-style: none;
+  padding-left: 0;
+  padding-top: 1em;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.custom-list li.fragment {
+  position: relative;
+  padding-left: 2em;
+  margin-bottom: 10px;
+  line-height: 1.5;
+  transition: transform .3s ease;
+  flex: 1;
+  display: block; // Change from flex to block for vertical stacking
+  align-items: flex-start; // Align items to the start of the flex container
+}
+
+.custom-list li.fragment:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 10%;
+  background-color: $mainColorTransparent;
+  height: 0.5em;
+  width: 0.5em;
+  transition: background-color .3s ease-out;
+}
+
+.custom-list li.fragment.current-fragment:before {
+  background-color: $color-primary;
+  transform: scale(1.5);
+}
+
+.custom-list ul {
+  // Ensure nested uls do not inherit flex styles
+  padding-left: 1em; // Adjust padding to align nested lists
+  display: block; // Ensures nested ul displays in block format under li
+}
+
+// DeepAR Probabilities Slide Styling
+// ---------------------------------------------
+
+#probabilities-flow {
+  height: 100vh;
+  width: 100vw;
+
+  #graph-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  g.node rect {
+    fill: white;
+    stroke: #333;
+  }
+
+  g.edgePath path {
+    stroke: black;
+    fill: none;
+    stroke-width: 2px;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  g.edgePath path.path {
+    fill: black;
+  }
+
+  .node-label {
+    font-size: $mainFontSize;
+    padding: $mainFontSize * 0.25;
+  }
+
+}
+
+// DeepAR model 
+// ------------------
+
+#people-icon {
+  fill: $color-primary;
+  width: $mainFontSize * 2;
+}
+#pie-chart-icon {
+  fill: $color-primary;
+  width: $mainFontSize * 2;
+}
+
+.deepar-model-slide{
+  .booktabs-table{
+    font-size: $mainFontSize * 0.8;
+  }
+}
+
+.equation {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+#distributions {
+  height: 100vh;
+
+  .slider {
+    font-size: $mainFontSize * 0.9;
+    padding: 0.5em;
+    outline: 0.5px solid $mainColorTransparent;
+  }
+
+  input[type=range] {
+      width: 100%;
+      margin-top: 0.25em;
+    }
+  
+  #graph-container {
+      width: 80%;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      align-items: center;
+    }
+}
+
+.dar-scale-covariates-slide img {
+  width: 100%;
+}
+
+
+#dar-metric-header {
+  // color: $color-primary;
+  font-size: 3em;
+}
+
+// DeepAR results styling
+
+.axis text {
+  font-size: 14px;
+}
+
+.axis line,
+.axis path {
+  shape-rendering: crispEdges;
+  stroke: #000;
+  fill: none;
+}
+
+.hist-bar {
+  fill: none;
+  outline: 2px dashed skyblue;
+  outline-offset: -2px;
+}
+
+.median-text{
+  color: #47682c;
+}
+
+.median-label{
+  fill: #47682c;
+  font-weight: bold;
+}
+
+.median-line {
+  stroke: #47682c;
+  stroke-width: 3;
+  stroke-dasharray: 10, 3;
+}
+
+.percentile-text {
+  color: #EF3054;
+}
+
+.percentile-label {
+  fill: #EF3054;
+  font-weight: bold;
+}
+
+.percentile-line {
+  stroke: #EF3054;
+  stroke-width: 3;
+  stroke-dasharray: 10, 3;
+}
+
+// iTransformer styling
+.iTr-intro-slide {
+  img {
+    width: 40vw;
+  }
+}
+
+.iTr-model-slide {
+  #header-list-group li div{
+    color: $mainColorTransparent;
+  }
+}
+
+#iT-architecture-img {
+  width: 85vw;
+}
+
+#iT-eff-img{
+  width: 60vh;
+}
+
+#iT-partial-img img {
+  height: 40vh;
+}
+
+#iT-vary-input-img img {
+  height: 40vh;
+}
+
+#iT-analysis-img img {
+  height: 40vh;
+}
+
+// SOTA Styling
+
+.header-list-group li div {
+  color: $mainColorTransparent;
+}
+
+// summary styling
+.summary-slide {
+  .custom-list {
+      list-style-type: none;
+      padding-left: 0;
+      padding-top: 1em;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+  
+  .custom-list li.fragment {
+    content: none;
+    position: relative;
+    padding-left: 2.5em;
+    margin-bottom: 10px;
+    line-height: 1.5;
+    display: block;
+  }
+  
+  .custom-list li.fragment::before {
+    content: none;
+  }
+
+  .custom-list li.fragment svg {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-30%);
+    width: 1.25em;
+    height: 1.25em;
+    fill: $mainColorTransparent;
+    transition: fill 0.3s ease, transform 0.3s ease;
+  }
+
+  .custom-list li.fragment.current-fragment svg {
+    fill: $color-primary;
+    transform: scale(1.8);
+  }
+}

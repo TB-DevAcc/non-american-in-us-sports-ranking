@@ -1,0 +1,213 @@
+/* CMU Concrete */
+@font-face {
+  font-family: 'CMU Concrete';
+  src: url('./web-fonts/cmuconcrete_roman_macroman/CmuConcrete-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Concrete';
+  src: url('./web-fonts/cmuconcrete_bold_macroman/CmuConcrete-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Concrete';
+  src: url('./web-fonts/cmuconcrete_oblique_macroman/CmuConcrete-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Concrete';
+  src: url('./web-fonts/cmuconcrete_boldoblique_macroman/CmuConcrete-BoldOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* CMU Bright */
+@font-face {
+  font-family: 'CMU Bright';
+  src: url('./web-fonts/cmubright_roman_macroman/CmuBright-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Bright';
+  src: url('./web-fonts/cmubright_oblique_macroman/CmuBright-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Bright';
+  src: url('./web-fonts/cmubright_semibold_macroman/CmuBright-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Bright';
+  src: url('./web-fonts/cmubright_semiboldoblique_macroman/CmuBright-SemiboldOblique.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* CMU Typewriter Text */
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_roman_macroman/CmuTypewriterText-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_oblique_macroman/CmuTypewriterText-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_bold_macroman/CmuTypewriterText-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_boldoblique_macroman/CmuTypewriterText-BoldOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* CMU Serif */
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('./web fonts/cmuserif_roman_macroman/cmunrm-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('./web fonts/cmuserif_oblique_macroman/cmunti-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('./web fonts/cmuserif_bold_macroman/cmunbx-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Serif';
+  src: url('./web fonts/cmuserif_boldoblique_macroman/cmunbi-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* CMU Sans Serif */
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('./web-fonts/cmusansserif_roman_macroman/CmuSansSerif-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('./web-fonts/cmusansserif_oblique_macroman/CmuSansSerif-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('./web-fonts/cmusansserif_bold_macroman/CmuSansSerif-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Sans Serif';
+  src: url('./web-fonts/cmusansserif_boldoblique_macroman/CmuSansSerif-BoldOblique.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* CMU Typewriter Text Light */
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_light_macroman/CmuTypewriterText-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Typewriter Text';
+  src: url('./web-fonts/cmutypewritertext_lightoblique_macroman/CmuTypewriterText-LightOblique.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* CMU Serif Extra */
+@font-face {
+  font-family: 'CMU Serif Extra';
+  src: url('./web-fonts/cmuserifextra_romanslanted_macroman/CmuSerifExtra-RomanSlanted.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'CMU Serif Extra';
+  src: url('./web-fonts/cmuserifextra_boldslanted_macroman/CmuSerifExtra-BoldSlanted.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* CMU Classical Serif */
+@font-face {
+  font-family: 'CMU Classical Serif';
+  src: url('./web-fonts/cmuclassicalserif_oblique_macroman/CmuClassicalSerif-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* CMU Sans Serif Demi Condensed */
+@font-face {
+  font-family: 'CMU Sans Serif Demi Condensed';
+  src: url('./web-fonts/cmusansserif_demicondensed_macroman/CmuSansSerif-DemiCondensed.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* CMU Typewriter Text Variable Width */
+@font-face {
+  font-family: 'CMU Typewriter Text Variable Width';
+  src: url('./web-fonts/cmutypewritertextvariablewidth_roman_macroman/CmuTypewriterTextVariableWidth-Roman.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CMU Typewriter Text Variable Width';
+  src: url('./web-fonts/cmutypewritertextvariablewidth_oblique_macroman/CmuTypewriterTextVariableWidth-Oblique.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* CMU Serif Upright Oblique */
+@font-face {
+  font-family: 'CMU Serif Upright';
+  src: url('./web-fonts/cmuserif_uprightoblique_macroman/CmuSerif-UprightOblique.woff') format('woff');
+  font-weight: normal;
+  font-style: oblique;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="../../dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="../../dist/reset.css">
+  <link rel="stylesheet" href="../../dist/reveal.css">
+  <link rel="stylesheet" href="../../dist/theme/custom.css">
+</head>
+
+<body id="accuracy_metrics" class="d-flex flex-column justify-content-center align-items-center">
+
+  <h2 id="dar-metric-header"></h2>
+  <!-- <p id="dar-metric-description">Lower values indicate reduced risk, normalized to one.</p> -->
+  <div class="chart-container" id="accuracy-metrics-chart"></div>
+
+  <!-- Scripts -->
+  <script src="../../dist/js/d3-bundle.js"></script>
+  <script src="../../js/d3/accuracy_metrics.js"></script>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      },
+      options: {
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+      },
+    };
+  </script>
+  <script src="../../dist/js/mathjax-bundle.js"></script>
+  </script>
+</body>
+
+</html>

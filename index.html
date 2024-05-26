@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+
+	<meta name="author" content="Tobias Becher">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+	<title>AIOps | DeepAR &#38; iTransformer</title>
+	<link rel="icon" href="src/img/keynote.ico" type="image/x-icon">
+	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="dist/reset.css">
+	<link rel="stylesheet" href="dist/reveal.css">
+	<link rel="stylesheet" href="dist/theme/custom.css">
+
+	<!-- Theme used for syntax highlighted code -->
+	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="menubar">
+			<div class="slide-logo-container">
+				<img src="src/img/Tsinghua_University_Logo.svg" alt="Tsinghua logo" class="slide-logo">
+			</div>
+			<ul class="menu"></ul> <!-- Keep this empty -->
+			<div class='slide-number'></div>
+		</div>
+		<div class="slides">
+			<!-- Dynamically loaded slides will appear here -->
+		</div>
+		<div class="horizontal-line"></div>
+		<div class="citation-container"></div>
+	</div>
+
+	<!-- Additional JS -->
+	<script src="dist/js/bibtex-bundle.js"></script>
+	<script src="dist/js/d3-bundle.js"></script>
+	<script src="dist/js/bootstrap.bundle.min.js"></script>
+
+	<!-- Reveal.js and plugins -->
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/zoom/zoom.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/search/search.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script src="plugin/menu/menu.js"></script>
+	<script src="plugin/simplemenu/simplemenu.js"></script>
+	<script src="plugin/counteract/counteract.js"></script>
+	<script src="plugin/reveald3/reveald3.js"></script>
+	<script src="plugin/math/math.js"></script>
+	<script>
+		async function loadSlides() {
+			// Base names of your slides
+			const slideNames = ["title", "agenda", "datasets", "deepar_intro", "deepar_model", "deepar_results", "iTr_intro", "iTr_model", "iTr_results", "sota", "summary"];
+
+			// Select the container for the slides
+			const slideContainer = document.querySelector(".slides");
+
+			// Loop through the list of slide names
+			for (let name of slideNames) {
+				const path = `slides/${name}.html`;
+				const response = await fetch(path);
+				const text = await response.text();
+				slideContainer.innerHTML += text;
+			}
+		}
+
+		async function initializeReveal() {
+			await loadSlides(); // Ensure slides are loaded before initializing Reveal
+			Reveal.initialize({
+				width: "100%",
+				height: "100%",
+				margin: 0,
+				center: false,
+				controls: true,
+				progress: true,
+				hash: true,
+				slideNumber: "c/t",
+				mathjax3: {
+					mathjax: 'dist/js/mathjax-bundle.js',
+					tex: {
+						inlineMath: [['$', '$'], ['\\(', '\\)']],
+					},
+					options: {
+						skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+					},
+				},
+				simplemenu: { flat: true, scale: 0.9, },
+				counteract: {
+					counters: [
+						{
+							name: 'figcaption',
+							selector: 'figcaption',
+						},
+						{
+							name: 'table-caption',
+							selector: '.table-caption',
+						}
+					]
+				},
+				plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight, RevealMenu, Simplemenu, CounterAct, Reveald3, RevealMath.MathJax3],
+			}).then(function () {
+				addCitationListeners();
+				updateCitations();
+			});
+		}
+
+		initializeReveal();
+	</script>
+
+	<script>
+		function addCitationListeners() {
+			Reveal.addEventListener('slidechanged', updateCitations);
+			Reveal.addEventListener('fragmentshown', updateCitations);
+			Reveal.addEventListener('fragmenthidden', updateCitations);
+		}
+
+		async function updateCitations(event) {
+			const citationContainer = document.querySelector('.citation-container');
+			if (!citationContainer) {
+				console.error('Citation container not found');
+				return;
+			}
+			citationContainer.innerHTML = '';
+
+			const currentSlide = Reveal.getCurrentSlide();
+			const citations = currentSlide.querySelectorAll('.citation[data-ref]');
+			const visibleCitations = new Set();
+			const refIndices = {};  // Object to store citation indices
+			let citationIndex = 1;
+
+			// Collect visible citations and assign numbers
+			citations.forEach(citation => {
+				if (citationIsVisible(citation)) {
+					const ref = citation.dataset.ref;
+					if (!refIndices[ref]) {  // If it's the first time this ref is seen on the slide
+						refIndices[ref] = citationIndex++;
+					}
+					visibleCitations.add(ref);
+					citation.textContent = `[${refIndices[ref]}]`;  // Use the stored index
+					citation.dataset.citationNumber = refIndices[ref];
+				}
+			});
+
+			// Process each visible citation
+			for (const ref of visibleCitations) {
+				const refText = await getReferenceText(ref);  // Await the promise to resolve
+				const div = document.createElement('div');
+				div.classList.add('citation-entry');
+
+				const spanNumber = document.createElement('span');
+				spanNumber.classList.add('citation-number');
+				const citationNumber = refIndices[ref];  // Get the stored index from refIndices
+				spanNumber.textContent = `[${citationNumber}] `; // Include the reference number
+
+				const spanText = document.createElement('span');
+				spanText.classList.add('citation-text');
+				spanText.textContent = refText;
+
+				div.appendChild(spanNumber);
+				div.appendChild(spanText);
+				citationContainer.appendChild(div);
+			}
+		}
+
+		function citationIsVisible(citation) {
+			const closestFragment = citation.closest('.fragment');
+			return !closestFragment || closestFragment.classList.contains('visible');
+		}
+
+		async function loadBibliography() {
+			try {
+				const response = await fetch('./src/references.bib');
+				const bibText = await response.text();
+				return bibtex.parseBibFile(bibText);
+			} catch (error) {
+				console.error('Failed to load or parse bibliography:', error);
+				return [];
+			}
+		}
+
+		async function getReferenceText(ref) {
+			const bibliography = await loadBibliography();
+			const entry = bibliography.getEntry(ref);
+			if (!entry) return 'Reference not found';
+
+			// Determine if the entry is a bib object and has an AUTHOR field (simple check)
+			if (entry.getField("AUTHOR")) {
+				return getShortCitation(entry);  // Assuming bib object with author
+			} else {
+				return getNonBibCitation(entry); // Assuming non-bib object
+			}
+		}
+
+		function getShortCitation(entry) {
+			// Normalize and format author names
+			const authorsRaw = bibtex.normalizeFieldValue(entry.getField("AUTHOR")).split(" and ");
+			let authorsFormatted;
+			if (authorsRaw.length > 2) {
+				const firstAuthorParts = authorsRaw[0].split(", ");
+				authorsFormatted = `${firstAuthorParts[1]} ${firstAuthorParts[0]}, et al.`;
+			} else if (authorsRaw.length === 2) {
+				const firstAuthorParts = authorsRaw[0].split(", ");
+				const secondAuthorParts = authorsRaw[1].split(", ");
+				authorsFormatted = `${firstAuthorParts[1]} ${firstAuthorParts[0]} and ${secondAuthorParts[1]} ${secondAuthorParts[0]}`;
+			} else {
+				const parts = authorsRaw[0].split(", ");
+				authorsFormatted = `${parts[1]} ${parts[0]}`;
+			}
+
+			// Initialize citation string with authors
+			let citation = `${authorsFormatted}`;
+
+			// Check and format the date
+			const dateField = entry.getField("DATE");
+			if (dateField) {
+				const year = new Date(bibtex.normalizeFieldValue(dateField)).getFullYear();
+				citation += `. ${year}`;
+			} else {
+				console.warn("Date field is missing for the citation.");
+				citation += ". [Date missing]";
+			}
+
+			// Check and format the title
+			const titleField = entry.getField("TITLE");
+			if (titleField) {
+				const title = bibtex.normalizeFieldValue(titleField);
+				citation += `. "${title}"`;
+			} else {
+				console.warn("Title field is missing for the citation.");
+				citation += ". [Title missing]";
+			}
+
+			// Check and format the identifier (eprint, issn, doi)
+			const identifier = getFirstAvailableIdentifier(entry, ["EPRINT", "ISSN", "DOI"]);
+			if (identifier) {
+				citation += ` ${identifier}`;
+			} else {
+				console.warn("Identifier (eprint, issn, doi) is missing for the citation.");
+				citation += " [Identifier missing]";
+			}
+
+			// Finish constructing the citation
+			return citation + ".";
+		}
+
+		function extractDataFromField(field) {
+			if (!field) return '';
+
+			if (field.type === 'bracedstringwrapper' || field.type === 'bracedstring') {
+				return field.data.map(subField => {
+					if (typeof subField === 'object') {
+						return extractDataFromField(subField); // Recursively process nested objects
+					} else {
+						return subField; // Directly use the string or number
+					}
+				}).join('');
+			} else if (Array.isArray(field)) {
+				return field.map(subField => extractDataFromField(subField)).join('');
+			} else {
+				return field.toString();
+			}
+		}
+
+		function getFirstAvailableIdentifier(entry, fields) {
+			for (const field of fields) {
+				const value = entry.getField(field);
+				if (value) {
+					const identifier = extractDataFromField(value);
+					if (identifier) {
+						switch (field) {
+							case "EPRINT":
+								return `arXiv:${identifier}`;
+							case "ISSN":
+								return `ISSN:${identifier}`;
+							case "DOI":
+								return `DOI:${identifier}`;
+							default:
+								return identifier; // Default case if new types are added later
+						}
+					}
+				}
+			}
+			return null;
+		}
+
+		function getNonBibCitation(entry) {
+			let citationParts = [];
+
+			// Extract and format the title if available
+			const titleField = entry.getField("TITLE");
+			if (titleField) {
+				const title = bibtex.normalizeFieldValue(titleField);
+				citationParts.push(`"${title}"`);
+			}
+
+			// Extract and format the URL if available, and use the domain name as 'author'
+			const urlField = entry.getField("URL");
+			if (urlField) {
+				const url = bibtex.normalizeFieldValue(urlField);
+				const urlObject = new URL(url);
+				const domainName = urlObject.hostname.replace('www.', ''); // Remove 'www.' if present
+				citationParts.unshift(domainName); // Add as the first element
+				citationParts.push(url);
+			}
+
+			// Extract and format the URL date if available
+			const urldateField = entry.getField("URLDATE");
+			if (urldateField) {
+				const urldate = bibtex.normalizeFieldValue(urldateField);
+				citationParts.push(`accessed on ${urldate}`);
+			}
+
+			// Join all parts with commas and return the full citation, if there are parts
+			if (citationParts.length > 0) {
+				return citationParts.join(", ") + ".";
+			} else {
+				// Return an empty string if no relevant information could be formatted
+				return "";
+			}
+		}
+	</script>
+
+</body>
+
+</html>

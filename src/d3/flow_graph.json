@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {
+      "id": "A",
+      "label": "Data Collection",
+      "class": "type-data-collection",
+      "icon": "cloud-arrow-down-fill"
+    },
+    {
+      "id": "B",
+      "label": "How much rain tomorrow?",
+      "class": "type-query",
+      "icon": "cloud-drizzle-fill"
+    },
+    {
+      "id": "C",
+      "label": "Traditional Method",
+      "class": "type-traditional",
+      "icon": "speedometer"
+    },
+    {
+      "id": "D",
+      "label": "Probabilistic Method",
+      "class": "type-probabilistic",
+      "icon": "graph-up"
+    },
+    {
+      "id": "E",
+      "label": "Single Value Forecast",
+      "class": "type-single-value",
+      "icon": "calendar-check-fill"
+    },
+    {
+      "id": "F",
+      "label": "Probability Distribution",
+      "class": "type-probability-distribution",
+      "icon": "bar-chart-fill"
+    }
+  ],
+  "edges": [
+    { "source": "A", "target": "B" },
+    { "source": "B", "target": "C" },
+    { "source": "B", "target": "D" },
+    { "source": "C", "target": "E" },
+    { "source": "D", "target": "F" }
+  ]
+}

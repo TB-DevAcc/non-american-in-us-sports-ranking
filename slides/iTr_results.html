@@ -1,0 +1,137 @@
+<section class="iTr-results-slide" data-menu-title="iTransformer Results Slide">
+  <div class="slide-container">
+    <h2>iTransformer Detailed Results</h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col">
+          <ul class="custom-list">
+            <li class="fragment" data-fragment-index="1">
+              <strong>Top Forecasting Accuracy:</strong>
+              <ul>
+                <li>Reduces error rate by up to 34% compared to baselines</li>
+                <li>Particularly effective in complex datasets like PEMS-BAY and TRAFFIC</li>
+              </ul>
+            </li>
+            <li class="fragment">
+              <strong>Ablation Study Highlights:</strong>
+              <ul>
+                <li>Robust across different setups</li>
+                <li>Best performance with variate attention and temporal FFN</li>
+              </ul>
+            </li>
+            <li class="fragment">
+              <strong>Outstanding Performance Metrics:</strong>
+              <ul>
+                <li>Outperforms standard models by up to 60.2% in MSE</li>
+                <li>Superior performance across diverse datasets and forecasting horizons</li>
+              </ul>
+            </li>
+            <li class="fragment">
+              <strong>Model Analysis and Innovations:</strong>
+              <ul>
+                <li>Inverted self-attention enhances accuracy</li>
+                <li>Temporal FFN leads to significant performance gains</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <figure class="col-md-auto figure fragment text-center">
+          <img src="src/img/iT_radar.svg" alt="iTransformer Performance Radar Chart"
+            class="img-fluid mx-auto figure-image img-thumbnail">
+          <figcaption class="figure-caption">General performance of iTransformer across different metrics&NoBreak;<span
+              class="citation" data-ref="liu_ITransformerInvertedTransformers_2024"></span>.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="iTr-results-slide" data-menu-title="iTransformer Generalization">
+  <div class="slide-container">
+    <h2>iTransformer: In-depth Analysis of Forecasting Enhancements</h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col">
+          <ul class="custom-list">
+            <li class="fragment" data-fragment-index="1">
+              <strong>Variate Generalization:</strong>
+              <ul>
+                <li>Enhances predictive robustness with only up to 0.6% deviation</li>
+                <li>Improves forecast accuracy by 12% using cross-variational learning from up to 30 data streams</li>
+              </ul>
+            </li>
+            <figure id="iT-partial-img" class="mx-5 mt-3 mb-3 figure fragment text-center">
+              <img src="src/img/iT_partial.svg" alt="iTransformer Variate Generalization"
+                class="img-fluid mx-auto figure-image img-thumbnail">
+              <figcaption class="figure-caption">Visualizing iTransformer's variate generalization
+                capabilities&NoBreak;<span class="citation"
+                  data-ref="liu_ITransformerInvertedTransformers_2024"></span>.
+              </figcaption>
+            </figure>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="iTr-results-slide" data-menu-title="iTransformer Lookback Length">
+  <div class="slide-container">
+    <h2>iTransformer: In-depth Analysis of Forecasting Enhancements</h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col">
+          <ul class="custom-list">
+            <li class="fragment" data-fragment-index="1">
+              <strong>Increasing Lookback Length:</strong>
+              <ul>
+                <li>15% increase in predictive precision with lookback extension to 500 steps</li>
+                <li>Adaptive lookback dynamically adjusts to the complexity of data series</li>
+              </ul>
+            </li>
+            <figure id="iT-vary-input-img" class="mx-5 mt-3 mb-3 figure fragment text-center">
+              <img src="src/img/iT_vary_input.svg" alt="iTransformer Variate Generalization"
+                class="img-fluid mx-auto figure-image img-thumbnail">
+              <figcaption class="figure-caption">Visualizing iTransformer's lookback length
+                capabilities&NoBreak;<span class="citation"
+                  data-ref="liu_ITransformerInvertedTransformers_2024"></span>.
+              </figcaption>
+            </figure>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <section class="iTr-results-slide" data-menu-title="iTransformer Series Representation">
+  <div class="slide-container">
+    <h2>iTransformer: Advanced Series Representation Analysis</h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col">
+          <ul class="custom-list">
+            <li class="fragment" data-fragment-index="1">
+              <strong>Analysis of Series Representations using CKA:</strong>
+              <ul>
+                <li>CKA (Centered Kernel Alignment) assesses layer similarity, revealing how transformations within the
+                  model contribute to learning.</li>
+                <li>Crucial for optimizing neural architecture, ensuring that each layer effectively contributes to the
+                  model’s predictive power.</li>
+                <li>By employing CKA, iTransformer identifies the most effective layer interactions, leading to a
+                  documented 18% improvement in forecasting reliability.</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <figure id="iT-analysis-img" class="mx-5 mt-3 mb-3 figure fragment text-center">
+          <img src="src/img/iT_analysis.svg" alt="iTransformer CKA Analysis"
+            class="img-fluid mx-auto figure-image img-thumbnail">
+          <figcaption class="figure-caption">Visualizing CKA analysis for iTransformer's internal architecture
+            effectiveness<span class="citation" data-ref="liu_ITransformerInvertedTransformers_2024"></span>.
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </div>
+</section> -->

@@ -1,0 +1,97 @@
+<section class="sota-slide" data-name="State Of The Art" data-menu-title="Related Work Slide">
+  <div class="slide-container">
+    <h2>Related Work</h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col">
+          <ul>
+            <li class="mt-5">
+              <h4>DeepAR (RNN-based, 2020)</h4>
+              <ul class="list-group header-list-group">
+                <li class="fragment mt-3">
+                  <strong>Hyndman et al. (2008)</strong>
+                  <div>Exponential smoothing and state space models inadequate for intermittent, lumpy demand.</div>
+                </li>
+                <li class="fragment mt-3">
+                  <strong>Seeger et al. (2016)</strong>
+                  <div>Negative binomial distributions, multi-stage likelihoods for zero-inflated, over-dispersed count
+                    data.</div>
+                </li>
+                <li class="fragment mt-3">
+                  <strong>Chapados (2014)</strong>
+                  <div>Critique of group-based regularization; leads to individual scale adjustments in DeepAR.</div>
+                </li>
+              </ul>
+            </li>
+            <li class="mt-5">
+              <h4>iTransformer (Transformer-based, 2024)</h4>
+              <ul class="list-group header-list-group">
+                <li class="fragment mt-3">
+                  <strong>Vaswani et al. (2017)</strong>
+                  <div>Limitations of Transformer architecture with large lookback windows; motivates iTransformer’s
+                    inverted dimension approach.</div>
+                </li>
+                <li class="fragment mt-3">
+                  <strong>Liu et al. (2020)</strong>
+                  <div>Favors tokenization while maintaining standard components over altering Transformer
+                    architectures.</div>
+                </li>
+                <li class="fragment mt-3">
+                  <strong>Kitaev et al. (2020)</strong>
+                  <div>Reformer's hashing for sequence length management; inspires iTransformer’s handling of time
+                    series lengths.</div>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="sota-slide" data-menu-title="SOTA Slide">
+  <div class="slide-container">
+    <h2>State of the Art Comparison </h2>
+    <div class="container-fluid d-flex align-items-center">
+      <div class="row align-items-center justify-content-center">
+        <div class="col-4">
+          <ul class="custom-list">
+            <li class="fragment" data-fragment-index="1">
+              <strong>Comparison on \( \texttt{Traffic} \):</strong>
+              <ul>
+                <li>This dataset is the only one commonly tested in both studies</li>
+                <li>iTransformer: <strong>0.428</strong> MSE (converts to 0.65 RMSE)</li>
+                <li>DeepAR: <strong>0.176</strong> MSE (from 0.42 RMSE)</li>
+              </ul>
+            </li>
+            <li class="fragment" data-fragment-index="2">
+              <strong>Comparison on \( \texttt{ETTh1 (720)} \):</strong>
+              <ul>
+                <li>iTransformer: <strong>0.503</strong> MSE</li>
+              </ul>
+            </li>
+            <li class="fragment" data-fragment-index="4">
+              <strong>Performance Discrepancies:</strong>
+              <ul>
+                <li>Experimental setup: input sequence, preprocessing, training variations</li>
+                <li>Model implementations: data splits, parameter initialization, training variability</li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="col">
+          <figure class="figure fragment text-center" data-fragment-index="3">
+            <img src="src/img/ETTh1_720_annot.svg" alt="State of the Art on ETTh1 (720) Dataset"
+              class="img-fluid mx-auto figure-image img-thumbnail">
+            <figcaption class="figure-caption">Comparison of iTransformer with other models on ETTh1 (720)
+              Dataset&NoBreak;<span class="citation" data-ref="_PapersCodeETTh1_"></span>. Points in red are added from
+              the results published in iTransformer&NoBreak;<span class="citation"
+                data-ref="liu_ITransformerInvertedTransformers_2024"></span>.</figcaption>
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
