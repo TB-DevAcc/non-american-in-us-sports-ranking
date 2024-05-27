@@ -17,6 +17,7 @@
 
 // Primary Brand Colors
 $color-primary: #6510AD; // Used for primary elements and to represent the brand
+$color-secondary: #edc79b; // Used for primary elements and to represent the brand
 
 // Neutral Colors
 $color-neutral-white: #FFFFFF; // Used for backgrounds and primary content areas
@@ -278,9 +279,3 @@ figcaption:before {
 // ---------------------------------------------
 
 // Title Slide
-.title-slide .slide-container {
-  background-image: url(../../../src/img/cover_stylized.png);
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-}
