@@ -1,0 +1,28 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Nate Davis,OL,York,2019,2023,0,0,4,27,66,,,,0,,,,,,,0,,,,0,,DaviNa01
+2,Colby Wadman,P,Bangor,2018,2019,0,0,0,4,28,1.0,1.0,12.0,0,12.0,0.0,1.0,7.0,,,0,,,,0,,WadmCo00
+3,Trevor Bates,LB,Westbrook,2016,2018,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,BateTr00
+4,Matthew Mulligan,TE,West Enfield,2009,2016,0,0,1,1,89,,,,0,,,,,,,0,,18.0,170.0,2,41.0,MullMa00
+5,Will Montgomery,G,Brunswick,2006,2015,0,0,4,34,110,,,,0,,,,,,,0,,,,0,,MontWi20
+6,Nate Dingle,LB,East Machias,1995,1997,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,DingNa20
+7,Darryl Pollard,DB,Ellsworth,1987,1992,0,0,2,18,65,,,,0,,,,,,,0,,,,0,,PollDa21
+8,Al Harris,DE,Bangor,1979,1990,0,0,6,49,149,,,,0,,,,,,,0,,1.0,18.0,0,18.0,HarrAl20
+9,Dennis Gadbois,WR,Biddeford,1987,1988,0,0,0,1,5,,,,0,,,,,,,0,,3.0,51.0,0,20.0,GadbDe20
+10,Nick Miller,LB,Brunswick,1987,1987,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,MillNi20
+11,Steve Bartalo,RB,Limestone,1987,1987,0,0,0,0,9,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,9.0,30.0,1,6.0,1.0,5.0,0,5.0,BartSt01
+12,John Bunting,LB,Portland,1972,1982,0,0,8,50,132,,,,0,,,,,,,0,,,,0,,BuntJo20
+13,Larry Swider,P,Limestone,1979,1982,0,0,0,8,52,1.0,1.0,36.0,0,36.0,0.0,0.0,0.0,2.0,-9.0,0,0.0,,,0,,SwidLa20
+14,Ed McAleney,DE,Portland,1976,1976,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,McAlEd20
+15,Stan Hindman,DE,Houlton,1966,1974,0,0,3,24,76,,,,0,,,,,,,0,,,,0,,HindSt20
+16,John Huard,LB,Waterville,1967,1971,0,0,3,17,43,,,,0,,,,,,,0,,,,0,,HuarJo20
+17,Bob Hews,T,Portland,1971,1971,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,HewsBo20
+18,Dick Capp,TE,Portland,1967,1968,0,0,0,0,16,,,,0,,,,,,,0,,,,0,,CappDi20
+19,Dave Cloutier,DB,Gardiner,1964,1964,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,ClouDa20
+20,Thurlow Cooper,TE,Augusta,1960,1962,0,0,3,5,41,,,,0,,,,,,,0,,36.0,491.0,8,38.0,CoopTh00
+21,Manch Wheeler,QB,Augusta,1962,1962,0,0,0,0,4,,,,0,,,,,3.0,7.0,0,7.0,,,0,,WheeMa00
+22,Chet Bulger,T,Rumford,1942,1950,0,0,7,0,86,,,,0,,,,,,,0,,,,0,,BulgCh20
+23,Joe Sabasteanski,G,Portland,1947,1949,0,0,0,0,34,,,,0,,,,,,,0,,,,0,,SabaJo20
+24,Larry Ellis,LB,York,1948,1948,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,ElliLa20
+25,Orland Smith,T,Gorham,1927,1929,0,0,1,0,32,,,,0,,,,,,,0,,,,0,,SmitOr20
+26,Jack Flavin,FB,Portland,1923,1924,0,0,0,0,3,,,,0,,,,,0.0,0.0,2,0.0,,,0,,FlavJa20
+27,Mike Trainor,WB,Bangor,1923,1924,0,0,1,0,23,,,,0,,,,,0.0,0.0,1,0.0,0.0,0.0,2,0.0,TraiMi20

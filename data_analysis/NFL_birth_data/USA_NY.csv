@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Jon Weeks,C,Bethpage,2010,2023,0,1,0,12,227,,,,0,,,,,,,0,,,,0,,WeekJo00
+2,Greg Van Roten,G,Rockville Centre,2012,2023,0,0,3,28,110,,,,0,,,,,,,0,,0.0,5.0,0,,VanRGr00
+3,DaQuan Jones,DT,Johnson City,2014,2023,0,0,8,52,139,,,,0,,,,,,,0,,,,0,,JoneDa04
+4,Donovan Smith,T,Hempstead,2015,2023,0,0,8,57,136,,,,0,,,,,,,0,,1.0,0.0,0,0.0,SmitDo02
+5,Dean Marlowe,S,Queens,2015,2023,0,0,0,10,75,,,,0,,,,,,,0,,,,0,,MarlDe00
+6,Riley Dixon,P,Oneida,2016,2023,0,0,1,14,131,3.0,5.0,34.0,0,16.0,0.0,0.0,0.0,1.0,14.0,0,14.0,,,0,,DixoRi00
+7,Chris Manhertz,TE,New York,2016,2023,0,0,2,0,120,,,,0,,,,,,,0,,26.0,271.0,2,50.0,ManhCh00
+8,Curtis Samuel,WR,Brooklyn,2017,2023,0,0,4,27,91,,,,0,,,,,121.0,715.0,7,45.0,317.0,3383.0,22,53.0,SamuCu00
+9,Thomas Hennessy,LS,Bardonia,2017,2023,0,0,0,6,115,,,,0,,,,,,,0,,,,0,,HennTh00
+10,Jaleel Johnson,DT,Brooklyn,2017,2023,0,0,1,16,86,,,,0,,,,,,,0,,,,0,,JohnJa09
+11,Folorunso Fatukasi,DT,Far Rockaway,2018,2023,0,0,2,22,75,,,,0,,,,,,,0,,,,0,,FatuFo00
+12,Saquon Barkley,RB,Bronx,2018,2023,0,2,4,42,74,,,,0,,,,,1201.0,5211.0,35,78.0,288.0,2100.0,12,65.0,BarkSa00
+13,Justin Jones,DT,Bronx,2018,2023,0,0,4,29,85,,,,0,,,,,,,0,,,,0,,JoneJu03
+14,Juwann Winfree,WR,Manhattan,2019,2023,0,0,0,1,23,,,,0,,,,,,,0,,9.0,75.0,0,17.0,WinfJu00
+15,Stephen Carlson,TE,Jamestown,2019,2023,0,0,0,0,26,,,,0,,,,,,,0,,6.0,62.0,1,21.0,CarlSt00
+16,Qadree Ollison,RB,Niagara Falls,2019,2023,0,0,0,1,24,,,,0,,,,,44.0,158.0,5,19.0,5.0,19.0,0,8.0,OlliQa00
+17,Oshane Ximines,EDGE,Queens,2019,2023,0,0,0,8,48,,,,0,,,,,,,0,,,,0,,XimiOs00
+18,Elijah Riley,DB,Port Jefferson,2020,2023,0,0,0,3,30,,,,0,,,,,,,0,,,,0,,RileEl01
+19,AJ Terrell,CB,Rochester,2020,2023,0,0,3,24,61,,,,0,,,,,,,0,,,,0,,TerrAJ00
+20,Malcolm Koonce,LB,Peekskill,2021,2023,0,0,0,7,39,,,,0,,,,,,,0,,,,0,,KoonMa00
+21,Andre Cisco,S,Queens,2021,2023,0,0,1,14,47,,,,0,,,,,,,0,,,,0,,CiscAn00
+22,Will Fries,T,Staten Island,2021,2023,0,0,1,10,36,,,,0,,,,,,,0,,,,0,,FrieWi00
+23,Derrick Gore,RB,Syracuse,2021,2023,0,0,0,3,17,,,,0,,,,,54.0,282.0,2,51.0,8.0,105.0,0,50.0,GoreDe00
+24,Isaiah McDuffie,LB,Buffalo,2021,2023,0,0,0,7,46,,,,0,,,,,,,0,,,,0,,McDuIs00
+25,Dayo Odeyingbo,DE,Brooklyn,2021,2023,0,0,0,7,44,,,,0,,,,,,,0,,,,0,,OdeyDa00
+26,Olakunle Fatukasi,LB,Far Rockaway,2022,2023,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,FatuOl00
+27,Jeremy Ruckert,TE,Lindenhurst,2022,2023,0,0,0,1,24,,,,0,,,,,,,0,,17.0,159.0,0,23.0,RuckJe00
+28,Isaiah Land,LB,Buffalo,2023,2023,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,LandIs00
+29,Tyrone Wheatley Jr.,T,Buffalo,2023,2023,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WheaTy01
+30,Christian Izien,S,Far Rockaway,2023,2023,0,0,0,3,17,,,,0,,,,,,,0,,,,0,,IzieCh00
+31,Israel Abanikanda,RB,Brooklyn,2023,2023,0,0,0,1,6,,,,0,,,,,22.0,70.0,0,12.0,7.0,43.0,0,13.0,AbanIs00
+32,Brandon Hill,S,Queens,2023,2023,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HillBr03
+33,Brett Kern,P,Grand Island,2008,2022,1,3,0,25,223,1.0,3.0,11.0,0,11.0,0.0,0.0,0.0,5.0,21.0,0,21.0,,,0,,KernBr20
+34,Devin McCourty,DB,Nyack,2010,2022,0,2,13,71,205,,,,0,,,,,,,0,,,,0,,McCoDe99
+35,Chandler Jones,DE,Rochester,2012,2022,2,4,10,77,154,,,,0,,,,,,,0,,,,0,,JoneCh03
+36,Steven Means,DE,Buffalo,2013,2022,0,0,2,14,65,,,,0,,,,,,,0,,,,0,,MeanSt00
+37,Oday Aboushi,T,Brooklyn,2014,2022,0,0,3,21,85,,,,0,,,,,,,0,,,,0,,AbouOd00
+38,Rashaad Coward,DT,Brooklyn,2017,2022,0,0,1,8,38,,,,0,,,,,,,0,,,,0,,CowaRa00
+39,Demone Harris,DE,Buffalo,2018,2022,0,0,0,0,14,,,,0,,,,,,,0,,,,0,,HarrDe06
+40,Tom Kennedy,WR,Farmingdale,2019,2022,0,0,0,2,20,1.0,1.0,75.0,1,75.0,0.0,0.0,0.0,,,0,,14.0,195.0,0,44.0,KennTo01
+41,Joe Giles-Harris,LB,Nyack,2019,2022,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,GileJo01
+42,Tyler Davis,TE,North Bellmore,2020,2022,0,0,0,0,39,,,,0,,,,,,,0,,8.0,61.0,0,23.0,DaviTy02
+43,Matt Hennessy,OL,Nyack,2020,2022,0,0,1,10,41,,,,0,,,,,,,0,,,,0,,HennMa00
+44,Jamir Jones,OLB,Rochester,2021,2022,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,JoneJa11
+45,Jody Fortson,TE,Buffalo,2021,2022,0,0,0,1,19,,,,0,,,,,,,0,,14.0,155.0,4,40.0,FortJo01
+46,Chris Williams,DT,Brooklyn,2021,2022,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,WillCh08
+47,Prince Emili,DT,New City,2022,2022,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,EmilPr00
+48,Jason McCourty,DB,Nyack,2009,2021,0,0,9,45,173,,,,0,,,,,,,0,,,,0,,McCoJa99
+49,Rob Gronkowski,TE,Amherst,2010,2021,4,5,11,78,143,,,,0,,,,,1.0,2.0,1,2.0,621.0,9286.0,92,76.0,GronRo00
+50,Jahleel Addae,S,Bronx,2013,2021,0,0,4,24,116,,,,0,,,,,,,0,,,,0,,AddaJa00
+51,Shamar Stephen,DT,Brookville,2014,2021,0,0,4,32,115,,,,0,,,,,,,0,,,,0,,StepSh00
+52,J.C. Tretter,G,Batavia,2014,2021,0,0,5,37,111,,,,0,,,,,,,0,,,,0,,TretJC00
+53,Caraun Reid,DT,Bronx,2014,2021,0,0,1,9,55,,,,0,,,,,,,0,,,,0,,ReidCa00
+54,Ali Marpet,G,Hastings-on-Hudson,2015,2021,0,1,7,43,101,,,,0,,,,,,,0,,,,0,,MarpAl00
+55,Jordan Lucas,SS,White Plains,2016,2021,0,0,0,4,50,,,,0,,,,,,,0,,,,0,,LucaJo00
+56,Garrett Gilbert,QB,Buffalo,2018,2021,0,0,0,2,8,43.0,75.0,477.0,1,46.0,1.0,5.0,48.0,6.0,25.0,0,15.0,,,0,,GilbGa01
+57,Blessuan Austin,CB,Queens,2019,2021,0,0,1,6,29,,,,0,,,,,,,0,,,,0,,AustBl00
+58,Gavin Heslop,,Yonkers,2021,2021,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,HeslGa00
+59,Trill Williams,,Yonkers,2021,2021,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WillTr07
+60,Dion Lewis,RB,Brooklyn,2011,2020,0,0,2,31,102,,,,0,,,,,567.0,2425.0,13,44.0,191.0,1408.0,8,40.0,LewiDi00
+61,Jordan Dangerfield,FS,Elmont,2016,2020,0,0,0,6,61,,,,0,,,,,,,0,,,,0,,DangJo00
+62,Curtis Riley,CB,White Plains,2016,2020,0,0,1,10,49,,,,0,,,,,,,0,,,,0,,RileCu00
+63,Chad Beebe,WR,Buffalo,2018,2020,0,0,0,3,20,,,,0,,,,,,,0,,26.0,310.0,2,61.0,BeebCh00
+64,Isaiah Wilson,OL,Brooklyn,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WilsIs00
+65,Greg Senat,T,Elmont,2020,2020,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,SenaGr00
+66,Ethan Greenidge,T,Flanders,2020,2020,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,GreeEt00
+67,John Lovett,TE,Wantagh,2020,2020,0,0,0,0,8,,,,0,,,,,3.0,6.0,0,4.0,,,0,,LoveJo02
+68,David Fluellen,RB,Lockport,2017,2019,0,0,0,0,25,,,,0,,,,,8.0,37.0,0,13.0,0.0,0.0,0,0.0,FlueDa00
+69,Timon Parris,T,Floral Park,2018,2019,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,ParrTi00
+70,Corey Graham,DB,Buffalo,2007,2018,0,1,5,33,184,,,,0,,,,,,,0,,,,0,,GrahCo99
+71,Pierre Garcon,WR,Carmel,2008,2018,0,0,10,54,148,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,12.0,72.0,0,18.0,628.0,7854.0,38,88.0,GarcPi00
+72,John Sullivan,C,Mt. Kisco,2008,2018,0,0,8,54,153,,,,0,,,,,,,0,,,,0,,SullJo24
+73,Vincent Rey,MLB,Far Rockaway,2010,2018,0,0,2,31,128,,,,0,,,,,,,0,,,,0,,ReyxVi00
+74,Jay Bromley,DT,Jamaica,2014,2018,0,0,0,5,57,,,,0,,,,,,,0,,,,0,,BromJa00
+75,Dominique Easley,DT,Staten Island,2014,2018,0,0,0,7,41,,,,0,,,,,,,0,,,,0,,EaslDo00
+76,Brian Parker,TE,Rochester,2015,2018,0,0,0,0,22,,,,0,,,,,,,0,,6.0,39.0,0,11.0,ParkBr00
+77,Josh Keyes,LB,Ghent,2015,2018,0,0,0,0,25,,,,0,,,,,,,0,,,,0,,KeyeJo00
+78,Chad Kelly,QB,Buffalo,2018,2018,0,0,0,0,1,,,,0,,,,,1.0,-1.0,0,-1.0,,,0,,KellCh00
+79,Tyvon Branch,DB,Cicero,2008,2017,0,0,5,28,106,,,,0,,,,,,,0,,,,0,,BranTy99
+80,Arthur Jones,DT,Rochester,2010,2017,0,0,2,18,64,,,,0,,,,,,,0,,,,0,,JoneAr22
+81,Joe Vellano,DT,Clifton Park,2013,2017,0,0,1,6,25,,,,0,,,,,,,0,,,,0,,VellJo00
+82,Gavin Escobar,TE,New York,2013,2017,0,0,0,2,64,,,,0,,,,,,,0,,30.0,333.0,8,26.0,EscoGa00
+83,Terrence Fede,DE,Nyack,2014,2017,0,0,0,5,51,,,,0,,,,,,,0,,,,0,,FedeTe00
+84,Andre Williams,RB,Poughkeepsie,2014,2017,0,0,0,7,41,,,,0,,,,,332.0,1090.0,8,50.0,19.0,137.0,0,24.0,WillAn00
+85,Tyreek Burwell,T,Huntington Station,2015,2017,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,BurwTy00
+86,Ifeanyi Momah,WR,Greenlawn,2016,2017,0,0,0,0,14,,,,0,,,,,,,0,,3.0,96.0,0,46.0,MomaIf00
+87,Branden Albert,G,Rochester,2008,2016,0,2,9,41,120,,,,0,,,,,,,0,,,,0,,AlbeBr20
+88,James Starks,RB,Niagara Falls,2010,2016,0,0,0,26,76,,,,0,,,,,618.0,2506.0,9,65.0,125.0,1017.0,6,31.0,StarJa00
+89,Andrew Tiller,G,Queens,2014,2016,0,0,0,6,28,,,,0,,,,,,,0,,,,0,,TillAn01
+90,Jake Schum,P,Hamburg,2015,2016,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,SchuJa00
+91,Glenn Gronkowski,FB,Buffalo,2016,2016,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GronGl01
+92,Victor Ochi,LB,Bronx,2016,2016,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,OchiVi00
+93,Quentin Gause,LB,Rochester,2016,2016,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,GausQu00
+94,Wendall Williams,WR,Syracuse,2016,2016,0,0,0,1,3,,,,0,,,,,,,0,,4.0,75.0,0,32.0,WillWe00
+95,Chris Canty,DE,Bronx,2005,2015,0,0,9,46,148,,,,0,,,,,,,0,,,,0,,CantCh21
+96,D'Brickashaw Ferguson,T,New York,2006,2015,0,3,10,58,160,,,,0,,,,,,,0,,,,0,,FergDB20
+97,Willie Colon,G,Bronx,2006,2015,0,0,6,40,100,,,,0,,,,,,,0,,0.0,0.0,0,0.0,ColoWi20
+98,Mike DeVito,DE,New York,2007,2015,0,0,5,46,110,,,,0,,,,,,,0,,,,0,,DeViMi99
+99,Tarell Brown,DB,New York,2007,2015,0,0,4,24,117,,,,0,,,,,,,0,,,,0,,BrowTa99
+100,Jo-Lonn Dunbar,MLB,Syracuse,2008,2015,0,0,4,28,100,,,,0,,,,,,,0,,,,0,,DunbJo20
+101,B.J. Raji,DT,New York,2009,2015,0,1,5,33,91,,,,0,,,,,1.0,1.0,1,1.0,,,0,,RajiBJ99
+102,Fernando Velasco,G,Harris,2009,2015,0,0,2,19,83,,,,0,,,,,,,0,,,,0,,VelaFe20
+103,Darrel Young,FB,Amityville,2010,2015,0,0,4,5,90,,,,0,,,,,51.0,185.0,7,19.0,45.0,432.0,6,62.0,YounDa01
+104,Andrew Quarless,TE,Brooklyn,2010,2015,0,0,2,9,60,,,,0,,,,,,,0,,89.0,940.0,6,34.0,QuarAn00
+105,Jaiquawn Jarrett,DB,Brooklyn,2011,2015,0,0,0,5,47,,,,0,,,,,,,0,,,,0,,JarrJa00
+106,Doug Worthington,DE,Buffalo,2012,2015,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,WortDo99
+107,Brian Leonard,RB,Gouveneur,2007,2014,0,0,0,11,88,,,,0,,,,,221.0,828.0,0,42.0,143.0,1008.0,1,37.0,LeonBr00
+108,Trevor Scott,DE,Potsdam,2008,2014,0,0,2,11,85,,,,0,,,,,,,0,,,,0,,ScotTr99
+109,Kevin Ogletree,WR,Queens,2009,2014,0,0,0,9,69,,,,0,,,,,5.0,18.0,0,7.0,83.0,1049.0,6,65.0,OgleKe00
+110,Rich Ohrnberger,G,East Meadow,2009,2014,0,0,1,8,39,,,,0,,,,,,,0,,,,0,,OhrnRi20
+111,Eben Britton,T,Brooklyn,2009,2014,0,0,1,17,60,,,,0,,,,,,,0,,0.0,0.0,0,0.0,BritEb20
+112,Mike Williams,WR,Buffalo,2010,2014,0,0,3,25,63,1.0,1.0,28.0,0,28.0,0.0,0.0,0.0,1.0,3.0,0,3.0,223.0,3089.0,26,80.0,WillMi04
+113,Eric Olsen,G,Staten Island,2010,2014,0,0,0,3,23,,,,0,,,,,,,0,,,,0,,OlseEr20
+114,Evan Rodriguez,TE,Bronx,2012,2014,0,0,0,0,20,,,,0,,,,,,,0,,4.0,21.0,0,11.0,RodrEv00
+115,Steve Gregory,DB,New York,2006,2013,0,0,4,23,111,,,,0,,,,,,,0,,,,0,,GregSt20
+116,Gary Gibson,DT,Jamesville,2007,2013,0,0,2,14,78,,,,0,,,,,,,0,,,,0,,GibsGa99
+117,Adam Podlesh,P,Pittsford,2007,2013,0,0,0,8,107,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,2.0,-2.0,0,0.0,,,0,,PodlAd20
+118,Ray Rice,RB,New Rochelle,2008,2013,0,3,5,63,92,1.0,2.0,1.0,1,1.0,0.0,0.0,0.0,1430.0,6180.0,37,70.0,369.0,3034.0,6,63.0,RiceRa00
+119,Jamaal Westerman,DE,Brooklyn,2009,2013,0,0,0,7,58,,,,0,,,,,,,0,,,,0,,WestJa99
+120,Jermaine Cunningham,LB,Bronx,2010,2013,0,0,1,8,38,,,,0,,,,,,,0,,,,0,,CunnJe99
+121,Nate Collins,DT,White Plains,2010,2013,0,0,0,4,27,,,,0,,,,,,,0,,,,0,,CollNa20
+122,Thomas Austin,G,West Point,2011,2013,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,AustTh00
+123,Nick Kasa,TE,Rochester,2013,2013,0,0,0,0,16,,,,0,,,,,,,0,,1.0,9.0,1,9.0,KasaNi00
+124,Martin Wallace,OL,New York,2013,2013,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WallMa00
+125,Jose Gumbs,S,Brooklyn,2013,2013,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,GumbJo00
+126,Shaun Smith,DT,New York,2004,2012,0,0,3,23,102,,,,0,,,,,1.0,1.0,1,1.0,,,0,,SmitSh20
+127,Will Smith,DE,Queens,2004,2012,0,1,7,52,139,,,,0,,,,,,,0,,,,0,,SmitWi99
+128,Leon Williams,MLB,Brooklyn,2006,2012,0,0,0,9,61,,,,0,,,,,,,0,,,,0,,WillLe20
+129,Ryan Grant,RB,Suffern,2007,2012,0,0,4,36,68,,,,0,,,,,956.0,4148.0,27,66.0,93.0,760.0,2,80.0,GranRy00
+130,Jovan Belcher,LILB,West Babylon,2009,2012,0,0,3,19,59,,,,0,,,,,,,0,,,,0,,BelcJo00
+131,William Middleton,DB,New York,2009,2012,0,0,1,8,49,,,,0,,,,,,,0,,,,0,,MiddWi98
+132,Chris Gronkowski,RB,Buffalo,2010,2012,0,0,0,0,35,,,,0,,,,,5.0,17.0,0,8.0,8.0,46.0,1,12.0,GronCh00
+133,Tyrone McKenzie,LB,Queens,2010,2012,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,McKeTy99
+134,Doug Hogue,LB,Yonkers,2011,2012,0,0,0,2,27,,,,0,,,,,,,0,,,,0,,HoguDo01
+135,Ryan Williams,RB,Cold Spring,2012,2012,0,0,0,1,5,,,,0,,,,,58.0,164.0,0,25.0,7.0,44.0,0,12.0,WillRy00
+136,Will Allen,DB,Syracuse,2001,2011,0,0,8,41,140,,,,0,,,,,,,0,,,,0,,AlleWi20
+137,Jimmy Kennedy,DT,Yonkers,2003,2011,0,0,2,16,92,,,,0,,,,,,,0,,,,0,,KennJi21
+138,Amon Gordon,DT,Queens,2004,2011,0,0,0,4,33,,,,0,,,,,,,0,,,,0,,GordAm20
+139,Anthony Hargrove,DE,Brooklyn,2004,2011,0,0,1,16,102,,,,0,,,,,,,0,,,,0,,HargAn20
+140,Luis Castillo,DE,Brooklyn,2005,2011,0,0,6,33,82,,,,0,,,,,,,0,,,,0,,CastLu20
+141,Jeremy Kapinos,P,West Point,2007,2011,0,0,0,3,34,,,,0,,,,,,,0,,,,0,,KapiJe20
+142,Brandyn Dombrowski,G,Buffalo,2009,2011,0,0,0,12,47,,,,0,,,,,,,0,,,,0,,DombBr20
+143,Courtney Greene,DB,New Rochelle,2009,2011,0,0,1,5,30,,,,0,,,,,,,0,,,,0,,GreeCo99
+144,Dan Gronkowski,TE,Amherst,2009,2011,0,0,0,1,21,,,,0,,,,,,,0,,9.0,69.0,0,13.0,GronDa00
+145,Jeremy Horne,WR,Albany,2010,2011,0,0,0,0,12,,,,0,,,,,1.0,5.0,0,5.0,0.0,0.0,0,0.0,HornJe00
+146,Naaman Roosevelt,WR,Buffalo,2010,2011,0,0,0,3,16,,,,0,,,,,1.0,3.0,0,3.0,25.0,396.0,1,60.0,RoosNa00
+147,Trevor Pryce,DT,New York,1997,2010,1,4,9,80,187,,,,0,,,,,,,0,,,,0,,PrycTr00
+148,Keith Bulluck,LB,Suffern,2000,2010,1,1,9,74,170,,,,0,,,,,,,0,,,,0,,BullKe00
+149,Adewale Ogunleye,DE,Brooklyn,2001,2010,0,1,8,59,130,,,,0,,,,,,,0,,,,0,,OgunAd00
+150,Brandon Moore,LILB,East Meadow,2002,2010,0,0,2,15,90,,,,0,,,,,,,0,,,,0,,MoorBr22
+151,Chris Baker,TE,St. Albans,2002,2010,0,0,5,13,131,,,,0,,,,,,,0,,168.0,1763.0,15,47.0,BakeCh00
+152,Ellis Hobbs,DB,Niagara Falls,2005,2010,0,0,4,28,79,,,,0,,,,,,,0,,,,0,,HobbEl20
+153,J.P. Foschi,FB,Queens,2005,2010,0,0,1,2,35,,,,0,,,,,,,0,,33.0,297.0,2,27.0,FoscJo00
+154,Adam Terry,T,Glens Falls,2005,2010,0,0,0,9,50,,,,0,,,,,,,0,,,,0,,TerrAd20
+155,David Clowney,WR,Long Island,2008,2010,0,0,0,3,28,,,,0,,,,,3.0,1.0,0,13.0,22.0,341.0,1,53.0,ClowDa00
+156,Jon Corto,DB,Orchard Park,2008,2010,0,0,0,5,43,,,,0,,,,,,,0,,,,0,,CortJo20
+157,Mike Hart,RB,Syracuse,2008,2010,0,0,0,3,21,,,,0,,,,,71.0,264.0,2,35.0,12.0,97.0,0,18.0,HartMi00
+158,Andre' Davis,WR,Niskayuna,2002,2009,0,0,1,25,104,,,,0,,,,,9.0,32.0,0,9.0,156.0,2470.0,17,99.0,DaviAn01
+159,Khary Campbell,MLB,Brooklyn,2002,2009,0,0,0,6,82,,,,0,,,,,,,0,,,,0,,CampKh20
+160,Verron Haynes,RB,New York,2002,2009,0,0,0,9,68,,,,0,,,,,174.0,738.0,3,20.0,61.0,449.0,2,26.0,HaynVe00
+161,Sean Ryan,TE,Buffalo,2004,2009,0,0,0,1,53,,,,0,,,,,,,0,,26.0,240.0,2,43.0,RyanSe00
+162,Antwon Burton,DT,Buffalo,2006,2009,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,BurtAn20
+163,Josh Beekman,C,Amsterdam,2007,2009,0,0,1,10,28,,,,0,,,,,,,0,,,,0,,BeekJo20
+164,Kelvin Smith,LB,Spring Valley,2007,2009,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,SmitKe97
+165,James Wyche,DE,Roosevelt,2009,2009,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WychJa00
+166,Lewis Sanders,DB,Staten Island,2000,2008,0,0,0,14,97,,,,0,,,,,,,0,,,,0,,SandLe20
+167,Tutan Reyes,G,Queens,2001,2008,0,0,2,19,53,,,,0,,,,,,,0,,,,0,,ReyeTu20
+168,Melvin Fowler,C,Wheatley Hts,2002,2008,0,0,4,25,87,,,,0,,,,,,,0,,,,0,,FowlMe20
+169,Vinny Testaverde,QB,New York,1987,2007,0,2,15,97,233,3787.0,6701.0,46233.0,275,89.0,267.0,417.0,2992.0,430.0,1661.0,15,48.0,3.0,6.0,0,7.0,TestVi00
+170,Brian Kozlowski,TE,Rochester,1994,2007,0,0,0,7,182,,,,0,,,,,,,0,,85.0,978.0,8,46.0,KozlBr00
+171,Todd Sauerbrun,P,Setauket,1995,2007,2,3,0,25,178,2.0,3.0,63.0,0,47.0,0.0,0.0,0.0,5.0,9.0,0,8.0,,,0,,SaueTo20
+172,Josh Miller,P,Queens,1996,2007,0,0,0,20,165,1.0,1.0,81.0,1,81.0,0.0,0.0,0.0,5.0,-16.0,0,0.0,,,0,,MillJo25
+173,Shane Olivea,T,Bronx,2004,2007,0,0,4,31,60,,,,0,,,,,,,0,,,,0,,OlivSh20
+174,Tim Massaquoi,TE,Manhattan,2006,2007,0,0,0,0,11,,,,0,,,,,,,0,,0.0,0.0,0,0.0,MassTi20
+175,Ramon Guzman,LB,Bronx,2007,2007,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,GuzmRa99
+176,Rashad Barksdale,DB,Hudson,2007,2007,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,BarkRa99
+177,Gilbert Harris,RB,Brooklyn,2007,2007,0,0,0,0,4,,,,0,,,,,9.0,9.0,0,4.0,3.0,38.0,0,19.0,HarrGi00
+178,Joe Kowalewski,TE,Syracuse,2007,2007,0,0,0,0,13,,,,0,,,,,,,0,,5.0,18.0,1,6.0,KowaJo00
+179,Ricky Proehl,WR,Bronx,1990,2006,0,0,6,56,244,0.0,3.0,0.0,0,0.0,1.0,1.0,1.0,19.0,115.0,0,17.0,669.0,8878.0,54,78.0,ProeRi00
+180,Marco Rivera,G,Brooklyn,1997,2006,0,3,9,67,155,,,,0,,,,,,,0,,,,0,,RiveMa01
+181,Seth Payne,DT,Clifton Springs,1997,2006,0,0,6,50,121,,,,0,,,,,,,0,,,,0,,PaynSe20
+182,Joe Andruzzi,G,Brooklyn,1998,2006,0,0,7,45,122,,,,0,,,,,,,0,,1.0,0.0,0,0.0,AndrJo21
+183,Isaiah Kacyvenski,MLB,Endicott,2000,2006,0,0,2,16,100,,,,0,,,,,,,0,,0.0,0.0,0,0.0,KacyIs20
+184,Randal Williams,WR,Bronx,2001,2006,0,0,0,5,67,,,,0,,,,,1.0,13.0,0,13.0,42.0,471.0,0,34.0,WillRa01
+185,Clifton Smith,LB,Freeport,2003,2006,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SmitCl20
+186,Renaud Williams,LB,Westbury,2004,2006,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,WillRe21
+187,Adam Bergen,TE,Seaford,2005,2006,0,0,1,3,30,,,,0,,,,,,,0,,43.0,381.0,2,32.0,BergAd00
+188,Charles Spencer,G,Poughkeepsie,2006,2006,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,SpenCh20
+189,Devale Ellis,WR,Brooklyn,2006,2006,0,0,0,0,9,,,,0,,,,,2.0,3.0,0,12.0,4.0,41.0,0,19.0,ElliDe00
+190,Frank Davis,G,New York,2006,2006,0,0,0,2,11,,,,0,,,,,,,0,,,,0,,DaviFr20
+191,Roman Phifer,LB,Plattsburgh,1991,2005,0,0,12,64,212,,,,0,,,,,,,0,,,,0,,PhifRo20
+192,Jay Fiedler,QB,Oceanside,1995,2005,0,0,4,40,76,1008.0,1717.0,11844.0,69,74.0,66.0,114.0,734.0,219.0,854.0,11,30.0,,,0,,FiedJa00
+193,Roland Williams,TE,Rochester,1998,2005,0,0,5,9,94,,,,0,,,,,,,0,,114.0,1004.0,13,49.0,WillRo01
+194,Eric Ogbogu,DE,Irvington,1998,2005,0,0,0,11,90,,,,0,,,,,,,0,,,,0,,OgboEr20
+195,Jason McAddley,WR,Brooklyn,2002,2005,0,0,1,4,34,,,,0,,,,,,,0,,38.0,578.0,1,42.0,McAdJa00
+196,R-Kal Truluck,DE,Brooklyn,2002,2005,0,0,0,3,41,,,,0,,,,,,,0,,,,0,,TrulR-20
+197,Michael Haynes,DE,Brooklyn,2003,2005,0,0,0,8,43,,,,0,,,,,,,0,,,,0,,HaynMi20
+198,Willie Pile,DB,New York,2004,2005,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,PileWi20
+199,Chris McKenzie,DB,New York,2005,2005,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,McKeCh20
+200,Aki Jones,DE,Queens,2005,2005,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,JoneAk20

@@ -1,0 +1,43 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Danielle Hunter,DE,St. Catherine,2015,2023,0,4,4,62,119,,,,0,,,,,,,0,,,,0,,HuntDa01
+2,Corey Ballentine,CB,Montego Bay,2019,2023,0,0,0,4,54,,,,0,,,,,,,0,,,,0,,BallCo00
+3,Matt Peart,OL,Kingston,2020,2023,0,0,0,5,43,,,,0,,,,,,,0,,,,0,,PearMa00
+4,Nevin Lawson,CB,Kingston,2014,2021,0,0,5,22,100,,,,0,,,,,,,0,,,,0,,LawsNe00
+5,Patrick Chung,DB,Kingston,2009,2019,0,0,10,38,153,,,,0,,,,,,,0,,,,0,,ChunPa99
+6,Orlando Franklin,RT,Kingston,2011,2017,0,0,6,42,90,,,,0,,,,,,,0,,,,0,,FranOr00
+7,Darrell Williams,T,Kingston,2015,2017,0,0,0,2,21,,,,0,,,,,,,0,,,,0,,WillDa07
+8,Kenrick Ellis,DL,,2011,2015,0,0,0,10,56,,,,0,,,,,,,0,,,,0,,ElliKe01
+9,Oniel Cousins,T,,2008,2014,0,0,0,10,75,,,,0,,,,,,,0,,,,0,,CousOn00
+10,Trevardo Williams,OLB,,2014,2014,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WillTr02
+11,Vaughn Martin,DT,,2009,2013,0,0,2,12,51,,,,0,,,,,,,0,,,,0,,MartVa99
+12,Atari Bigby,DB,,2005,2012,0,0,3,19,72,,,,0,,,,,,,0,,,,0,,BigbAt20
+13,Jovan Haye,DE,Mandeville,2005,2011,0,0,3,25,73,,,,0,,,,,,,0,,,,0,,HayeJo20
+14,Ryan McBean,DT,Kingston,2007,2011,0,0,1,11,47,,,,0,,,,,,,0,,,,0,,McBeRy99
+15,Damion McIntosh,T,Kingston,2000,2009,0,0,8,38,125,,,,0,,,,,,,0,,,,0,,McInDa20
+16,Morlon Greenwood,LB,Kingston,2001,2008,0,0,8,39,125,,,,0,,,,,,,0,,,,0,,GreeMo20
+17,Kwame Harris,T,,2003,2008,0,0,3,22,86,,,,0,,,,,,,0,,,,0,,HarrKw20
+18,Daren Stone,DB,St. James,2007,2008,0,0,0,2,20,,,,0,,,,,,,0,,,,0,,StonDa99
+19,Khreem Smith,DE,St. James,2006,2007,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,SmitKh20
+20,Omar Easy,FB,Spanish Town,2002,2005,0,0,0,0,53,,,,0,,,,,4.0,1.0,0,4.0,6.0,42.0,1,13.0,EasyOm00
+21,Dwight Anderson,DB,Spanish Town,2004,2005,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,AndeDw21
+22,Roger Knight,LB,St. Ann's,2001,2004,0,0,0,4,48,,,,0,,,,,,,0,,,,0,,KnigRo20
+23,Andre King,WR,Kingston,2001,2004,0,0,0,2,42,,,,0,,,,,,,0,,30.0,327.0,0,48.0,KingAn00
+24,Rohan Davey,QB,Clarendon,2002,2004,0,0,0,0,7,8.0,19.0,88.0,0,20.0,0.0,0.0,0.0,6.0,-5.0,0,3.0,,,0,,DaveRo01
+25,Dahrran Diedrick,RB,St. Anne's,2004,2004,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DiedDa20
+26,Ian Smart,RB,Kingston,2004,2004,0,0,0,0,4,,,,0,,,,,2.0,26.0,0,25.0,2.0,10.0,0,5.0,SmarIa00
+27,Kevin McLeod,FB,Montego Bay,1999,2003,0,0,0,0,8,,,,0,,,,,,,0,,2.0,5.0,1,3.0,McLeKe00
+28,Omar Smith,C,Spanish Town,2002,2003,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,SmitOm20
+29,Floyd Wedderburn,G,Kingston,2000,2002,0,0,2,14,46,,,,0,,,,,,,0,,,,0,,WeddFl20
+30,Lloyd Harrison,DB,Kingston,2000,2002,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,HarrLl20
+31,Fearon Wright,LB,,2001,2001,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,WrigFe20
+32,Ricardo McDonald,LB,Kingston,1992,1999,0,0,8,37,119,,,,0,,,,,,,0,,,,0,,McDoRi20
+33,Chris Hewitt,DB,Kingston,1997,1999,0,0,0,4,39,,,,0,,,,,,,0,,,,0,,HewiCh20
+34,Andrew Greene,G,Kingston,1995,1998,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,GreeAn20
+35,Mark Campbell,DT,,1997,1997,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,CampMa20
+36,Sean Jones,DE,Kingston,1984,1996,0,1,9,68,201,,,,0,,,,,,,0,,,,0,,JoneSe00
+37,Devon McDonald,OLB,Kingston,1993,1996,0,0,0,5,63,,,,0,,,,,,,0,,,,0,,McDoDe20
+38,Chris Samuels,RB,Montego Bay,1991,1991,0,0,0,0,3,,,,0,,,,,2.0,10.0,0,6.0,2.0,33.0,0,29.0,SamuCh20
+39,Devon Mitchell,DB,Kingston,1986,1988,0,0,2,12,26,,,,0,,,,,,,0,,,,0,,MitcDe20
+40,Craig Bingham,LB,Kingston,1982,1987,0,0,0,6,40,,,,0,,,,,,,0,,,,0,,BingCr20
+41,Donovan Small,DB,Kingston,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SmalDo20
+42,Dwight Bingham,DE,Kingston,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,BingDw20

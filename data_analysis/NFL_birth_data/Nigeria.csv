@@ -1,0 +1,35 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Nelson Agholor,WR,Lagos,2015,2023,0,0,7,35,135,1.0,1.0,15.0,0,15.0,0.0,0.0,0.0,14.0,71.0,0,16.0,375.0,4627.0,35,85.0,AghoNe00
+2,David Onyemata,DT,Lagos,2016,2023,0,0,4,39,120,,,,0,,,,,,,0,,,,0,,OnyeDa00
+3,Emmanuel Ogbah,DE,Lagos,2016,2023,0,0,5,34,107,,,,0,,,,,,,0,,,,0,,OgbaEm00
+4,Samson Ebukam,OLB,Emmaus,2017,2023,0,0,5,36,113,,,,0,,,,,,,0,,,,0,,EbukSa00
+5,Efe Obada,OLB,,2018,2023,0,0,0,7,74,,,,0,,,,,,,0,,,,0,,ObadEf00
+6,Prince Tega Wanogho,OL,Delta State,2020,2023,0,0,0,1,23,,,,0,,,,,,,0,,,,0,,WanoTe00
+7,Amen Ogbongbemiga,LB,Lagos,2021,2023,0,0,0,5,47,,,,0,,,,,,,0,,,,0,,OgboAm00
+8,David Ojabo,LB,Port Harcourt,2022,2023,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,OjabDa00
+9,Joseph Ossai,LB,Lagos,2022,2023,0,0,0,4,30,,,,0,,,,,,,0,,,,0,,OssaJo00
+10,Kingsley Jonathan,DE,Lagos,2022,2023,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,JonaKi00
+11,Moro Ojomo,DT,Lagos,2023,2023,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,OjomMo00
+12,Jeremiah Attaochu,OLB,Ibadan,2014,2022,0,0,1,15,82,,,,0,,,,,,,0,,,,0,,AttaJe00
+13,Ben Banogu,EDGE,,2019,2022,0,0,0,4,50,,,,0,,,,,,,0,,,,0,,BanoBe00
+14,Caleb Benenoch,T,Lagos,2016,2021,0,0,1,12,36,,,,0,,,,,,,0,,,,0,,BeneCa00
+15,Leon Jacobs,OLB,Enugu,2018,2020,0,0,1,7,29,,,,0,,,,,,,0,,,,0,,JacoLe00
+16,Obum Gwacham,DE,Onitsha,2015,2017,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,GwacOb00
+17,T.J. Fatinikun,DE,Lagos,2014,2015,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,FatiT.00
+18,Tayo Fabuluje,T,Lagos,2015,2015,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,FabuTa00
+19,Israel Idonije,DT,Lagos,2004,2013,0,0,3,34,149,,,,0,,,,,,,0,,0.0,0.0,0,0.0,IdonIs20
+20,Amobi Okoye,DT,Anambra,2007,2012,0,0,4,24,87,,,,0,,,,,,,0,,,,0,,OkoyAm99
+21,Isaiah Ekejiuba,OLB,,2005,2011,0,0,0,5,76,,,,0,,,,,,,0,,,,0,,EkejIs20
+22,Samkon Gado,RB,,2005,2009,0,0,1,8,41,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,268.0,972.0,11,64.0,43.0,292.0,1,35.0,GadoSa00
+23,Victor Adeyanju,DE,,2006,2009,0,0,2,13,53,,,,0,,,,,,,0,,,,0,,AdeyVi20
+24,Patrick Chukwurah,OLB,,2001,2007,0,0,0,6,78,,,,0,,,,,,,0,,,,0,,ChukPa20
+25,Adimchinobe Echemandu,RB,Lagos,2004,2007,0,0,0,1,19,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,28.0,110.0,0,20.0,5.0,36.0,0,19.0,EcheAd00
+26,Tony Okanlawon,DB,Lagos,2003,2003,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,OkanTo20
+27,Iheanyi Uwaezuoke,WR,Lagos,1996,2000,0,0,0,5,60,,,,0,,,,,,,0,,29.0,374.0,1,35.0,UwaeIh00
+28,Israel Ifeanyi,DE,Lagos,1996,1996,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,IfeaIs20
+29,Mohammed Elewonibi,T,Lagos,1992,1995,0,0,1,9,26,,,,0,,,,,,,0,,,,0,,ElewMo20
+30,Willie Oshodin,DE,Benin City,1993,1995,0,0,0,4,30,,,,0,,,,,,,0,,,,0,,OshoWi20
+31,Christian Okoye,RB,Enugu,1987,1992,1,2,6,34,79,,,,0,,,,,1246.0,4897.0,40,59.0,42.0,294.0,0,22.0,OkoyCh00
+32,Donald Igwebuike,K,Anambra,1985,1990,0,0,0,19,80,,,,0,,,,,,,0,,,,0,,igwebdon01
+33,Patrick Egu,RB,Owerri,1989,1989,0,0,0,0,7,,,,0,,,,,3.0,20.0,1,15.0,,,0,,EguxPa00
+34,Obed Ariri,K,Owerri,1984,1987,0,0,0,3,18,,,,0,,,,,,,0,,,,0,,aririobe01

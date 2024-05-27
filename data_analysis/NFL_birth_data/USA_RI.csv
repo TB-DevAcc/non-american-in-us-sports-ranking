@@ -1,0 +1,41 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Kenny Yeboah,TE,Providence,2021,2023,0,0,0,0,24,,,,0,,,,,,,0,,4.0,64.0,0,24.0,YeboKe00
+2,Will Blackmon,DB,Providence,2006,2016,0,0,2,16,96,,,,0,,,,,,,0,,,,0,,BlacWi20
+3,Deon Anderson,FB,Providence,2007,2010,0,0,1,1,39,,,,0,,,,,2.0,3.0,0,3.0,9.0,67.0,1,17.0,AndeDe01
+4,Jamie Silva,DB,East Providence,2008,2009,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,SilvJa99
+5,Al Del Greco,K,Providence,1984,2000,0,0,0,40,248,,,,0,,,,,1.0,8.0,0,8.0,,,0,,delgralx01
+6,Kevin Smith,DB,Newport,1991,1991,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,SmitKe25
+7,Ray Williams,DB,Providence,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WillRa21
+8,Steve Furness,DT,Providence,1972,1981,0,0,2,33,106,,,,0,,,,,,,0,,,,0,,FurnSt20
+9,Terry Rennaker,LB,Newport,1980,1980,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,RennTe20
+10,Joe Reed,QB,Newport,1972,1979,0,0,1,12,50,225.0,513.0,2825.0,18,65.0,31.0,59.0,420.0,84.0,484.0,2,27.0,,,0,,ReedJo00
+11,Joe Moreino,NT,Providence,1978,1978,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MoreJo20
+12,Tom Mitchell,TE,Newport,1966,1977,0,0,6,30,145,,,,0,,,,,3.0,14.0,0,13.0,239.0,3181.0,24,60.0,MitcTo00
+13,Al Krevis,T,Providence,1975,1976,0,0,0,4,13,,,,0,,,,,,,0,,,,0,,KrevAl20
+14,Gerry Philbin,DE,Pawtucket,1964,1973,2,2,9,62,123,,,,0,,,,,,,0,,,,0,,PhilGe00
+15,Bill Sandeman,T,Providence,1966,1973,0,0,4,31,84,,,,0,,,,,,,0,,,,0,,SandBi20
+16,John Mellekas,C,Newport,1956,1963,0,0,4,16,84,,,,0,,,,,,,0,,,,0,,MellJo20
+17,Gordon Polofsky,LB,Providence,1952,1954,0,0,1,0,26,,,,0,,,,,,,0,,,,0,,PoloGo20
+18,Don Panciera,QB,Westerly,1949,1952,0,0,1,0,26,86.0,246.0,1383.0,10,47.0,25.0,20.0,264.0,14.0,2.0,0,8.0,,,0,,PancDo20
+19,Joe Osmanski,FB,Providence,1946,1949,0,0,2,0,42,,,,0,,,,,274.0,1182.0,6,48.0,36.0,329.0,0,42.0,OsmaJo20
+20,Jim Mello,DB,Riverport,1947,1949,0,0,0,0,28,,,,0,,,,,90.0,308.0,1,9.0,6.0,81.0,0,23.0,MellJi20
+21,Al Russas,T,Providence,1949,1949,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,RussAl20
+22,Earl Audet,T,Providence,1945,1948,0,0,2,0,51,,,,0,,,,,,,0,,,,0,,AudeEa20
+23,Paul Briggs,T,Providence,1948,1948,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,BrigPa20
+24,Bill Osmanski,FB,Providence,1939,1947,1,3,2,0,46,0.0,1.0,0.0,0,0.0,0.0,,,368.0,1753.0,20,86.0,12.0,170.0,1,28.0,OsmaBi20
+25,Frank Maznicki,HB,West Warwick,1942,1947,0,1,0,0,27,0.0,2.0,0.0,0,0.0,1.0,,,107.0,463.0,1,42.0,10.0,131.0,1,26.0,MaznFr20
+26,Walt Slater,TB,Providence,1947,1947,0,0,0,0,11,18.0,39.0,215.0,1,37.0,5.0,,33.0,46.0,167.0,0,19.0,,,0,,SlatWa20
+27,Hank Soar,B,Alton,1937,1946,0,1,0,0,82,16.0,53.0,305.0,4,38.0,7.0,,,478.0,1545.0,6,49.0,35.0,411.0,2,12.0,SoarHa20
+28,Duke Abbruzzi,HB,Warren,1946,1946,0,0,0,0,3,1.0,1.0,11.0,0,11.0,0.0,,,6.0,26.0,0,10.0,2.0,55.0,0,38.0,AbbrDu20
+29,Stan Kozlowski,FB,Rumford,1946,1946,0,0,0,0,5,,,,0,,,,,18.0,61.0,0,,2.0,27.0,0,,KozlSt20
+30,Ray Monaco,G,Providence,1944,1945,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,MonaRa20
+31,Ken Steinmetz,FB,Providence,1944,1945,0,0,0,0,18,0.0,1.0,0.0,0,0.0,0.0,,,15.0,36.0,0,9.0,,,0,,SteiKe20
+32,Red Franklin,TB,Hope,1935,1937,0,0,1,0,15,13.0,68.0,192.0,2,44.0,7.0,,,119.0,366.0,4,,1.0,12.0,0,12.0,FranRe20
+33,Herb Titmas,BB,Pawtucket,1931,1931,0,0,1,0,11,,,,0,,,,,,,0,,0.0,0.0,1,0.0,TitmHe20
+34,Bill Connor,G,Providence,1929,1930,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,ConnBi21
+35,Bert Shurtleff,C,Adamsville,1925,1929,0,0,0,0,15,,,,0,,,,,,,0,,,,0,,ShurBe20
+36,Thurston Towle,E,Pawtucket,1929,1929,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,TowlTh20
+37,Bruce Caldwell,TB,Ashton,1928,1928,0,0,1,0,10,,,,0,,,,,0.0,0.0,1,0.0,,,0,,CaldBr20
+38,Speed Braney,G,Johnston,1925,1926,0,0,0,0,13,,,,0,,,,,,,0,,,,0,,BranSp20
+39,Al McIntosh,WB,Providence,1925,1926,0,0,1,0,11,,,,0,,,,,,,0,,,,0,,McInAl20
+40,Pard Pearce,QB,Providence,1920,1925,0,0,2,0,42,,,,1,,,,,0.0,0.0,2,0.0,,,0,,PearPa20

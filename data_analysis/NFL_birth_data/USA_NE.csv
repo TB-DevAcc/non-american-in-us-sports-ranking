@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Greg Zuerlein,K,Lincoln,2012,2023,1,1,1,29,184,,,,0,,,,,,,0,,,,0,,ZuerGr00
+2,Cody Whitehair,G,Kearney,2016,2023,0,1,7,43,124,,,,0,,,,,,,0,,,,0,,WhitCo03
+3,Chris Reed,G,Omaha,2016,2023,0,0,1,15,70,,,,0,,,,,,,0,,,,0,,ReedCh00
+4,Austin Ekeler,RB,Lincoln,2017,2023,0,0,3,52,103,,,,0,,,,,990.0,4355.0,39,72.0,440.0,3884.0,30,84.0,EkelAu00
+5,Brett Maher,K,Kearney,2018,2023,0,0,1,8,62,,,,0,,,,,,,0,,,,0,,MaheBr01
+6,Harrison Phillips,DT,Omaha,2018,2023,0,0,1,23,79,,,,0,,,,,,,0,,,,0,,PhilHa00
+7,Luke Gifford,OLB,Lincoln,2019,2023,0,0,0,5,57,,,,0,,,,,,,0,,,,0,,GiffLu00
+8,Noah Fant,TE,Omaha,2019,2023,0,0,4,21,81,,,,0,,,,,3.0,-12.0,0,0.0,252.0,2805.0,14,75.0,FantNo00
+9,Isaiah Simmons,OLB,Omaha,2020,2023,0,0,2,19,67,,,,0,,,,,,,0,,,,0,,SimmIs00
+10,Easton Stick,QB,Omaha,2020,2023,0,0,0,4,6,112.0,175.0,1133.0,3,79.0,1.0,14.0,122.0,28.0,142.0,1,21.0,,,0,,SticEa00
+11,Ben Stille,DL,Ashland,2022,2023,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,StilBe00
+12,Cam Jurgens,OL,Beatrice,2022,2023,0,0,0,5,28,,,,0,,,,,,,0,,,,0,,JurgCa01
+13,Brandin Bryant,DL,Omaha,2019,2022,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,BryaBr00
+14,Cade Johnson,WR,Papillion,2022,2022,0,0,0,0,3,,,,0,,,,,,,0,,2.0,21.0,0,11.0,JohnCa03
+15,Sam Koch,P,York,2006,2021,0,1,0,25,256,7.0,8.0,82.0,0,22.0,0.0,0.0,0.0,7.0,10.0,1,10.0,,,0,,KochSa20
+16,Andy Janovich,FB,Gretna,2016,2021,0,0,1,2,77,,,,0,,,,,17.0,55.0,4,28.0,27.0,255.0,1,32.0,JanoAn00
+17,Kyle Emanuel,OLB,Schuyler,2015,2020,0,0,2,16,71,,,,0,,,,,,,0,,,,0,,EmanKy00
+18,Spencer Long,G,Elkhorn,2014,2019,0,0,3,22,67,,,,0,,,,,,,0,,,,0,,LongSp00
+19,Niles Paul,WR,Omaha,2011,2018,0,0,1,7,88,,,,0,,,,,5.0,7.0,0,7.0,78.0,954.0,2,50.0,PaulNi00
+20,Matt Longacre,DE,Omaha,2015,2018,0,0,1,7,38,,,,0,,,,,,,0,,,,0,,LongMa00
+21,Zach Sterup,OL,Hastings,2017,2018,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,SterZa00
+22,Nick DeLuca,LB,Omaha,2018,2018,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,DeLuNi00
+23,Danny Woodhead,RB,North Platte,2009,2017,0,0,0,38,101,,,,0,,,,,517.0,2238.0,15,36.0,300.0,2698.0,17,61.0,WoodDa02
+24,Zach Miller,TE,Wahoo,2009,2017,0,0,2,12,66,,,,0,,,,,3.0,12.0,0,8.0,146.0,1631.0,15,87.0,MillZa02
+25,Keenan Robinson,OLB,Omaha,2012,2017,0,0,2,17,58,,,,0,,,,,,,0,,,,0,,RobiKe01
+26,Dan Carpenter,K,Omaha,2008,2016,0,1,0,23,140,,,,0,,,,,,,0,,,,0,,CarpDa44
+27,Trevor Roach,LB,Elkhorn,2015,2016,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,RoacTr00
+28,Trevor Robinson,G,Kearney,2012,2015,0,0,1,13,38,,,,0,,,,,,,0,,,,0,,RobiTr01
+29,Shaun Prater,CB,Omaha,2013,2015,0,0,0,2,21,,,,0,,,,,,,0,,,,0,,PratSh00
+30,Alex Henery,K,Omaha,2011,2014,0,0,0,8,50,,,,0,,,,,,,0,,,,0,,HeneAl00
+31,Jeff Tarpinian,MLB,Omaha,2011,2014,0,0,0,4,32,,,,0,,,,,,,0,,,,0,,TarpJe00
+32,Harland Gunn,G,Omaha,2013,2014,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,GunnHa00
+33,Phil Bates,WR,Omaha,2014,2014,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BatePh00
+34,Jeromey Clary,T,Norfolk,2007,2013,0,0,6,47,103,,,,0,,,,,,,0,,1.0,-8.0,0,0.0,ClarJe20
+35,Stephen Goodin,G,Hastings,2013,2013,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GoodSt00
+36,Russ Hochstein,C,Hartington,2002,2012,0,0,1,27,149,,,,0,,,,,,,0,,0.0,0.0,0,0.0,HochRu20
+37,Chris Kelsay,DE,Auburn,2003,2012,0,0,8,46,147,,,,0,,,,,,,0,,,,0,,KelsCh21
+38,Scott Shanle,LB,Genoa,2003,2012,0,0,7,41,133,,,,0,,,,,,,0,,,,0,,ShanSc20
+39,Barrett Ruud,LB,Lincoln,2005,2012,0,0,5,41,116,,,,0,,,,,,,0,,,,0,,RuudBa20
+40,Adam Carriker,DE,Hastings,2007,2012,0,0,3,22,65,,,,0,,,,,,,0,,,,0,,CarrAd99
+41,Seth Olsen,G,Omaha,2009,2012,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,OlseSe20
+42,Zach Potter,TE,Omaha,2009,2012,0,0,1,1,45,,,,0,,,,,,,0,,11.0,83.0,0,22.0,PottZa99
+43,Ricky Henry,G,Omaha,2011,2012,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HenrRi00
+44,Michael Higgins,TE,Omaha,2011,2012,0,0,0,0,4,,,,0,,,,,,,0,,2.0,1.0,0,4.0,HiggMi00
+45,Tony Wragge,G,Bloomfield,2002,2011,0,0,1,11,82,,,,0,,,,,,,0,,,,0,,WragTo20
+46,Mason Brodine,DE,Elm Creek,2011,2011,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BrodMa00
+47,Ahman Green,RB,Omaha,1998,2009,0,4,6,83,148,1.0,2.0,20.0,1,20.0,0.0,0.0,0.0,2056.0,9205.0,60,98.0,378.0,2883.0,14,53.0,GreeAh00
+48,Titus Adams,DT,Omaha,2009,2009,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,AdamTi00
+49,Chad Mustard,TE,Central City,2003,2008,0,0,0,1,49,,,,0,,,,,,,0,,12.0,123.0,0,15.0,MustCh00
+50,Kyle Larson,P,Kearney,2004,2008,0,0,0,8,80,,,,0,,,,,1.0,11.0,1,11.0,,,0,,LarsKy20
+51,Chris Cooper,DT,Lincoln,2001,2007,0,0,1,12,78,,,,0,,,,,,,0,,,,0,,CoopCh20
+52,Trevor Johnson,DE,Gordon,2004,2007,0,0,0,4,35,,,,0,,,,,,,0,,,,0,,JohnTr21
+53,Ryan Krause,TE,Omaha,2004,2007,0,0,0,1,14,,,,0,,,,,,,0,,7.0,92.0,1,29.0,KrauRy00
+54,Kenton Keith,RB,Lincoln,2007,2007,0,0,0,6,16,,,,0,,,,,121.0,533.0,3,22.0,13.0,77.0,1,14.0,KeitKe00
+55,Cory Schlesinger,FB,Columbus,1995,2006,0,0,8,13,181,,,,0,,,,,167.0,473.0,5,26.0,197.0,1445.0,9,43.0,SchlCo00
+56,Zach Wiegert,G,Fremont,1995,2006,0,0,10,49,145,,,,0,,,,,,,0,,2.0,-2.0,0,1.0,WiegZa20
+57,Adam Treu,C,Lincoln,1997,2006,0,0,3,26,155,,,,0,,,,,,,0,,,,0,,TreuAd20
+58,John Howell,DB,Mullen,2001,2006,0,0,0,7,64,,,,0,,,,,,,0,,0.0,0.0,0,0.0,HoweJo21
+59,Chris Bober,C,Omaha,2001,2006,0,0,2,18,91,,,,0,,,,,,,0,,,,0,,BobeCh20
+60,Zac Alcorn,TE,Chadron,2006,2006,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,AlcoZa20
+61,Marc Boerigter,WR,Hastings,2002,2005,0,0,0,8,41,,,,0,,,,,,,0,,39.0,697.0,8,99.0,BoerMa00
+62,Justin Sandy,DB,Wayne,2004,2005,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,SandJu20
+63,Chris Dishman,G,Cozad,1997,2004,0,0,4,21,98,,,,0,,,,,,,0,,,,0,,DishCh20
+64,Scott Connot,DB,Spencer,2004,2004,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ConnSc20
+65,Scott Frost,DB,Wood River,1998,2003,0,0,0,5,59,,,,0,,,,,1.0,1.0,0,1.0,0.0,0.0,0,0.0,FrosSc20
+66,Jeremy Slechta,DT,LaVista,2002,2003,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,SlecJe20
+67,Bill LaFleur,P,Superior,2002,2003,0,0,0,1,21,,,,0,,,,,1.0,0.0,0,0.0,,,0,,LaFlBi20
+68,Jim Newton,T,Omaha,2003,2003,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,NewtJi20
+69,Joel Makovicka,FB,Brainard,1999,2002,0,0,3,3,58,,,,0,,,,,17.0,88.0,0,22.0,47.0,264.0,5,25.0,MakoJo00
+70,Brad Ottis,DE,Wahoo,1994,2000,0,0,1,11,81,,,,0,,,,,,,0,,,,0,,OttiBr20
+71,Junior Bryant,DT,Omaha,1995,2000,0,0,2,19,83,,,,0,,,,,,,0,,,,0,,BryaJu20
+72,Bryan Stoltenberg,C,Kearney,1996,2000,0,0,1,12,50,,,,0,,,,,,,0,,,,0,,StolBr20
+73,Quentin Neujahr,C,Seward,1996,2000,0,0,1,15,62,,,,0,,,,,,,0,,,,0,,NeujQu20
+74,Gene Williams,G,Blair,1991,1999,0,0,4,31,114,,,,0,,,,,,,0,,,,0,,WillGe20
+75,Tony Ramirez,T,Lincoln,1997,1999,0,0,0,6,30,,,,0,,,,,,,0,,,,0,,RamiTo20
+76,Chad Kelsay,LB,Auburn,1999,1999,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,KelsCh20
+77,Robert Farmer,RB,Lincoln,1999,1999,0,0,0,0,13,,,,0,,,,,,,0,,,,0,,FarmRo20
+78,Eric Stokes,DB,Hebron,1997,1998,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,StokEr21
+79,Tony Veland,DB,Omaha,1997,1998,0,0,0,3,27,,,,0,,,,,,,0,,,,0,,VelaTo20
+80,Jon Hesse,LB,Lincoln,1998,1998,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,HessJo20
+81,Chris Singleton,LLB,Omaha,1990,1996,0,0,4,27,90,,,,0,,,,,,,0,,,,0,,SingCh20
+82,Calvin Jones,RB,Omaha,1994,1996,0,0,0,1,16,,,,0,,,,,27.0,112.0,0,15.0,2.0,6.0,0,4.0,JoneCa00
+83,Shawn Bouwens,G,Lincoln,1991,1995,0,0,3,21,73,,,,0,,,,,,,0,,,,0,,BouwSh20
+84,Joe Planansky,TE,Hemingford,1995,1995,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,PlanJo20
+85,Curtis Ceaser,WR,Lincoln,1995,1995,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,CeasCu20
+86,Tom Rathman,RB,Grand Island,1986,1994,0,0,7,40,131,,,,0,,,,,544.0,2020.0,26,35.0,320.0,2684.0,8,36.0,RathTo00
+87,David Braxton,OLB,Omaha,1989,1994,0,0,0,5,71,,,,0,,,,,,,0,,,,0,,BraxDa20
+88,Jim Skow,DE,Omaha,1986,1992,0,0,4,22,83,,,,0,,,,,,,0,,,,0,,SkowJi20
+89,Danny Noonan,DT,Lincoln,1987,1992,0,0,2,20,73,,,,0,,,,,,,0,,,,0,,NoonDa20
+90,Kelly Stouffer,QB,Scottsbluff,1988,1992,0,0,0,2,22,225.0,437.0,2333.0,7,53.0,19.0,50.0,431.0,30.0,75.0,0,17.0,,,0,,StouKe00
+91,Dean Steinkuhler,T,Burr,1984,1991,0,0,5,36,100,,,,0,,,,,,,0,,,,0,,SteiDe20
+92,Brian Blankenship,G,Omaha,1987,1991,0,0,2,18,61,,,,0,,,,,,,0,,,,0,,BlanBr20
+93,Marc Munford,RILB,Lincoln,1987,1990,0,0,1,11,48,,,,0,,,,,,,0,,,,0,,MunfMa20
+94,Tim Rother,DT,St. Paul,1989,1990,0,0,0,1,20,,,,0,,,,,,,0,,,,0,,RothTi20
+95,Jeff Mickel,T,Limestone,1990,1990,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MickJe20
+96,Kent Wells,DT,Lincoln,1990,1990,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,WellKe20
+97,Dave Rimington,C,Omaha,1983,1989,0,0,6,39,86,,,,0,,,,,,,0,,,,0,,RimiDa20
+98,Mark Traynowicz,G,Omaha,1985,1989,0,0,0,3,52,,,,0,,,,,,,0,,,,0,,TrayMa20
+99,Brad Beckman,TE,Lincoln,1988,1989,0,0,0,1,24,,,,0,,,,,,,0,,11.0,102.0,1,21.0,BeckBr00
+100,Brad Henke,DE,Columbus,1989,1989,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HenkBr20
+101,Keith Jones,RB,Omaha,1989,1989,0,0,0,2,16,,,,0,,,,,43.0,160.0,1,15.0,15.0,126.0,0,36.0,JoneKe00
+102,Brian Holloway,T,Omaha,1981,1988,0,3,6,45,102,,,,0,,,,,,,0,,1.0,5.0,0,5.0,HollBr00
+103,Bret Clark,DB,Nebraska City,1986,1988,0,0,2,16,29,,,,0,,,,,2.0,8.0,0,6.0,,,0,,ClarBr20
+104,Doug Betters,DE,Lincoln,1978,1987,1,1,7,61,146,,,,0,,,,,,,0,,,,0,,BettDo00
+105,Mike Ulmer,DB,York,1980,1987,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,UlmeMi20
+106,Bobby Micho,TE,Omaha,1984,1987,0,0,0,3,26,,,,0,,,,,4.0,8.0,0,5.0,25.0,242.0,2,26.0,MichBo00
+107,Wayne Jones,G,Grand Island,1987,1987,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,JoneWa20
+108,Mitch Daum,TE,Kimball,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,DaumMi20
+109,Greg Orton,G,Nebraska City,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,OrtoGr20
+110,John Walker,NT,Omaha,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,WalkJo21
+111,Derrie Nelson,LB,York,1983,1986,0,0,0,3,48,,,,0,,,,,,,0,,,,0,,NelsDe21
+112,Lynn Madsen,DT,Blair,1986,1986,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,MadsLy20
+113,Larry Station,LB,Omaha,1986,1986,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,StatLa20
+114,Rick Kane,RB,Lincoln,1977,1985,0,0,1,16,125,,,,0,,,,,409.0,1486.0,12,35.0,76.0,761.0,2,40.0,KaneRi00
+115,Rod Kush,DB,Omaha,1980,1985,0,0,0,11,66,,,,0,,,,,1.0,-6.0,0,0.0,,,0,,KushRo20
+116,George Andrews,LB,Omaha,1979,1984,0,0,4,29,80,,,,0,,,,,,,0,,1.0,2.0,0,2.0,AndrGe20
+117,Mitch Krenk,TE,Crete,1984,1984,0,0,0,0,8,,,,0,,,,,,,0,,2.0,31.0,0,24.0,KrenMi20
+118,Stan David,LB,North Platte,1984,1984,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,DaviSt20
+119,Randy McClanahan,RILB,Lincoln,1977,1982,0,0,3,19,61,,,,0,,,,,,,0,,,,0,,McClRa20
+120,Hank Bauer,RB,Scottsbluff,1977,1982,0,0,0,3,86,0.0,0.0,0.0,0,0.0,0.0,1.0,13.0,123.0,377.0,17,37.0,12.0,97.0,3,15.0,BaueHa00
+121,Randy Rasmussen,G,St. Paul,1967,1981,0,0,15,68,207,,,,0,,,,,,,0,,,,0,,RasmRa20
+122,Ray Hamilton,NT,Omaha,1973,1981,0,0,8,46,132,,,,0,,,,,,,0,,,,0,,HamiRa21
+123,Tony Davis,RB,Tecumseh,1976,1981,0,0,0,5,89,,,,0,,,,,91.0,345.0,5,32.0,27.0,250.0,1,28.0,DaviTo00
+124,Mike Fultz,DT,Lincoln,1977,1981,0,0,1,8,58,,,,0,,,,,,,0,,,,0,,FultMi20
+125,Barney Cotton,G,Omaha,1979,1981,0,0,1,10,45,,,,0,,,,,,,0,,,,0,,CottBa20
+126,Kelly Saalfeld,C,Columbus,1980,1980,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,SaalKe20
+127,Oudious Lee,NT,Omaha,1980,1980,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LeexOu20
+128,Phil Wise,DB,Omaha,1971,1979,0,0,3,24,92,,,,0,,,,,,,0,,,,0,,WisePh20
+129,Lynn Boden,G,Stromburg,1975,1979,0,0,4,18,67,,,,0,,,,,,,0,,,,0,,BodeLy20
+130,Bob Martin,LB,David City,1976,1979,0,0,2,13,49,,,,0,,,,,,,0,,,,0,,MartBo20
+131,Mick Tingelhoff,C,Lexington,1962,1978,5,6,17,103,240,,,,0,,,,,,,0,,,,0,,TingMi00
+132,Bob Lingenfelter,T,Norfolk,1977,1978,0,0,0,5,19,,,,0,,,,,,,0,,,,0,,LingBo20
+133,Johnny Rodgers,WR,Omaha,1977,1978,0,0,1,4,17,,,,0,,,,,4.0,49.0,0,33.0,17.0,234.0,0,43.0,RodgJo00
+134,Brett Moritz,G,Lincoln,1978,1978,0,0,0,2,6,,,,0,,,,,,,0,,,,0,,MoriBr20
+135,Leo Biedermann,T,Omaha,1978,1978,0,0,0,4,16,,,,0,,,,,,,0,,,,0,,BiedLe20
+136,Pat Fischer,DB,St. Edward,1961,1977,1,3,14,85,213,,,,0,,,,,,,0,,1.0,22.0,0,22.0,FiscPa00
+137,Joe Blahak,DB,Columbus,1973,1977,0,0,0,13,44,,,,0,,,,,,,0,,,,0,,BlahJo20
+138,Robert Giblin,DB,Omaha,1975,1977,0,0,0,5,23,,,,0,,,,,,,0,,,,0,,GiblRo20
+139,Jeff Kinney,RB,Oxford,1972,1976,0,0,1,14,62,,,,0,,,,,353.0,1285.0,5,22.0,68.0,502.0,1,25.0,KinnJe00
+140,Jim McFarland,TE,North Platte,1970,1975,0,0,0,1,68,,,,0,,,,,,,0,,7.0,64.0,2,21.0,McFaJi00
+141,Maury Damkroger,LB,Cambridge,1974,1975,0,0,0,3,13,,,,0,,,,,,,0,,,,0,,DamkMa20
+142,Joe Orduna,RB,Omaha,1972,1974,0,0,0,2,39,,,,0,,,,,74.0,236.0,3,25.0,11.0,58.0,1,17.0,OrduJo00
+143,Jerry Tagge,QB,Omaha,1972,1974,0,0,1,8,18,136.0,281.0,1583.0,3,50.0,17.0,17.0,116.0,41.0,117.0,3,41.0,,,0,,TaggJe00
+144,Dave Hale,DT,McCook,1969,1973,0,0,0,6,30,,,,0,,,,,,,0,,,,0,,HaleDa20
+145,Jerry DePoyster,K,Omaha,1968,1972,0,0,0,3,40,,,,0,,,,,2.0,6.0,0,20.0,,,0,,DePoJe20
+146,Bob Bruggers,OLB,Lincoln,1966,1971,0,0,0,14,57,,,,0,,,,,,,0,,,,0,,BrugBo20
+147,John Kirby,RLB,David City,1964,1970,0,0,3,28,94,,,,0,,,,,,,0,,,,0,,KirbJo20
+148,Kent McCloughan,DB,Scottsbluff,1965,1970,2,2,5,43,67,,,,0,,,,,,,0,,,,0,,McClKe00
+149,Dick Davis,RB,Omaha,1970,1970,0,0,0,1,6,,,,0,,,,,27.0,94.0,0,25.0,4.0,29.0,0,13.0,DaviDi00
+150,Bob Hohn,DB,Beatrice,1965,1969,0,0,2,17,46,,,,0,,,,,,,0,,,,0,,HohnBo20
+151,Carel Stith,DT,Lincoln,1967,1969,0,0,1,9,31,,,,0,,,,,,,0,,,,0,,StitCa20
+152,Billy Johnson,DB,Stanton,1966,1968,0,0,0,8,32,,,,0,,,,,,,0,,,,0,,JohnBi24
+153,Tom Harmon,G,Omaha,1967,1967,0,0,0,2,10,,,,0,,,,,,,0,,,,0,,HarmTo21
+154,Pete Tatman,RB,Sutherland,1967,1967,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,TatmPe20
+155,LaVerne Torczon,DE,Platte Center,1960,1966,1,1,5,44,98,,,,0,,,,,,,0,,,,0,,TorcLa00
+156,Ed Husmann,DT,Schuyler,1953,1965,1,3,8,45,142,,,,0,,,,,,,0,,,,0,,HusmEd00
+157,Gary Glick,DB,Grant,1956,1963,0,0,4,10,71,,,,0,,,,,1.0,15.0,0,15.0,,,0,,GlicGa20
+158,Stan Campbell,G,Hastings,1952,1962,0,0,5,17,92,,,,0,,,,,,,0,,,,0,,CampSt20
+159,Lee Riley,DB,Lincoln,1955,1962,0,0,5,17,83,,,,0,,,,,,,0,,1.0,10.0,0,10.0,RileLe20
+160,Gene Cronin,DE,Spalding,1956,1962,0,0,3,9,87,,,,0,,,,,,,0,,,,0,,CronGe20
+161,Tom Osborne,WR,Hastings,1960,1961,0,0,0,3,24,,,,0,,,,,,,0,,29.0,343.0,2,60.0,OsboTo00
+162,Dewey Bohling,HB,Hebron,1960,1961,0,0,1,9,26,0.0,6.0,0.0,0,0.0,0.0,,,178.0,584.0,4,49.0,43.0,485.0,5,49.0,BohlDe00
+163,Dick Lage,E,Omaha,1961,1961,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LageDi20
+164,Don Boll,T,Scribner,1953,1960,0,0,7,3,92,,,,0,,,,,,,0,,,,0,,BollDo20
+165,Carroll Zaruba,DB,Fullerton,1960,1960,0,0,0,2,7,,,,0,,,,,,,0,,,,0,,ZaruCa20
+166,J.D. Kimmel,DT,Omaha,1955,1958,0,0,3,0,36,,,,0,,,,,,,0,,,,0,,KimmJ.20
+167,Jim Shanley,HB,Shelton,1958,1958,0,0,0,0,12,,,,0,,,,,23.0,30.0,0,5.0,3.0,13.0,0,7.0,ShanJi20
+168,Charlie Toogood,DT,North Platte,1951,1957,0,0,3,0,67,,,,0,,,,,,,0,,,,0,,ToogCh20
+169,Mike Davlin,T,Omaha,1955,1955,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,DavlMi20
+170,Byron Bailey,HB,Omaha,1952,1953,0,0,0,0,18,,,,0,,,,,32.0,103.0,2,13.0,10.0,147.0,0,50.0,BailBy00
+171,Carl Samuelson,DT,Grand Island,1948,1951,0,0,1,0,43,,,,0,,,,,,,0,,,,0,,SamuCa20
+172,Sam Vacanti,QB,Omaha,1947,1949,0,0,1,0,39,154.0,368.0,2338.0,18,,32.0,20.0,185.0,25.0,8.0,3,,,,0,,VacaSa20
+173,Paul Cleary,E,North Loop,1948,1949,0,0,0,0,23,,,,0,,,,,,,0,,4.0,37.0,0,,CleaPa20
+174,Clete Fischer,HB,St. Edward,1949,1949,0,0,0,0,11,,,,0,,,,,26.0,72.0,0,10.0,3.0,45.0,1,36.0,FiscCl21
+175,Bob DeFruiter,HB,Springfield,1945,1948,0,0,0,0,22,,,,0,,,,,13.0,36.0,0,17.0,2.0,28.0,0,19.0,DeFrBo20
+176,Charley Brock,C,Columbus,1939,1947,1,3,7,0,92,,,,0,,,,,,,0,,,,0,,BrocCh20
+177,Harry Hopp,B,Hastings,1941,1947,0,1,3,0,51,36.0,101.0,508.0,0,50.0,14.0,,,265.0,801.0,7,55.0,24.0,294.0,3,67.0,HoppHa20
+178,Ted Ossowski,T,Beatrice,1947,1947,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,OssoTe20
+179,Joseph Byler,T,Republican City,1946,1946,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,ByleJo20
+180,Forrest McPherson,G,Fairbury,1935,1945,0,0,1,0,37,,,,0,,,,,,,0,,,,0,,McPhFo20
+181,Ted Doyle,T,Maywood,1938,1945,0,0,2,0,74,,,,0,,,,,,,0,,,,0,,DoylTe20
+182,Bill Callihan,B,Paxton,1940,1945,0,0,4,0,62,3.0,8.0,34.0,1,15.0,4.0,,,33.0,105.0,1,16.0,32.0,387.0,4,40.0,CallBi21
+183,Carl Buda,G,Omaha,1945,1945,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,BudaCa20
+184,Joe Lindahl,G,Tilden,1945,1945,0,0,0,0,2,,,,0,,,,,,,0,,1.0,32.0,0,32.0,LindJo20
+185,Bob Kahler,DB,Grand Island,1942,1944,0,0,0,0,19,,,,0,,,,,9.0,9.0,0,13.0,2.0,21.0,0,12.0,KahlBo20
+186,Paul Blessing,E,Tilden,1944,1944,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,BlesPa20
+187,Jim Lankas,B,Stratton,1942,1943,0,0,0,0,4,,,,0,,,,,2.0,2.0,0,1.0,,,0,,LankJi20
+188,Royal Kahler,T,Grand Island,1941,1942,0,0,0,0,16,,,,0,,,,,,,0,,,,0,,KahlRo20
+189,Bill Hempel,T,Lincoln,1942,1942,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,HempBi20
+190,Tony Cemore,G,Omaha,1941,1941,0,0,0,0,10,,,,0,,,,,,,0,,,,0,,CemoTo20
+191,Ray Prochaska,E,Ulysses,1941,1941,0,0,0,0,8,,,,0,,,,,,,0,,4.0,29.0,0,11.0,ProcRa20
+192,Warren Alfson,G,Wisner,1941,1941,0,0,1,0,11,,,,0,,,,,,,0,,,,0,,AlfsWa20
+193,Russ Thompson,T,Edgar,1936,1940,0,0,4,0,53,,,,0,,,,,,,0,,,,0,,ThomRu21
+194,Sam Francis,FB,Dunbar,1937,1940,0,0,0,0,40,4.0,9.0,34.0,1,,2.0,,,253.0,873.0,5,,4.0,4.0,0,8.0,FranSa20
+195,Les McDonald,E,Grand Island,1937,1940,0,0,2,0,39,,,,0,,,,,4.0,-4.0,0,0.0,51.0,924.0,8,42.0,McDoLe20
+196,John Klumb,E,Aurora,1939,1940,0,0,0,0,13,,,,0,,,,,,,0,,7.0,97.0,0,,KlumJo20
+197,George Seeman,E,Lincoln,1940,1940,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SeemGe20
+198,Les Lane,G,Walthill,1939,1939,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,LaneLe20
+199,John Marrow,G,Lincoln,1937,1938,0,0,0,0,16,,,,0,,,,,,,0,,,,0,,MarrJo20
+200,John Howell,HB,Omaha,1938,1938,0,0,0,0,6,,,,0,,,,,7.0,7.0,0,,,,0,,HoweJo20

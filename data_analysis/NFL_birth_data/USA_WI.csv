@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Nick Bellore,OLB,Whitefish Bay,2011,2023,0,2,2,19,200,,,,0,,,,,3.0,8.0,0,5.0,10.0,75.0,2,23.0,BellNi01
+2,Kevin Zeitler,G,Waukesha,2012,2023,0,1,11,62,182,,,,0,,,,,,,0,,1.0,-4.0,0,0.0,ZeitKe00
+3,A.J. Klein,ILB,Appleton,2013,2023,0,0,5,37,146,,,,0,,,,,,,0,,,,0,,KleiAJ00
+4,Jimmie Ward,SS,Racine,2014,2023,0,0,5,28,116,,,,0,,,,,,,0,,,,0,,WardJi01
+5,Shelby Harris,DE,Milwaukee,2014,2023,0,0,4,35,115,,,,0,,,,,,,0,,,,0,,HarrSh00
+6,Melvin Gordon,RB,Kenosha,2015,2023,0,2,7,51,112,,,,0,,,,,1593.0,6543.0,56,87.0,312.0,2513.0,14,66.0,GordMe00
+7,Alex Erickson,WR,Darlington,2016,2023,0,0,1,11,107,1.0,2.0,26.0,0,26.0,0.0,0.0,0.0,18.0,78.0,0,17.0,112.0,1373.0,2,52.0,EricAl01
+8,Jake Brendel,C,Madison,2016,2023,0,0,1,18,71,,,,0,,,,,,,0,,,,0,,BrenJa01
+9,Eric Murray,CB,Milwaukee,2016,2023,0,0,3,17,107,,,,0,,,,,,,0,,,,0,,MurrEr00
+10,George Kittle,TE,Madison,2017,2023,2,5,5,50,98,,,,0,,,,,12.0,71.0,0,18.0,460.0,6274.0,37,85.0,KittGe00
+11,T.J. Watt,OLB,Pewaukee,2017,2023,4,6,6,80,104,,,,0,,,,,,,0,,,,0,,WattT.00
+12,Ryan Ramczyk,T,Stevens Point,2017,2023,1,0,5,65,101,,,,0,,,,,,,0,,,,0,,RamcRy00
+13,Dare Ogunbowale,RB,Milwaukee,2017,2023,0,0,0,5,80,,,,0,,,,,136.0,457.0,4,25.0,80.0,576.0,1,28.0,OgunDa00
+14,Alec Ingold,FB,Green Bay,2019,2023,0,1,1,4,75,,,,0,,,,,23.0,30.0,1,4.0,56.0,463.0,4,29.0,IngoAl01
+15,Max Scharping,T,Green Bay,2019,2023,0,0,3,18,79,,,,0,,,,,,,0,,0.0,7.0,0,7.0,SchaMa01
+16,Tyler Biadasz,OL,Amherst,2020,2023,0,1,2,25,61,,,,0,,,,,,,0,,,,0,,BiadTy00
+17,Zack Baun,OLB,West Bend,2020,2023,0,0,0,10,62,,,,0,,,,,,,0,,,,0,,BaunZa00
+18,Ben Bredeson,OL,Hartland,2020,2023,0,0,0,10,45,,,,0,,,,,,,0,,1.0,0.0,0,0.0,BredBe00
+19,Kristian Welch,OLB,Iola,2020,2023,0,0,0,4,57,,,,0,,,,,,,0,,,,0,,WelcKr00
+20,Parker Hesse,TE,LaCrosse,2021,2023,0,0,0,1,28,,,,0,,,,,,,0,,14.0,132.0,0,22.0,HessPa00
+21,Cole Van Lanen,T,Green Bay,2021,2023,0,0,0,2,26,,,,0,,,,,,,0,,,,0,,VanxCo00
+22,Quinn Meinerz,OL,Hartford,2021,2023,0,0,1,14,45,,,,0,,,,,,,0,,,,0,,MeinQu02
+23,Leo Chenal,LB,,2022,2023,0,0,0,9,34,,,,0,,,,,,,0,,,,0,,ChenLe00
+24,Matt Henningsen,DE,Menomonee Falls,2022,2023,0,0,0,2,34,,,,0,,,,,,,0,,,,0,,HennMa01
+25,Mike Caliendo,OL,Brookfield,2023,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,CaliMi00
+26,J.J. Watt,DE,Pewaukee,2011,2022,5,5,10,110,151,,,,0,,,,,,,0,,3.0,4.0,3,2.0,WattJ.00
+27,Derek Watt,FB,Waukesha,2016,2022,0,0,0,1,110,,,,0,,,,,29.0,71.0,2,17.0,18.0,178.0,1,53.0,WattDe00
+28,Joe Schobert,OLB,Waukesha,2016,2022,0,1,5,37,99,,,,0,,,,,,,0,,,,0,,SchoJo00
+29,Dan Arnold,WR,Milwaukee,2018,2022,0,0,0,10,59,,,,0,,,,,,,0,,95.0,1258.0,7,59.0,ArnoDa00
+30,Clay Johnston,LB,Green Bay,2020,2022,0,0,0,2,31,,,,0,,,,,,,0,,,,0,,JohnCl00
+31,Daviyon Nixon,DT,Kenosha,2021,2022,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,NixoDa00
+32,Brandon Brooks,G,Milwaukee,2012,2021,0,3,7,50,114,,,,0,,,,,,,0,,,,0,,BrooBr00
+33,Derek Carrier,TE,Edgerton,2013,2021,0,0,1,5,103,,,,0,,,,,2.0,29.0,0,27.0,59.0,529.0,3,25.0,CarrDe00
+34,Trae Waynes,CB,Kenosha,2015,2021,0,0,3,18,79,,,,0,,,,,,,0,,,,0,,WaynTr00
+35,Vince Biegel,OLB,Marshfield,2017,2021,0,0,1,5,43,,,,0,,,,,,,0,,,,0,,BiegVi00
+36,Daurice Fountain,WR,Madison,2018,2021,0,0,0,0,8,,,,0,,,,,,,0,,2.0,23.0,0,12.0,FounDa00
+37,Kahlil McKenzie,DT,Green Bay,2020,2021,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,McKeKa00
+38,Chris Garrett,OLB,Milwaukee,2021,2021,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GarrCh00
+39,Jordan Steckler,,Two Rivers,2021,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,StecJo00
+40,Ricky Wagner,T,West Allis,2013,2020,0,0,6,41,118,,,,0,,,,,,,0,,,,0,,WagnRi00
+41,Bryan Witzmann,T,Houlton,2016,2020,0,0,1,12,40,,,,0,,,,,,,0,,,,0,,WitzBr00
+42,Jack Cichy,ILB,Milwaukee,2018,2020,0,0,0,0,16,,,,0,,,,,,,0,,,,0,,CichJa00
+43,Beau Benzschawel,G,Grafton,2019,2020,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,BenzBe01
+44,Robert Windsor,DL,Fond Du Lac,2020,2020,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WindRo01
+45,Lance Kendricks,TE,Milwaukee,2011,2019,0,0,6,16,137,,,,0,,,,,1.0,-8.0,0,0.0,244.0,2555.0,19,80.0,KendLa00
+46,Travis Frederick,C,Sharon,2013,2019,1,5,6,60,96,,,,0,,,,,,,0,,,,0,,FredTr00
+47,Joe Thomas,T,Brookfield,2007,2017,6,10,10,85,167,,,,0,,,,,,,0,,,,0,,ThomJo28
+48,Chris Maragos,DB,Racine,2010,2017,0,0,0,7,99,,,,0,,,,,1.0,0.0,0,0.0,,,0,,MaraCh99
+49,Karl Klug,DL,La Crosse,2011,2017,0,0,0,13,109,,,,0,,,,,,,0,,1.0,9.0,0,9.0,KlugKa00
+50,Brad Nortman,P,Brookfield,2012,2017,0,0,0,11,96,1.0,1.0,29.0,0,29.0,0.0,0.0,0.0,1.0,-1.0,0,0.0,,,0,,NortBr00
+51,Jared Abbrederis,WR,West Allis,2015,2017,0,0,0,1,22,,,,0,,,,,,,0,,13.0,163.0,0,32.0,AbbrJa00
+52,Marwin Evans,S,Milwaukee,2016,2017,0,0,0,2,32,,,,0,,,,,,,0,,,,0,,EvanMa00
+53,Charlie Whitehurst,QB,Green Bay,2006,2016,0,0,0,7,25,219.0,396.0,2463.0,11,75.0,8.0,38.0,204.0,56.0,156.0,2,23.0,0.0,10.0,0,10.0,WhitCh02
+54,Doug Free,T,Manitowoc,2007,2016,0,0,7,49,124,,,,0,,,,,,,0,,0.0,0.0,0,0.0,FreeDo20
+55,DeAndre Levy,MLB,Milwaukee,2009,2016,0,0,6,45,95,,,,0,,,,,,,0,,,,0,,LevyDe99
+56,Kraig Urbik,G,Hudson,2010,2016,0,0,4,27,100,,,,0,,,,,,,0,,,,0,,UrbiKr20
+57,Colin Kaepernick,QB,Milwaukee,2011,2016,0,0,4,45,69,1011.0,1692.0,12271.0,72,80.0,30.0,171.0,1060.0,375.0,2300.0,13,90.0,,,0,,KaepCo00
+58,Nick Hayden,DT,Hartland,2008,2015,0,0,4,25,76,,,,0,,,,,,,0,,,,0,,HaydNi99
+59,Nick Toon,WR,Middleton,2013,2015,0,0,0,3,17,,,,0,,,,,1.0,4.0,0,4.0,21.0,283.0,1,35.0,ToonNi00
+60,Drew Nowak,DT,Green Bay,2013,2015,0,0,0,4,10,,,,0,,,,,,,0,,,,0,,NowaDr00
+61,Jim Leonhard,DB,Tony,2005,2014,0,0,4,31,142,,,,0,,,,,,,0,,,,0,,LeonJi23
+62,Gabe Carimi,OL,Cottage Grove,2011,2014,0,0,1,12,48,,,,0,,,,,,,0,,,,0,,CariGa00
+63,Peter Konz,C,Oshkosh,2012,2014,0,0,2,16,39,,,,0,,,,,,,0,,,,0,,KonzPe00
+64,Nick Roach,MLB,Milwaukee,2007,2013,0,0,5,32,96,,,,0,,,,,,,0,,,,0,,RoacNi99
+65,Austen Lane,DE,Iola,2010,2013,0,0,2,7,30,,,,0,,,,,,,0,,,,0,,LaneAu99
+66,Bradie Ewing,FB,Richland Center,2013,2013,0,0,0,0,2,,,,0,,,,,,,0,,2.0,29.0,0,15.0,EwinBr00
+67,Scott Wedige,OL,Elkhorn,2012,2012,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WediSc00
+68,Matt Turk,P,Milwaukee,1995,2011,1,3,0,22,244,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,15.0,45.0,0,23.0,,,0,,TurkMa20
+69,Matt Katula,C,Brookfield,2005,2011,0,0,0,10,93,,,,0,,,,,,,0,,,,0,,KatuMa20
+70,John Clay,RB,Racine,2011,2011,0,0,0,0,2,,,,0,,,,,10.0,41.0,1,10.0,,,0,,ClayJo00
+71,Brett Hartmann,P,Menomonee Falls,2011,2011,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,HartBr01
+72,Colin Cochart,TE,Kewaunee,2011,2011,0,0,0,0,10,,,,0,,,,,,,0,,5.0,44.0,1,25.0,CochCo00
+73,Mark Tauscher,T,Marshfield,2000,2010,0,0,9,55,134,,,,0,,,,,,,0,,1.0,-3.0,0,0.0,TausMa20
+74,Michael Bennett,RB,Milwaukee,2001,2010,0,1,3,34,107,,,,0,,,,,842.0,3703.0,13,85.0,159.0,1294.0,6,80.0,BennMi00
+75,Rich Seubert,G,Rozellville,2001,2010,0,0,5,39,104,,,,0,,,,,,,0,,,,0,,SeubRi20
+76,Casey Rabach,C,Sturgeon Bay,2002,2010,0,0,7,44,137,,,,0,,,,,,,0,,,,0,,RabaCa20
+77,Nick Schommer,DB,Red Wing,2010,2010,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,SchoNi99
+78,Mike Schneck,C,Whitefish Bay,1999,2009,0,1,0,19,159,,,,0,,,,,,,0,,,,0,,SchnMi20
+79,Aaron Stecker,RB,Green Bay,2000,2009,0,0,0,19,129,,,,0,,,,,386.0,1526.0,8,59.0,166.0,1175.0,3,48.0,StecAa00
+80,Scott Kooistra,T,Madison,2003,2009,0,0,0,6,84,,,,0,,,,,,,0,,,,0,,KooiSc20
+81,Derek Stanley,WR,Verona,2007,2009,0,0,0,1,15,,,,0,,,,,2.0,5.0,0,5.0,6.0,119.0,1,80.0,StanDe00
+82,Nick Greisen,MLB,Sturgeon Bay,2002,2008,0,0,2,21,98,,,,0,,,,,,,0,,,,0,,GreiNi20
+83,Al Johnson,C,Brussels,2004,2008,0,0,3,23,66,,,,0,,,,,,,0,,,,0,,JohnAl22
+84,Casey Cramer,RB,Middleton,2004,2008,0,0,0,0,36,,,,0,,,,,,,0,,4.0,11.0,1,6.0,CramCa00
+85,Dan Buenning,G,Green Bay,2005,2008,0,0,1,10,36,,,,0,,,,,,,0,,,,0,,BuenDa20
+86,Clint Kriewaldt,LILB,Shiocton,1999,2007,0,0,0,10,123,,,,0,,,,,,,0,,,,0,,KrieCl20
+87,Ross Kolodziej,DT,Stevens Point,2001,2007,0,0,1,12,54,,,,0,,,,,,,0,,,,0,,KoloRo20
+88,John Dekker,TE,Greenfield,2007,2007,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,DekkJo00
+89,Lamar Gordon,RB,Milwaukee,2002,2006,0,0,0,9,41,,,,0,,,,,226.0,774.0,3,29.0,62.0,490.0,2,25.0,GordLa00
+90,Noah Herron,RB,Milwaukee,2005,2006,0,0,0,3,23,,,,0,,,,,85.0,273.0,3,19.0,29.0,211.0,2,16.0,HerrNo00
+91,Cory Raymer,C,Fond du Lac,1995,2005,0,0,4,35,98,,,,0,,,,,,,0,,,,0,,RaymCo20
+92,Kevin Barry,T,Racine,2002,2005,0,0,0,8,59,,,,0,,,,,,,0,,0.0,0.0,0,0.0,BarrKe20
+93,John Navarre,QB,Cudahy,2004,2005,0,0,0,0,2,32.0,64.0,342.0,2,43.0,5.0,5.0,35.0,,,0,,,,0,,NavaJo00
+94,Matt Joyce,G,La Crosse,1995,2004,0,0,4,27,122,,,,0,,,,,,,0,,,,0,,JoycMa20
+95,Bill Schroeder,WR,Eau Claire,1997,2004,0,0,5,39,111,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,3.0,17.0,0,12.0,304.0,4583.0,28,67.0,SchrBi00
+96,Jerry Wunsch,T,Eau Claire,1997,2004,0,0,3,28,113,,,,0,,,,,,,0,,,,0,,WunsJe20
+97,Jason Doering,DB,Rhinelander,2001,2004,0,0,0,6,53,,,,0,,,,,,,0,,,,0,,DoerJa20
+98,Mike Solwold,C,Menomonee Falls,2001,2004,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,SolwMi20
+99,Kevin Stemke,P,Green Bay,2002,2004,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,StemKe20
+100,Jim Flanigan,DT,Green Bay,1994,2003,0,0,6,46,145,,,,0,,,,,1.0,0.0,0,0.0,3.0,7.0,3,4.0,FlanJi21
+101,Mike Maslowski,ROLB,Thorp,1999,2003,0,0,2,14,65,,,,0,,,,,,,0,,,,0,,MaslMi20
+102,Eric Kelly,DB,Milwaukee,2001,2003,0,0,2,9,48,,,,0,,,,,,,0,,,,0,,KellEr20
+103,Tom Burke,DE,Poplar,1999,2002,0,0,1,8,36,,,,0,,,,,,,0,,,,0,,BurkTo20
+104,Donnel Thompson,LB,Madison,2000,2002,0,0,0,2,28,,,,0,,,,,,,0,,,,0,,ThomDo24
+105,Chris McIntosh,T,Pewaukee,2000,2001,0,0,1,8,24,,,,0,,,,,,,0,,,,0,,McInCh20
+106,Jake Moreland,FB,Milwaukee,2000,2001,0,0,0,0,11,,,,0,,,,,,,0,,3.0,15.0,0,6.0,MoreJa00
+107,Jeff Hazuga,DE,Thorp,2001,2001,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,HazuJe20
+108,Mark Maddox,RILB,Milwaukee,1992,2000,0,0,3,25,111,,,,0,,,,,,,0,,,,0,,MaddMa20
+109,Joe Panos,G,Brookfield,1994,2000,0,0,4,27,83,,,,0,,,,,,,0,,,,0,,PanoJo20
+110,Mike Thompson,DT,Portage,1995,2000,0,0,0,3,34,,,,0,,,,,,,0,,,,0,,ThomMi21
+111,Steve Russ,LB,Stetsonville,1997,2000,0,0,0,2,24,,,,0,,,,,,,0,,,,0,,RussSt20
+112,Chris Greisen,QB,Sturgeon Bay,1999,2000,0,0,0,0,5,7.0,16.0,69.0,1,26.0,0.0,3.0,24.0,1.0,1.0,0,1.0,,,0,,GreiCh00
+113,Jeff Dellenbach,C,Wausau,1985,1999,0,0,6,53,211,,,,0,,,,,,,0,,,,0,,DellJe20
+114,Dan Turk,C,Milwaukee,1985,1999,0,0,2,24,218,,,,0,,,,,,,0,,,,0,,TurkDa20
+115,Tyrone Braxton,DB,Madison,1987,1999,0,1,8,56,181,,,,0,,,,,,,0,,,,0,,BraxTy00
+116,Paul Gruber,T,Madison,1988,1999,0,0,12,60,183,,,,0,,,,,,,0,,,,0,,GrubPa20
+117,Chad Cascadden,RLB,Chippewa Falls,1995,1999,0,0,0,10,60,,,,0,,,,,,,0,,,,0,,CascCh20
+118,Mitch Jacoby,TE,Port Washington,1997,1999,0,0,0,0,24,,,,0,,,,,,,0,,3.0,16.0,0,10.0,JacoMi00
+119,Tyree Talton,DB,Beloit,1999,1999,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,TaltTy20
+120,Dave Krieg,QB,Iola,1980,1998,0,3,12,97,213,3105.0,5311.0,38147.0,261,80.0,199.0,494.0,3794.0,417.0,1261.0,13,37.0,3.0,10.0,0,11.0,KrieDa00
+121,Paul Janus,T,Edgerton,1998,1998,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,JanuPa20
+122,Ric Mathias,DB,Monroe,1998,1998,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,MathRi21
+123,Mike Verstegen,G,Appleton,1996,1997,0,0,1,5,22,,,,0,,,,,,,0,,,,0,,VersMi20
+124,Daryl Carter,LB,Milwaukee,1997,1997,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,CartDa20
+125,Chuck Belin,G,Milwaukee,1994,1996,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,BeliCh20
+126,Tom Newberry,G,Onalaska,1986,1995,2,2,10,69,147,,,,0,,,,,,,0,,,,0,,NewbTo20
+127,Steve Avery,RB,Milwaukee,1989,1995,0,0,0,1,27,,,,0,,,,,3.0,7.0,0,5.0,12.0,84.0,1,18.0,AverSt00
+128,Brent Moss,RB,Racine,1995,1995,0,0,0,0,4,,,,0,,,,,22.0,90.0,0,18.0,1.0,-3.0,0,-3.0,MossBr20
+129,Mark Bortz,G,Pardeeville,1983,1994,0,2,11,62,171,,,,0,,,,,,,0,,1.0,8.0,0,8.0,BortMa00
+130,Tim Krumrie,NT,Eau Claire,1983,1994,1,2,10,63,188,,,,0,,,,,,,0,,,,0,,KrumTi00
+131,Jay Schroeder,QB,Milwaukee,1985,1994,0,1,8,61,118,1426.0,2808.0,20063.0,114,85.0,108.0,208.0,1600.0,242.0,761.0,5,31.0,,,0,,SchrJa00
+132,John Offerdahl,LB,Wisconsin Rapids,1986,1993,1,5,7,48,89,,,,0,,,,,,,0,,,,0,,OffeJo00
+133,Barry Rose,WR,Hudson,1993,1993,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,RoseBa20
+134,David Viaene,C,Appleton,1989,1992,0,0,0,4,21,,,,0,,,,,,,0,,,,0,,ViaeDa20
+135,John Derby,LB,Oconomowoc,1992,1992,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DerbJo20
+136,Kurt Larson,LB,Waukesha,1989,1991,0,0,0,4,42,,,,0,,,,,,,0,,,,0,,LarsKu20
+137,Doug Lloyd,RB,Beaver Dam,1991,1991,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LloyDo20
+138,Mike Webster,C,Tomahawk,1974,1990,5,9,14,114,245,,,,0,,,,,,,0,,,,0,,WebsMi00
+139,Glenn Derby,T,Oconomowoc,1989,1990,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,DerbGl20
+140,John Anderson,LB,Waukesha,1978,1989,0,0,10,63,146,,,,0,,,,,,,0,,,,0,,AndeJo20
+141,Tim Jordan,LOLB,Madison,1987,1989,0,0,0,8,30,,,,0,,,,,,,0,,,,0,,JordTi20
+142,Keith Neubert,TE,Fort Atkinson,1988,1989,0,0,1,2,17,,,,0,,,,,,,0,,28.0,302.0,1,35.0,NeubKe00
+143,Monte Smith,G,Madison,1989,1989,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,SmitMo20
+144,Adam Bob,LB,Madison,1989,1989,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,BobxAd20
+145,Peter Shorts,DT,Janesville,1989,1989,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ShorPe20
+146,Butch Woolfolk,RB,Milwaukee,1982,1988,0,0,4,26,81,,,,0,,,,,537.0,1923.0,8,43.0,187.0,1939.0,8,80.0,WoolBu00
+147,David Greenwood,DB,Park Falls,1985,1988,0,0,1,5,27,,,,0,,,,,,,0,,,,0,,GreeDa24
+148,Gordon King,T,Madison,1978,1987,0,0,4,28,97,,,,0,,,,,,,0,,,,0,,KingGo20
+149,Rich Strenger,T,Port Washington,1983,1987,0,0,1,17,49,,,,0,,,,,,,0,,,,0,,StreRi20
+150,Bruce Mathison,QB,Superior,1983,1987,0,0,0,6,18,152.0,309.0,2177.0,7,60.0,20.0,28.0,252.0,34.0,245.0,1,22.0,,,0,,MathBr00
+151,John Kaiser,OLB,Oconomowoc,1984,1987,0,0,0,4,60,,,,0,,,,,,,0,,,,0,,KaisJo20
+152,Bob Landsee,C,Milwaukee,1986,1987,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,LandBo20
+153,Derrick Harden,WR,Milwaukee,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,2.0,29.0,0,15.0,HardDe20
+154,Jay Norvell,LB,Madison,1987,1987,0,0,0,2,6,,,,0,,,,,,,0,,,,0,,NorvJa20
+155,Rick Neuheisel,QB,Madison,1987,1987,0,0,0,1,3,40.0,59.0,367.0,1,32.0,1.0,10.0,89.0,6.0,41.0,1,18.0,,,0,,NeuhRi20
+156,Don Kindt,TE,Milwaukee,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,5.0,34.0,1,11.0,KindDo20
+157,Kevin Fitzgerald,TE,La Crosse,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,FitzKe20
+158,Phil Pettey,G,Kenosha,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,PettPh20
+159,Phil Micech,DE,Milwaukee,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,MicePh20
+160,Jerry Quaerna,T,Janesville,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,QuaeJe20
+161,Stuart Rindy,T,Milwaukee,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,RindSt20
+162,Ben Lawrence,G,Sparta,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LawrBe20
+163,John Scardina,T,Milwaukee,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,ScarJo20
+164,Frank Harris,RB,Waukesha,1987,1987,0,0,0,0,3,,,,0,,,,,6.0,23.0,0,18.0,,,0,,HarrFr20
+165,Lee Weigel,RB,Marshfield,1987,1987,0,0,0,0,2,,,,0,,,,,10.0,26.0,0,7.0,1.0,17.0,0,17.0,WeigLe20
+166,Bill Lobenstein,DE,Mauston,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,LobeBi20
+167,Jim Hobbins,G,Green Bay,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,HobbJi20
+168,Greg Jensen,C,Saux City,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,JensGr20
+169,Greg Liter,DE,Wausau,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,LiteGr20
+170,Mike Hintz,DB,Eau Claire,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,HintMi20
+171,Jim Melka,LB,West Allis,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MelkJi20
+172,Scott Schutt,LB,Prairie du Sac,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,SchuSc20
+173,Dave Stalls,DE,Madison,1977,1985,0,0,2,27,99,,,,0,,,,,,,0,,,,0,,StalDa20
+174,Mark Shumate,NT,Poynette,1985,1985,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,ShumMa20
+175,Scott Bergold,T,Milwaukee,1985,1985,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,BergSc20
+176,Terry Stieve,G,Baraboo,1976,1984,0,0,7,41,113,,,,0,,,,,,,0,,,,0,,StieTe20
+177,Dave Levenick,LB,Milwaukee,1983,1984,0,0,0,1,24,,,,0,,,,,,,0,,,,0,,LeveDa20
+178,Tim Stracka,TE,Madison,1983,1984,0,0,0,0,19,,,,0,,,,,,,0,,2.0,27.0,0,15.0,StraTi20
+179,Mike Reinfeldt,DB,Baraboo,1976,1983,1,1,7,43,104,,,,0,,,,,,,0,,,,0,,ReinMi00
+180,Jim Jodat,RB,Milwaukee,1977,1983,0,0,1,8,87,,,,0,,,,,226.0,866.0,7,26.0,35.0,265.0,2,26.0,JodaJi00
+181,Jerry Golsteyn,QB,West Allis,1977,1983,0,0,0,2,21,92.0,217.0,1077.0,2,52.0,13.0,31.0,245.0,10.0,-4.0,0,2.0,,,0,,GolsJe00
+182,Bob Bruer,TE,Madison,1979,1983,0,0,1,7,68,,,,0,,,,,5.0,-4.0,0,6.0,72.0,709.0,8,26.0,BrueBo00
+183,Greg Knafelc,QB,Green Bay,1983,1983,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,KnafGr20
+184,Doug Sutherland,DT,Superior,1970,1981,0,0,7,51,164,,,,0,,,,,,,0,,,,0,,SuthDo21
+185,John Matuszak,DE,Milwaukee,1973,1981,0,0,7,45,123,,,,0,,,,,,,0,,,,0,,MatuJo20
+186,Dale Markham,T,Whitewater,1980,1981,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,MarkDa20
+187,Rocky Bleier,RB,Appleton,1968,1980,0,0,6,46,140,,,,0,,,,,928.0,3865.0,23,70.0,136.0,1294.0,2,54.0,BleiRo00
+188,Stu Voigt,TE,Madison,1970,1980,0,0,6,21,131,,,,0,,,,,2.0,3.0,1,2.0,177.0,1919.0,17,44.0,VoigSt00
+189,Steve Wagner,DB,Milwaukee,1976,1980,0,0,0,11,61,,,,0,,,,,1.0,16.0,0,16.0,,,0,,WagnSt20
+190,Mike Hunt,MLB,Madison,1978,1980,0,0,1,8,22,,,,0,,,,,,,0,,,,0,,HuntMi20
+191,Jeff Lee,WR,Racine,1980,1980,0,0,0,0,4,,,,0,,,,,,,0,,2.0,19.0,0,12.0,LeexJe20
+192,Tom Dempsey,K,Milwaukee,1969,1979,0,1,0,27,127,,,,0,,,,,,,0,,,,0,,DempTo20
+193,Ted Fritsch,C,Green Bay,1972,1979,0,0,0,19,102,,,,0,,,,,,,0,,,,0,,FritTe21
+194,Randy Dean,QB,Milwaukee,1977,1979,0,0,0,2,23,30.0,65.0,279.0,1,48.0,5.0,5.0,39.0,22.0,150.0,1,19.0,,,0,,DeanRa00
+195,Jim Bakken,K,Madison,1962,1978,2,4,0,51,234,0.0,0.0,0.0,0,0.0,0.0,1.0,9.0,1.0,28.0,0,28.0,,,0,,BakkJi20
+196,Pete Banaszak,RB,Crivitz,1966,1978,0,0,2,39,173,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,964.0,3772.0,47,47.0,121.0,1022.0,5,72.0,BanaPe00
+197,Pat Curran,TE,Milwaukee,1969,1978,0,0,2,13,122,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,30.0,127.0,0,12.0,106.0,1266.0,5,39.0,CurrPa00
+198,Bob Heinz,DT,Milwaukee,1969,1978,0,0,4,32,111,,,,0,,,,,,,0,,,,0,,HeinBo21
+199,Dave Kraayeveld,DE,Elkhorn,1978,1978,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,KraaDa20
+200,John Shinners,G,Hartford,1969,1977,0,0,2,30,97,,,,0,,,,,,,0,,,,0,,ShinJo20

@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Zack Martin,G,Indianapolis,2014,2023,7,9,9,102,152,,,,0.0,,,,,,,0.0,,,,0.0,,MartZa00
+2,Anthony Barr,OLB,South Bend,2014,2023,0,4,7,56,116,,,,0.0,,,,,,,0.0,,,,0.0,,BarrAn00
+3,James Hurst,T,Plainfield,2014,2023,0,0,4,40,150,,,,0.0,,,,,,,0.0,,,,0.0,,HursJa00
+4,MyCole Pruitt,TE,South Bend,2015,2023,0,0,1,7,109,,,,0.0,,,,,,,0.0,,71.0,748.0,12.0,42.0,PruiMy00
+5,Sheldon Day,DT,Indianapolis,2016,2023,0,0,0,7,73,,,,0.0,,,,,,,0.0,,,,0.0,,DayxSh00
+6,Jaylon Smith,OLB,Fort Wayne,2017,2023,0,1,4,37,88,,,,0.0,,,,,,,0.0,,,,0.0,,SmitJa05
+7,Ryan Neal,DB,Hammond,2018,2023,0,0,1,11,62,,,,0.0,,,,,,,0.0,,,,0.0,,NealRy00
+8,Jessie Bates III,FS,Fort Wayne,2018,2023,0,1,5,42,96,,,,0.0,,,,,,,0.0,,,,0.0,,BateJe00
+9,Terry McLaurin,WR,Indianapolis,2019,2023,0,1,4,37,80,,,,0.0,,,,,10.0,71.0,0.0,27.0,378.0,5283.0,25.0,75.0,McLaTe00
+10,Lonnie Johnson Jr.,CB,Gary,2019,2023,0,0,0,9,68,,,,0.0,,,,,,,0.0,,,,0.0,,JohnLo01
+11,Jeremy Chinn,S,Fishers,2020,2023,0,0,3,33,54,,,,0.0,,,,,2.0,29.0,0.0,28.0,,,0.0,,ChinJe00
+12,Rondale Moore,WR,New Albany,2021,2023,0,0,0,12,39,,,,0.0,,,,,52.0,249.0,1.0,45.0,135.0,1201.0,3.0,77.0,MoorRo02
+13,Pete Werner,LB,Indianapolis,2021,2023,0,0,1,18,43,,,,0.0,,,,,,,0.0,,,,0.0,,WernPe00
+14,Ben Skowronek,WR,Fort Wayne,2021,2023,0,0,1,6,45,,,,0.0,,,,,3.0,26.0,1.0,17.0,58.0,575.0,1.0,35.0,SkowBe00
+15,Chris Evans,RB,Indianapolis,2021,2023,0,0,0,2,34,,,,0.0,,,,,19.0,89.0,0.0,13.0,19.0,188.0,3.0,26.0,EvanCh02
+16,David Bell,WR,Indianapolis,2022,2023,0,0,0,3,31,,,,0.0,,,,,,,0.0,,38.0,381.0,3.0,41.0,BellDa02
+17,Cameron McGrone,LB,Indianapolis,2022,2023,0,0,0,1,13,,,,0.0,,,,,,,0.0,,,,0.0,,McGrCa00
+18,Dawand Jones,T,Indianapolis,2023,2023,0,0,0,4,11,,,,0.0,,,,,,,0.0,,,,0.0,,JoneDa07
+19,Caleb Jones,T,Indianapolis,2023,2023,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,JoneCa03
+20,Joe Tippmann,C,Fort Wayne,2023,2023,0,0,0,4,16,,,,0.0,,,,,,,0.0,,,,0.0,,TippJo00
+21,Nick Martin,C,Indianapolis,2017,2022,0,0,4,29,83,,,,0.0,,,,,,,0.0,,,,0.0,,MartNi00
+22,Danny Pinter,OL,South Bend,2020,2022,0,0,0,5,46,,,,0.0,,,,,,,0.0,,1.0,2.0,1.0,2.0,PintDa00
+23,Zander Horvath,RB,Mishawaka,2022,2022,0,0,0,0,15,,,,0.0,,,,,4.0,8.0,0.0,3.0,5.0,8.0,2.0,5.0,HorvZa00
+24,Drue Chrisman,P,Lawrenceburg,2022,2022,0,0,0,1,7,,,,0.0,,,,,,,0.0,,,,0.0,,ChriDr00
+25,Coy Cronk,OL,Lafayette,2022,2022,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,CronCo00
+26,Ryan Kerrigan,LOLB,Muncie,2011,2021,0,4,9,63,172,,,,0.0,,,,,,,0.0,,,,0.0,,KerrRy00
+27,Jack Doyle,TE,Indianapolis,2013,2021,0,2,5,22,131,,,,0.0,,,,,,,0.0,,295.0,2729.0,24.0,34.0,DoylJa00
+28,Cole Toner,T,Greenwood,2016,2021,0,0,0,2,14,,,,0.0,,,,,,,0.0,,,,0.0,,ToneCo00
+29,Jason Spriggs,T,Elkhart,2016,2021,0,0,0,9,59,,,,0.0,,,,,,,0.0,,,,0.0,,SpriJa00
+30,Brandon Dillon,TE,Bringhurst,2019,2021,0,0,0,0,5,,,,0.0,,,,,,,0.0,,1.0,6.0,0.0,6.0,DillBr00
+31,Brandon Knight,OL,Noblesville,2019,2021,0,0,1,6,21,,,,0.0,,,,,,,0.0,,,,0.0,,KnigBr01
+32,Kawann Short,DT,East Chicago,2013,2020,0,2,5,41,99,,,,0.0,,,,,,,0.0,,,,0.0,,ShorKa00
+33,Tyler Eifert,TE,Fort Wayne,2013,2020,0,1,2,19,74,,,,0.0,,,,,,,0.0,,221.0,2501.0,26.0,71.0,EifeTy00
+34,Brian Price,DT,Lafayette,2016,2020,0,0,0,2,24,,,,0.0,,,,,,,0.0,,,,0.0,,PricBr00
+35,Deon Lacey,OLB,Indianapolis,2017,2020,0,0,0,3,53,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,LaceDe00
+36,Sam Ficken,K,Valparaiso,2017,2020,0,0,0,2,28,,,,0.0,,,,,,,0.0,,,,0.0,,FickSa00
+37,Evan Baylis,TE,Fishers,2017,2020,0,0,0,0,11,,,,0.0,,,,,,,0.0,,,,0.0,,BaylEv00
+38,Gehrig Dieter,WR,South Bend,2018,2020,0,0,0,0,10,,,,0.0,,,,,,,0.0,,2.0,32.0,0.0,22.0,DietGe00
+39,Asmar Bilal,LB,Indianapolis,2020,2020,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,BilaAs00
+40,LeVante Bellamy,RB,Indianapolis,2020,2020,0,0,0,0,5,,,,0.0,,,,,4.0,11.0,0.0,8.0,1.0,5.0,0.0,5.0,BellLe02
+41,Nate Becker,TE,Carmel,2020,2020,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,BeckNa00
+42,Tommy Stevens,QB,Indianapolis,2020,2020,0,0,0,0,1,,,,0.0,,,,,4.0,24.0,0.0,10.0,,,0.0,,StevTo01
+43,Austin Mack,WR,Fort Wayne,2020,2020,0,0,0,1,11,,,,0.0,,,,,,,0.0,,7.0,91.0,0.0,50.0,MackAu01
+44,Rod Smith,RB,Fort Wayne,2015,2019,0,0,0,5,55,,,,0.0,,,,,101.0,364.0,5.0,45.0,30.0,272.0,1.0,81.0,SmitRo06
+45,Ben Braunecker,TE,Ferdinand,2016,2019,0,0,0,0,47,,,,0.0,,,,,,,0.0,,13.0,142.0,1.0,20.0,BrauBe00
+46,Krishawn Hogan,WR,Indianapolis,2017,2019,0,0,0,0,10,,,,0.0,,,,,,,0.0,,1.0,4.0,0.0,4.0,HogaKr00
+47,Spencer Schnell,WR,Elhart,2019,2019,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,SchnSp00
+48,Elijah Nkansah,T,Muncie,2018,2018,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,NkanEl00
+49,Andrew East,LS,Indianapolis,2018,2018,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,EastAn01
+50,Jay Cutler,QB,Santa Claus,2006,2017,0,1,10,86,153,3048.0,4920.0,35133.0,227.0,93.0,160.0,322.0,2035.0,386.0,1682.0,9.0,31.0,,,0.0,,CutlJa00
+51,MarQueis Gray,TE,Indianapolis,2013,2017,0,0,1,2,61,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,57.0,0.0,18.0,27.0,328.0,0.0,53.0,GrayMa00
+52,Darius Latham,DT,Indianapolis,2016,2017,0,0,0,2,17,,,,0.0,,,,,,,0.0,,,,0.0,,LathDa01
+53,Spencer Drango,G,Indianapolis,2016,2017,0,0,2,8,32,,,,0.0,,,,,,,0.0,,,,0.0,,DranSp00
+54,Deyshawn Bond,C,Indianapolis,2017,2017,0,0,0,2,4,,,,0.0,,,,,,,0.0,,,,0.0,,BondDe01
+55,Joe Reitz,T,Fishers,2011,2016,0,0,3,21,73,,,,0.0,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ReitJo00
+56,Chris Jones,DT,Brownsburg,2013,2016,0,0,0,14,41,,,,0.0,,,,,,,0.0,,,,0.0,,JoneCh04
+57,Brennen Beyer,LB,Indianapolis,2016,2016,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,BeyeBr00
+58,Steve Weatherford,P,Crown Point,2006,2015,0,0,0,16,143,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,64.0,0.0,26.0,,,0.0,,WeatSt20
+59,Mike Neal,LB,Gary,2010,2015,0,0,2,17,68,,,,0.0,,,,,,,0.0,,,,0.0,,NealMi99
+60,Kyle Brindza,K,Valparaiso,2015,2015,0,0,0,-2,4,,,,0.0,,,,,,,0.0,,,,0.0,,BrinKy00
+61,Nick Hardwick,C,Franklin,2004,2014,0,1,9,67,136,,,,0.0,,,,,,,0.0,,,,0.0,,HardNi55
+62,Courtney Roby,WR,Indianapolis,2005,2014,0,0,0,4,92,,,,0.0,,,,,3.0,19.0,0.0,11.0,26.0,343.0,1.0,32.0,RobyCo00
+63,Bernard Pollard,DB,Fort Wayne,2006,2014,0,1,7,34,126,,,,0.0,,,,,,,0.0,,,,0.0,,PollBe20
+64,Anthony Spencer,DE,Fort Wayne,2007,2014,0,1,4,34,104,,,,0.0,,,,,,,0.0,,,,0.0,,SpenAn99
+65,A.J. Edds,LB,Marion,2011,2014,0,0,0,1,17,,,,0.0,,,,,,,0.0,,,,0.0,,EddsA.99
+66,James Brewer,OL,Indianapolis,2012,2014,0,0,0,4,26,,,,0.0,,,,,,,0.0,,,,0.0,,BrewJa00
+67,Adrien Robinson,TE,Indianapolis,2012,2014,0,0,0,0,19,,,,0.0,,,,,,,0.0,,5.0,50.0,1.0,29.0,RobiAd00
+68,Andrew McDonald,T,Indianapolis,2014,2014,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,McDoAn01
+69,Gerell Robinson,WR,Gary,2014,2014,0,0,0,0,3,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,RobiGe00
+70,Jeremy Trueblood,T,Indianapolis,2006,2013,0,0,6,35,116,,,,0.0,,,,,,,0.0,,,,0.0,,TrueJe20
+71,Le'Ron McClain,RB,Fort Wayne,2007,2013,1,2,6,13,111,,,,0.0,,,,,354.0,1310.0,13.0,82.0,94.0,557.0,3.0,25.0,McClLe00
+72,Michael Otto,T,Kokomo,2008,2013,0,0,0,7,62,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,OttoMi20
+73,Tandon Doss,WR,Indianapolis,2011,2013,0,0,0,4,35,,,,0.0,,,,,,,0.0,,26.0,428.0,1.0,63.0,DossTa00
+74,Chad Spann,RB,Indianapolis,2011,2013,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,SpanCh00
+75,Brandon Moore,G,Gary,2003,2012,0,1,9,51,144,,,,0.0,,,,,,,0.0,,,,0.0,,MoorBr20
+76,Jeremy Bridges,G,Fort Wayne,2004,2012,0,0,2,23,112,,,,0.0,,,,,,,0.0,,,,0.0,,BridJe20
+77,Trai Essex,T,Fort Wayne,2005,2012,0,0,1,19,76,,,,0.0,,,,,,,0.0,,,,0.0,,EsseTr20
+78,Dustin Keller,TE,Lafayette,2008,2012,0,0,3,22,72,,,,0.0,,,,,1.0,7.0,0.0,7.0,241.0,2876.0,17.0,54.0,KellDu00
+79,Ryan Baker,DE,Indianapolis,2009,2012,0,0,0,1,17,,,,0.0,,,,,,,0.0,,,,0.0,,BakeRy00
+80,Anthony Armstrong,WR,Indianapolis,2010,2012,0,0,1,6,35,,,,0.0,,,,,2.0,19.0,0.0,14.0,54.0,986.0,5.0,76.0,ArmsAn00
+81,Darren Evans,RB,Indianapolis,2011,2012,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,EvanDa00
+82,Nathan Palmer,WR,Elkhart,2012,2012,0,0,0,0,5,,,,0.0,,,,,,,0.0,,1.0,-4.0,0.0,-4.0,PalmNa00
+83,Brad Maynard,P,Tipton,1997,2011,0,0,0,20,238,5.0,8.0,94.0,2.0,37.0,0.0,0.0,0.0,4.0,5.0,0.0,20.0,,,0.0,,MaynBr20
+84,Jason Baker,P,Fort Wayne,2001,2011,0,0,0,16,167,,,,0.0,,,,,2.0,0.0,0.0,0.0,,,0.0,,BakeJa20
+85,Kris Dielman,G,Goshen,2003,2011,0,4,6,67,120,,,,0.0,,,,,,,0.0,,,,0.0,,DielKr20
+86,Rex Grossman,QB,Bloomington,2003,2011,0,0,3,23,54,863.0,1562.0,10232.0,56.0,64.0,60.0,92.0,698.0,81.0,106.0,4.0,22.0,1.0,-4.0,0.0,0.0,GrosRe00
+87,Jaymar Johnson,WR,Gary,2009,2011,0,0,0,0,7,,,,0.0,,,,,,,0.0,,1.0,9.0,0.0,9.0,JohnJa01
+88,Donald Washington,DB,Indianapolis,2009,2011,0,0,0,4,32,,,,0.0,,,,,,,0.0,,,,0.0,,WashDo98
+89,Justin Gage,WR,Indianapolis,2003,2010,0,0,3,25,100,,,,0.0,,,,,,,0.0,,201.0,2958.0,16.0,73.0,GageJu00
+90,Craig Terrill,DT,Lebanon,2004,2010,0,0,0,9,88,,,,0.0,,,,,,,0.0,,,,0.0,,TerrCr20
+91,Tank Johnson,DT,Gary,2004,2010,0,0,2,22,91,,,,0.0,,,,,,,0.0,,,,0.0,,JohnTa20
+92,Stanford Keglar,LB,Indianapolis,2008,2010,0,0,0,3,35,,,,0.0,,,,,,,0.0,,,,0.0,,KeglSt99
+93,Devin Moore,RB,Indianapolis,2010,2010,0,0,0,0,4,,,,0.0,,,,,2.0,-2.0,0.0,1.0,,,0.0,,MoorDe01
+94,Todd Yoder,TE,New Palestine,2000,2009,0,0,0,3,134,,,,0.0,,,,,,,0.0,,48.0,460.0,8.0,56.0,YodeTo00
+95,Brandon Gorin,T,Muncie,2003,2009,0,0,2,15,48,,,,0.0,,,,,,,0.0,,,,0.0,,GoriBr20
+96,James Hardy,WR,Fort Wayne,2008,2009,0,0,0,1,16,,,,0.0,,,,,,,0.0,,10.0,96.0,2.0,17.0,HardJa00
+97,John Standeford,WR,Monrovia,2008,2009,0,0,0,2,11,,,,0.0,,,,,,,0.0,,16.0,249.0,0.0,36.0,StanJo00
+98,Jason Fabini,T,Fort Wayne,1998,2008,0,0,9,53,152,,,,0.0,,,,,,,0.0,,,,0.0,,FabiJa20
+99,Paul Spicer,DE,Indianapolis,1999,2008,0,0,4,36,117,,,,0.0,,,,,,,0.0,,,,0.0,,SpicPa20
+100,Rosevelt Colvin,OLB,Indianapolis,1999,2008,0,0,5,38,121,,,,0.0,,,,,,,0.0,,,,0.0,,ColvRo20
+101,Nate Lawrie,TE,Indianapolis,2004,2008,0,0,0,0,26,,,,0.0,,,,,,,0.0,,4.0,43.0,0.0,17.0,LawrNa00
+102,James Marten,T,Indianapolis,2008,2008,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,MartJa21
+103,Troy Walters,WR,Bloomington,2000,2007,0,0,0,12,98,,,,0.0,,,,,4.0,42.0,0.0,17.0,102.0,1135.0,9.0,46.0,WaltTr00
+104,Aaron Halterman,TE,Indianapolis,2007,2007,0,0,0,0,9,,,,0.0,,,,,,,0.0,,1.0,7.0,0.0,7.0,HaltAa00
+105,Jamie Petrowski,TE,Terre Haute,2007,2007,0,0,0,0,0,,,,,,,,,,,,,,,,,PetrJa20
+106,Jason Pociask,TE,Indianapolis,2007,2007,0,0,0,0,4,,,,0.0,,,,,,,0.0,,1.0,7.0,0.0,7.0,PociJa00
+107,Matt Mauck,QB,Evansville,2005,2005,0,0,0,1,2,15.0,27.0,136.0,0.0,17.0,1.0,1.0,8.0,7.0,39.0,0.0,12.0,,,0.0,,MaucMa00
+108,Will Whitticker,G,Evansville,2005,2005,0,0,1,6,15,,,,0.0,,,,,,,0.0,,,,0.0,,WhitWi25
+109,Ken Dilger,TE,Mariah Hill,1995,2004,0,1,10,35,156,1.0,1.0,39.0,1.0,39.0,0.0,0.0,0.0,,,0.0,,356.0,4099.0,24.0,51.0,DilgKe00
+110,Kevin Hardy,LB,Evansville,1996,2004,1,1,9,62,134,,,,0.0,,,,,,,0.0,,,,0.0,,HardKe00
+111,Jay Riemersma,TE,Evansville,1997,2004,0,0,4,19,112,,,,0.0,,,,,,,0.0,,221.0,2524.0,23.0,38.0,RiemJa00
+112,Derrick Ransom,DT,Indianapolis,1998,2004,0,0,2,12,71,,,,0.0,,,,,,,0.0,,,,0.0,,RansDe20
+113,Matt Cushing,TE,South Bend,1999,2004,0,0,0,0,53,,,,0.0,,,,,,,0.0,,13.0,91.0,1.0,22.0,CushMa00
+114,Aaron Gibson,T,Indianapolis,2000,2004,0,0,2,14,38,,,,0.0,,,,,,,0.0,,,,0.0,,GibsAa20
+115,Enoch DeMar,G,Indianapolis,2003,2004,0,0,1,5,20,,,,0.0,,,,,,,0.0,,,,0.0,,DeMaEn20
+116,Billy Strother,LB,Evansville,2004,2004,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,StroBi20
+117,Jason Hilliard,T,Jeffersonville,2004,2004,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,HillJa22
+118,Rod Woodson,DB,Fort Wayne,1987,2003,6,11,15,142,238,,,,0.0,,,,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,WoodRo01
+119,Dan Stryzinski,P,Vincennes,1990,2003,0,0,0,15,224,3.0,4.0,35.0,0.0,21.0,0.0,0.0,0.0,10.0,3.0,0.0,9.0,,,0.0,,StryDa20
+120,Corey Harris,DB,Indianapolis,1992,2003,0,0,6,39,183,,,,0.0,,,,,2.0,10.0,0.0,7.0,2.0,11.0,0.0,6.0,HarrCo20
+121,Rick Mirer,QB,Elkhart,1993,2003,0,0,5,33,80,1088.0,2043.0,11969.0,50.0,60.0,76.0,199.0,1038.0,242.0,1130.0,9.0,33.0,,,0.0,,MireRi00
+122,Tony McGee,TE,Terre Haute,1993,2003,0,0,10,28,156,,,,0.0,,,,,,,0.0,,322.0,4089.0,21.0,58.0,McGeTo00
+123,Lamar Smith,RB,Fort Wayne,1994,2003,0,0,4,33,115,1.0,4.0,20.0,1.0,20.0,0.0,0.0,0.0,1322.0,4853.0,38.0,68.0,159.0,1255.0,7.0,65.0,SmitLa00
+124,Glen Steele,DT,Ligonier,1998,2003,0,0,0,9,90,,,,0.0,,,,,,,0.0,,,,0.0,,SteeGl20
+125,Craig Osika,G,Hobart,2002,2003,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,OsikCr20
+126,Justin Smith,LB,Lafayette,2003,2003,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,SmitJu21
+127,Ray Jackson,RB,Indianapolis,2003,2003,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,JackRa21
+128,Blaine Bishop,DB,Indianapolis,1993,2002,0,4,8,57,138,,,,0.0,,,,,,,0.0,,,,0.0,,BishBl00
+129,Lamont Warren,RB,Indianapolis,1994,2002,0,0,0,16,96,0.0,4.0,0.0,0.0,0.0,1.0,1.0,7.0,287.0,922.0,8.0,53.0,146.0,1270.0,5.0,39.0,WarrLa00
+130,Jared Tomich,DE,St. John,1997,2002,0,0,2,10,57,,,,0.0,,,,,,,0.0,,,,0.0,,TomiJa20
+131,Ryan Schau,T,Hammond,1999,2002,0,0,0,3,17,,,,0.0,,,,,,,0.0,,,,0.0,,SchaRy20
+132,Robert Carswell,DB,Gary,2001,2002,0,0,0,1,18,,,,0.0,,,,,,,0.0,,,,0.0,,CarsRo20
+133,Craig Jarrett,P,Martinsville,2002,2002,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,JarrCr20
+134,Jeff George,QB,Indianapolis,1990,2001,0,0,9,66,131,2298.0,3967.0,27602.0,154.0,85.0,113.0,358.0,2691.0,168.0,307.0,2.0,17.0,0.0,0.0,0.0,0.0,GeorJe00
+135,Josh Whitman,TE,Lafayette,2001,2001,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,WhitJo21
+136,Anthony Johnson,RB,Indianapolis,1990,2000,0,0,3,32,159,0.0,2.0,0.0,0.0,0.0,1.0,0.0,0.0,816.0,2966.0,9.0,29.0,284.0,2422.0,7.0,57.0,JohnAn00
+137,Derrick Mayes,WR,Indianapolis,1996,2000,0,0,1,17,58,,,,0.0,,,,,,,0.0,,145.0,1823.0,16.0,74.0,MayeDe00
+138,Antoine Simpson,DT,Gary,1999,2000,0,0,0,1,11,,,,0.0,,,,,,,0.0,,,,0.0,,SimpAn20
+139,Chris Doleman,DE,Indianapolis,1985,1999,2,8,13,114,232,,,,0.0,,,,,,,0.0,,,,0.0,,DoleCh00
+140,Jamel Williams,DB,Merrillville,1997,1999,0,0,0,2,35,,,,0.0,,,,,,,0.0,,,,0.0,,WillJa22
+141,Dan Brandenburg,LB,Rensselaer,1997,1999,0,0,0,3,42,,,,0.0,,,,,,,0.0,,,,0.0,,BranDa20
+142,Joey Eloms,DB,Fort Wayne,1998,1999,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,ElomJo20
+143,Jamie Asher,TE,Indianapolis,1995,1998,0,0,3,13,48,,,,0.0,,,,,,,0.0,,133.0,1421.0,5.0,34.0,AsheJa00
+144,Jeff Uhlenhake,C,Indianapolis,1989,1997,0,0,8,49,119,,,,0.0,,,,,,,0.0,,,,0.0,,UhleJe20
+145,Matt Elliott,G,Carmel,1992,1997,0,0,2,15,63,,,,0.0,,,,,,,0.0,,,,0.0,,ElliMa20
+146,Jermaine Ross,WR,Jeffersonville,1994,1997,0,0,0,1,23,,,,0.0,,,,,1.0,3.0,1.0,3.0,19.0,233.0,1.0,36.0,RossJe00
+147,Damon Watts,DB,Indianapolis,1994,1997,0,0,2,8,47,,,,0.0,,,,,,,0.0,,,,0.0,,WattDa20
+148,Thomas Guynes,T,Marion,1997,1997,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,GuynTh20
+149,Maurice Douglass,DB,Muncie,1986,1996,0,0,1,18,139,,,,0.0,,,,,,,0.0,,,,0.0,,DougMa21
+150,Moe Gardner,DT,Indianapolis,1991,1996,0,0,6,27,90,,,,0.0,,,,,,,0.0,,,,0.0,,GardMo20
+151,Darrick Brownlow,MLB,Indianapolis,1991,1996,0,0,1,6,95,,,,0.0,,,,,,,0.0,,,,0.0,,BrowDa24
+152,Thomas Homco,LB,Hammond,1993,1996,0,0,0,4,45,,,,0.0,,,,,,,0.0,,,,0.0,,HomcTh20
+153,Issac Booth,DB,Indianapolis,1994,1996,0,0,0,4,35,,,,0.0,,,,,,,0.0,,,,0.0,,BootIs20
+154,Eric England,DE,Fort Wayne,1994,1996,0,0,0,3,37,,,,0.0,,,,,,,0.0,,,,0.0,,EnglEr20
+155,Steve Hall,DB,Fort Wayne,1996,1996,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,HallSt20
+156,Brandon Hayes,G,Muncie,1996,1996,0,0,0,1,7,,,,0.0,,,,,,,0.0,,,,0.0,,HayeBr20
+157,Arnold Mickens,RB,Indianapolis,1996,1996,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,MickAr20
+158,Chris Sedoris,C,Columbus,1996,1996,0,0,0,1,9,,,,0.0,,,,,,,0.0,,,,0.0,,SedoCh20
+159,Adam Lingner,C,Indianapolis,1983,1995,0,0,0,10,200,,,,0.0,,,,,,,0.0,,,,0.0,,LingAd20
+160,Ricky Ervins,RB,Fort Wayne,1991,1995,0,0,1,23,76,,,,0.0,,,,,554.0,2114.0,8.0,65.0,117.0,870.0,2.0,28.0,ErviRi00
+161,Chris Green,DB,Lawrenceburg,1991,1995,0,0,0,5,66,,,,0.0,,,,,,,0.0,,,,0.0,,GreeCh20
+162,Vaughn Dunbar,RB,Fort Wayne,1992,1995,0,0,1,7,39,,,,0.0,,,,,267.0,935.0,5.0,26.0,11.0,73.0,0.0,13.0,DunbVa00
+163,Dave Duerson,DB,Muncie,1983,1993,0,4,5,58,160,,,,0.0,,,,,,,0.0,,,,0.0,,DuerDa00
+164,Mark Clayton,WR,Indianapolis,1983,1993,0,5,10,78,158,1.0,2.0,48.0,1.0,48.0,1.0,2.0,15.0,14.0,108.0,0.0,30.0,582.0,8974.0,84.0,78.0,ClayMa00
+165,Ernie Jones,WR,Elkhart,1988,1993,0,0,3,26,83,,,,0.0,,,,,13.0,76.0,0.0,18.0,215.0,3630.0,20.0,93.0,JoneEr00
+166,Kent Sullivan,P,Plymouth,1991,1993,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,SullKe20
+167,Brian Mitchell,DB,Indianapolis,1991,1993,0,0,0,2,36,,,,0.0,,,,,,,0.0,,,,0.0,,MitcBr21
+168,Ernie Thompson,RB,Terre Haute,1991,1993,0,0,0,1,20,,,,0.0,,,,,13.0,37.0,0.0,14.0,6.0,68.0,1.0,22.0,ThomEr00
+169,Buford Jordan,RB,Lafayette,1986,1992,0,0,1,8,75,,,,0.0,,,,,184.0,687.0,8.0,44.0,37.0,355.0,1.0,37.0,JordBu00
+170,Anthony Thompson,RB,Terre Haute,1990,1992,0,0,0,6,37,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,251.0,831.0,6.0,40.0,14.0,74.0,0.0,14.0,ThomAn00
+171,Blair Kiel,QB,Columbus,1984,1991,0,0,0,4,25,108.0,193.0,1296.0,8.0,50.0,7.0,15.0,117.0,16.0,105.0,1.0,26.0,,,0.0,,KielBl00
+172,Scott Studwell,LB,Evansville,1977,1990,0,2,11,68,201,,,,0.0,,,,,,,0.0,,,,0.0,,StudSc00
+173,Mike Hammerstein,DE,Kokomo,1986,1990,0,0,0,6,56,,,,0.0,,,,,,,0.0,,,,0.0,,HammMi20
+174,Lars Tate,RB,Indianapolis,1988,1990,0,0,2,8,33,,,,0.0,,,,,292.0,1061.0,15.0,48.0,16.0,98.0,2.0,19.0,TateLa00
+175,Jim Juriga,G,Fort Wayne,1988,1990,0,0,3,21,44,,,,0.0,,,,,,,0.0,,,,0.0,,JuriJi20
+176,Ray Wallace,RB,Indianapolis,1986,1989,0,0,1,3,29,,,,0.0,,,,,76.0,330.0,4.0,19.0,24.0,211.0,2.0,35.0,WallRa00
+177,Jason Johnson,WR,Gary,1988,1989,0,0,0,0,22,,,,0.0,,,,,1.0,3.0,0.0,3.0,1.0,6.0,0.0,6.0,JohnJa00
+178,Curtis Maxey,DE,Indianapolis,1988,1989,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,MaxeCu20
+179,Greg Werner,TE,Batesville,1989,1989,0,0,0,1,10,,,,0.0,,,,,,,0.0,,8.0,115.0,0.0,36.0,WernGr00
+180,Ron Baker,G,Gary,1978,1988,0,0,7,45,155,,,,0.0,,,,,,,0.0,,,,0.0,,BakeRo20
+181,Ron Fellows,DB,South Bend,1981,1988,0,0,4,29,112,,,,0.0,,,,,,,0.0,,,,0.0,,FellRo20
+182,David Croudip,DB,Indianapolis,1984,1988,0,0,0,8,62,,,,0.0,,,,,,,0.0,,,,0.0,,CrouDa20
+183,Stacey Toran,DB,Indianapolis,1984,1988,0,0,2,20,72,,,,0.0,,,,,,,0.0,,,,0.0,,ToraSt20
+184,Dave Smith,T,Hammond,1988,1988,0,0,0,1,14,,,,0.0,,,,,,,0.0,,,,0.0,,SmitDa26
+185,Lawrence Johnson,DB,Gary,1979,1987,0,0,1,19,96,,,,0.0,,,,,,,0.0,,,,0.0,,JohnLa22
+186,Bill Roe,LB,South Bend,1980,1987,0,0,0,3,19,,,,0.0,,,,,,,0.0,,,,0.0,,RoexBi20
+187,Von Mansfield,DB,Anderson,1982,1987,0,0,0,2,10,,,,0.0,,,,,,,0.0,,,,0.0,,MansVo20
+188,Bruce King,RB,Clarksville,1985,1987,0,0,0,1,28,,,,0.0,,,,,41.0,121.0,0.0,9.0,8.0,48.0,0.0,8.0,KingBr00
+189,Brian Gant,LB,Gary,1987,1987,0,0,0,2,11,,,,0.0,,,,,,,0.0,,,,0.0,,GantBr20
+190,Tim Mooney,DE,Evansville,1987,1987,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,MoonTi20
+191,Matt Kinzer,P,Indianapolis,1987,1987,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,KinzMa20
+192,Ken Smith,G,Indianapolis,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,SmitKe22
+193,Ed Konopasek,T,Gary,1987,1987,0,0,0,2,3,,,,0.0,,,,,,,0.0,,,,0.0,,KonoEd20
+194,Ted Karras,DT,Gary,1987,1987,0,0,0,1,1,,,,0.0,,,,,,,0.0,,,,0.0,,KarrTe21
+195,Mark Shupe,C,Lafayette,1987,1987,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,ShupMa20
+196,John Diettrich,K,Fort Wayne,1987,1987,0,0,0,2,2,,,,0.0,,,,,,,0.0,,,,0.0,,diettjoh01
+197,Jeff Modesitt,TE,Terre Haute,1987,1987,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,ModeJe20
+198,John Faylor,DB,South Bend,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,FaylJo20
+199,Mark Wheeler,TE,Indianapolis,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,2.0,17.0,0.0,9.0,WheeMa21
+200,Wade Russell,TE,Marion,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,2.0,27.0,1.0,23.0,RussWa20

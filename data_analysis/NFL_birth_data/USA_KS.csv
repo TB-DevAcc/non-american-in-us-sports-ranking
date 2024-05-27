@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Mike Pennel,DT,Topeka,2014,2023,0,0,1,16,121,,,,0,,,,,,,0,,,,0,,PennMi00
+2,Jordan Phillips,DT,Towanda,2015,2023,0,0,4,31,120,,,,0,,,,,,,0,,,,0,,PhilJo01
+3,Blake Bell,TE,Wichita,2015,2023,0,0,1,5,117,,,,0,,,,,5.0,12.0,0,3.0,65.0,667.0,2,48.0,BellBl00
+4,Maliek Collins,DT,Kansas City,2016,2023,0,0,7,44,119,,,,0,,,,,,,0,,,,0,,CollMa00
+5,Braden Smith,G,Olathe,2018,2023,0,0,5,36,82,,,,0,,,,,,,0,,,,0,,SmitBr06
+6,Ben Powers,OL,Wichita,2019,2023,0,0,3,21,64,,,,0,,,,,,,0,,,,0,,PoweBe00
+7,A.J. Epenesa,DL,Oak Park,2020,2023,0,0,0,10,58,,,,0,,,,,,,0,,,,0,,EpenAJ00
+8,Isaiahh Loudermilk,DE,Howard,2021,2023,0,0,0,5,42,,,,0,,,,,,,0,,,,0,,LoudIs00
+9,Teven Jenkins,T,Topeka,2021,2023,0,0,1,11,31,,,,0,,,,,,,0,,,,0,,JenkTe00
+10,Ty Zentner,P,Topeka,2023,2023,0,0,0,1,9,,,,0,,,,,1.0,0.0,0,0.0,,,0,,ZentTy00
+11,Garrett Griffin,TE,Louisburg,2017,2022,0,0,0,0,21,,,,0,,,,,,,0,,5.0,43.0,0,14.0,GrifGa00
+12,Davontae Harris,CB,Wichita,2018,2022,0,0,0,5,42,,,,0,,,,,,,0,,,,0,,HarrDa05
+13,Storey Jackson,LB,Kansas City,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,JackSt01
+14,B.J. Finney,C,Wichita,2016,2021,0,0,0,9,73,,,,0,,,,,,,0,,,,0,,FinnB.01
+15,Deante Burton,WR,Manhattan,2018,2021,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,BurtDe00
+16,Emeke Egbule,LB,Topeka,2019,2021,0,0,0,2,32,,,,0,,,,,,,0,,,,0,,EgbuEm00
+17,Amani Bledsoe,DE,Lawrence,2020,2021,0,0,0,4,19,,,,0,,,,,,,0,,,,0,,BledAm01
+18,Jordy Nelson,WR,Manhattan,2008,2018,0,1,7,73,151,,,,0,,,,,1.0,-2.0,0,0.0,613.0,8587.0,72,93.0,NelsJo00
+19,Ryan Schraeder,T,Wichita,2013,2018,0,0,5,37,88,,,,0,,,,,,,0,,,,0,,SchrRy00
+20,Geneo Grissom,OLB,Hutchinson,2015,2018,0,0,0,3,37,,,,0,,,,,,,0,,,,0,,GrisGe00
+21,Shane Ray,DE,Shawnee Mission,2015,2018,0,0,1,12,49,,,,0,,,,,,,0,,,,0,,RayxSh00
+22,Kyle Wilson,LB,Wichita,2018,2018,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WilsKy00
+23,Terence Newman,DB,Salina,2003,2017,0,2,15,70,221,,,,0,,,,,1.0,4.0,0,4.0,,,0,,NewmTe20
+24,Andrew Gachkar,OOLB,Overland Park,2011,2017,0,0,0,9,101,,,,0,,,,,,,0,,,,0,,GachAn00
+25,Michael Wilhoite,LB,Topeka,2012,2017,0,0,3,22,79,,,,0,,,,,,,0,,,,0,,WilhMi00
+26,Ben Heeney,ILB,Overland Park,2015,2017,0,0,0,3,24,,,,0,,,,,,,0,,,,0,,HeenBe00
+27,Shaun Hill,QB,Parsons,2005,2016,0,0,2,22,49,757.0,1225.0,8295.0,49,75.0,30.0,84.0,533.0,91.0,326.0,4,40.0,1.0,0.0,0,0.0,HillSh00
+28,Darrell Stuckey,S,Kansas City,2010,2016,0,1,0,8,89,,,,0,,,,,,,0,,,,0,,StucDa20
+29,David Arkin,OL,Wichita,2013,2016,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ArkiDa00
+30,Arthur Brown,OLB,Wichita,2013,2016,0,0,0,3,48,,,,0,,,,,,,0,,,,0,,BrowAr00
+31,Bryce Brown,RB,Wichita,2012,2015,0,0,0,9,42,,,,0,,,,,251.0,1076.0,7,65.0,37.0,316.0,0,40.0,BrowBr02
+32,Joseph Randle,RB,Wichita,2013,2015,0,0,0,7,35,,,,0,,,,,181.0,822.0,9,65.0,22.0,170.0,0,25.0,RandJo01
+33,Dreamius Smith,RB,Wichita,2015,2015,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SmitDr02
+34,Kamerion Wimbley,DE,Wichita,2006,2014,0,0,8,44,140,,,,0,,,,,,,0,,,,0,,WimbKa20
+35,Elbert Mack,CB,Wichita,2008,2014,0,0,0,6,81,,,,0,,,,,,,0,,,,0,,MackEl20
+36,Tanner Hawkinson,T,McPherson,2013,2014,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,HawkTa00
+37,Brian Moorman,P,Wichita,2001,2013,2,2,0,23,202,3.0,7.0,68.0,2,25.0,0.0,0.0,0.0,13.0,55.0,0,34.0,,,0,,MoorBr24
+38,Lamar Mady,G,Topeka,2013,2013,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,MadyLa00
+39,Chris Harper,WR,Wichita,2013,2013,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,HarpCh00
+40,Ryan Torain,RB,Topeka,2008,2012,0,0,1,5,22,,,,0,,,,,238.0,1011.0,6,54.0,24.0,148.0,2,20.0,ToraRy00
+41,Christian Ballard,DL,Lawrence,2011,2012,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,BallCh00
+42,Tysyn Hartman,DB,Hays,2012,2012,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,HartTy00
+43,Mike Rivera,LB,Shawnee,2012,2012,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,RiveMi00
+44,Kelly Gregg,NT,Wichita,1999,2011,0,0,9,61,153,,,,0,,,,,,,0,,,,0,,GregKe20
+45,Brody Eldridge,C,La Cygne,2010,2011,0,0,2,0,27,,,,0,,,,,,,0,,14.0,84.0,0,10.0,EldrBr00
+46,Brian Smith,LB,Overland Park,2011,2011,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SmitBr02
+47,Kerry Meier,WR,Pittsburg,2011,2011,0,0,0,0,12,,,,0,,,,,,,0,,0.0,0.0,0,0.0,MeieKe00
+48,Joe Hastings,WR,Wichita,2011,2011,0,0,0,0,1,,,,0,,,,,,,0,,0.0,0.0,0,0.0,HastJo00
+49,Mark Simoneau,LB,Phillipsburg,2000,2010,0,0,4,29,124,,,,0,,,,,,,0,,,,0,,SimoMa20
+50,Trey Lewis,DT,Topeka,2007,2010,0,0,0,4,18,,,,0,,,,,,,0,,,,0,,LewiTr99
+51,Monty Beisel,MLB,Douglass,2001,2009,0,0,0,13,119,,,,0,,,,,,,0,,,,0,,BeisMo20
+52,Dirk Johnson,P,Hoxie,2002,2009,0,0,0,8,80,1.0,2.0,10.0,0,10.0,0.0,0.0,0.0,1.0,0.0,0,0.0,,,0,,JohnDi20
+53,Jared Retkofsky,C,Wichita,2008,2009,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,RetkJa00
+54,Jerame Tuman,TE,Liberal,1999,2008,0,0,2,5,123,,,,0,,,,,,,0,,46.0,541.0,7,32.0,TumaJe00
+55,Rashad Washington,DB,Wichita,2004,2007,0,0,0,3,47,,,,0,,,,,,,0,,,,0,,WashRa20
+56,Kendall Gammon,C,Wichita,1992,2006,0,1,0,11,234,,,,0,,,,,,,0,,0.0,0.0,0,0.0,GammKe00
+57,Will Shields,G,Fort Riley,1993,2006,2,12,14,113,224,,,,0,,,,,,,0,,1.0,4.0,0,4.0,ShieWi00
+58,Don Davis,OLB,Olathe,1996,2006,0,0,0,15,148,,,,0,,,,,,,0,,,,0,,DaviDo22
+59,John Parrella,DT,Topeka,1993,2004,0,0,7,46,172,,,,0,,,,,,,0,,,,0,,ParrJo20
+60,Ron Warner,DE,Independence,1998,2004,0,0,0,3,24,,,,0,,,,,,,0,,,,0,,WarnRo20
+61,Greg Walker,T,Wichita,2004,2004,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,WalkGr20
+62,Sam Simmons,WR,Kansas City,2003,2003,0,0,0,0,11,,,,0,,,,,,,0,,0.0,0.0,0,0.0,SimmSa20
+63,Arland Bruce,WR,Olathe,2003,2003,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BrucAr20
+64,Justin Swift,TE,Kansas City,1999,2002,0,0,0,2,49,,,,0,,,,,,,0,,22.0,137.0,1,13.0,SwifJu00
+65,Mondriel Fulcher,TE,Coffeyville,2000,2002,0,0,0,0,25,,,,0,,,,,,,0,,0.0,0.0,0,0.0,FulcMo20
+66,Troy Wilson,DE,Topeka,1993,2001,0,0,0,7,61,,,,0,,,,,,,0,,,,0,,WilsTr21
+67,Reggie Jones,WR,Kansas City,1995,2001,0,0,0,2,21,,,,0,,,,,,,0,,27.0,282.0,0,34.0,JoneRe00
+68,Lamar Chapman,DB,Liberal,2000,2001,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,ChapLa20
+69,Dan Dercher,T,Kansas City,1999,2000,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,DercDa20
+70,Chris Eitzmann,TE,Belleville,2000,2000,0,0,0,0,5,,,,0,,,,,,,0,,0.0,0.0,0,0.0,EitzCh20
+71,Wendell Davis,DB,Wichita,1996,1999,0,0,0,3,34,,,,0,,,,,,,0,,,,0,,DaviWe20
+72,Jimmy Sprotte,LB,Olathe,1998,1999,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,SproJi20
+73,Ben Peterson,LB,Clay Center,1999,1999,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,PeteBe20
+74,Les Miller,NT,Arkansas City,1987,1998,0,0,3,33,152,,,,0,,,,,,,0,,,,0,,MillLe20
+75,Barry Sanders,RB,Wichita,1989,1998,6,10,10,120,153,1.0,4.0,11.0,0,11.0,1.0,0.0,0.0,3062.0,15269.0,99,85.0,352.0,2921.0,10,66.0,SandBa00
+76,Eric Guliford,WR,Kansas City,1993,1998,0,0,1,8,52,1.0,2.0,46.0,0,46.0,1.0,0.0,0.0,3.0,0.0,0,1.0,67.0,975.0,2,49.0,GuliEr00
+77,Brian Manning,WR,Kansas City,1997,1998,0,0,0,1,10,,,,0,,,,,,,0,,7.0,85.0,0,21.0,MannBr00
+78,Steve Tasker,WR,Smith Center,1985,1997,0,7,0,7,169,,,,0,,,,,20.0,130.0,0,17.0,51.0,779.0,9,62.0,TaskSt00
+79,Jim Everett,QB,Emporia,1986,1997,0,1,10,87,158,2841.0,4923.0,34837.0,203,81.0,175.0,257.0,1885.0,257.0,596.0,4,22.0,,,0,,EverJi00
+80,Harry Colon,DB,Kansas City,1991,1997,0,0,3,19,87,,,,0,,,,,,,0,,,,0,,ColoHa20
+81,Lyron Cobbins,LB,Kansas City,1997,1997,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,CobbLy20
+82,Mark Dennis,T,Junction City,1987,1996,0,0,3,36,125,,,,0,,,,,,,0,,1.0,3.0,0,3.0,DennMa21
+83,John Brandes,TE,Fort Riley,1987,1993,0,0,0,0,90,,,,0,,,,,,,0,,5.0,35.0,0,13.0,BranJo20
+84,Robert Delpino,RB,Dodge City,1988,1993,0,0,1,25,88,,,,0,,,,,502.0,1815.0,18,36.0,178.0,1769.0,9,78.0,DelpRo00
+85,Lawrence Pete,NT,Wichita,1989,1993,0,0,1,11,61,,,,0,,,,,,,0,,,,0,,PeteLa20
+86,Scott Fulhage,P,Beloit,1987,1992,0,0,0,12,88,1.0,1.0,12.0,0,12.0,0.0,0.0,0.0,2.0,0.0,0,0.0,,,0,,FulhSc20
+87,Mark Duckens,DE,Wichita,1989,1992,0,0,0,3,35,,,,0,,,,,,,0,,,,0,,DuckMa20
+88,Tony Barker,LB,Wichita,1992,1992,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,BarkTo20
+89,Pat Ryan,QB,Hutchinson,1978,1991,0,0,1,13,145,364.0,657.0,4320.0,31,50.0,35.0,50.0,342.0,53.0,156.0,1,25.0,,,0,,RyanPa00
+90,Mike Bell,DE,Wichita,1979,1991,0,0,7,45,135,,,,0,,,,,,,0,,,,0,,BellMi20
+91,Damian Johnson,G,Great Bend,1986,1990,0,0,2,13,54,,,,0,,,,,,,0,,,,0,,JohnDa20
+92,Jackie Cline,DE,Kansas City,1987,1990,0,0,1,7,42,,,,0,,,,,,,0,,,,0,,ClinJa20
+93,Mark Haynes,DB,Kansas City,1980,1989,2,3,7,66,127,,,,0,,,,,,,0,,,,0,,HaynMa00
+94,Bucky Scribner,P,Lawrence,1983,1989,0,0,0,9,68,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,2.0,-7.0,0,0.0,,,0,,ScriBu20
+95,Stafford Mays,DE,Lawrence,1980,1988,0,0,0,14,119,,,,0,,,,,,,0,,,,0,,MaysSt20
+96,Frank Wattelet,DB,Paola,1981,1988,0,0,5,36,98,1.0,1.0,13.0,0,13.0,0.0,0.0,0.0,2.0,42.0,0,23.0,,,0,,WattFr20
+97,Jeff Smith,RB,Wichita,1985,1988,0,0,1,10,56,,,,0,,,,,204.0,752.0,5,46.0,87.0,718.0,7,45.0,SmitJe00
+98,Paul Oswald,C,Topeka,1987,1988,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,OswaPa20
+99,Nolan Cromwell,DB,Smith Center,1977,1987,3,4,9,71,161,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,7.0,55.0,3,17.0,,,0,,CromNo00
+100,David Verser,WR,Kansas City,1981,1987,0,0,0,6,52,,,,0,,,,,8.0,57.0,0,29.0,23.0,454.0,3,73.0,VersDa00
+101,Monte Bennett,NT,Sterling,1981,1987,0,0,0,3,19,,,,0,,,,,,,0,,,,0,,BennMo20
+102,Allen Lyday,DB,Wichita,1984,1987,0,0,0,3,36,,,,0,,,,,,,0,,,,0,,LydaAl20
+103,Jerry Quick,T,Anthony,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,QuicJe20
+104,Jeff George,DB,Atchison,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,GeorJe20
+105,Dale Walters,P,Dighton,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WaltDa21
+106,James Shibest,WR,Fort Riley,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ShibJa20
+107,Tony Leiker,DE,Hays,1987,1987,0,0,0,1,1,,,,0,,,,,,,0,,,,0,,LeikTo20
+108,Sylvester Byrd,TE,Kansas City,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,7.0,125.0,0,33.0,ByrdSy20
+109,Richard Estell,WR,Kansas City,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,3.0,24.0,0,11.0,EsteRi20
+110,Vince Rafferty,C,Manhattan,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,RaffVi20
+111,Jeff Tootle,LB,Salina,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,TootJe20
+112,Will Cokeley,LB,Topeka,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,CokeWi20
+113,Chuck Washington,DB,Topeka,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,WashCh22
+114,Doug Hoppock,T,Wichita,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,HoppDo20
+115,Billy Robinson,DB,Wichita,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,RobiBi20
+116,Gary Spani,LB,Satanta,1978,1986,0,0,8,43,124,,,,0,,,,,,,0,,,,0,,SpanGa20
+117,John Riggins,RB,Centralia,1971,1985,1,1,12,90,175,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,2916.0,11352.0,104,66.0,250.0,2090.0,12,67.0,RiggJo00
+118,Lynn Dickey,QB,Paola,1971,1985,0,0,8,67,152,1747.0,3125.0,23322.0,141,95.0,179.0,297.0,2423.0,140.0,121.0,9,13.0,,,0,,DickLy00
+119,Ken Huff,G,Hutchinson,1975,1985,0,0,8,47,145,,,,0,,,,,,,0,,1.0,-1.0,0,0.0,HuffKe20
+120,Russ Bolinger,G,Wichita,1976,1985,0,0,5,32,121,,,,0,,,,,,,0,,1.0,-1.0,0,0.0,BoliRu20
+121,Tom Dinkel,LOLB,Topeka,1978,1985,0,0,2,21,102,,,,0,,,,,3.0,34.0,0,20.0,,,0,,DinkTo20
+122,Fred Cornwell,TE,Osborne,1984,1985,0,0,0,1,30,,,,0,,,,,,,0,,8.0,100.0,2,32.0,CornFr22
+123,Ron Faurot,DE,Wichita,1984,1985,0,0,1,6,20,,,,0,,,,,,,0,,,,0,,FaurRo20
+124,Derrel Gofourth,G,Parsons,1977,1984,0,0,5,32,116,,,,0,,,,,,,0,,,,0,,GofoDe20
+125,Mark Bell,DE,Wichita,1979,1984,0,0,0,6,64,,,,0,,,,,,,0,,3.0,33.0,0,16.0,BellMa22
+126,Greg Bracelin,LOLB,Lawrence,1980,1984,0,0,2,15,68,,,,0,,,,,,,0,,,,0,,BracGr20
+127,Terry Beeson,LB,Coffeyville,1977,1982,0,0,4,21,82,,,,0,,,,,,,0,,,,0,,BeesTe20
+128,Steve Henry,DB,Kansas City,1979,1981,0,0,0,3,15,,,,0,,,,,,,0,,,,0,,HenrSt20
+129,Bobby Whitten,G,Junction City,1981,1981,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WhitBo25
+130,Steve Towle,LB,Kansas City,1975,1980,0,0,4,30,78,,,,0,,,,,,,0,,,,0,,TowlSt20
+131,Mike Wellman,C,Newton,1979,1980,0,0,0,4,20,,,,0,,,,,,,0,,,,0,,WellMi20
+132,Wes Roberts,DE,Dodge City,1980,1980,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,RobeWe20
+133,Mark Goodspeed,T,Kansas City,1980,1980,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,GoodMa20
+134,John Zook,DE,Garden City,1969,1979,0,1,10,58,144,,,,0,,,,,,,0,,,,0,,ZookJo00
+135,Richard Osborne,TE,Wichita,1976,1979,0,0,0,2,50,,,,0,,,,,,,0,,23.0,197.0,1,48.0,OsboRi00
+136,Eddie Hare,P,Ulysses,1979,1979,0,0,0,1,16,1.0,1.0,4.0,0,4.0,0.0,0.0,0.0,1.0,0.0,0,0.0,,,0,,HareEd20
+137,Billy Kilmer,QB,Topeka,1961,1978,0,1,11,75,170,1585.0,2984.0,20495.0,152,96.0,146.0,216.0,1644.0,362.0,1509.0,21,35.0,27.0,288.0,1,35.0,KilmBi00
+138,Bobby Douglass,QB,Manhattan,1969,1978,0,0,4,37,91,507.0,1178.0,6493.0,36,85.0,64.0,180.0,1335.0,410.0,2654.0,22,57.0,1.0,-2.0,0,0.0,DougBo00
+139,Dan Dickel,OLB,Fort Riley,1974,1978,0,0,0,12,60,,,,0,,,,,,,0,,,,0,,DickDa20
+140,Marvin Switzer,DB,Bogue,1978,1978,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,SwitMa20
+141,John Hadl,QB,Lawrence,1962,1977,1,6,12,106,224,2363.0,4687.0,33503.0,244,85.0,268.0,284.0,2595.0,351.0,1112.0,16,37.0,3.0,-9.0,0,4.0,HadlJo00
+142,John Lohmeyer,DT,Emporia,1973,1977,0,0,2,10,41,,,,0,,,,,,,0,,,,0,,LohmJo20
+143,Doug Dumler,C,Hoisington,1973,1977,0,0,0,17,70,,,,0,,,,,,,0,,,,0,,DumlDo20
+144,Rick Dvorak,DT,Spearville,1974,1977,0,0,1,12,47,,,,0,,,,,,,0,,,,0,,DvorRi20
+145,Marv Kellum,OLB,Topeka,1974,1977,0,0,0,15,56,,,,0,,,,,,,0,,,,0,,KellMa20
+146,Mike Lemon,LB,Topeka,1975,1977,0,0,0,5,22,,,,0,,,,,,,0,,,,0,,LemoMi20
+147,Bill Olds,RB,Kansas City,1973,1976,0,0,2,12,52,,,,0,,,,,287.0,985.0,6,34.0,62.0,372.0,4,28.0,OldsBi00
+148,Steve Crosby,RB,Great Bend,1974,1976,0,0,0,1,15,,,,0,,,,,15.0,54.0,0,10.0,2.0,44.0,0,44.0,CrosSt00
+149,Spencer Thomas,DB,Kansas City,1975,1976,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,ThomSp20
+150,Sid Smith,C,Wichita,1970,1974,0,0,0,11,53,,,,0,,,,,,,0,,1.0,12.0,0,12.0,SmitSi20
+151,Jay Douglas,C,Palco,1973,1974,0,0,0,5,28,,,,0,,,,,,,0,,,,0,,DougJa20
+152,David Jaynes,QB,Kansas City,1974,1974,0,0,0,0,2,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,1.0,0.0,0,0.0,,,0,,JaynDa00
+153,Jerry Inman,DT,Manhattan,1966,1973,0,0,2,20,82,,,,0,,,,,,,0,,,,0,,InmaJe20
+154,Gale Sayers,RB,Wichita,1965,1971,5,4,5,60,68,4.0,18.0,111.0,1,39.0,2.0,1.0,3.0,991.0,4956.0,39,70.0,112.0,1307.0,9,80.0,SayeGa00
+155,Ed Philpott,LB,Wichita,1967,1971,0,0,3,25,68,,,,0,,,,,,,0,,,,0,,PhilEd21
+156,Dave Jones,WR,Goodland,1969,1971,0,0,0,1,41,,,,0,,,,,,,0,,6.0,99.0,0,22.0,JoneDa01
+157,Dave Martin,LB,Kansas City,1968,1969,0,0,0,2,10,,,,0,,,,,,,0,,,,0,,MartDa20
+158,Ron Sayers,RB,Wichita,1969,1969,0,0,0,0,8,,,,0,,,,,14.0,53.0,0,8.0,,,0,,SayeRo00
+159,Brian Schweda,DE,Kansas City,1966,1968,0,0,2,11,38,,,,0,,,,,,,0,,,,0,,SchwBr21
+160,Steve Quinn,C,Pittsburg,1968,1968,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,QuinSt20
+161,Ron Kramer,TE,Girard,1957,1967,1,1,8,34,128,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,6.0,9.0,0,12.0,229.0,3272.0,16,68.0,KramRo00
+162,Al Reynolds,G,Winchester,1960,1967,0,0,3,32,98,,,,0,,,,,,,0,,,,0,,ReynAl20
+163,Dick Tyson,G,Kansas City,1966,1967,0,0,0,2,10,,,,0,,,,,,,0,,,,0,,TysoDi20
+164,George Harvey,T,Topeka,1967,1967,0,0,0,2,6,,,,0,,,,,,,0,,,,0,,HarvGe20
+165,Bobby Morgan,DB,Wamego,1967,1967,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,MorgBo21
+166,Galen Fiss,LB,Johnson,1956,1966,0,2,8,39,139,,,,0,,,,,,,0,,,,0,,FissGa00
+167,Smokey Stover,RLB,McPherson,1960,1966,0,0,3,29,98,,,,0,,,,,,,0,,,,0,,StovSm20
+168,Eldon Danenhauer,T,Clay Center,1960,1965,0,2,6,37,79,,,,0,,,,,,,0,,,,0,,DaneEl00
+169,Tony Banfield,DB,Independence,1960,1965,3,3,5,53,67,,,,0,,,,,,,0,,,,0,,BanfTo00
+170,Ollie Spencer,T,Hopewell,1953,1963,0,0,6,12,99,,,,0,,,,,,,0,,,,0,,SpenOl20
+171,Jack Morris,DB,White City,1958,1961,0,0,2,8,45,,,,0,,,,,,,0,,,,0,,MorrJa20
+172,Dave Baker,DB,Coffeyville,1959,1961,0,1,3,22,38,,,,0,,,,,,,0,,,,0,,BakeDa00
+173,Fred Bukaty,FB,Kansas City,1961,1961,0,0,1,2,14,,,,0,,,,,76.0,187.0,5,45.0,14.0,94.0,0,13.0,BukaFr00
+174,Doyle Schick,DB,Lawrence,1961,1961,0,0,0,2,5,,,,0,,,,,,,0,,,,0,,SchiDo20
+175,Dale Evans,HB,St. Francis,1961,1961,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,EvanDa20
+176,Bill Striegel,G,Easton,1959,1960,0,0,0,2,18,,,,0,,,,,,,0,,,,0,,StriBi23
+177,Bill Danenhauer,DE,Clay Center,1960,1960,0,0,0,4,7,,,,0,,,,,,,0,,,,0,,DaneBi20
+178,Dale Dodrill,MG,Stockton,1951,1959,1,4,8,0,103,,,,0,,,,,,,0,,,,0,,DodrDa00
+179,Jack Christiansen,DB,Sublette,1951,1958,6,5,8,0,89,,,,0,,,,,19.0,143.0,2,65.0,3.0,32.0,0,11.0,ChriJa00
+180,Veryl Switzer,HB,Nicodemus,1954,1955,0,0,0,0,24,,,,0,,,,,31.0,160.0,0,38.0,31.0,269.0,3,28.0,SwitVe20
+181,Bob Hantla,G,St. John,1954,1955,0,0,0,0,24,,,,0,,,,,,,0,,,,0,,HantBo20
+182,Larry Hartshorn,G,Oil Hill,1955,1955,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HartLa21
+183,Thurman McGraw,DT,Garden City,1950,1954,1,1,4,0,49,,,,0,,,,,,,0,,,,0,,McGrTh00
+184,Ernie Blandin,T,Augusta,1946,1953,0,0,4,0,71,,,,0,,,,,1.0,-6.0,0,0.0,1.0,16.0,0,16.0,BlanEr20
+185,John Amberg,DB,Johnson County,1951,1952,0,0,1,0,24,,,,0,,,,,14.0,62.0,0,9.0,3.0,40.0,0,18.0,AmbeJo00
+186,Ken Casner,DT,Fort Scott,1952,1952,0,0,1,0,11,,,,0,,,,,,,0,,,,0,,CasnKe20
+187,Otto Schnellbacher,DB,Sublette,1948,1951,1,2,2,0,50,,,,0,,,,,,,0,,6.0,83.0,0,11.0,SchnOt00
+188,Darrel Meisenheimer,DB,Wellsford,1951,1951,0,0,1,0,9,,,,0,,,,,,,0,,,,0,,MeisDa20
+189,Ray Romero,G,Wichita,1951,1951,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,RomeRa20
+190,Tommy Thompson,QB,Hutchinson,1940,1950,0,1,5,0,99,732.0,1424.0,10385.0,91,75.0,103.0,,415.0,293.0,25.0,6,22.0,8.0,85.0,1,,ThomTo21
+191,Gene Roberts,HB,,1947,1950,0,1,3,0,44,0.0,1.0,0.0,0,0.0,1.0,,,499.0,1904.0,14,63.0,64.0,1135.0,12,85.0,RobeEu00
+192,Harley Dow,G,Mt. Hope,1950,1950,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,DowxHa20
+193,Billy Dewell,E,Concordia,1940,1949,0,1,6,0,69,,,,0,,,,,1.0,-1.0,0,0.0,177.0,2657.0,17,82.0,DeweBi20
+194,Roy Zimmerman,QB,Tonganoxie,1940,1948,0,1,6,0,84,299.0,703.0,4801.0,44,75.0,70.0,,102.0,200.0,244.0,6,18.0,5.0,36.0,0,11.0,ZimmRo20
+195,Ray Evans,TB,Kansas City,1948,1948,0,0,1,0,9,64.0,137.0,924.0,5,66.0,17.0,,81.0,99.0,343.0,2,24.0,7.0,93.0,0,36.0,EvanRa20
+196,Lin Sexton,HB,Wichita,1948,1948,0,0,0,0,11,,,,0,,,,,7.0,39.0,0,,,,0,,SextLi20
+197,Sam Gray,E,Independence,1946,1947,0,0,0,0,16,,,,0,,,,,,,0,,1.0,20.0,0,20.0,GraySa20
+198,Bill Hachten,G,Wichita,1947,1947,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,HachBi20
+199,Elmer Hackney,FB,Oberlin,1940,1946,0,0,0,0,61,2.0,5.0,18.0,0,19.0,0.0,,,220.0,846.0,10,78.0,19.0,135.0,1,16.0,HackEl20
+200,Lee Shaffer,B,Minneola,1935,1945,0,1,3,0,98,,,,0,,,,,24.0,81.0,1,4.0,52.0,531.0,5,40.0,ShafLe20

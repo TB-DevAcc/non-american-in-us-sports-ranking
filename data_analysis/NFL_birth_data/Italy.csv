@@ -1,0 +1,24 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Giorgio Tavecchio,K,Milan,2017,2018,0,0,0,3,19,,,,0,,,,,,,0,,,,0,,TaveGi00
+2,Jude Adjei-Barimah,CB,Pordenone,2015,2016,0,0,1,3,23,,,,0,,,,,,,0,,,,0,,AdjeJu00
+3,Mykkele Thompson,S,Naples,2016,2016,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ThomMy00
+4,Will Yeatman,TE,Naples,2011,2013,0,0,0,1,15,,,,0,,,,,,,0,,0.0,0.0,0,0.0,YeatWi00
+5,Elnardo Webster,LB,Goritza,1992,1992,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WebsEl20
+6,Kerry Porter,RB,Vicenza,1987,1990,0,0,0,0,35,,,,0,,,,,16.0,57.0,0,23.0,4.0,44.0,0,16.0,PortKe20
+7,Massimo Manca,K,Sassari,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,mancamas01
+8,Nick Mike-Mayer,K,Bologna,1973,1982,0,1,0,18,125,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,1.0,4.0,0,4.0,,,0,,MikeNi20
+9,Sandro Vitiello,K,Broccastella,1980,1980,0,0,0,-1,2,,,,0,,,,,,,0,,,,0,,vitiesan01
+10,David Knight,WR,Trieste,1973,1977,0,0,2,13,58,,,,0,,,,,,,0,,73.0,1189.0,7,49.0,KnigDa00
+11,Leo Nomellini,DT,Lucca,1950,1963,6,10,13,30,174,,,,0,,,,,1.0,5.0,0,5.0,,,0,,NomeLe00
+12,Bruno Banducci,G,Tassignano,1944,1954,2,1,9,0,122,,,,0,,,,,,,0,,1.0,7.0,1,11.0,BandBr00
+13,Ralph Sazio,T,Avellino,1948,1948,0,0,1,0,13,,,,0,,,,,0.0,5.0,0,,,,0,,SaziRa20
+14,Pete Gorgone,HB,Bruca,1946,1946,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,GorgPe20
+15,Enio Conti,G,Naples,1941,1945,0,1,3,0,40,,,,0,,,,,1.0,-1.0,0,0.0,,,0,,ContEn20
+16,Frank Gaziano,G,Realemonte,1944,1944,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,GaziFr20
+17,Mac Cara,E,Reggie di Calabria,1937,1938,0,0,0,0,19,,,,0,,,,,1.0,-1.0,0,0.0,6.0,54.0,0,,CaraMa20
+18,Joe Savoldi,FB,Milan,1930,1930,0,0,0,0,3,,,,0,,,,,0.0,0.0,1,0.0,,,0,,SavoJo20
+19,Rocky Segretta,E,Monreale,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SegrRo20
+20,Jack Bonadies,G,Corleto Perticara,1926,1926,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,BonaJa20
+21,Joe Santone,G,Campobasso,1926,1926,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SantJo20
+22,Ralph Vince,G,Vinci,1923,1925,0,0,1,0,13,,,,0,,,,,,,0,,,,0,,VincRa20
+23,Ping Bodie,FB,,1921,1921,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BodiPi20

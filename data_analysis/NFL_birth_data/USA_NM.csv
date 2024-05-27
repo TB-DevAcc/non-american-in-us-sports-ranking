@@ -1,0 +1,47 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Joey Slye,K,Albuquerque,2019,2023,0,0,1,12,78,,,,0.0,,,,,,,0.0,,,,0.0,,SlyeJo00
+2,Zach Gentry,TE,Albuquerque,2019,2023,0,0,2,2,41,,,,0.0,,,,,,,0.0,,39.0,303.0,0.0,32.0,GentZa00
+3,Keshawn Banks,,Albuquerque,2023,2023,0,0,0,0,0,,,,,,,,,,,,,,,,,BankKe00
+4,Colt McCoy,QB,Hobbs,2010,2022,0,0,2,17,56,764.0,1220.0,7975.0,34.0,71.0,32.0,113.0,701.0,175.0,582.0,2.0,20.0,2.0,8.0,0.0,13.0,McCoCo00
+5,Jeff Overbaugh,LS,Santa Fe,2017,2018,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,OverJe00
+6,Alan Branch,DT,Albuquerque,2007,2017,0,0,6,42,146,,,,0.0,,,,,,,0.0,,,,0.0,,BranAl99
+7,Landry Jones,QB,Artesia,2015,2017,0,0,0,4,18,108.0,169.0,1310.0,8.0,88.0,7.0,9.0,66.0,19.0,-19.0,0.0,0.0,,,0.0,,JoneLa02
+8,Jared Crick,DT,Albuquerque,2012,2016,0,0,3,28,79,,,,0.0,,,,,,,0.0,,,,0.0,,CricJa00
+9,Chris Williams,WR,Fort Worth,2014,2014,0,0,0,1,7,,,,0.0,,,,,1.0,-8.0,0.0,-8.0,,,0.0,,WillCh06
+10,Ryan Cook,C,Albuquerque,2006,2012,0,0,3,23,90,,,,0.0,,,,,,,0.0,,,,0.0,,CookRy20
+11,Erik Cook,CG,Albuquerque,2011,2011,0,0,0,1,6,,,,0.0,,,,,,,0.0,,,,0.0,,CookEr00
+12,Hank Baskett,WR,Clovis,2006,2010,0,0,0,9,67,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,,,0.0,,77.0,1098.0,6.0,90.0,BaskHa00
+13,Jake Ingram,C,Albuquerque,2009,2010,0,0,0,1,25,,,,0.0,,,,,,,0.0,,,,0.0,,IngrJa20
+14,Richard Angulo,TE,Albuquerque,2003,2008,0,0,0,2,27,,,,0.0,,,,,,,0.0,,17.0,155.0,1.0,22.0,AnguRi00
+15,Nick Speegle,LB,Albuquerque,2005,2006,0,0,0,1,16,,,,0.0,,,,,,,0.0,,,,0.0,,SpeeNi20
+16,Aaron Graham,C,Las Vegas,1996,2002,0,0,2,19,92,,,,0.0,,,,,,,0.0,,,,0.0,,GrahAa20
+17,Conrad Hamilton,DB,Alamogordo,1996,2001,0,0,1,10,54,,,,0.0,,,,,,,0.0,,,,0.0,,HamiCo20
+18,Mark Harris,WR,Clovis,1996,1999,0,0,0,3,37,,,,0.0,,,,,,,0.0,,13.0,186.0,0.0,42.0,HarrMa01
+19,Ricky Siglar,T,Albuquerque,1990,1998,0,0,3,24,100,,,,0.0,,,,,,,0.0,,,,0.0,,SiglRi20
+20,Ronnie Lott,DB,Albuquerque,1981,1994,6,10,14,123,192,,,,0.0,,,,,,,0.0,,,,0.0,,LottRo00
+21,Carlos Etheredge,TE,Albuquerque,1994,1994,0,0,0,0,9,,,,0.0,,,,,,,0.0,,1.0,6.0,0.0,6.0,EtheCa20
+22,Ray Berry,LLB,Lovington,1987,1993,0,0,2,18,89,,,,0.0,,,,,,,0.0,,,,0.0,,BerrRa20
+23,Timmy Smith,RB,Hobbs,1987,1990,0,0,1,4,22,,,,0.0,,,,,190.0,602.0,3.0,29.0,9.0,51.0,0.0,16.0,SmitTi00
+24,Kerry Locklin,TE,Las Cruces,1982,1987,0,0,0,0,9,,,,0.0,,,,,,,0.0,,,,0.0,,LockKe20
+25,Kelley Johnson,WR,Carlsbad,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,1.0,15.0,0.0,15.0,JohnKe20
+26,Dave Etherly,DB,Albuquerque,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,EtheDa20
+27,Todd Liebenstein,DE,Las Vegas,1982,1985,0,0,1,8,29,,,,0.0,,,,,,,0.0,,,,0.0,,LiebTo20
+28,Don Fielder,DE,Las Cruces,1985,1985,0,0,0,1,11,,,,0.0,,,,,,,0.0,,,,0.0,,FielDo21
+29,Rich Dixon,LB,Roswell,1983,1983,0,0,0,1,14,,,,0.0,,,,,,,0.0,,,,0.0,,DixoRi20
+30,Norm Evans,T,Santa Fe,1965,1978,0,2,12,69,188,,,,0.0,,,,,,,0.0,,,,0.0,,EvanNo00
+31,Lloyd Voss,DE,Adrian,1964,1972,0,0,7,37,123,,,,0.0,,,,,,,0.0,,,,0.0,,VossLl20
+32,Wayne Mass,T,Portales,1968,1972,0,0,1,15,59,,,,0.0,,,,,,,0.0,,,,0.0,,MassWa20
+33,Joe Kapp,QB,Santa Fe,1967,1970,0,1,4,23,51,449.0,918.0,5911.0,40.0,85.0,64.0,109.0,907.0,119.0,611.0,5.0,27.0,,,0.0,,KappJo00
+34,Emilio Vallez,TE,Vegvita,1968,1969,0,0,0,0,9,,,,0.0,,,,,,,0.0,,,,0.0,,VallEm20
+35,Dave Ogas,LB,Silver City,1968,1969,0,0,0,6,20,,,,0.0,,,,,,,0.0,,,,0.0,,OgasDa20
+36,Tommy McDonald,FL,Roy,1957,1968,0,6,9,63,152,2.0,2.0,21.0,1.0,11.0,0.0,0.0,0.0,17.0,22.0,0.0,22.0,495.0,8410.0,84.0,91.0,McDoTo00
+37,Bob Kelly,T,Carlsbad,1961,1968,0,0,0,10,39,,,,0.0,,,,,,,0.0,,,,0.0,,KellBo23
+38,Danny Villanueva,K,Tucumcari,1960,1967,0,0,0,33,110,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,0.0,23.0,,,0.0,,VillDa21
+39,Paul Ward,DT,Santa Fe,1961,1962,0,0,0,7,14,,,,0.0,,,,,,,0.0,,,,0.0,,WardPa20
+40,Sam Etcheverry,QB,Carlsbad,1961,1962,0,0,1,8,28,154.0,302.0,1982.0,16.0,78.0,21.0,53.0,404.0,41.0,78.0,0.0,44.0,,,0.0,,EtchSa00
+41,Chon Gallegos,QB,Gallup,1962,1962,0,0,0,1,6,18.0,35.0,298.0,2.0,35.0,3.0,11.0,81.0,3.0,25.0,0.0,16.0,,,0.0,,GallCh00
+42,Tom Brookshier,DB,Roswell,1953,1961,1,2,7,17,76,,,,0.0,,,,,,,0.0,,,,0.0,,BrooTo00
+43,Doug Hogland,G,Farmington,1953,1958,0,0,5,0,72,,,,0.0,,,,,,,0.0,,1.0,-2.0,0.0,0.0,HoglDo20
+44,Jerry Nuzum,HB,Clovis,1948,1951,0,0,2,0,45,1.0,1.0,21.0,0.0,21.0,0.0,,,249.0,930.0,7.0,64.0,14.0,303.0,3.0,68.0,NuzuJe20
+45,Hal Springer,E,Albuquerque,1945,1945,0,0,0,0,7,,,,0.0,,,,,,,0.0,,4.0,63.0,0.0,36.0,SpriHa20
+46,Jack Robinson,T,Miami,1935,1938,0,0,1,0,38,,,,0.0,,,,,,,0.0,,,,0.0,,RobiJa20

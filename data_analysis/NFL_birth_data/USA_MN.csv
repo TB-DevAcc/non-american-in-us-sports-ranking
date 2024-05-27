@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Billy Turner,T,Shoreview,2014,2023,0,0,5,35,105,,,,0,,,,,,,0,,,,0,,TurnBi00
+2,Adam Thielen,WR,Detroit Lakes,2014,2023,0,2,7,58,152,,,,0,,,,,22.0,178.0,1,41.0,637.0,7696.0,59,71.0,ThieAd00
+3,C.J. Ham,RB,Duluth,2017,2023,0,2,2,6,113,,,,0,,,,,37.0,104.0,3,30.0,77.0,635.0,2,36.0,HamxC.00
+4,Frank Ragnow,C,Victoria,2018,2023,0,3,4,41,80,,,,0,,,,,,,0,,,,0,,RagnFr00
+5,Jesper Horsted,WR,Shoreview,2019,2023,0,0,0,1,41,,,,0,,,,,,,0,,14.0,131.0,3,20.0,HorsJe00
+6,Amani Hooker,S,Minneapolis,2019,2023,0,0,2,15,66,,,,0,,,,,2.0,6.0,0,4.0,1.0,6.0,0,6.0,HookAm00
+7,Ryan Connelly,LB,Eden Prairie,2019,2023,0,0,0,4,32,,,,0,,,,,,,0,,,,0,,ConnRy00
+8,Blake Cashman,LB,Eden Prairie,2019,2023,0,0,0,13,44,,,,0,,,,,,,0,,,,0,,CashBl00
+9,Elijah Campbell,DB,St. Paul,2020,2023,0,0,0,2,41,,,,0,,,,,,,0,,,,0,,CampEl00
+10,Tyler Johnson,WR,Minneapolis,2020,2023,0,0,0,5,34,,,,0,,,,,,,0,,50.0,537.0,3,35.0,JohnTy00
+11,Carter Coughlin,OLB,Eden Prairie,2020,2023,0,0,0,5,55,,,,0,,,,,,,0,,,,0,,CougCa00
+12,Kayode Awosika,T,Plymouth,2021,2023,0,0,0,4,26,,,,0,,,,,,,0,,,,0,,AwosKa00
+13,Dillon Radunz,OL,Becker,2021,2023,0,0,0,7,39,,,,0,,,,,,,0,,,,0,,RaduDi00
+14,Boye Mafe,DE,Golden Valley,2022,2023,0,0,0,8,33,,,,0,,,,,,,0,,,,0,,MafeBo00
+15,Ty Okada,SS,Woodbury,2023,2023,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,OkadTy00
+16,Nash Jensen,G,Maple Grove,2023,2023,0,0,0,2,11,,,,0,,,,,,,0,,,,0,,JensNa00
+17,Evan Hull,RB,Maple Grove,2023,2023,0,0,0,0,1,,,,0,,,,,1.0,1.0,0,1.0,1.0,6.0,0,6.0,HullEv00
+18,Tucker Fisk,TE,Edina,2023,2023,0,0,0,0,6,,,,0,,,,,,,0,,1.0,9.0,0,9.0,FiskTu00
+19,Tom Compton,T,Rosemount,2013,2022,0,0,2,22,124,,,,0,,,,,,,0,,,,0,,CompTo00
+20,Maxx Williams,TE,Waconia,2015,2022,0,0,2,8,83,,,,0,,,,,5.0,14.0,0,7.0,105.0,1012.0,6,42.0,WillMa04
+21,Joe Haeg,T,Lake Shore,2016,2022,0,0,2,22,80,,,,0,,,,,,,0,,,,0,,HaegJo00
+22,Chase Roullier,C,Burnsville,2017,2022,0,0,4,24,69,,,,0,,,,,,,0,,,,0,,RoulCh00
+23,Brandon Zylstra,WR,Spicer,2018,2022,0,0,0,3,55,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,30.0,414.0,1,55.0,ZylsBr00
+24,J.C. Hassenauer,C,Woodbury,2020,2022,0,0,0,6,45,,,,0,,,,,,,0,,,,0,,HassJ.00
+25,Chris Jackson,S,Minneapolis,2020,2022,0,0,0,2,24,,,,0,,,,,,,0,,,,0,,JackCh01
+26,Ben Ellefson,TE,Hawley,2020,2022,0,0,0,0,16,,,,0,,,,,,,0,,4.0,36.0,0,12.0,ElleBe00
+27,Shane Zylstra,TE,Spicer,2021,2022,0,0,0,1,17,,,,0,,,,,,,0,,14.0,94.0,4,16.0,ZylsSh00
+28,Elerson Smith,DE,Minneapolis,2021,2022,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,SmitEl00
+29,Trey Lance,QB,Marshall,2021,2022,0,0,0,4,8,56.0,102.0,797.0,5,76.0,3.0,6.0,24.0,54.0,235.0,1,15.0,,,0,,LancTr00
+30,Tommy Doyle,T,Edina,2021,2022,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,DoylTo00
+31,Zack Johnson,G,Blaine,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,JohnZa00
+32,Lewis Kidd,OL,Minneapolis,2022,2022,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,KiddLe00
+33,Ross Travis,TE,Chaska,2016,2021,0,0,0,0,29,,,,0,,,,,,,0,,14.0,142.0,0,25.0,TravRo00
+34,Kamal Martin,LB,Burnsville,2020,2021,0,0,0,4,16,,,,0,,,,,,,0,,,,0,,MartKa01
+35,Larry Fitzgerald,WR,Minneapolis,2004,2020,1,11,17,93,263,2.0,4.0,53.0,1,32.0,0.0,1.0,7.0,20.0,68.0,0,15.0,1432.0,17492.0,121,80.0,FitzLa00
+36,James Onwualu,OLB,St. Paul,2017,2020,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,OnwuJa00
+37,Terrell Suggs,LB,Minneapolis,2003,2019,1,7,15,110,244,,,,0,,,,,,,0,,,,0,,SuggTe99
+38,Marcus Sherels,DB,Rochester,2010,2019,0,0,0,13,128,,,,0,,,,,,,0,,,,0,,SherMa20
+39,Beau Allen,DT,St. Louis Park,2014,2019,0,0,1,13,90,,,,0,,,,,,,0,,,,0,,AlleBe00
+40,Seantrel Henderson,T,St. Paul,2014,2019,0,0,2,14,39,,,,0,,,,,,,0,,,,0,,HendSe00
+41,Zach Zenner,RB,Eagan,2015,2019,0,0,0,6,41,,,,0,,,,,177.0,683.0,8,29.0,29.0,282.0,0,33.0,ZennZa00
+42,Jester Weah,WR,Minneapolis,2019,2019,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WeahJe01
+43,Ramon Humber,MLB,Brooklyn Park,2009,2018,0,0,1,16,136,,,,0,,,,,,,0,,,,0,,HumbRa00
+44,Michael Floyd,WR,St. Paul,2012,2018,0,0,3,28,102,,,,0,,,,,1.0,2.0,0,2.0,266.0,3959.0,25,91.0,FloyMi00
+45,Marcus Williams,CB,Minneapolis,2014,2018,0,0,0,10,54,,,,0,,,,,,,0,,1.0,31.0,0,31.0,WillMa03
+46,Tyler Marz,T,Springfield,2018,2018,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,MarzTy01
+47,Eric Decker,WR,Cold Spring,2010,2017,0,0,5,45,111,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,1.0,1.0,0,1.0,439.0,5816.0,53,74.0,DeckEr00
+48,C.J. Smith,CB,Savage,2016,2017,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,SmitC.00
+49,Ryan Harris,T,Minneapolis,2007,2016,0,0,5,33,114,,,,0,,,,,,,0,,,,0,,HarrRy20
+50,James Laurinaitis,LB,Hamel,2009,2016,0,0,7,51,117,,,,0,,,,,,,0,,,,0,,LaurJa99
+51,Ra'Shede Hageman,DT,Minneapolis,2014,2016,0,0,1,8,44,,,,0,,,,,,,0,,,,0,,HageRa00
+52,Isaac Fruechte,WR,Caledonia,2016,2016,0,0,0,0,1,,,,0,,,,,,,0,,0.0,0.0,0,0.0,FrueIs00
+53,Matt Spaeth,TE,St. Michael,2007,2015,0,0,6,2,123,,,,0,,,,,,,0,,55.0,420.0,10,33.0,SpaeMa00
+54,Craig Dahl,DB,Mankato,2007,2015,0,0,2,22,117,,,,0,,,,,1.0,3.0,0,3.0,,,0,,DahlCr99
+55,Brian Leonhardt,TE,Blaine,2014,2015,0,0,0,0,16,,,,0,,,,,,,0,,7.0,39.0,1,12.0,LeonBr01
+56,John Crockett,RB,Minneapolis,2015,2015,0,0,0,0,2,,,,0,,,,,9.0,21.0,0,12.0,,,0,,CrocJo00
+57,John Carlson,TE,St. Cloud,2008,2014,0,0,4,16,90,,,,0,,,,,,,0,,210.0,2256.0,15,42.0,CarlJo00
+58,Paul Cornick,T,Orono,2014,2014,0,0,0,4,12,,,,0,,,,,,,0,,,,0,,CornPa00
+59,Matt Veldman,TE,Becker,2013,2013,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,VeldMa00
+60,Brian Arnfelt,DE,Lake Elmo,2013,2013,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ArnfBr00
+61,Matt Birk,C,St. Paul,1998,2012,0,6,12,83,210,,,,0,,,,,,,0,,,,0,,BirkMa00
+62,Jesse Nading,DE,St. Paul,2008,2012,0,0,0,2,39,,,,0,,,,,,,0,,,,0,,NadiJe00
+63,David Gilreath,WR,Minneapolis,2012,2012,0,0,0,0,3,,,,0,,,,,1.0,7.0,0,7.0,0.0,0.0,0,0.0,GilrDa00
+64,Adam Goldberg,G,Edina,2004,2011,0,0,3,25,112,,,,0,,,,,,,0,,,,0,,GoldAd20
+65,Marion Barber III,RB,Plymouth,2005,2011,0,1,3,39,99,0.0,1.0,0.0,0,0.0,0.0,1.0,3.0,1156.0,4780.0,53,54.0,179.0,1330.0,6,70.0,BarbMa01
+66,Dominique Byrd,TE,Minneapolis,2006,2011,0,0,0,0,17,,,,0,,,,,,,0,,6.0,83.0,1,27.0,ByrdDo00
+67,Dominique Barber,DB,Plymouth,2008,2011,0,0,0,5,39,,,,0,,,,,,,0,,,,0,,BarbDo99
+68,Mark LeVoir,T,Minneapolis,2008,2011,0,0,0,7,42,,,,0,,,,,,,0,,,,0,,LeVoMa99
+69,Nate Triplett,LB,Maple Plain,2010,2011,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,TripNa99
+70,Todd Bouman,QB,Lyon County,2001,2010,0,0,0,6,43,147.0,264.0,1905.0,13,80.0,13.0,17.0,122.0,23.0,94.0,0,21.0,,,0,,BoumTo00
+71,Ben Hamilton,G,Minneapolis,2002,2010,0,0,7,54,118,,,,0,,,,,,,0,,,,0,,HamiBe20
+72,Derreck Robinson,DE,Minneapolis,2005,2010,0,0,0,2,40,,,,0,,,,,,,0,,,,0,,RobiDe21
+73,Steve Heiden,TE,Rushford,1999,2009,0,0,6,11,148,,,,0,,,,,,,0,,201.0,1689.0,14,62.0,HeidSt00
+74,Justin Hartwig,C,Mankato,2002,2009,0,0,6,41,99,,,,0,,,,,,,0,,,,0,,HartJu20
+75,Mark Setterstrom,G,Northfield,2006,2009,0,0,0,5,19,,,,0,,,,,,,0,,,,0,,SettMa20
+76,Jake Nordin,TE,Lake Lillian,2007,2009,0,0,0,0,5,,,,0,,,,,,,0,,2.0,26.0,0,14.0,NordJa00
+77,Michael Lehan,DB,Hopkins,2003,2008,0,0,1,9,67,,,,0,,,,,,,0,,,,0,,LehaMi20
+78,Ben Utecht,TE,Hastings,2005,2008,0,0,3,11,51,,,,0,,,,,,,0,,87.0,923.0,3,30.0,UtecBe00
+79,Derek Rackley,TE,Apple Valley,2000,2007,0,0,0,1,116,,,,0,,,,,,,0,,1.0,1.0,1,1.0,RackDe00
+80,Chris Weinke,QB,St. Paul,2001,2007,0,0,1,9,29,386.0,709.0,3904.0,15,48.0,26.0,47.0,298.0,54.0,148.0,6,23.0,,,0,,WeinCh00
+81,Troy Bienemann,TE,Minneapolis,2007,2007,0,0,0,0,16,,,,0,,,,,,,0,,7.0,46.0,1,13.0,BienTr00
+82,Brandon Archer,LB,Minneapolis,2007,2007,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,ArchBr99
+83,Jay Foreman,OLB,Eden Prairie,1999,2006,0,0,4,28,84,,,,0,,,,,,,0,,,,0,,ForeJa20
+84,Adam Haayer,T,Wyoming,2002,2005,0,0,0,4,20,,,,0,,,,,,,0,,,,0,,HaayAd20
+85,Kemp Rasmussen,DE,Rochester,2002,2005,0,0,0,6,50,,,,0,,,,,,,0,,,,0,,RasmKe20
+86,Aaron Elling,K,Waconia,2003,2005,0,0,0,2,33,,,,0,,,,,,,0,,,,0,,ellinaar01
+87,Ben Noll,G,Minneapolis,2004,2005,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,NollBe20
+88,Steve Martin,DT,St. Paul,1996,2004,0,0,3,26,127,,,,0,,,,,,,0,,,,0,,MartSt21
+89,Rhett Nelson,DB,Minneapolis,2003,2004,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,NelsRh20
+90,Jared Peck,T,Bloomington,2004,2004,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,PeckJa20
+91,Chris Kern,DB,Faribault,2004,2004,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,KernCh20
+92,Ben Nelson,WR,Coon Rapids,2004,2004,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,NelsBe20
+93,Corbin Lacina,G,Mankato,1994,2003,0,0,6,37,129,,,,0,,,,,,,0,,,,0,,LaciCo20
+94,Javier Collins,T,St. Paul,2002,2003,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,CollJa20
+95,Ben Sobieski,T,Mahtomedi,2003,2003,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SobiBe20
+96,John Fina,T,Rochester,1992,2002,0,0,9,48,155,,,,0,,,,,1.0,-2.0,0,0.0,1.0,1.0,1,1.0,FinaJo20
+97,Jerry Wisne,T,Rochester,1999,2002,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,WisnJe20
+98,Cory Sauter,QB,Hutchinson,2002,2002,0,0,0,0,1,6.0,9.0,59.0,0,31.0,0.0,4.0,20.0,2.0,8.0,0,7.0,,,0,,SautCo00
+99,Jason Suttle,DB,Minneapolis,1999,2001,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,SuttJa20
+100,John Schlecht,DT,St. Paul,2001,2001,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,SchlJo20
+101,Kris Farris,T,St. Paul,2001,2001,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,FarrKr20
+102,Craig Sauer,RLB,Sartell,1996,2000,0,0,0,9,73,,,,0,,,,,,,0,,,,0,,SaueCr20
+103,Derek Engler,C,St. Paul,1997,2000,0,0,0,6,34,,,,0,,,,,,,0,,,,0,,EnglDe20
+104,Steve Walsh,QB,St. Paul,1989,1999,0,0,2,20,80,713.0,1317.0,7875.0,40,58.0,50.0,40.0,274.0,80.0,47.0,1,18.0,,,0,,WalsSt00
+105,Ryan Collins,TE,Minneapolis,1999,1999,0,0,0,0,4,,,,0,,,,,,,0,,4.0,62.0,0,28.0,CollRy00
+106,Rod Smith,DB,St. Paul,1992,1998,0,0,1,16,102,,,,0,,,,,,,0,,,,0,,SmitRo23
+107,Lloyd Lee,DB,Minneapolis,1998,1998,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,LeexLl20
+108,Rob Bohlinger,T,Minneapolis,1998,1998,0,0,0,2,13,,,,0,,,,,,,0,,,,0,,BohlRo20
+109,Rohn Stark,P,Minneapolis,1982,1997,1,4,0,31,233,2.0,6.0,57.0,0,40.0,1.0,0.0,0.0,7.0,3.0,0,11.0,,,0,,StarRo20
+110,Leon Neal,RB,St. Paul,1997,1997,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,NealLe20
+111,Chip Lohmiller,K,Woodbury,1988,1996,0,1,0,19,135,,,,0,,,,,,,0,,,,0,,lohmichi01
+112,Mike Arthur,C,Minneapolis,1991,1996,0,0,3,19,64,,,,0,,,,,,,0,,,,0,,ArthMi20
+113,Sean Lumpkin,DB,Golden Valley,1992,1996,0,0,2,13,67,,,,0,,,,,,,0,,,,0,,LumpSe20
+114,Jack Trudeau,QB,Forest Lake,1986,1995,0,0,3,23,67,873.0,1644.0,10243.0,42,84.0,69.0,103.0,717.0,97.0,186.0,3,17.0,,,0,,TrudJa00
+115,Todd Kalis,G,Stillwater,1988,1995,0,0,5,29,103,,,,0,,,,,,,0,,,,0,,KaliTo20
+116,Pat Eilers,DB,St. Paul,1990,1995,0,0,0,5,61,,,,0,,,,,,,0,,,,0,,EilePa20
+117,Jon Melander,G,Fridley,1991,1994,0,0,2,16,54,,,,0,,,,,,,0,,,,0,,MelaJo20
+118,Joe Prokop,P,St. Paul,1985,1992,0,0,0,7,79,,,,0,,,,,5.0,9.0,1,17.0,,,0,,ProkJo21
+119,Chris Thome,C,St. Cloud,1991,1992,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,ThomCh22
+120,Mark Dusbabek,LLB,Faribault,1989,1991,0,0,1,7,31,,,,0,,,,,,,0,,,,0,,DusbMa20
+121,Jim Fahnhorst,RILB,St. Cloud,1984,1990,0,0,2,23,82,,,,0,,,,,,,0,,,,0,,FahnJi20
+122,Stacy Robinson,WR,St. Paul,1985,1990,0,0,1,6,43,,,,0,,,,,,,0,,48.0,749.0,7,62.0,RobiSt00
+123,Jim Gallery,K,Redwood Falls,1987,1990,0,0,0,-1,19,,,,0,,,,,,,0,,,,0,,gallejam01
+124,Jim Gustafson,WR,Minneapolis,1986,1989,0,0,0,5,58,,,,0,,,,,1.0,-2.0,0,0.0,38.0,491.0,5,47.0,GustJi00
+125,Mike Lambrecht,DT,Watertown,1987,1989,0,0,0,2,19,,,,0,,,,,,,0,,,,0,,LambMi20
+126,Gary Hadd,DT,St. Paul,1988,1989,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,HaddGa20
+127,Rick Bayless,RB,Ramsey County,1989,1989,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BaylRi20
+128,Brian Bonner,LB,Minneapolis,1989,1989,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,BonnBr20
+129,Barry Bennett,DT,St. Paul,1978,1988,0,0,5,32,132,,,,0,,,,,,,0,,,,0,,BennBa20
+130,Randy Rasmussen,C,Minneapolis,1984,1988,0,0,0,4,43,,,,0,,,,,,,0,,,,0,,RasmRa21
+131,Neal Guggemos,DB,Winsted,1986,1988,0,0,0,2,27,,,,0,,,,,,,0,,,,0,,GuggNe20
+132,Keith Fahnhorst,T,St. Cloud,1974,1987,1,1,10,74,193,,,,0,,,,,,,0,,1.0,1.0,0,1.0,FahnKe00
+133,Steve Nelson,LB,Farmington,1974,1987,0,3,13,68,174,,,,0,,,,,,,0,,,,0,,NelsSt00
+134,Jon Borchardt,G,Minneapolis,1979,1987,0,0,4,29,130,,,,0,,,,,,,0,,,,0,,BorcJo20
+135,Russell Gary,DB,Minneapolis,1981,1987,0,0,4,29,80,,,,0,,,,,,,0,,,,0,,GaryRu20
+136,Dan Johnson,TE,Minneapolis,1983,1987,0,0,2,10,66,,,,0,,,,,,,0,,94.0,1012.0,16,61.0,JohnDa02
+137,Bobby Bell,LB,St. Paul,1984,1987,0,0,0,4,18,,,,0,,,,,,,0,,,,0,,BellBo21
+138,Tom Polley,LB,Minneapolis,1985,1987,0,0,0,1,4,,,,0,,,,,,,0,,,,0,,PollTo20
+139,Phil Freeman,WR,St. Paul,1985,1987,0,0,0,3,37,,,,0,,,,,1.0,1.0,0,1.0,22.0,370.0,4,64.0,FreePh00
+140,Miles Turpin,LB,Minneapolis,1986,1987,0,0,0,1,4,,,,0,,,,,,,0,,,,0,,TurpMi20
+141,Pete Roth,RB,Worthington,1987,1987,0,0,0,0,3,,,,0,,,,,3.0,10.0,0,9.0,,,0,,RothPe20
+142,Jeff Reinke,DE,Granite Falls,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ReinJe20
+143,Ted Elliott,NT,Inver Grove Heights,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ElliTe20
+144,Al Wolden,RB,Govnick,1987,1987,0,0,0,0,3,,,,0,,,,,2.0,8.0,0,7.0,1.0,26.0,0,26.0,WoldAl20
+145,Tracy Martin,WR,Minneapolis,1987,1987,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,MartTr20
+146,Tom Brown,WR,Princeton,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BrowTo22
+147,Ray Hitchcock,C,St. Paul,1987,1987,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,HitcRa20
+148,Mark Hanson,G,Faribault,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,HansMa20
+149,Matt Hanousek,G,St. Paul,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,HanoMa20
+150,Gregg Swartwoudt,T,Northfield,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SwarGr20
+151,Jeff Schuh,LOLB,Crystal,1981,1986,0,0,2,13,87,,,,0,,,,,,,0,,,,0,,SchuJe20
+152,Dave Dalby,C,Alexandria,1972,1985,0,1,9,66,205,,,,0,,,,,,,0,,1.0,1.0,0,1.0,DalbDa00
+153,Matt Herkenhoff,T,Melrose,1976,1985,0,0,9,48,125,,,,0,,,,,,,0,,,,0,,HerkMa20
+154,Keith Nord,DB,Minneapolis,1979,1985,0,0,1,14,76,,,,0,,,,,,,0,,,,0,,NordKe20
+155,Jeff Groth,WR,Mankato,1979,1985,0,0,4,20,94,,,,0,,,,,4.0,43.0,0,28.0,152.0,2126.0,5,56.0,GrotJe00
+156,Bill Barnett,DE,St. Paul,1980,1985,0,0,0,12,77,,,,0,,,,,,,0,,,,0,,BarnBi20
+157,Scott Virkus,DE,Rochester,1983,1985,0,0,0,2,38,,,,0,,,,,,,0,,,,0,,VirkSc20
+158,Jay Carroll,TE,Winona,1984,1985,0,0,0,0,32,,,,0,,,,,,,0,,6.0,58.0,1,17.0,CarrJa20
+159,Dave Casper,TE,Bemidji,1974,1984,4,5,6,52,147,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,6.0,27.0,0,8.0,378.0,5216.0,52,52.0,CaspDa00
+160,Bob Nelson,LB,Stillwater,1976,1984,0,0,3,24,72,,,,0,,,,,,,0,,,,0,,NelsBo20
+161,Mark Merrill,OLB,Hennepin County,1978,1984,0,0,0,9,68,,,,0,,,,,,,0,,,,0,,MerrMa20
+162,Chuck Loewen,T,Mountain Lake,1980,1984,0,0,0,7,47,,,,0,,,,,,,0,,,,0,,LoewCh20
+163,Rodney Lewis,DB,Minneapolis,1982,1984,0,0,0,4,27,,,,0,,,,,,,0,,,,0,,LewiRo20
+164,Pat Dunsmore,TE,Duluth,1983,1984,0,0,0,2,27,,,,0,,,,,,,0,,17.0,208.0,1,25.0,DunsPa00
+165,Jim LeClair,LB,St. Paul,1972,1983,0,1,9,56,158,,,,0,,,,,,,0,,,,0,,LeClJi01
+166,Dave Klug,LB,Litchfield,1981,1983,0,0,0,3,26,,,,0,,,,,,,0,,,,0,,KlugDa20
+167,Mark Reed,QB,Moorhead,1983,1983,0,0,0,0,1,6.0,10.0,34.0,0,16.0,1.0,0.0,0.0,2.0,27.0,0,18.0,,,0,,ReedMa20
+168,Rick Bell,RB,St. Cloud,1983,1983,0,0,0,0,14,,,,0,,,,,,,0,,,,0,,BellRi20
+169,Jeff Siemon,LB,Rochester,1972,1982,0,4,9,64,156,,,,0,,,,,1.0,0.0,0,0.0,,,0,,SiemJe00
+170,Kurt Knoff,DB,East Grand Forks,1977,1982,0,0,2,21,70,,,,0,,,,,,,0,,,,0,,KnofKu20
+171,Ted McKnight,RB,Duluth,1977,1982,0,0,3,21,68,,,,0,,,,,528.0,2344.0,22,84.0,99.0,717.0,1,26.0,McKnTe00
+172,Rick Danmeier,K,St. Paul,1977,1982,0,0,0,14,74,,,,0,,,,,,,0,,,,0,,danmeric01
+173,Allan Clark,RB,Grand Rapids,1979,1982,0,0,0,1,33,,,,0,,,,,28.0,140.0,3,19.0,2.0,35.0,0,20.0,ClarAl00
+174,Greg Murtha,T,Minneapolis,1982,1982,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,MurtGr20
+175,Robert Blakley,WR,St. Paul,1982,1982,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BlakRo20
+176,Wally Kersten,T,Minneapolis,1982,1982,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,KersWa20
+177,Jim Langer,C,Little Falls,1970,1981,3,6,8,90,151,,,,0,,,,,,,0,,,,0,,LangJi00
+178,Todd Thomas,C,Mankato,1981,1981,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,ThomTo20
+179,Larry Cole,DE,Clarkfield,1968,1980,0,0,11,62,176,,,,0,,,,,,,0,,,,0,,ColeLa20
+180,Steve Neils,LOLB,St. Peter,1974,1980,0,0,3,27,88,,,,0,,,,,,,0,,,,0,,NeilSt20
+181,Phil DuBois,TE,Rochester,1979,1980,0,0,0,0,17,,,,0,,,,,,,0,,1.0,16.0,0,16.0,DuBoPh20
+182,Steve Tobin,C,Breckenridge,1980,1980,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,TobiSt20
+183,Steve Zabel,LB,Minneapolis,1970,1979,0,0,7,39,124,,,,0,,,,,1.0,-5.0,0,0.0,10.0,123.0,3,25.0,ZabeSt20
+184,Tom Ruud,OLB,Oliva,1975,1979,0,0,0,10,59,,,,0,,,,,,,0,,,,0,,RuudTo20
+185,Steve Stewart,LB,Minneapolis,1978,1979,0,0,0,5,15,,,,0,,,,,,,0,,,,0,,StewSt20
+186,Errol Mann,K,Breckenridge,1968,1978,0,0,0,32,137,,,,0,,,,,,,0,,,,0,,MannEr20
+187,Steve Kiner,LB,Sandstone,1970,1978,0,0,7,44,114,,,,0,,,,,,,0,,1.0,14.0,0,14.0,KineSt20
+188,Jim Carter,LB,St. Paul,1970,1978,0,1,7,43,106,,,,0,,,,,,,0,,,,0,,CartJi00
+189,Tom MacLeod,LB,Proctor,1973,1978,0,0,5,28,64,,,,0,,,,,,,0,,,,0,,MacLTo20
+190,Steve Knutson,G,Bagley,1976,1978,0,0,1,7,40,,,,0,,,,,,,0,,,,0,,KnutSt20
+191,Jeff Wright,DB,Edina,1971,1977,0,0,4,33,83,,,,0,,,,,,,0,,,,0,,WrigJe20
+192,Dave Simonson,T,Austin,1974,1977,0,0,0,9,29,,,,0,,,,,,,0,,,,0,,SimoDa20
+193,Dick Enderle,G,Breckenridge,1969,1976,0,0,4,29,96,,,,0,,,,,,,0,,,,0,,EndeDi20
+194,Jim Bertelsen,RB,St. Paul,1972,1976,0,1,4,37,68,,,,0,,,,,614.0,2466.0,16,49.0,88.0,1014.0,2,44.0,BertJi00
+195,Bart Buetow,T,Minneapolis,1973,1976,0,0,0,4,9,,,,0,,,,,,,0,,,,0,,BuetBa20
+196,Ron Groce,RB,Minneapolis,1976,1976,0,0,0,0,4,,,,0,,,,,3.0,18.0,0,13.0,,,0,,GrocRo00
+197,Wayne Hammond,DT,Minneapolis,1976,1976,0,0,0,3,5,,,,0,,,,,,,0,,,,0,,HammWa20
+198,Bob Stein,OLB,Minneapolis,1969,1975,0,0,0,24,89,,,,0,,,,,,,0,,,,0,,SteiBo20
+199,Doug Kingsriter,TE,Little Falls,1973,1975,0,0,0,1,28,,,,0,,,,,,,0,,7.0,116.0,0,21.0,KingDo00
+200,Milt Sunde,G,Minneapolis,1964,1974,0,1,8,48,147,,,,0,,,,,,,0,,,,0,,SundMi00

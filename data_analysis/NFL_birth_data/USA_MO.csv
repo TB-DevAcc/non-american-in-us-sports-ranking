@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Blaine Gabbert,QB,Ballwin,2011,2023,0,0,2,17,69,882.0,1568.0,9487.0,51.0,80.0,50.0,141.0,942.0,201.0,685.0,3.0,44.0,1.0,-16.0,0.0,0.0,GabbBl00
+2,Markus Golden,OLB,St. Louis,2015,2023,0,0,4,33,127,,,,0.0,,,,,,,0.0,,,,0.0,,GoldMa00
+3,Ezekiel Elliott,RB,St. Louis,2016,2023,1,3,7,67,120,1.0,1.0,4.0,0.0,4.0,0.0,0.0,0.0,2065.0,8904.0,71.0,60.0,356.0,2649.0,14.0,83.0,ElliEz00
+4,Dylan Cole,OLB,Springfield,2017,2023,0,0,0,9,77,,,,0.0,,,,,,,0.0,,,,0.0,,ColeDy00
+5,Charles Harris,DE,Kansas City,2017,2023,0,0,1,15,90,,,,0.0,,,,,,,0.0,,,,0.0,,HarrCh03
+6,Foyesade Oluokun,LB,St. Louis,2018,2023,0,0,3,34,98,,,,0.0,,,,,,,0.0,,,,0.0,,OluoFo00
+7,Dalton Risner,OL,Brandon,2019,2023,0,0,4,25,77,,,,0.0,,,,,,,0.0,,,,0.0,,RisnDa00
+8,Khalen Saunders,DT,St. Louis,2019,2023,0,0,0,13,55,,,,0.0,,,,,,,0.0,,,,0.0,,SaunKh00
+9,Drew Lock,QB,Columbia,2019,2023,0,0,1,13,28,469.0,786.0,5283.0,28.0,92.0,23.0,39.0,227.0,77.0,299.0,5.0,23.0,1.0,1.0,0.0,1.0,LockDr00
+10,Jonathan Owens,S,St. Louis,2019,2023,0,0,1,11,48,,,,0.0,,,,,,,0.0,,,,0.0,,OwenJo01
+11,Armon Watts,DL,St. Louis,2019,2023,0,0,1,12,72,,,,0.0,,,,,,,0.0,,,,0.0,,WattAr01
+12,Khalil Davis,DL,Blue Springs,2020,2023,0,0,0,2,18,,,,0.0,,,,,,,0.0,,,,0.0,,DaviKh00
+13,Trystan Colon-Castillo,C,Webb City,2020,2023,0,0,0,6,34,,,,0.0,,,,,,,0.0,,,,0.0,,ColoTr01
+14,Tershawn Wharton,DE,University City,2020,2023,0,0,0,6,55,,,,0.0,,,,,,,0.0,,,,0.0,,WharTe00
+15,Charlie Heck,OL,Kansas City,2020,2023,0,0,1,10,41,,,,0.0,,,,,,,0.0,,0.0,8.0,0.0,8.0,HeckCh00
+16,Dalton Keene,TE,St. Louis,2020,2023,0,0,0,0,7,,,,0.0,,,,,,,0.0,,3.0,16.0,0.0,8.0,KeenDa00
+17,Jabril Cox,LB,Kansas City,2021,2023,0,0,0,3,26,,,,0.0,,,,,,,0.0,,,,0.0,,CoxxJa00
+18,Jameson Williams,WR,St. Louis,2022,2023,0,0,0,5,18,,,,0.0,,,,,4.0,69.0,1.0,40.0,25.0,395.0,3.0,63.0,WillJa11
+19,Sam Roberts,DE,Waynesville,2022,2023,0,0,0,1,12,,,,0.0,,,,,,,0.0,,,,0.0,,RobeSa00
+20,Devin Lloyd,LB,Kansas City,2022,2023,0,0,1,15,32,,,,0.0,,,,,,,0.0,,,,0.0,,LloyDe00
+21,Michael Niese,OL,Chesterfield,2023,2023,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,NiesMi00
+22,Ronnie Perkins,LB,St. Louis,2023,2023,0,0,0,0,7,,,,0.0,,,,,,,0.0,,,,0.0,,PerkRo00
+23,Brandon Aubrey,K,St. Louis,2023,2023,1,1,0,5,17,,,,0.0,,,,,,,0.0,,,,0.0,,AubrBr00
+24,Adetomiwa Adebawore,DE,Kansas City,2023,2023,0,0,0,1,10,,,,0.0,,,,,,,0.0,,,,0.0,,AdebAd00
+25,Felix Anudike-Uzomah,DE,Kansas City,2023,2023,0,0,0,1,17,,,,0.0,,,,,,,0.0,,,,0.0,,AnudFe00
+26,Blake Grupe,K,Sedalia,2023,2023,0,0,0,3,17,,,,0.0,,,,,,,0.0,,,,0.0,,GrupBl00
+27,Brandon Williams,DT,Kirkwood,2013,2022,0,1,8,51,128,,,,0.0,,,,,,,0.0,,,,0.0,,WillBr02
+28,Christian Kirksey,OLB,St. Louis,2014,2022,0,0,5,40,114,,,,0.0,,,,,,,0.0,,,,0.0,,KirkCh00
+29,Kendall Blanton,TE,Blue Springs,2019,2022,0,0,0,0,16,,,,0.0,,,,,,,0.0,,6.0,72.0,0.0,28.0,BlanKe01
+30,Drew Forbes,T,Bonne Terre,2019,2022,0,0,0,1,13,,,,0.0,,,,,,,0.0,,,,0.0,,ForbDr00
+31,Renell Wren,DL,St. Louis,2019,2022,0,0,0,2,13,,,,0.0,,,,,,,0.0,,,,0.0,,WrenRe00
+32,Carlos Davis,DL,Blue Springs,2020,2022,0,0,0,1,12,,,,0.0,,,,,,,0.0,,,,0.0,,DaviCa03
+33,William Bradley-King,DE,Kansas City,2021,2022,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,BradWi00
+34,Skylar Thompson,QB,Palmyra,2022,2022,0,0,0,2,7,60.0,105.0,534.0,1.0,32.0,3.0,6.0,40.0,14.0,21.0,0.0,9.0,,,0.0,,ThomSk00
+35,Beau Brinkley,LS,Kansas City,2012,2021,0,0,0,7,138,,,,0.0,,,,,,,0.0,,,,0.0,,BrinBe00
+36,William Compton,MLB,Bonne Terre,2013,2021,0,0,1,21,92,,,,0.0,,,,,,,0.0,,,,0.0,,CompWi00
+37,Sheldon Richardson,DT,St. Louis,2013,2021,0,1,8,61,138,,,,0.0,,,,,4.0,4.0,2.0,1.0,,,0.0,,RichSh00
+38,Xavier Williams,DT,Kansas City,2015,2021,0,0,0,8,57,,,,0.0,,,,,,,0.0,,,,0.0,,WillXa00
+39,De'Vante Bausby,DB,Kansas City,2016,2021,0,0,0,3,26,,,,0.0,,,,,,,0.0,,,,0.0,,BausDe00
+40,Freedom Akinmoladun,DE,Grandview,2019,2021,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,AkinFr01
+41,Josh Watson,LB,Kansas City,2019,2021,0,0,0,2,19,,,,0.0,,,,,,,0.0,,,,0.0,,WatsJo00
+42,Forrest Merrill,DT,Willard,2021,2021,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,MerrFo00
+43,Adrian Clayborn,DL,St. Louis,2011,2020,0,0,2,26,125,,,,0.0,,,,,,,0.0,,,,0.0,,ClayAd00
+44,Aldon Smith,DE,Kansas City,2011,2020,1,1,4,34,75,,,,0.0,,,,,,,0.0,,,,0.0,,SmitAl04
+45,Sylvester Williams,DT,Jefferson City,2013,2020,0,0,4,29,102,,,,0.0,,,,,,,0.0,,,,0.0,,WillSy00
+46,Roderick Johnson,T,Florissant,2018,2020,0,0,0,5,29,,,,0.0,,,,,,,0.0,,,,0.0,,JohnRo06
+47,Hale Hentges,TE,Jefferson City,2019,2020,0,0,0,1,12,,,,0.0,,,,,,,0.0,,8.0,103.0,1.0,24.0,HentHa00
+48,Darrius Shepherd,WR,Kansas City,2019,2020,0,0,0,1,14,,,,0.0,,,,,,,0.0,,6.0,47.0,0.0,19.0,ShepDa00
+49,Maurice Alexander,SS,St. Louis,2014,2019,0,0,1,11,57,,,,0.0,,,,,,,0.0,,,,0.0,,AlexMa00
+50,Evan Boehm,C,Lee's Summitt,2016,2019,0,0,1,12,55,,,,0.0,,,,,,,0.0,,,,0.0,,BoehEv00
+51,Marquis Flowers,OLB,Independence,2014,2018,0,0,0,7,53,,,,0.0,,,,,,,0.0,,,,0.0,,FlowMa00
+52,E.J. Gaines,CB,Independence,2014,2018,0,0,3,13,43,,,,0.0,,,,,,,0.0,,,,0.0,,GainE.00
+53,Kony Ealy,DE,New Madrid,2014,2018,0,0,0,12,65,,,,0.0,,,,,,,0.0,,,,0.0,,EalyKo00
+54,Deiondre' Hall,CB,Blue Springs,2016,2018,0,0,0,2,23,,,,0.0,,,,,,,0.0,,,,0.0,,HallDe02
+55,Mike Jordan,DB,Hazelwood,2016,2018,0,0,0,2,22,,,,0.0,,,,,,,0.0,,,,0.0,,JordMi00
+56,Tre'von Johnson,LB,St. Louis,2018,2018,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,JohnTr07
+57,Allen Barbre,T,Neosho,2007,2017,0,0,2,23,92,,,,0.0,,,,,,,0.0,,,,0.0,,BarbAl20
+58,Jeremy Maclin,WR,St. Louis,2009,2017,0,0,8,50,114,0.0,1.0,0.0,0.0,0.0,0.0,1.0,3.0,10.0,43.0,0.0,18.0,514.0,6835.0,49.0,83.0,MaclJe00
+59,Donald Stephenson,T,Kansas City,2012,2017,0,0,1,18,80,,,,0.0,,,,,,,0.0,,,,0.0,,StepDo00
+60,Tim Barnes,C,Longwood,2012,2017,0,0,2,14,78,,,,0.0,,,,,,,0.0,,,,0.0,,BarnTi01
+61,David Bass,DE,St. Louis,2013,2017,0,0,0,9,64,,,,0.0,,,,,,,0.0,,,,0.0,,BassDa00
+62,Dexter McDonald,CB,Kansas City,2015,2017,0,0,0,2,27,,,,0.0,,,,,,,0.0,,,,0.0,,McDoDe02
+63,Rodney Coe,DT,Fulton,2017,2017,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,CoexRo00
+64,Chase Coffman,TE,Peculiar,2010,2016,0,0,0,0,39,,,,0.0,,,,,,,0.0,,18.0,177.0,2.0,18.0,CoffCh00
+65,Walt Powell,WR,St. Louis,2014,2016,0,0,0,1,15,,,,0.0,,,,,,,0.0,,14.0,142.0,0.0,35.0,PoweWa00
+66,Jalen Collins,CB,Kansas City,2015,2016,0,0,0,4,24,,,,0.0,,,,,,,0.0,,,,0.0,,CollJa02
+67,Dorial Green-Beckham,WR,St. Louis,2015,2016,0,0,0,7,31,,,,0.0,,,,,,,0.0,,68.0,941.0,6.0,47.0,GreeDo00
+68,Paul McRoberts,WR,St. Louis,2016,2016,0,0,0,0,2,,,,0.0,,,,,,,0.0,,1.0,6.0,0.0,6.0,McRoPa00
+69,William Moore,DB,Hayti,2009,2015,0,1,5,30,76,,,,0.0,,,,,,,0.0,,,,0.0,,MoorWi99
+70,Josh Freeman,QB,Kansas City,2009,2015,0,0,4,37,62,1179.0,2048.0,13873.0,81.0,95.0,68.0,112.0,690.0,205.0,946.0,4.0,33.0,0.0,-3.0,0.0,1.0,FreeJo00
+71,Brian Folkerts,C,St. Ann,2013,2015,0,0,0,2,28,,,,0.0,,,,,,,0.0,,,,0.0,,FolkBr00
+72,Justin Smith,DE,Jefferson City,2001,2014,1,5,14,101,221,,,,0.0,,,,,,,0.0,,,,0.0,,SmitJu20
+73,Brandon Lloyd,WR,Kansas City,2003,2014,0,1,6,41,142,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-18.0,0.0,0.0,399.0,5989.0,36.0,89.0,LloyBr00
+74,Dan Connolly,G,St. Louis,2005,2014,0,0,4,40,89,,,,0.0,,,,,,,0.0,,,,0.0,,ConnDa21
+75,Montee Ball,RB,Wentzville,2013,2014,0,0,0,7,21,,,,0.0,,,,,175.0,731.0,5.0,45.0,29.0,207.0,0.0,31.0,BallMo00
+76,Rodney Austin,G,St. Louis,2013,2014,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,AustRo00
+77,Michael Hill,RB,St. Joseph,2013,2014,0,0,0,0,8,,,,0.0,,,,,9.0,23.0,0.0,10.0,2.0,23.0,0.0,12.0,HillMi00
+78,Jake Knott,LB,Kansas City,2013,2014,0,0,0,1,13,,,,0.0,,,,,,,0.0,,,,0.0,,KnotJa00
+79,Dennis Roland,T,Bolivar,2008,2013,0,0,2,14,71,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,RolaDe20
+80,Colin Brown,T,Braymer,2011,2013,0,0,0,3,18,,,,0.0,,,,,,,0.0,,,,0.0,,BrowCo23
+81,Mike McNeill,TE,Kirkwood,2011,2013,0,0,0,0,32,,,,0.0,,,,,,,0.0,,5.0,36.0,0.0,10.0,McNeMi00
+82,Marvin McNutt,WR,St. Louis,2012,2013,0,0,0,0,5,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,McNuMa00
+83,Robert Steeples,CB,St. Louis,2013,2013,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,SteeRo00
+84,Ronnie Wingo,RB,St. Louis,2013,2013,0,0,0,0,2,,,,0.0,,,,,1.0,4.0,0.0,4.0,1.0,2.0,0.0,2.0,WingRo00
+85,Ryan Lilja,G,Kansas City,2004,2012,0,0,6,46,111,,,,0.0,,,,,,,0.0,,,,0.0,,LiljRy20
+86,Brian Schaefering,DT,St. Louis,2009,2012,0,0,1,8,40,,,,0.0,,,,,,,0.0,,,,0.0,,SchaBr00
+87,Roger Allen,G,Raytown,2009,2012,0,0,0,0,6,,,,0.0,,,,,,,0.0,,,,0.0,,AlleRo20
+88,Jerry Brown,LB,St. Louis,2012,2012,0,0,0,0,1,,,,,,,,,,,,,,,,,BrowJe01
+89,Neil Rackers,K,St. Louis,2000,2011,1,1,0,29,180,,,,0.0,,,,,1.0,-5.0,0.0,0.0,,,0.0,,rackenei01
+90,Martin Rucker,TE,St. Joseph,2008,2011,0,0,0,0,12,,,,0.0,,,,,,,0.0,,2.0,17.0,0.0,9.0,RuckMa00
+91,Stephen Franklin,LB,Kansas City,2011,2011,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,FranSt00
+92,Kevin Thomas,DB,St. Louis,2011,2011,0,0,0,2,9,,,,0.0,,,,,,,0.0,,,,0.0,,ThomKe99
+93,Lawyer Milloy,DB,St. Louis,1996,2010,1,4,14,78,234,,,,0.0,,,,,,,0.0,,,,0.0,,MillLa00
+94,Ladell Betts,RB,Blue Springs,2002,2010,0,0,1,31,111,,,,0.0,,,,,821.0,3326.0,15.0,27.0,188.0,1646.0,3.0,40.0,BettLa00
+95,Dante Wesley,DB,St. Louis,2002,2010,0,0,0,10,107,,,,0.0,,,,,,,0.0,,,,0.0,,WeslDa20
+96,Jeff Reed,K,Kansas City,2002,2010,0,0,0,21,132,,,,0.0,,,,,,,0.0,,,,0.0,,reedxjef01
+97,Laurence Maroney,RB,St. Louis,2006,2010,0,0,0,26,49,,,,0.0,,,,,618.0,2504.0,21.0,59.0,44.0,459.0,1.0,43.0,MaroLa00
+98,Chris Brooks,WR,St. Louis,2010,2010,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,BrooCh21
+99,Brad St. Louis,TE,Waverly,2000,2009,0,0,0,6,144,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,StLoBr00
+100,Corey Ivy,DB,St. Louis,2001,2009,0,0,1,13,113,,,,0.0,,,,,,,0.0,,,,0.0,,IvyxCo20
+101,Carey Davis,RB,St. Louis,2004,2009,0,0,1,1,37,,,,0.0,,,,,31.0,118.0,0.0,14.0,17.0,76.0,0.0,14.0,DaviCa00
+102,Scott Starks,DB,St. Louis,2005,2009,0,0,0,4,54,,,,0.0,,,,,,,0.0,,,,0.0,,StarSc20
+103,Atiyyah Ellison,DT,St. Louis,2009,2009,0,0,0,0,15,,,,0.0,,,,,,,0.0,,,,0.0,,ElliAt00
+104,Darius Hill,TE,St. Charles,2009,2009,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,HillDa03
+105,Jason Whittle,G,Springfield,1998,2008,0,0,2,24,137,,,,0.0,,,,,,,0.0,,,,0.0,,WhitJa22
+106,Jamar Fletcher,DB,St. Louis,2001,2008,0,0,0,9,105,,,,0.0,,,,,,,0.0,,,,0.0,,FletJa20
+107,Seth Wand,T,Springfield,2003,2008,0,0,1,10,53,,,,0.0,,,,,,,0.0,,,,0.0,,WandSe20
+108,Derrick Frost,P,St. Louis,2004,2008,0,0,0,6,74,,,,0.0,,,,,3.0,1.0,0.0,1.0,,,0.0,,FrosDe20
+109,Charles Ali,RB,St. Louis,2007,2008,0,0,0,0,28,,,,0.0,,,,,,,0.0,,4.0,13.0,0.0,12.0,AlixCh00
+110,Jason Davis,RB,St. Louis,2008,2008,0,0,0,0,6,,,,0.0,,,,,1.0,0.0,0.0,0.0,1.0,12.0,0.0,12.0,DaviJa00
+111,Will Franklin,WR,St. Louis,2008,2008,0,0,0,1,13,,,,0.0,,,,,,,0.0,,7.0,83.0,0.0,42.0,FranWi00
+112,Mike Rucker,DE,St. Joseph,1999,2007,0,1,7,54,139,,,,0.0,,,,,,,0.0,,,,0.0,,RuckMi20
+113,Dwayne Blakley,TE,St. Joseph,2004,2007,0,0,0,1,59,,,,0.0,,,,,,,0.0,,21.0,189.0,1.0,28.0,BlakDw00
+114,Bryan Fletcher,TE,St. Louis,2005,2007,0,0,1,8,46,,,,0.0,,,,,,,0.0,,54.0,547.0,5.0,26.0,FletBr00
+115,Brandon Williams,WR,St. Louis,2006,2007,0,0,0,0,23,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,WillBr01
+116,Matt Sinclair,LB,St. Louis,2007,2007,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,SincMa99
+117,Robert Douglas,RB,St. Louis,2007,2007,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,DougRo00
+118,Grant Wistrom,DE,Webb City,1998,2006,0,0,8,54,132,,,,0.0,,,,,,,0.0,,,,0.0,,WistGr20
+119,Bennie Anderson,G,St. Louis,2001,2006,0,0,5,27,81,,,,0.0,,,,,,,0.0,,,,0.0,,AndeBe20
+120,Christian Morton,DB,St. Louis,2004,2006,0,0,0,2,14,,,,0.0,,,,,,,0.0,,,,0.0,,MortCh20
+121,Damien Nash,RB,St. Louis,2005,2006,0,0,0,1,6,,,,0.0,,,,,24.0,98.0,0.0,26.0,7.0,55.0,0.0,13.0,NashDa00
+122,James Adkisson,WR,St. Louis,2006,2006,0,0,0,0,2,,,,0.0,,,,,,,0.0,,1.0,9.0,0.0,9.0,AdkiJa00
+123,Andy Thorn,TE,Joplin,2006,2006,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,ThorAn00
+124,Martin Nance,WR,Maryland Heights,2006,2006,0,0,0,0,1,,,,0.0,,,,,,,0.0,,4.0,33.0,0.0,12.0,NancMa00
+125,Barrett Brooks,T,St. Louis,1995,2005,0,0,4,28,118,,,,0.0,,,,,,,0.0,,,,0.0,,BrooBa20
+126,Kyle Richardson,P,Farmington,1997,2005,0,0,0,10,112,1.0,1.0,-11.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,,,0.0,,RichKy20
+127,Shad Meier,TE,St. Louis,2001,2005,0,0,0,3,53,,,,0.0,,,,,,,0.0,,42.0,334.0,3.0,29.0,MeieSh00
+128,Nick Murphy,P,St. Louis,2004,2005,0,0,0,1,6,,,,0.0,,,,,,,0.0,,,,0.0,,MurpNi20
+129,Isaac Keys,LB,St. Louis,2004,2005,0,0,0,0,9,,,,0.0,,,,,,,0.0,,,,0.0,,KeysIs20
+130,Michael Harden,DB,Kansas City,2005,2005,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,HardMi20
+131,Wendell Bryant,DT,St. Louis,2002,2004,0,0,0,4,29,,,,0.0,,,,,,,0.0,,,,0.0,,BryaWe20
+132,Melvin Williams,DE,St. Louis,2003,2004,0,0,0,2,17,,,,0.0,,,,,,,0.0,,,,0.0,,WillMe20
+133,Courtney Van Buren,T,St. Louis,2003,2004,0,0,1,3,9,,,,0.0,,,,,,,0.0,,,,0.0,,VanBCo20
+134,Brandon Barnes,LB,Sikeston,2004,2004,0,0,0,1,12,,,,0.0,,,,,,,0.0,,,,0.0,,BarnBr21
+135,Kevin Donnalley,G,St. Louis,1991,2003,0,0,10,52,193,,,,0.0,,,,,,,0.0,,,,0.0,,DonnKe21
+136,Ryan Young,T,St. Louis,1999,2003,0,0,3,21,67,,,,0.0,,,,,,,0.0,,,,0.0,,YounRy20
+137,Michael Young,MLB,St. Louis,2002,2003,0,0,0,2,22,,,,0.0,,,,,,,0.0,,,,0.0,,YounMi20
+138,Jimmy Redmond,WR,Kansas City,2002,2003,0,0,0,1,26,,,,0.0,,,,,,,0.0,,3.0,67.0,0.0,29.0,RedmJi00
+139,Kevin House,DB,St. Louis,2002,2003,0,0,0,1,16,,,,0.0,,,,,,,0.0,,,,0.0,,HousKe20
+140,Bryan Cox,LB,St. Louis,1991,2002,0,3,10,67,165,,,,0.0,,,,,,,0.0,,1.0,7.0,0.0,7.0,CoxxBr00
+141,Mike Jones,LLB,Kansas City,1991,2002,0,0,6,46,183,,,,0.0,,,,,,,0.0,,,,0.0,,JoneMi21
+142,Henry Jones,DB,St. Louis,1991,2002,1,1,8,55,158,,,,0.0,,,,,,,0.0,,,,0.0,,JoneHe00
+143,Bob Christian,RB,St. Louis,1992,2002,0,0,6,22,135,,,,0.0,,,,,193.0,831.0,12.0,53.0,230.0,2048.0,7.0,55.0,ChriBo00
+144,Jason Belser,DB,Kansas City,1992,2002,0,0,8,47,173,,,,0.0,,,,,,,0.0,,,,0.0,,BelsJa20
+145,Darnay Scott,WR,St. Louis,1994,2002,0,0,7,47,124,1.0,1.0,53.0,0.0,53.0,0.0,0.0,0.0,22.0,151.0,0.0,23.0,408.0,6193.0,37.0,88.0,ScotDa00
+146,Bernard Whittington,DE,St. Louis,1994,2002,0,0,7,38,137,,,,0.0,,,,,,,0.0,,,,0.0,,WhitBe20
+147,Terrell Fletcher,RB,St. Louis,1995,2002,0,0,0,22,111,1.0,1.0,23.0,1.0,23.0,0.0,0.0,0.0,526.0,1871.0,10.0,46.0,259.0,1943.0,3.0,41.0,FletTe00
+148,Isaac Byrd,WR,St. Louis,1997,2002,0,0,0,10,61,,,,0.0,,,,,2.0,-2.0,0.0,0.0,93.0,1229.0,6.0,65.0,ByrdIs00
+149,Duane Hawthorne,DB,St. Louis,1999,2002,0,0,1,10,56,,,,0.0,,,,,,,0.0,,,,0.0,,HawtDu20
+150,Trevor Gaylor,WR,St. Louis,2000,2002,0,0,0,7,34,,,,0.0,,,,,,,0.0,,52.0,784.0,4.0,74.0,GaylTr00
+151,Justin Skaggs,WR,Wentzville,2002,2002,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,SkagJu20
+152,Ron Smith,DT,St. Louis,2002,2002,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,SmitRo24
+153,Marques McFadden,G,St. Louis,2002,2002,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,McFaMa20
+154,Mike Wells,DT,Arnold,1994,2001,0,0,4,31,115,,,,0.0,,,,,,,0.0,,1.0,13.0,0.0,13.0,WellMi23
+155,Bert Emanuel,WR,Kansas City,1994,2001,0,0,6,39,103,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,7.0,13.0,0.0,11.0,351.0,4852.0,28.0,85.0,EmanBe00
+156,DeRon Jenkins,DB,St. Louis,1996,2001,0,0,3,17,93,,,,0.0,,,,,,,0.0,,,,0.0,,JenkDe20
+157,Brock Olivo,RB,St. Louis,1998,2001,0,0,0,0,44,,,,0.0,,,,,2.0,7.0,0.0,6.0,7.0,74.0,0.0,19.0,OlivBr00
+158,Reggie Germany,WR,Hazelwood,2001,2001,0,0,0,2,16,,,,0.0,,,,,,,0.0,,12.0,203.0,0.0,39.0,GermRe00
+159,Jason Brookins,RB,Mexico,2001,2001,0,0,0,4,12,,,,0.0,,,,,151.0,551.0,5.0,25.0,6.0,45.0,0.0,15.0,BrooJa01
+160,Jay Leeuwenburg,G,St. Louis,1992,2000,0,0,7,46,137,,,,0.0,,,,,,,0.0,,,,0.0,,LeeuJa20
+161,Darnell Walker,DB,St. Louis,1993,2000,0,0,6,24,120,,,,0.0,,,,,,,0.0,,,,0.0,,WalkDa20
+162,Max Lane,T,Norbone,1994,2000,0,0,4,33,100,,,,0.0,,,,,,,0.0,,,,0.0,,LaneMa20
+163,Napoleon Kaufman,RB,Kansas City,1995,2000,0,0,3,39,91,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,978.0,4792.0,12.0,83.0,127.0,1107.0,5.0,70.0,KaufNa00
+164,Marquis Walker,DB,St. Louis,1996,2000,0,0,0,12,64,,,,0.0,,,,,,,0.0,,,,0.0,,WalkMa21
+165,Chris Banks,G,Lexington,1998,2000,0,0,0,4,28,,,,0.0,,,,,,,0.0,,,,0.0,,BankCh20
+166,Mac Cody,WR,St. Louis,1999,2000,0,0,0,2,28,,,,0.0,,,,,,,0.0,,23.0,272.0,1.0,24.0,CodyMa00
+167,Jason Johnson,C,Kansas City,1998,1999,0,0,0,3,30,,,,0.0,,,,,,,0.0,,,,0.0,,JohnJa24
+168,Mark Collins,DB,St. Louis,1986,1998,0,0,11,56,168,,,,0.0,,,,,,,0.0,,,,0.0,,CollMa20
+169,Allen DeGraffenreid,T,Kansas City,1998,1998,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,DeGrAl20
+170,David Frisch,TE,Kirkwood,1993,1997,0,0,0,0,41,,,,0.0,,,,,,,0.0,,9.0,70.0,1.0,21.0,FrisDa00
+171,Tim Hall,RB,Kansas City,1996,1997,0,0,0,1,18,,,,0.0,,,,,26.0,127.0,0.0,15.0,1.0,9.0,0.0,9.0,HallTi20
+172,Dorian Brew,DB,St. Louis,1996,1997,0,0,0,0,16,,,,0.0,,,,,,,0.0,,,,0.0,,BrewDo20
+173,Ronnie Ward,LB,St. Louis,1997,1997,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,WardRo20
+174,Eric Moore,G,Berkeley,1988,1995,0,0,5,35,84,,,,0.0,,,,,,,0.0,,,,0.0,,MoorEr20
+175,Bruce Pickens,DB,Kansas City,1991,1995,0,0,0,4,48,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,PickBr20
+176,Richard Stephens,G,St. Louis,1993,1995,0,0,0,3,29,,,,0.0,,,,,,,0.0,,,,0.0,,StepRi20
+177,Kenyon Rasheed,FB,Kansas City,1993,1995,0,0,0,1,24,,,,0.0,,,,,27.0,89.0,1.0,23.0,13.0,115.0,0.0,22.0,RashKe00
+178,Butler By'not'e,RB,St. Louis,1994,1995,0,0,0,0,16,,,,0.0,,,,,,,0.0,,,,0.0,,BynoBu20
+179,Israel Byrd,DB,St. Louis,1994,1995,0,0,0,0,7,,,,0.0,,,,,,,0.0,,,,0.0,,ByrdIs20
+180,Ed Hawthorne,NT,St. Louis,1995,1995,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,HawtEd20
+181,Pat Johnson,DB,Mineral Point,1995,1995,0,0,0,1,14,,,,0.0,,,,,,,0.0,,,,0.0,,JohnPa20
+182,Gerald Collins,LB,St. Louis,1995,1995,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,CollGe21
+183,Napoleon McCallum,RB,Jefferson City,1986,1994,0,0,0,6,74,,,,0.0,,,,,223.0,790.0,6.0,18.0,17.0,121.0,0.0,22.0,McCaNa00
+184,Darrell Thompson,RB,St. Louis,1990,1994,0,0,2,16,60,,,,0.0,,,,,464.0,1641.0,7.0,60.0,41.0,330.0,1.0,43.0,ThomDa01
+185,Jon Vaughn,RB,Florissant,1991,1994,0,0,0,9,61,1.0,2.0,13.0,1.0,13.0,0.0,0.0,0.0,207.0,846.0,4.0,37.0,23.0,178.0,1.0,32.0,VaugJo00
+186,Tommie Stowers,TE,Kansas City,1992,1994,0,0,0,0,17,,,,0.0,,,,,,,0.0,,4.0,23.0,0.0,8.0,StowTo20
+187,Felix Wright,DB,Carthage,1985,1993,0,0,6,34,121,,,,0.0,,,,,,,0.0,,,,0.0,,WrigFe21
+188,Gary Anderson,RB,Columbia,1985,1993,0,1,4,42,111,1.0,1.0,4.0,1.0,4.0,0.0,1.0,5.0,869.0,3409.0,16.0,64.0,302.0,2999.0,15.0,74.0,AndeGa00
+189,Gerald Nichols,DT,St. Louis,1987,1993,0,0,0,10,85,,,,0.0,,,,,,,0.0,,,,0.0,,NichGe20
+190,George Hinkle,DE,St. Louis,1988,1993,0,0,2,13,68,,,,0.0,,,,,,,0.0,,,,0.0,,HinkGe20
+191,Erik McMillan,DB,St. Louis,1988,1993,0,2,3,30,86,,,,0.0,,,,,,,0.0,,,,0.0,,McMiEr00
+192,Tim Ryan,G,Kansas City,1991,1993,0,0,0,3,37,,,,0.0,,,,,,,0.0,,,,0.0,,RyanTi21
+193,Mario Johnson,DT,St. Louis,1992,1993,0,0,0,1,20,,,,0.0,,,,,,,0.0,,,,0.0,,JohnMa21
+194,Lance Gunn,DB,Whiteman AFB,1993,1993,0,0,1,3,8,,,,0.0,,,,,,,0.0,,,,0.0,,GunnLa20
+195,Steve Wright,T,St. Louis,1981,1992,0,0,4,31,129,,,,0.0,,,,,,,0.0,,,,0.0,,WrigSt21
+196,Keith Jones,RB,Rock Hill,1989,1992,0,0,3,10,50,1.0,3.0,37.0,0.0,37.0,0.0,0.0,0.0,215.0,791.0,6.0,26.0,72.0,651.0,0.0,46.0,JoneKe01
+197,Pat Leahy,K,St. Louis,1974,1991,1,0,0,39,250,,,,0.0,,,,,1.0,10.0,0.0,10.0,,,0.0,,leahypat01
+198,Leo Lewis,WR,Columbia,1981,1991,0,0,3,25,143,,,,0.0,,,,,14.0,19.0,0.0,16.0,182.0,2924.0,16.0,76.0,LewiLe00
+199,Cap Boso,TE,Kansas City,1986,1991,0,0,0,5,55,,,,0.0,,,,,,,0.0,,54.0,591.0,4.0,43.0,BosoCa00
+200,Eric Wright,DB,St. Louis,1981,1990,1,2,6,62,110,,,,0.0,,,,,,,0.0,,,,0.0,,WrigEr00

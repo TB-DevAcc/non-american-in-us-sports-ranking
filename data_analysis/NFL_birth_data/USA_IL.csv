@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Dennis Kelly,T,Chicago Heights,2012,2023,0,0,1,29,131,,,,0,,,,,,,0,,1.0,1.0,1,1.0,KellDe00
+2,Kirk Cousins,QB,Barrington,2012,2023,0,4,8,94,150,3465.0,5177.0,39471.0,270,81.0,110.0,304.0,2207.0,304.0,958.0,19,29.0,1.0,-1.0,0,0.0,CousKi00
+3,Terron Armstead,T,Belleville,2013,2023,0,5,8,64,120,,,,0,,,,,,,0,,,,0,,ArmsTe00
+4,Jimmy Garoppolo,QB,Arlington Heights,2014,2023,0,0,3,47,81,1277.0,1895.0,15494.0,94,83.0,51.0,137.0,921.0,185.0,264.0,7,13.0,2.0,-3.0,0,3.0,GaroJi00
+5,Michael Schofield,T,Orland Park,2015,2023,0,0,5,38,113,,,,0,,,,,,,0,,,,0,,SchoMi00
+6,Dean Lowry,DE,Rockford,2016,2023,0,0,6,38,120,,,,0,,,,,,,0,,,,0,,LowrDe00
+7,Laquon Treadwell,WR,Chicago,2016,2023,0,0,2,8,81,,,,0,,,,,,,0,,111.0,1242.0,5,58.0,TreaLa00
+8,Graham Glasgow,G,Aurora,2016,2023,0,0,5,39,116,,,,0,,,,,,,0,,,,0,,GlasGr00
+9,Ted Karras,G,Chicago,2016,2023,0,0,4,38,126,,,,0,,,,,,,0,,,,0,,KarrTe00
+10,Solomon Thomas,DE,Chicago,2017,2023,0,0,2,19,99,,,,0,,,,,,,0,,,,0,,ThomSo00
+11,Eric Saubert,TE,Chicago,2017,2023,0,0,0,1,84,,,,0,,,,,,,0,,36.0,292.0,2,25.0,SaubEr00
+12,Pat O'Connor,DE,Chicago,2017,2023,0,0,0,5,68,,,,0,,,,,,,0,,,,0,,OConPa00
+13,Adoree' Jackson,CB,Bellevill,2017,2023,0,0,5,26,83,,,,0,,,,,5.0,55.0,0,20.0,0.0,0.0,0,0.0,JackAd00
+14,Taybor Pepper,LS,Urbana,2017,2023,0,0,0,5,83,,,,0,,,,,,,0,,,,0,,PeppTa00
+15,Jake Elliott,K,La Grange,2017,2023,0,1,1,21,113,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,,,0,,,,0,,ElliJa03
+16,Joseph Jones,OLB,Plano,2017,2023,0,0,0,5,77,,,,0,,,,,,,0,,,,0,,JoneJo05
+17,Dan Feeney,G,Orland Park,2017,2023,0,0,4,32,112,,,,0,,,,,,,0,,,,0,,FeenDa00
+18,Ethan Pocic,C,Lemont,2017,2023,0,0,2,28,85,,,,0,,,,,,,0,,,,0,,PociEt00
+19,Robert Spillane,OLB,Oak Park,2018,2023,0,0,1,19,69,,,,0,,,,,,,0,,,,0,,SpilRo00
+20,Brian Allen,C,Hinsdale,2018,2023,0,0,2,16,50,,,,0,,,,,,,0,,,,0,,AlleBr02
+21,Tyler Lancaster,DL,Naperville,2018,2023,0,0,1,12,62,,,,0,,,,,,,0,,,,0,,LancTy00
+22,Trent Sherfield,WR,Danville,2018,2023,0,0,0,8,95,,,,0,,,,,,,0,,78.0,930.0,5,75.0,SherTr00
+23,Dennis Gardeck,OLB,Lake in the Hills,2018,2023,0,0,0,11,89,,,,0,,,,,,,0,,,,0,,GardDe01
+24,Craig James,CB,Edwardsville,2018,2023,0,0,0,1,23,,,,0,,,,,,,0,,,,0,,JameCr01
+25,Robert Tonyan,TE,McHenry,2018,2023,0,0,1,16,85,,,,0,,,,,,,0,,148.0,1549.0,17,54.0,TonyRo00
+26,Mike Ford,CB,Alton,2018,2023,0,0,0,7,77,,,,0,,,,,,,0,,,,0,,FordMi01
+27,Mason Cole,C,Chicago,2018,2023,0,0,3,25,94,,,,0,,,,,,,0,,,,0,,ColeMa02
+28,Jonathan Harris,DE,Aurora,2019,2023,0,0,0,5,33,,,,0,,,,,,,0,,,,0,,HarrJo05
+29,Scott Miller,WR,Barrington,2019,2023,0,0,1,9,67,,,,0,,,,,8.0,81.0,1,33.0,85.0,1085.0,6,56.0,MillSc01
+30,Austin Seibert,K,Belleville,2019,2023,0,0,0,4,31,,,,0,,,,,,,0,,,,0,,SeibAu00
+31,Trey Pipkins,T,Winfield,2019,2023,0,0,1,22,69,,,,0,,,,,,,0,,,,0,,PipkTr00
+32,Julian Love,S,Westchester,2019,2023,0,1,1,19,81,,,,0,,,,,,,0,,,,0,,LoveJu00
+33,Miles Boykin,WR,Tinley Park,2019,2023,0,0,2,6,73,,,,0,,,,,,,0,,38.0,498.0,7,50.0,BoykMi00
+34,T.J. Edwards,OLB,Lake Villa,2019,2023,0,0,3,30,78,,,,0,,,,,,,0,,,,0,,EdwaTJ02
+35,David Edwards,OL,Downers Grove,2019,2023,0,0,2,24,70,,,,0,,,,,,,0,,,,0,,EdwaDa01
+36,Nick Allegretti,G,Frankfort,2019,2023,0,0,1,10,74,,,,0,,,,,,,0,,,,0,,AlleNi00
+37,Blake Hance,T,Jacksonville,2020,2023,0,0,0,8,50,,,,0,,,,,,,0,,,,0,,HancBl00
+38,James Robinson,RB,Rockford,2020,2023,0,0,2,15,40,0.0,0.0,0.0,0,0.0,0.0,1.0,4.0,515.0,2264.0,18,58.0,92.0,615.0,5,28.0,RobiJa00
+39,Jonathan Ward,RB,Kankakee,2020,2023,0,0,0,1,42,,,,0,,,,,17.0,69.0,0,12.0,6.0,52.0,1,23.0,WardJo00
+40,Cole Kmet,TE,Lake Barrington,2020,2023,0,0,3,20,67,,,,0,,,,,7.0,8.0,0,8.0,211.0,2118.0,15,53.0,KmetCo00
+41,Albert Okwuegbunam,TE,Springfield,2020,2023,0,0,0,5,30,,,,0,,,,,,,0,,54.0,546.0,4,64.0,OkwuAl00
+42,Royce Newman,OL,Nashville,2021,2023,0,0,1,14,51,,,,0,,,,,,,0,,,,0,,NewmRo00
+43,Jon Rhattigan,LB,Naperville,2021,2023,0,0,0,2,36,,,,0,,,,,,,0,,,,0,,RhatJo00
+44,Robert Jones,G,Rockford,2021,2023,0,0,0,8,32,,,,0,,,,,,,0,,,,0,,JoneRo02
+45,Nick Niemann,OLB,Sycamore,2021,2023,0,0,0,4,51,,,,0,,,,,1.0,0.0,0,0.0,,,0,,NiemNi00
+46,Jack Heflin,DT,Galesburg,2021,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,HeflJa00
+47,Naquan Jones,NT,Evanston,2021,2023,0,0,0,5,36,,,,0,,,,,,,0,,,,0,,JoneNa01
+48,LaCale London,DT,Peoria,2021,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,LondLa00
+49,Kendrick Green,C,Peoria,2021,2023,0,0,1,6,19,,,,0,,,,,,,0,,,,0,,GreeKe02
+50,Greg Newsome II,CB,Chicago,2021,2023,0,0,2,13,41,,,,0,,,,,,,0,,,,0,,NewsGr00
+51,Matt Bushman,TE,Carbondale,2021,2023,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,BushMa00
+52,John Ridgeway,DT,Bloomington,2022,2023,0,0,0,5,32,,,,0,,,,,,,0,,,,0,,RidgJo00
+53,Dallis Flowers,CB,Chicago,2022,2023,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,FlowDa00
+54,Eric Johnson,DT,Normal,2022,2023,0,0,0,2,28,,,,0,,,,,,,0,,,,0,,JohnEr01
+55,Andrew Rupcich,T,Wonder Lake,2023,2023,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,RupcAn00
+56,Doug Kramer,OL,Hinsdale,2023,2023,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,KramDo00
+57,Zaire Barnes,LB,Mundelein,2023,2023,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,BarnZa00
+58,Antonio Johnson,S,East St. Louis,2023,2023,0,0,0,2,13,,,,0,,,,,,,0,,,,0,,JohnAn07
+59,Cameron Mitchell,CB,Chicago,2023,2023,0,0,0,2,13,,,,0,,,,,,,0,,,,0,,MitcCa01
+60,Sean Clifford,QB,Barrington,2023,2023,0,0,0,0,2,1.0,1.0,37.0,0,37.0,0.0,0.0,0.0,3.0,-2.0,0,0.0,,,0,,ClifSe00
+61,Lukas Van Ness,LB,Barrington,2023,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,VanNLu00
+62,Zach Harrison,DL,,2023,2023,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,HarrZa00
+63,Cameron Brate,TE,Naperville,2014,2022,0,0,3,18,126,,,,0,,,,,,,0,,273.0,2857.0,33,46.0,BratCa00
+64,Tevin Coleman,RB,Tinley Park,2015,2022,0,0,2,33,94,,,,0,,,,,789.0,3319.0,25,65.0,131.0,1317.0,13,49.0,ColeTe01
+65,Clayton Fejedelem,FS,New Lennox,2016,2022,0,0,0,8,107,,,,0,,,,,6.0,29.0,0,22.0,,,0,,FejeCl00
+66,Mike Thomas,WR,Chicago,2016,2022,0,0,0,2,76,,,,0,,,,,1.0,1.0,0,1.0,30.0,366.0,1,50.0,ThomMi04
+67,Josh Jones,S,Chicago,2017,2022,0,0,1,11,70,,,,0,,,,,,,0,,,,0,,JoneJo06
+68,Kenny Golladay,WR,Chicago,2017,2022,0,1,4,27,73,,,,0,,,,,2.0,17.0,0,9.0,226.0,3670.0,22,75.0,GollKe00
+69,Corey Davis,WR,Chicago,2017,2022,0,0,5,31,78,,,,0,,,,,6.0,55.0,0,39.0,273.0,3879.0,17,75.0,DaviCo03
+70,Jake Kumerow,WR,Chicago,2018,2022,0,0,0,4,46,,,,0,,,,,,,0,,27.0,436.0,3,49.0,KumeJa00
+71,Justin Jackson,RB,Chicago,2018,2022,0,0,0,12,59,,,,0,,,,,248.0,1210.0,5,75.0,77.0,609.0,1,34.0,JackJu01
+72,Malik Turner,WR,Springfield,2018,2022,0,0,0,3,44,,,,0,,,,,,,0,,29.0,414.0,4,61.0,TurnMa00
+73,Chris Streveler,QB,Naperville,2020,2022,0,0,0,0,9,27.0,40.0,231.0,1,30.0,1.0,4.0,27.0,16.0,75.0,0,14.0,,,0,,StreCh00
+74,Don Gardner,CB,Chicago,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GardDo00
+75,Bryan Bulaga,T,Barrington,2010,2021,0,0,9,56,126,,,,0,,,,,,,0,,,,0,,BulaBr20
+76,Rashaan Melvin,CB,Waukegan,2014,2021,0,0,3,16,74,,,,0,,,,,,,0,,,,0,,MelvRa00
+77,James O'Shaughnessy,TE,Naperville,2015,2021,0,0,3,7,80,,,,0,,,,,,,0,,112.0,1108.0,3,35.0,O'ShJa00
+78,Matt LaCosse,TE,Naperville,2015,2021,0,0,1,3,34,,,,0,,,,,,,0,,40.0,403.0,2,44.0,LaCoMa00
+79,Justin March,RILB,Danville,2016,2021,0,0,0,5,61,,,,0,,,,,,,0,,,,0,,MarcJu00
+80,Brian Hill,RB,Belleville,2017,2021,0,0,0,9,48,,,,0,,,,,209.0,982.0,3,62.0,38.0,313.0,1,34.0,HillBr02
+81,James Vaughters,LB,Chicago,2019,2021,0,0,0,2,27,,,,0,,,,,,,0,,,,0,,VaugJa01
+82,Jamarco Jones,T,Chicago,2019,2021,0,0,0,7,36,,,,0,,,,,,,0,,,,0,,JoneJa08
+83,Frank Herron,DL,Centrerville,2019,2021,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,HerrFr00
+84,Jordan Glasgow,LB,Aurora,2020,2021,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,GlasJo00
+85,Antonio Gandy-Golden,WR,Chicago,2020,2021,0,0,0,0,10,,,,0,,,,,1.0,22.0,0,22.0,1.0,3.0,0,3.0,GandAn00
+86,Matt Cole,WR,Chicago,2020,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ColeMa03
+87,Daniel Helm,TE,Chatham,2020,2021,0,0,0,0,14,,,,0,,,,,,,0,,1.0,-1.0,0,0.0,HelmDa01
+88,Raequan Williams,DT,Chicago,2020,2021,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,WillRa03
+89,Tre'Vour Wallace-Simms,G,East St. Louis,2020,2021,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,WallTr01
+90,Ian Bunting,,Hinsdale,2021,2021,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BuntIa00
+91,Steven Wirtel,,Orland Park,2021,2021,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,WirtSt01
+92,Barrington Wade,,Skokie,2021,2021,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,WadeBa00
+93,Tuf Borland,,Bolingbrook,2021,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BorlTu00
+94,Sherrick McManis,DB,Peoria,2010,2020,0,0,0,9,142,,,,0,,,,,,,0,,,,0,,McMaSh99
+95,Anthony Castonzo,LT,Hawthorn Woods,2011,2020,0,0,10,58,144,,,,0,,,,,,,0,,1.0,1.0,1,1.0,CastAn00
+96,L.J. Fort,LILB,Granite City,2012,2020,0,0,2,15,91,,,,0,,,,,,,0,,,,0,,FortL.00
+97,Zach Fulton,G,Homewood,2014,2020,0,0,6,39,107,,,,0,,,,,,,0,,,,0,,FultZa00
+98,B.J. Bello,LB,New Lennox,2017,2020,0,0,0,2,33,,,,0,,,,,,,0,,,,0,,BellB.00
+99,Ryan Glasgow,DT,Aurora,2017,2020,0,0,0,3,26,,,,0,,,,,,,0,,,,0,,GlasRy00
+100,Troy Fumagalli,TE,Naperville,2019,2020,0,0,0,1,19,,,,0,,,,,,,0,,14.0,118.0,2,29.0,FumaTr00
+101,Matt Kaskey,T,Winnetka,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,KaskMa00
+102,Aaron Adeoye,DE,Marion,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,AdeoAa00
+103,Luke Juriga,C,Aurora,2020,2020,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,JuriLu00
+104,Jeff Allen,T,Chicago,2012,2019,0,0,4,27,84,,,,0,,,,,,,0,,,,0,,AlleJe01
+105,Josh Kline,OL,Hoffman Estates,2013,2019,0,0,4,36,92,,,,0,,,,,,,0,,,,0,,KlinJo01
+106,Alex Tanney,QB,Lexington,2015,2019,0,0,0,0,2,11.0,15.0,100.0,1,29.0,0.0,3.0,34.0,,,0,,,,0,,TannAl00
+107,Danny Vitale,FB,Wheaton,2016,2019,0,0,1,1,44,,,,0,,,,,1.0,3.0,0,3.0,15.0,145.0,0,27.0,VitaDa00
+108,Josh Ferguson,RB,Naperville,2016,2019,0,0,0,1,28,,,,0,,,,,19.0,34.0,0,11.0,23.0,152.0,0,14.0,FergJo02
+109,Jason Vander Laan,TE,Frankfort,2017,2019,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,VandJa00
+110,Chris Covington,LB,Chicago,2018,2019,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,CoviCh01
+111,Andre Holmes,WR,Hoffman Estates,2012,2018,0,0,1,12,94,,,,0,,,,,,,0,,128.0,1744.0,15,77.0,HolmAn00
+112,Brian Schwenke,C,Waukegan,2013,2018,0,0,2,14,60,,,,0,,,,,,,0,,1.0,6.0,0,6.0,SchwBr00
+113,Zach Moore,DE,Chicago,2014,2018,0,0,0,3,26,,,,0,,,,,,,0,,,,0,,MoorZa00
+114,Cameron Meredith,WR,Berwyn,2015,2018,0,0,1,8,31,1.0,1.0,2.0,1,2.0,0.0,0.0,0.0,1.0,6.0,0,6.0,86.0,1122.0,5,50.0,MereCa00
+115,Antonio Morrison,ILB,Bellwood,2016,2018,0,0,2,13,47,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,,,0,,,,0,,MorrAn01
+116,Vincent Valentine,DT,Madison,2016,2018,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,ValeVi00
+117,Mike Liedtke,OL,Woodstock,2017,2018,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,LiedMi00
+118,Chase Allen,LB,Belleville,2017,2018,0,0,0,4,21,,,,0,,,,,,,0,,,,0,,AlleCh02
+119,Lance Lenoir,WR,Chicago,2017,2018,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,LenoLa00
+120,Jimmy Murray,OL,Wilmette,2018,2018,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,MurrJi00
+121,Darius Jackson,RB,Sparta,2018,2018,0,0,0,0,4,,,,0,,,,,6.0,16.0,0,4.0,0.0,0.0,0,0.0,JackDa01
+122,Michael Hoomanawanui,TE,Bloomington,2010,2017,0,0,3,5,87,,,,0,,,,,1.0,0.0,0,0.0,57.0,646.0,8,41.0,HoomMi00
+123,Sean McGrath,TE,Chicago,2012,2017,0,0,1,3,49,,,,0,,,,,,,0,,32.0,373.0,2,25.0,McGrSe00
+124,Coby Fleener,TE,Lemont,2012,2017,0,0,4,25,87,,,,0,,,,,1.0,2.0,1,2.0,255.0,3080.0,22,73.0,FleeCo00
+125,Scott Tolzien,QB,Rolling Meadows,2013,2017,0,0,0,3,10,88.0,146.0,1065.0,2,52.0,9.0,11.0,84.0,16.0,57.0,1,19.0,,,0,,TolzSc00
+126,Brandon Williams,TE,Chicago,2013,2017,0,0,1,1,59,,,,0,,,,,,,0,,19.0,201.0,0,32.0,WillBr04
+127,Nate Palmer,ROLB,Chicago,2013,2017,0,0,1,9,48,,,,0,,,,,,,0,,,,0,,PalmNa01
+128,C.J. Fiedorowicz,TE,Johnsburg,2014,2017,0,0,2,6,51,,,,0,,,,,,,0,,89.0,881.0,6,26.0,FiedC.00
+129,Cameron Lee,G,Danville,2017,2017,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,LeexCa01
+130,Rob Ninkovich,DE,New Lenox,2006,2016,0,0,7,51,131,,,,0,,,,,,,0,,,,0,,NinkRo20
+131,O'Brien Schofield,LB,Great Lakes,2010,2016,0,0,2,15,84,,,,0,,,,,,,0,,,,0,,SchoOB99
+132,Clay Harbor,TE,Dwight,2010,2016,0,0,2,7,98,,,,0,,,,,,,0,,114.0,1170.0,8,59.0,HarbCl00
+133,Sergio Brown,DB,Maywood,2010,2016,0,0,1,10,94,,,,0,,,,,,,0,,,,0,,BrowSe00
+134,Corbin Bryant,DE,Chicago,2011,2016,0,0,1,11,56,,,,0,,,,,,,0,,,,0,,BryaCo00
+135,Cory Harkey,TE,Chicago,2012,2016,0,0,2,1,64,,,,0,,,,,,,0,,27.0,215.0,3,31.0,HarkCo00
+136,Adam Gettis,G,Calumet Park,2013,2016,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,GettAd00
+137,Justin Staples,DL,Chicago,2014,2016,0,0,0,1,21,,,,0,,,,,,,0,,,,0,,StapJu00
+138,Charles Tillman,DB,Chicago,2003,2015,1,2,11,66,168,,,,0,,,,,,,0,,,,0,,TillCh20
+139,Jason Avant,WR,Chicago,2006,2015,0,0,3,29,148,,,,0,,,,,2.0,2.0,0,1.0,346.0,4118.0,13,58.0,AvanJa00
+140,Owen Daniels,TE,Naperville,2006,2015,0,2,9,41,131,,,,0,,,,,,,0,,479.0,5661.0,36,44.0,DaniOw00
+141,Pierre Thomas,RB,Chicago,2007,2015,0,0,2,45,110,,,,0,,,,,833.0,3809.0,28,48.0,336.0,2692.0,12,57.0,ThomPi00
+142,Joe Mays,MLB,Chicago,2008,2015,0,0,2,18,78,,,,0,,,,,,,0,,,,0,,MaysJo99
+143,Andy Studebaker,LOLB,Congerville,2008,2015,0,0,0,11,97,,,,0,,,,,,,0,,,,0,,StudAn99
+144,Desmond Bryant,DT,Shorewood,2009,2015,0,0,4,28,104,,,,0,,,,,,,0,,,,0,,BryaDe00
+145,Tony Moeaki,TE,Warrenville,2010,2015,0,0,2,10,49,,,,0,,,,,,,0,,91.0,1201.0,6,63.0,MoeaTo00
+146,David Molk,C,Palos Hills,2012,2015,0,0,0,3,20,,,,0,,,,,,,0,,,,0,,MolkDa00
+147,Chris Watt,G,Glen Ellyn,2014,2015,0,0,0,5,17,,,,0,,,,,,,0,,,,0,,WattCh00
+148,Jeff Adams,T,Berwyn,2014,2015,0,0,0,1,4,,,,0,,,,,,,0,,,,0,,AdamJe00
+149,Darius Fleming,OLB,Chicago,2014,2015,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,FlemDa00
+150,Bruce Gaston,DT,Chicago,2015,2015,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,GastBr00
+151,Reid Fragel,T,Chicago,2015,2015,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,FragRe00
+152,E.J. Bibbs,TE,Chicago,2015,2015,0,0,0,0,7,,,,0,,,,,,,0,,1.0,7.0,0,7.0,BibbE.00
+153,Brad Bars,DE,Chicago,2015,2015,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BarsBr00
+154,Evan Spencer,WR,Vernon Hills,2015,2015,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SpenEv00
+155,Andy Gallik,C,Evergreen Park,2015,2015,0,0,1,4,12,,,,0,,,,,,,0,,,,0,,GallAn00
+156,Seantavius Jones,WR,Springfield,2015,2015,0,0,0,0,3,,,,0,,,,,,,0,,0.0,0.0,0,0.0,JoneSe01
+157,Tim Jamison,DE,Riverdale,2009,2014,0,0,0,6,56,,,,0,,,,,,,0,,,,0,,JamiTi99
+158,Jason Williams,OLB,Chicago,2009,2014,0,0,0,4,60,,,,0,,,,,,,0,,,,0,,WillJa95
+159,Larry English,DE,Aurora,2009,2014,0,0,1,7,64,,,,0,,,,,,,0,,,,0,,EnglLa99
+160,Josh Brent,DT,Bloomington,2010,2014,0,0,0,5,40,,,,0,,,,,,,0,,,,0,,BrenJo00
+161,Jon Asamoah,G,Park Forest,2010,2014,0,0,4,21,75,,,,0,,,,,,,0,,,,0,,AsamJo20
+162,Byron Stingily,T,Chicago,2012,2014,0,0,0,4,20,,,,0,,,,,,,0,,,,0,,StinBy00
+163,Robert Hughes,RB,Chicago,2012,2014,0,0,0,1,23,,,,0,,,,,8.0,16.0,0,5.0,10.0,149.0,0,49.0,HughRo00
+164,Glenn Foster,DE,Chicago,2013,2014,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,FostGl00
+165,Michael Buchanan,DE,Homewood,2013,2014,0,0,0,2,18,,,,0,,,,,,,0,,,,0,,BuchMi00
+166,Garrett Gilkey,G,Sandwich,2013,2014,0,0,0,2,22,,,,0,,,,,,,0,,,,0,,GilkGa00
+167,Kenneth Boatright,DE,Joilet,2014,2014,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BoatKe00
+168,David Diehl,G,Chicago,2003,2013,0,1,11,67,164,,,,0,,,,,,,0,,,,0,,DiehDa21
+169,Tony Pashos,T,Lockport,2004,2013,0,0,5,34,104,,,,0,,,,,,,0,,,,0,,PashTo20
+170,Fred Evans,DT,Chicago,2006,2013,0,0,0,9,95,,,,0,,,,,,,0,,,,0,,EvanFr21
+171,Rashard Mendenhall,RB,Skokie,2008,2013,0,0,4,29,72,,,,0,,,,,1081.0,4236.0,37,68.0,95.0,795.0,2,35.0,MendRa00
+172,Marquice Cole,DB,Hazel Crest,2009,2013,0,0,0,6,64,,,,0,,,,,,,0,,,,0,,ColeMa01
+173,Curtis Painter,QB,Watseka,2009,2013,0,0,1,2,14,148.0,287.0,1681.0,6,87.0,13.0,20.0,126.0,23.0,109.0,0,24.0,,,0,,PainCu00
+174,Brandon Hughes,DB,Bloomington,2010,2013,0,0,0,2,31,,,,0,,,,,,,0,,,,0,,HughBr99
+175,Martez Wilson,OLB,Chicago,2011,2013,0,0,0,2,38,,,,0,,,,,,,0,,,,0,,WilsMa01
+176,Matt Conrath,DT,Oak Lawn,2012,2013,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,ConrMa00
+177,Jeris Pendleton,DT,Chicago,2012,2013,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,PendJe00
+178,Mikel Leshoure,RB,Champaign,2012,2013,0,0,1,5,17,,,,0,,,,,217.0,807.0,9,16.0,34.0,214.0,0,15.0,LeshMi00
+179,Sean Cattouse,FS,Chicago,2012,2013,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,CattSe00
+180,Jack Cornell,OL,Quincy,2013,2013,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,CornJa00
+181,Johnny Adams,CB,Des Plaines,2013,2013,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,AdamJo02
+182,Kevin Walter,WR,Lake Forest,2003,2012,0,0,6,37,152,,,,0,,,,,13.0,82.0,0,13.0,356.0,4379.0,25,61.0,WaltKe00
+183,Brendon Ayanbadejo,OLB,Chicago,2003,2012,0,3,0,25,142,,,,0,,,,,,,0,,,,0,,AyanBr99
+184,Michael Turner,RB,Waukegan,2004,2012,1,2,5,55,134,,,,0,,,,,1639.0,7338.0,66,83.0,70.0,528.0,1,60.0,TurnMi00
+185,Sean Considine,DB,Dixon,2005,2012,0,0,2,15,99,,,,0,,,,,1.0,3.0,0,3.0,,,0,,ConsSe20
+186,Kelvin Hayden,DB,Chicago,2005,2012,0,0,4,24,101,,,,0,,,,,,,0,,,,0,,HaydKe20
+187,Reggie Hodges,P,Champaign,2005,2012,0,0,0,5,64,,,,0,,,,,2.0,68.0,0,68.0,,,0,,HodgRe20
+188,Quincy Black,OLB,Chicago,2007,2012,0,0,3,18,81,,,,0,,,,,,,0,,,,0,,BlacQu99
+189,Tom Zbikowski,DB,Park Ridge,2008,2012,0,0,1,11,64,,,,0,,,,,,,0,,,,0,,ZbikTo99
+190,Brit Miller,LB,Decatur,2009,2012,0,0,0,3,35,,,,0,,,,,5.0,14.0,0,12.0,3.0,41.0,0,20.0,MillBr01
+191,Kenny Onatolu,OLB,Chicago,2009,2012,0,0,0,3,52,,,,0,,,,,,,0,,,,0,,OnatKe00
+192,Tracy Wilson,S,Harvey,2011,2012,0,0,0,0,14,,,,0,,,,,,,0,,,,0,,WilsTr01
+193,Bryan Hall,DT,Carbondale,2012,2012,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,HallBr00
+194,Donovan McNabb,QB,Chicago,1999,2011,0,6,11,107,167,3170.0,5374.0,37276.0,234,91.0,117.0,410.0,2626.0,616.0,3459.0,29,54.0,5.0,-7.0,0,3.0,McNaDo00
+195,Ryan Diem,T,Carol Stream,2001,2011,0,0,10,72,157,,,,0,,,,,,,0,,,,0,,DiemRy20
+196,Matt Roth,DE,Villa Park,2005,2011,0,0,5,27,96,,,,0,,,,,,,0,,,,0,,RothMa20
+197,Marcus McNeill,T,Chicago,2006,2011,0,2,6,48,82,,,,0,,,,,,,0,,,,0,,McNeMa20
+198,Tom Nelson,DB,Hoffman Estates,2009,2011,0,0,0,2,24,,,,0,,,,,,,0,,,,0,,NelsTo00
+199,Patrick Brown,T,Naperville,2011,2011,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,BrowPa00
+200,Ryan Donahue,P,Evergreen Park,2011,2011,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,DonaRy00

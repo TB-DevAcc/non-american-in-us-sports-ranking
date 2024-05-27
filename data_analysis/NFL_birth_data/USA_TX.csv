@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Jason Peters,T,Bowie County,2004,2023,2,9,14,97,248,,,,0,,,,,,,0,,2.0,5.0,1,4.0,PeteJa21
+2,Mason Crosby,K,Lubbock,2007,2023,0,0,1,33,261,,,,0,,,,,,,0,,0.0,0.0,0,0.0,CrosMa20
+3,Thomas Morstead,P,Pearland,2009,2023,0,1,1,28,238,1.0,1.0,18.0,0,18.0,0.0,1.0,2.0,,,0,,,,0,,MorsTh00
+4,Trent Williams,T,Longview,2010,2023,3,11,12,99,178,,,,0,,,,,,,0,,0.0,0.0,0,0.0,WillTr21
+5,Jerry Hughes,DE,Sugar Land,2010,2023,0,0,9,68,218,,,,0,,,,,,,0,,,,0,,HughJe99
+6,Von Miller,OLB,DeSoto,2011,2023,3,8,10,104,173,,,,0,,,,,,,0,,,,0,,MillVo00
+7,Andy Dalton,QB,Katy,2011,2023,0,3,11,91,169,3408.0,5454.0,38511.0,246,86.0,144.0,348.0,2281.0,471.0,1477.0,22,25.0,3.0,11.0,1,18.0,DaltAn00
+8,Justin Tucker,K,Houston,2012,2023,5,7,1,46,195,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,,,0,,,,0,,TuckJu00
+9,Ryan Tannehill,QB,Lubbock,2012,2023,0,1,10,91,155,3063.0,4764.0,34881.0,216,91.0,115.0,415.0,3065.0,440.0,2103.0,27,48.0,4.0,8.0,1,9.0,TannRy00
+10,Kelvin Beachum,T,Mexia,2012,2023,0,0,9,54,163,,,,0,,,,,,,0,,,,0,,BeacKe00
+11,Ty Nsekhe,T,Arlington,2012,2023,0,0,0,17,105,,,,0,,,,,,,0,,,,0,,NsekTy00
+12,Case Keenum,QB,Abilene,2013,2023,0,0,4,36,80,1392.0,2233.0,15175.0,79,69.0,51.0,131.0,989.0,150.0,451.0,6,22.0,,,0,,KeenCa00
+13,Marquise Goodwin,WR,Lubbock,2013,2023,0,0,3,24,114,,,,0,,,,,23.0,126.0,0,20.0,191.0,3090.0,18,84.0,GoodMa00
+14,Cody Davis,S,Stephenville,2013,2023,0,0,0,9,144,,,,0,,,,,,,0,,2.0,27.0,0,20.0,DaviCo02
+15,Randy Bullock,K,Klein,2013,2023,0,0,1,20,144,,,,0,,,,,,,0,,,,0,,BullRa00
+16,Lane Johnson,T,Groveton,2013,2023,2,5,9,79,143,,,,0,,,,,,,0,,1.0,5.0,1,5.0,JohnLa01
+17,Cameron Fleming,T,Fort Hood,2014,2023,0,0,2,31,117,,,,0,,,,,,,0,,,,0,,FlemCa00
+18,Adrian Phillips,DB,Garland,2014,2023,1,1,2,29,131,,,,0,,,,,,,0,,,,0,,PhilAd00
+19,Mike Evans,WR,Galveston,2014,2023,0,5,9,73,154,,,,0,,,,,1.0,10.0,0,10.0,762.0,11680.0,94,75.0,EvanMi00
+20,Bradley Roby,CB,Fort Worth,2014,2023,0,0,4,25,135,,,,0,,,,,,,0,,,,0,,RobyBr00
+21,Jake Matthews,T,Missouri City,2014,2023,0,1,9,69,162,,,,0,,,,,,,0,,,,0,,MattJa00
+22,Chris Boswell,K,Fort Worth,2015,2023,0,1,1,25,133,1.0,2.0,2.0,1,2.0,0.0,0.0,0.0,,,0,,,,0,,BoswCh00
+23,Mitch Morse,C,Austin,2015,2023,0,1,7,53,126,,,,0,,,,,,,0,,,,0,,MorsMi00
+24,Kerry Hyder,DT,Austin,2015,2023,0,0,1,19,93,,,,0,,,,,,,0,,,,0,,HydeKe01
+25,Dustin Hopkins,K,Austin,2015,2023,0,0,0,22,124,,,,0,,,,,,,0,,,,0,,HopkDu00
+26,Quandre Diggs,CB,Houston,2015,2023,0,3,4,41,137,,,,0,,,,,,,0,,,,0,,DiggQu00
+27,Xavien Howard,CB,Houston,2016,2023,1,4,6,56,100,,,,0,,,,,,,0,,,,0,,HowaXa00
+28,Halapoulivaati Vaitai,T,Haltom,2016,2023,0,0,3,25,86,,,,0,,,,,,,0,,,,0,,VaitHa00
+29,Jalen Mills,CB,DeSoto,2016,2023,0,0,6,29,106,,,,0,,,,,,,0,,,,0,,MillJa02
+30,A'Shawn Robinson,DT,Fort Worth,2016,2023,0,0,4,32,110,,,,0,,,,,,,0,,0.0,0.0,0,0.0,RobiAS00
+31,Jonathan Williams,RB,Dallas,2016,2023,0,0,0,5,47,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,135.0,563.0,3,48.0,22.0,149.0,0,31.0,WillJo07
+32,Elandon Roberts,ILB,Port Arthur,2016,2023,0,0,5,44,123,,,,0,,,,,,,0,,1.0,38.0,1,38.0,RobeEl00
+33,Josh Reynolds,WR,San Antonio,2017,2023,0,0,2,24,107,,,,0,,,,,8.0,36.0,0,12.0,220.0,2933.0,19,40.0,ReynJo00
+34,Zach Wood,DE,Rowlett,2017,2023,0,0,0,10,115,,,,0,,,,,,,0,,,,0,,WoodZa00
+35,Zay Jones,WR,Dallas,2017,2023,0,0,3,24,104,1.0,2.0,29.0,0,29.0,0.0,0.0,0.0,8.0,24.0,0,14.0,287.0,3028.0,18,59.0,JoneZa00
+36,Adam Butler,DT,Duncanville,2017,2023,0,0,1,17,97,,,,0,,,,,,,0,,,,0,,ButlAd00
+37,David Moore,WR,Gainesville,2017,2023,0,0,2,12,57,,,,0,,,,,12.0,91.0,0,19.0,83.0,1257.0,14,60.0,MoorDa03
+38,Jamal Adams,SS,Lewisville,2017,2023,1,3,5,43,80,,,,0,,,,,,,0,,,,0,,AdamJa00
+39,Aviante Collins,G,Houston,2017,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,CollAv00
+40,D'Onta Foreman,RB,Texas City,2017,2023,0,0,1,16,52,,,,0,,,,,552.0,2326.0,14,60.0,34.0,342.0,3,39.0,ForeDO00
+41,Patrick Mahomes,QB,Tyler,2017,2023,2,6,5,96,96,2386.0,3590.0,28424.0,219,89.0,63.0,148.0,980.0,374.0,1936.0,12,32.0,1.0,6.0,0,6.0,MahoPa00
+42,Andrew Billings,DT,Waco,2017,2023,0,0,3,26,84,,,,0,,,,,,,0,,,,0,,BillAn00
+43,Myles Garrett,DE,Arlington,2017,2023,3,5,6,79,100,,,,0,,,,,,,0,,,,0,,GarrMy00
+44,Courtland Sutton,WR,Brenham,2018,2023,0,1,3,30,81,2.0,2.0,54.0,0,38.0,0.0,0.0,0.0,5.0,21.0,0,9.0,298.0,4259.0,24,70.0,SuttCo00
+45,Tony Brown,CB,Beaumont,2018,2023,0,0,0,4,61,,,,0,,,,,,,0,,,,0,,BrowTo01
+46,Connor Williams,T,Coppell,2018,2023,0,0,5,32,83,,,,0,,,,,,,0,,,,0,,WillCo00
+47,Baker Mayfield,QB,Austin,2018,2023,0,1,4,57,89,1750.0,2825.0,20332.0,130,89.0,74.0,210.0,1338.0,251.0,823.0,7,35.0,1.0,17.0,0,6.0,MayfBa00
+48,Tre Flowers,SS,Converse,2018,2023,0,0,2,19,90,,,,0,,,,,,,0,,,,0,,FlowTr01
+49,Dorance Armstrong Jr.,DE,Houston,2018,2023,0,0,0,15,93,,,,0,,,,,,,0,,,,0,,ArmsDo00
+50,Joseph Noteboom,T,Plano,2018,2023,0,0,0,16,67,,,,0,,,,,,,0,,,,0,,NoteJo00
+51,Matthew Adams,OLB,Missouri City,2018,2023,0,0,1,13,85,,,,0,,,,,,,0,,,,0,,AdamMa00
+52,Marcus Davenport,DE,San Antonio,2018,2023,0,0,2,19,67,,,,0,,,,,,,0,,,,0,,DaveMa00
+53,Jeff Wilson,RB,Elkhart,2018,2023,0,0,0,17,63,,,,0,,,,,515.0,2313.0,18,41.0,71.0,566.0,5,25.0,WilsJe01
+54,Malik Jefferson,OLB,Dallas,2018,2023,0,0,0,3,38,,,,0,,,,,,,0,,,,0,,JeffMa00
+55,DeShon Elliott,SS,Dallas,2019,2023,0,0,2,18,57,,,,0,,,,,,,0,,,,0,,ElliDe02
+56,Deonte Harty,WR,Dallas,2019,2023,1,1,0,10,56,,,,0,,,,,19.0,123.0,0,23.0,79.0,943.0,5,72.0,HarrDe07
+57,Kris Boyd,CB,Gilmer,2019,2023,0,0,0,6,64,,,,0,,,,,,,0,,,,0,,BoydKr00
+58,Samuel Eguavoen,OLB,Garland,2019,2023,0,0,1,7,81,,,,0,,,,,,,0,,,,0,,EguaSa00
+59,E.J. Speed,OLB,Fort Worth,2019,2023,0,0,0,10,77,,,,0,,,,,,,0,,,,0,,SpeeEJ00
+60,Ty Summers,OLB,Plano,2019,2023,0,0,0,5,67,,,,0,,,,,,,0,,,,0,,SummTy00
+61,L.J. Collier,DL,Munday,2019,2023,0,0,1,9,46,,,,0,,,,,,,0,,,,0,,CollLJ00
+62,Erik McCoy,OL,Lufkin,2019,2023,0,1,4,31,74,,,,0,,,,,,,0,,,,0,,McCoEr01
+63,Kendall Sheffield,CB,Missouri City,2019,2023,0,0,0,6,43,,,,0,,,,,,,0,,,,0,,ShefKe00
+64,Devine Ozigbo,RB,Sachse,2019,2023,0,0,0,0,28,,,,0,,,,,17.0,34.0,0,9.0,15.0,83.0,0,12.0,OzigDe01
+65,Lil'Jordan Humphrey,WR,Southlake,2019,2023,0,0,0,4,41,,,,0,,,,,,,0,,31.0,477.0,6,56.0,HumpLi01
+66,Evan Brown,C,Southlake,2019,2023,0,0,2,17,57,,,,0,,,,,,,0,,,,0,,BrowEv00
+67,Austin Schlottmann,G,Brenham,2019,2023,0,0,0,8,67,,,,0,,,,,,,0,,,,0,,SchlAu00
+68,Kyler Murray,QB,Bedford,2019,2023,0,2,4,57,65,1492.0,2239.0,15647.0,94,88.0,46.0,149.0,1082.0,425.0,2448.0,26,57.0,0.0,7.0,0,,MurrKy00
+69,Jalen Guyton,WR,Allen,2019,2023,0,0,1,10,46,,,,0,,,,,9.0,34.0,0,21.0,71.0,1112.0,7,72.0,GuytJa01
+70,Chase McLaughlin,K,Cypress,2019,2023,0,0,1,10,64,,,,0,,,,,,,0,,,,0,,McLaCh00
+71,Gunner Olszewski,WR,Alvin,2019,2023,1,0,0,4,65,,,,0,,,,,14.0,71.0,0,18.0,15.0,180.0,1,38.0,OlszGu00
+72,Justin Hollins,EDGE,Arlington,2019,2023,0,0,0,8,67,,,,0,,,,,,,0,,,,0,,HollJu00
+73,Kevin Strong,DT,Cleveland,2019,2023,0,0,0,8,50,,,,0,,,,,,,0,,,,0,,StroKe00
+74,Maxx Crosby,EDGE,Colleyville,2019,2023,0,3,4,47,83,,,,0,,,,,,,0,,,,0,,CrosMa00
+75,Trayveon Williams,RB,Houston,2019,2023,0,0,0,3,51,,,,0,,,,,62.0,307.0,0,55.0,15.0,74.0,0,24.0,WillTr06
+76,Steven Sims,WR,Houston,2019,2023,0,0,0,7,44,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,24.0,174.0,1,65.0,78.0,704.0,5,65.0,SimsSt00
+77,Charles Omenihu,DL,Houston,2019,2023,0,0,0,10,72,,,,0,,,,,,,0,,,,0,,OmenCh00
+78,Ed Oliver,DL,Houston,2019,2023,0,0,3,37,78,,,,0,,,,,,,0,,,,0,,OlivEd00
+79,Broderick Washington Jr.,DL,Longview,2020,2023,0,0,1,11,55,,,,0,,,,,,,0,,,,0,,WashBr01
+80,Laviska Shenault Jr.,WR,Irving,2020,2023,0,0,1,12,51,,,,0,,,,,50.0,252.0,1,41.0,158.0,1551.0,6,67.0,ShenLa00
+81,Jamycal Hasty,RB,Longview,2020,2023,0,0,0,5,41,,,,0,,,,,101.0,410.0,4,61.0,50.0,316.0,1,28.0,HastJa02
+82,Robert Hunt,OL,Jasper,2020,2023,0,0,3,22,61,,,,0,,,,,1.0,0.0,0,0.0,,,0,,HuntRo01
+83,Jon Runyan Jr.,OL,Houston,2020,2023,0,0,2,26,67,,,,0,,,,,,,0,,,,0,,RunyJo00
+84,Kenneth Murray,OLB,Houston,2020,2023,0,0,2,23,59,,,,0,,,,,,,0,,,,0,,MurrKe00
+85,Braden Mann,P,Houston,2020,2023,0,0,1,9,58,2.0,3.0,45.0,0,28.0,0.0,0.0,0.0,1.0,4.0,0,4.0,,,0,,MannBr01
+86,Jordyn Brooks,OLB,Houston,2020,2023,0,0,2,23,63,,,,0,,,,,,,0,,,,0,,BrooJo01
+87,K'Lavon Chaisson,OLB,Houston,2020,2023,0,0,0,8,57,,,,0,,,,,,,0,,,,0,,ChaiKL00
+88,Jalen Hurts,QB,Houston,2020,2023,0,2,2,56,62,1000.0,1578.0,11764.0,67,91.0,34.0,113.0,662.0,524.0,2503.0,41,42.0,1.0,3.0,0,3.0,HurtJa00
+89,J.K. Dobbins,RB,Houston,2020,2023,0,0,0,11,24,,,,0,,,,,234.0,1347.0,12,72.0,27.0,177.0,1,20.0,DobbJK00
+90,Grayland Arnold,DB,Kountze,2020,2023,0,0,0,1,26,,,,0,,,,,,,0,,,,0,,ArnoGr01
+91,Aaron Brewer,C,Dallas,2020,2023,0,0,1,16,58,,,,0,,,,,,,0,,0.0,0.0,0,0.0,BrewAa01
+92,P.J. Locke,DB,Beaumont,2020,2023,0,0,0,6,59,,,,0,,,,,,,0,,,,0,,LockPJ00
+93,Trevis Gipson,DL,Cedar Hill,2020,2023,0,0,1,10,48,,,,0,,,,,,,0,,,,0,,GipsTr00
+94,Terence Steele,T,Cibolo,2020,2023,0,0,3,30,62,,,,0,,,,,,,0,,1.0,1.0,1,1.0,SteeTe01
+95,Jack Fox,P,Dallas,2020,2023,0,1,1,9,67,3.0,4.0,44.0,0,21.0,0.0,0.0,0.0,,,0,,,,0,,FoxxJa01
+96,Jeff Okudah,CB,Grand Prairie,2020,2023,0,0,1,10,38,,,,0,,,,,,,0,,,,0,,OkudJe00
+97,Blake Lynch,LB,Gilmer,2020,2023,0,0,0,5,27,,,,0,,,,,,,0,,,,0,,LyncBl00
+98,Justin Madubuike,DL,Dallas,2020,2023,0,1,2,29,59,,,,0,,,,,,,0,,,,0,,MaduJu00
+99,Hakeem Adeniji,OL,Garland,2020,2023,0,0,0,9,43,,,,0,,,,,,,0,,,,0,,AdenHa00
+100,A.J. Green,DB,DeSoto,2020,2023,0,0,0,2,34,,,,0,,,,,,,0,,,,0,,GreeAJ00
+101,James Proche,WR,Dallas,2020,2023,0,0,0,3,53,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,,,0,,25.0,278.0,0,32.0,ProcJa00
+102,Nick Thurman,DT,Dallas,2020,2023,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,ThurNi00
+103,Brandon Jones,S,Nacogdoches,2020,2023,0,0,1,11,54,,,,0,,,,,,,0,,,,0,,JoneBr06
+104,Jordan Elliott,DL,Missouri City,2020,2023,0,0,1,17,66,,,,0,,,,,,,0,,,,0,,ElliJo02
+105,Ross Blacklock,DL,Missouri City,2020,2023,0,0,0,4,44,,,,0,,,,,,,0,,,,0,,BlacRo00
+106,Devin Duvernay,WR,Sachse,2020,2023,1,2,1,12,59,,,,0,,,,,27.0,219.0,1,42.0,94.0,898.0,5,39.0,DuveDe00
+107,Josh Jones,OL,Richmond,2020,2023,0,0,2,14,60,,,,0,,,,,,,0,,,,0,,JoneJo07
+108,Ross Matiscik,LS,McKinney,2020,2023,1,1,0,5,67,,,,0,,,,,,,0,,,,0,,MatiRo00
+109,McTelvin Agim,DL,Texarkana,2020,2023,0,0,0,2,18,,,,0,,,,,,,0,,,,0,,AgimMc00
+110,Jalen Reagor,WR,Waxahachie,2020,2023,0,0,2,10,56,,,,0,,,,,19.0,100.0,0,19.0,79.0,937.0,4,55.0,ReagJa00
+111,Rashawn Slater,T,Sugar Land,2021,2023,0,1,1,23,36,,,,0,,,,,,,0,,,,0,,SlatRa00
+112,Ta'Quon Graham,DT,Temple,2021,2023,0,0,1,8,39,,,,0,,,,,,,0,,,,0,,GrahTa00
+113,Buddy Johnson,LB,Dallas,2021,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,JohnBu01
+114,Baron Browning,LB,Fort Worth,2021,2023,0,0,0,14,38,,,,0,,,,,,,0,,,,0,,BrowBa01
+115,Caden Sterns,S,Dallas,2021,2023,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,SterCa00
+116,Tylan Wallace,WR,Fort Worth,2021,2023,0,0,0,1,37,,,,0,,,,,,,0,,7.0,67.0,0,18.0,WallTy00
+117,Kene Nwangwu,RB,Frisco,2021,2023,0,0,0,3,37,,,,0,,,,,27.0,88.0,0,19.0,6.0,30.0,0,16.0,NwanKe00
+118,Nick Bolton,LB,Frisco,2021,2023,0,0,2,16,41,,,,0,,,,,,,0,,,,0,,BoltNi00
+119,Patrick Taylor,RB,Humble,2021,2023,0,0,0,2,34,,,,0,,,,,65.0,261.0,1,24.0,14.0,69.0,0,17.0,TaylPa01
+120,Samuel Cosmi,OL,Humble,2021,2023,0,0,0,15,40,,,,0,,,,,,,0,,,,0,,CosmSa00
+121,Jaylen Waddle,WR,Houston,2021,2023,0,0,2,28,47,,,,0,,,,,8.0,41.0,1,12.0,251.0,3385.0,18,84.0,WaddJa00
+122,Payton Turner,DE,Houston,2021,2023,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,TurnPa02
+123,Walker Little,T,Houston,2021,2023,0,0,0,9,40,,,,0,,,,,,,0,,,,0,,LittWa00
+124,Jaelon Darden,WR,Houston,2021,2023,0,0,0,0,24,,,,0,,,,,2.0,13.0,0,11.0,8.0,69.0,0,29.0,DardJa00
+125,Milton Williams,DT,Crowley,2021,2023,0,0,0,7,50,,,,0,,,,,,,0,,,,0,,WillMi08
+126,Dan Moore,T,Beaumont,2021,2023,0,0,2,21,49,,,,0,,,,,,,0,,,,0,,MoorDa05
+127,Levi Onwuzurike,DE,Allen,2021,2023,0,0,0,2,26,,,,0,,,,,,,0,,,,0,,OnwuLe00
+128,Brock Wright,TE,Cypress,2021,2023,0,0,1,4,41,,,,0,,,,,,,0,,43.0,424.0,7,51.0,WrigBr01
+129,Innis Gaines,S,Beaumont,2021,2023,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,GainIn00
+130,Myles Adams,DT,Arlington,2021,2023,0,0,0,2,23,,,,0,,,,,,,0,,,,0,,AdamMy00
+131,Bobby Brown,DT,Arlington,2021,2023,0,0,0,7,32,,,,0,,,,,,,0,,,,0,,BrowBo04
+132,Grant Stuard,LB,Conroe,2021,2023,0,0,0,3,49,,,,0,,,,,,,0,,,,0,,StuaGr00
+133,Brenden Jaimes,OL,Austin,2021,2023,0,0,0,4,37,,,,0,,,,,,,0,,,,0,,JaimBr00
+134,Kylen Granson,TE,Austin,2021,2023,0,0,0,6,45,,,,0,,,,,2.0,2.0,0,2.0,72.0,776.0,1,46.0,GranKy00
+135,Sam Ehlinger,QB,Austin,2021,2023,0,0,0,2,8,64.0,101.0,573.0,3,47.0,3.0,14.0,87.0,20.0,96.0,0,19.0,,,0,,EhliSa00
+136,Jack Anderson,G,Plano,2021,2023,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,AndeJa01
+137,Tre'von Moehrig,S,Spring Branch,2021,2023,0,0,2,14,49,,,,0,,,,,,,0,,,,0,,MoehTr00
+138,Brandon Stephens,CB,Plano,2021,2023,0,0,1,13,48,,,,0,,,,,,,0,,,,0,,StepBr01
+139,Austin Trammell,WR,Spring,2021,2023,0,0,0,0,24,,,,0,,,,,,,0,,6.0,42.0,0,14.0,TramAu00
+140,Spencer Burford,OL,San Antonio,2022,2023,0,0,1,13,30,,,,0,,,,,,,0,,,,0,,BurfSp00
+141,Tucker Addington,LS,New Braunfels,2022,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,AddiTu00
+142,Elijah Garcia,DT,San Antonio,2022,2023,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,GarcEl00
+143,Kyle Trask,QB,Manvel,2022,2023,0,0,0,0,3,3.0,10.0,23.0,0,9.0,0.0,0.0,0.0,1.0,-1.0,0,0.0,,,0,,TrasKy00
+144,Joshuah Bledsoe,S,Houston,2022,2023,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,BledJo00
+145,Ja'Marcus Ingram,CB,Dallas,2022,2023,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,IngrJa00
+146,Micheal Clemons,DT,Garland,2022,2023,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,ClemMi03
+147,Ethan Fernea,WR,Dripping Springs,2022,2023,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,FernEt00
+148,Xavier Newman-Johnson,OL,DeSoto,2022,2023,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,NewmXa00
+149,Zyon McCollum,CB,Galveston,2022,2023,0,0,0,6,30,,,,0,,,,,,,0,,,,0,,McCoZy02
+150,Jaylon Jones,DB,Allen,2022,2023,0,0,0,2,33,,,,0,,,,,,,0,,,,0,,JoneJa12
+151,Trevor Denbow,S,Corsicana,2022,2023,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,DenbTr00
+152,Jack Gibbens,LB,Bulverde,2022,2023,0,0,0,7,19,,,,0,,,,,,,0,,,,0,,GibbJa00
+153,Kyron Johnson,LB,Arlington,2022,2023,0,0,0,1,22,,,,0,,,,,,,0,,,,0,,JohnKy02
+154,Earnest Brown IV,DE,Aubrey,2022,2023,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,BrowEa00
+155,Christian Gonzalez,CB,Carrollton,2023,2023,0,0,0,2,4,,,,0,,,,,,,0,,,,0,,GonzCh00
+156,SaRodorick Thompson,RB,Irving,2023,2023,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ThomSa00
+157,Ty Shelby,,Houston,2023,2023,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ShelTy01
+158,Dylan Horton,DE,Houston,2023,2023,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,HortDy00
+159,Tre Hawkins,CB,Temple,2023,2023,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,HawkTr00
+160,Quentin Johnston,WR,Temple,2023,2023,0,0,0,4,17,,,,0,,,,,3.0,9.0,0,6.0,38.0,431.0,2,57.0,JohnQu02
+161,Jaxon Smith-Njigba,WR,Nacogdoches,2023,2023,0,0,0,6,17,,,,0,,,,,,,0,,63.0,628.0,4,35.0,SmitJa06
+162,Roschon Johnson,RB,Port Arthur,2023,2023,0,0,0,4,15,,,,0,,,,,81.0,352.0,2,29.0,34.0,209.0,0,24.0,JohnRo07
+163,Cameron Goode,LB,Spring,2023,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,GoodCa00
+164,Mekhi Garner,CB,Dallas,2023,2023,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,GarnMe00
+165,Xavier Gipson,WR,Dallas,2023,2023,0,0,0,3,17,,,,0,,,,,8.0,68.0,1,18.0,21.0,229.0,0,36.0,GipsXa00
+166,Anthony Kendall,CB,El Paso,2023,2023,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,KendAn00
+167,Tyler Lacy,DE,Garland,2023,2023,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,LacyTy00
+168,Tristin McCollum,DB,Galveston,2023,2023,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,McCoTr00
+169,Chase Daniel,QB,Irving,2010,2022,0,0,0,6,74,186.0,273.0,1746.0,9,48.0,7.0,27.0,156.0,55.0,120.0,0,29.0,1.0,8.0,0,8.0,DaniCh00
+170,Marcus Cannon,OL,Odessa,2011,2022,0,0,5,43,124,,,,0,,,,,,,0,,,,0,,CannMa00
+171,Nick Foles,QB,Austin,2012,2022,0,1,3,32,71,1302.0,2087.0,14227.0,82,83.0,47.0,127.0,875.0,151.0,407.0,6,21.0,1.0,10.0,0,15.0,FoleNi00
+172,Cole Beasley,WR,Houston,2012,2022,0,0,2,43,153,1.0,4.0,20.0,1,20.0,0.0,0.0,0.0,1.0,7.0,0,7.0,556.0,5744.0,34,54.0,BeasCo00
+173,Michael Brockers,DT,Houston,2012,2022,0,0,10,58,160,,,,0,,,,,,,0,,,,0,,BrocMi00
+174,Josh Gordon,WR,Houston,2012,2022,1,1,4,28,77,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,6.0,89.0,0,34.0,252.0,4284.0,21,95.0,GordJo02
+175,Michael Thomas,S,Houston,2013,2022,0,1,1,16,121,,,,0,,,,,,,0,,,,0,,ThomMi02
+176,Chris Banjo,S,Houston,2013,2022,0,0,0,8,131,1.0,1.0,23.0,0,23.0,0.0,0.0,0.0,,,0,,,,0,,BanjCh00
+177,Cedric Ogbuehi,T,Allen,2015,2022,0,0,2,17,67,,,,0,,,,,,,0,,,,0,,OgbuCe00
+178,Le'Raven Clark,T,Bryan,2016,2022,0,0,0,12,64,,,,0,,,,,,,0,,,,0,,ClarLe01
+179,Rashard Higgins,WR,Dallas,2016,2022,0,0,0,13,85,,,,0,,,,,1.0,4.0,0,4.0,137.0,1890.0,12,56.0,HiggRa00
+180,Germain Ifedi,T,Houston,2016,2022,0,0,4,37,102,,,,0,,,,,,,0,,,,0,,IfedGe00
+181,Marcus Johnson,WR,League City,2017,2022,0,0,1,7,55,,,,0,,,,,3.0,-4.0,0,5.0,60.0,938.0,3,55.0,JohnMa07
+182,William Jackson III,CB,Houston,2017,2022,0,0,4,19,75,,,,0,,,,,,,0,,,,0,,JackWi02
+183,Jordan Roos,G,Celina,2017,2022,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,RoosJo00
+184,Adrian Colbert,SS,Mineral Wells,2017,2022,0,0,1,8,41,,,,0,,,,,,,0,,,,0,,ColbAd00
+185,Tyus Bowser,OLB,Tyler,2017,2022,0,0,1,19,89,,,,0,,,,,,,0,,,,0,,BowsTy00
+186,Kyle Fuller,C,Duncanville,2017,2022,0,0,0,7,51,,,,0,,,,,,,0,,,,0,,FullKy01
+187,Keke Coutee,WR,Lufkin,2018,2022,0,0,0,7,33,,,,0,,,,,5.0,14.0,1,10.0,85.0,966.0,4,64.0,CoutKe00
+188,Olasunkanmi Adeniyi,DE,Houston,2018,2022,0,0,0,5,51,,,,0,,,,,,,0,,,,0,,AdenOl00
+189,Joshua Kalu,CB,Houston,2018,2022,0,0,0,4,44,,,,0,,,,,,,0,,,,0,,KaluJo00
+190,James Washington,WR,Abilene,2018,2022,0,0,2,11,62,,,,0,,,,,2.0,13.0,0,12.0,114.0,1629.0,11,79.0,WashJa00
+191,Josh Jackson,CB,Corinth,2018,2022,0,0,0,8,49,,,,0,,,,,,,0,,,,0,,JackJo01
+192,Bobby Evans,OL,Allen,2019,2022,0,0,0,7,35,,,,0,,,,,,,0,,,,0,,EvanBo00
+193,Greg Little,OL,Allen,2019,2022,0,0,0,8,31,,,,0,,,,,,,0,,,,0,,LittGr01
+194,David Blough,QB,Carrollton,2019,2022,0,0,0,0,9,138.0,242.0,1435.0,6,77.0,9.0,21.0,144.0,14.0,60.0,0,18.0,1.0,19.0,1,19.0,BlouDa00
+195,Dakota Allen,LB,Dallas,2019,2022,0,0,0,2,38,,,,0,,,,,,,0,,,,0,,AlleDa01
+196,Travin Howard,OLB,Longview,2019,2022,0,0,0,3,29,,,,0,,,,,,,0,,,,0,,HowaTr00
+197,Cullen Gillaspia,RB,Katy,2019,2022,0,0,0,0,44,,,,0,,,,,,,0,,1.0,6.0,0,6.0,GillCu00
+198,Deionte Thompson,S,Orange,2019,2022,0,0,0,4,44,,,,0,,,,,,,0,,,,0,,ThomDe06
+199,Bravvion Roy,DT,Spring,2020,2022,0,0,1,9,45,,,,0,,,,,,,0,,,,0,,RoyxBr00
+200,Tyrie Cleveland,WR,Houston,2020,2022,0,0,0,0,23,,,,0,,,,,,,0,,8.0,91.0,0,17.0,ClevTy00

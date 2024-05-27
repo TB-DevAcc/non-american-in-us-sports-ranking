@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Kareem Jackson,DB,Macon,2010,2023,0,0,12,52,203,,,,0,,,,,,,0,,,,0,,JackKa99
+2,Justin Houston,LOLB,Statesboro,2011,2023,1,4,10,74,170,,,,0,,,,,,,0,,,,0,,HousJu00
+3,Josh Harris,LS,Carrollton,2012,2023,0,1,0,8,190,,,,0,,,,,,,0,,,,0,,HarrJo02
+4,Bruce Irvin,DE,Atlanta,2012,2023,0,0,6,42,140,,,,0,,,,,,,0,,,,0,,IrviBr00
+5,Darius Slay,CB,Brunswick,2013,2023,1,6,9,62,163,,,,0,,,,,,,0,,,,0,,SlayDa00
+6,Sam Martin,P,Peachtree City,2013,2023,0,0,1,20,172,2.0,2.0,27.0,0,24.0,0.0,0.0,0.0,3.0,3.0,0,3.0,,,0,,MartSa01
+7,Chris Hubbard,G,Columbus,2014,2023,0,0,3,26,94,,,,0,,,,,,,0,,,,0,,HubbCh00
+8,Jerick McKinnon,RB,Atlanta,2014,2023,0,0,1,32,116,1.0,2.0,4.0,1,4.0,0.0,0.0,0.0,660.0,2650.0,14,68.0,269.0,2048.0,20,56.0,McKiJe00
+9,Trent Brown,T,Albany,2015,2023,0,1,5,39,100,,,,0,,,,,,,0,,,,0,,BrowTr02
+10,Grady Jarrett,DT,Conyers,2015,2023,0,2,7,51,135,,,,0,,,,,,,0,,,,0,,JarrGr00
+11,Neville Hewitt,OLB,Conyers,2015,2023,0,0,2,25,129,,,,0,,,,,,,0,,,,0,,HewiNe00
+12,Preston Smith,DE,Atlanta,2015,2023,0,0,7,53,146,,,,0,,,,,,,0,,,,0,,SmitPr00
+13,Steven Nelson,CB,Warner Robins,2015,2023,0,0,6,36,130,,,,0,,,,,,,0,,,,0,,NelsSt01
+14,T.Y. McGill,DT,Jesup,2015,2023,0,0,0,4,57,,,,0,,,,,,,0,,,,0,,McGiT.00
+15,David Andrews,C,Jones Creek,2015,2023,0,0,7,47,120,,,,0,,,,,,,0,,,,0,,AndrDa00
+16,Bud Dupree,DE,Macon,2015,2023,0,0,5,43,119,,,,0,,,,,,,0,,,,0,,DuprAl00
+17,C.J. Uzomah,TE,Suwanee,2015,2023,0,0,4,14,106,,,,0,,,,,,,0,,192.0,1881.0,16,55.0,UzomC.00
+18,Cameron Erving,T,Moultrie,2015,2023,0,0,3,28,98,,,,0,,,,,,,0,,0.0,0.0,0,0.0,ErviCa00
+19,Max Garcia,C,Norcross,2015,2023,0,0,3,26,122,,,,0,,,,,,,0,,,,0,,GarcMa00
+20,Kalif Raymond,WR,Lawrenceville,2016,2023,0,0,1,20,85,,,,0,,,,,21.0,130.0,0,40.0,149.0,2050.0,6,75.0,RaymKa00
+21,Kenyan Drake,RB,Powder Springs,2016,2023,0,0,2,33,104,,,,0,,,,,869.0,3866.0,33,80.0,218.0,1655.0,8,52.0,DrakKe00
+22,Wil Lutz,K,Newnan,2016,2023,0,1,1,21,114,,,,0,,,,,1.0,4.0,0,4.0,,,0,,LutzWi00
+23,Demarcus Robinson,WR,Fort Valley,2016,2023,0,0,2,22,130,,,,0,,,,,1.0,23.0,0,23.0,219.0,2508.0,20,89.0,RobiDe01
+24,Tyreek Hill,WR,Douglas,2016,2023,5,8,6,91,124,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,106.0,766.0,7,70.0,717.0,10139.0,76,79.0,HillTy00
+25,Sheldon Rankins,DT,Covington,2016,2023,0,0,3,31,109,,,,0,,,,,,,0,,,,0,,RankSh00
+26,Jonathan Jones,CB,Carrollton,2016,2023,0,0,3,25,115,,,,0,,,,,,,0,,,,0,,JoneJo03
+27,Tyler Higbee,TE,Atlanta,2016,2023,0,0,7,29,125,,,,0,,,,,1.0,1.0,0,1.0,353.0,3602.0,22,44.0,HigbTy00
+28,Leonard Floyd,OLB,Atlanta,2016,2023,0,0,7,55,121,,,,0,,,,,,,0,,,,0,,FloyLe00
+29,Deshaun Watson,QB,Gainesville,2017,2023,0,3,3,58,66,1390.0,2089.0,16756.0,118,77.0,45.0,211.0,1241.0,369.0,1994.0,19,49.0,1.0,6.0,1,6.0,WatsDe00
+30,Mike Hilton,CB,Fayetteville,2017,2023,0,0,0,22,107,,,,0,,,,,,,0,,,,0,,HiltMi01
+31,Harrison Butker,K,Decatur,2017,2023,0,0,1,24,107,,,,0,,,,,,,0,,,,0,,ButkHa00
+32,Grover Stewart,DT,Camilla,2017,2023,0,0,4,31,107,,,,0,,,,,,,0,,,,0,,StewGr00
+33,Reid Ferguson,LS,Buford,2017,2023,0,0,0,6,114,,,,0,,,,,,,0,,,,0,,FergRe00
+34,Carl Lawson,DE,Alpharetta,2017,2023,0,0,2,18,74,,,,0,,,,,,,0,,,,0,,LawsCa00
+35,Montravius Adams,DT,Americus,2017,2023,0,0,1,14,85,,,,0,,,,,,,0,,,,0,,AdamMo00
+36,Alvin Kamara,RB,Atlanta,2017,2023,0,5,4,70,101,1.0,1.0,13.0,0,13.0,0.0,0.0,0.0,1315.0,5829.0,54,74.0,505.0,4219.0,23,54.0,KamaAl00
+37,Taylor Heinicke,QB,Atlanta,2017,2023,0,0,2,20,38,604.0,966.0,6635.0,39,75.0,28.0,69.0,506.0,112.0,588.0,3,38.0,1.0,-2.0,0,0.0,HeinTa00
+38,Gerald Everett,TE,Atlanta,2017,2023,0,0,2,22,107,,,,0,,,,,12.0,61.0,1,13.0,284.0,2833.0,19,69.0,EverGe00
+39,Aaron Jones,RB,Savannah,2017,2023,0,1,5,56,97,,,,0,,,,,1177.0,5940.0,45,77.0,272.0,2076.0,18,67.0,JoneAa00
+40,Cameron Sutton,CB,Jonesboro,2017,2023,0,0,2,20,101,,,,0,,,,,,,0,,,,0,,SuttCa00
+41,Kenny Moore,CB,Valdosta,2017,2023,0,1,5,34,103,,,,0,,,,,,,0,,,,0,,MoorKe03
+42,Alex Armah,FB,Lawrenceville,2017,2023,0,0,0,0,78,,,,0,,,,,26.0,56.0,3,9.0,12.0,43.0,1,14.0,ArmaAl00
+43,Isaac Rochell,DE,McDonough,2017,2023,0,0,0,10,78,,,,0,,,,,,,0,,,,0,,RochIs00
+44,Dalvin Tomlinson,DT,McDonough,2017,2023,0,0,6,41,109,,,,0,,,,,,,0,,,,0,,TomlDa00
+45,Evan Engram,TE,Powder Springs,2017,2023,0,2,6,33,99,,,,0,,,,,16.0,93.0,1,14.0,449.0,4557.0,24,75.0,EngrEv00
+46,Jordan Akins,TE,Locust Grove,2018,2023,0,0,1,15,90,,,,0,,,,,2.0,7.0,0,4.0,166.0,1887.0,8,53.0,AkinJo00
+47,Bradley Chubb,DE,Marietta,2018,2023,0,2,2,35,73,,,,0,,,,,,,0,,,,0,,ChubBr00
+48,Roquan Smith,ILB,Montezuma,2018,2023,2,2,5,68,94,,,,0,,,,,,,0,,,,0,,SmitRo07
+49,Orlando Brown Jr.,T,Duluth,2018,2023,0,4,5,59,98,,,,0,,,,,,,0,,,,0,,BrowOr00
+50,Corey Levin,OL,Dacula,2018,2023,0,0,0,6,61,,,,0,,,,,,,0,,,,0,,LeviCo00
+51,Nick Chubb,RB,Cedartown,2018,2023,0,4,5,46,77,,,,0,,,,,1238.0,6511.0,48,92.0,123.0,1011.0,4,40.0,ChubNi00
+52,Tracy Walker,S,Brunswick,2018,2023,0,0,2,13,79,,,,0,,,,,,,0,,,,0,,WalkTr01
+53,Joshua Dobbs,QB,Alpharetta,2018,2023,0,0,0,8,21,312.0,502.0,2920.0,15,69.0,13.0,36.0,243.0,91.0,496.0,6,44.0,,,0,,DobbJo00
+54,Arden Key,DE,Atlanta,2018,2023,0,0,1,15,88,,,,0,,,,,,,0,,,,0,,KeyxAr00
+55,Michael Gallup,WR,Atlanta,2018,2023,0,0,4,30,86,,,,0,,,,,,,0,,266.0,3744.0,21,62.0,GallMi00
+56,Lorenzo Carter,DE,Atlanta,2018,2023,0,0,4,27,83,,,,0,,,,,,,0,,,,0,,CartLo01
+57,Duke Shelley,CB,DeKalb County,2019,2023,0,0,0,6,52,,,,0,,,,,,,0,,,,0,,ShelDu00
+58,Rock Ya-Sin,CB,Decatur,2019,2023,0,0,1,14,66,,,,0,,,,,,,0,,,,0,,Ya-SRo00
+59,AJ Cole III,P,College Park,2019,2023,2,3,1,12,83,,,,0,,,,,1.0,0.0,0,0.0,,,0,,ColeAJ01
+60,Mecole Hardman,WR,Bowman,2019,2023,0,1,0,22,68,,,,0,,,,,21.0,128.0,2,25.0,166.0,2212.0,16,83.0,HardMe00
+61,Jakobi Meyers,WR,Lithonia,2019,2023,0,0,2,29,76,6.0,7.0,100.0,3,30.0,0.0,0.0,0.0,9.0,31.0,2,17.0,306.0,3565.0,16,48.0,MeyeJa01
+62,Jonathan Ledbetter,DE,Tucker,2019,2023,0,0,0,6,28,,,,0,,,,,,,0,,,,0,,LedbJo01
+63,Chuma Edoga,OL,Powder Springs,2019,2023,0,0,0,10,43,,,,0,,,,,,,0,,,,0,,EdogCh00
+64,Will Harris,S,Suwanee,2019,2023,0,0,2,12,81,,,,0,,,,,,,0,,,,0,,HarrWi02
+65,Darius Slayton,WR,Norcross,2019,2023,0,0,3,25,76,,,,0,,,,,3.0,-14.0,0,2.0,220.0,3324.0,19,80.0,SlayDa01
+66,Austin Bryant,EDGE,Pavo,2019,2023,0,0,0,5,35,,,,0,,,,,,,0,,,,0,,BryaAu00
+67,Jonathan Greenard,DL,Hiram,2020,2023,0,0,1,16,48,,,,0,,,,,,,0,,,,0,,GreeJo04
+68,Blake Ferguson,LS,Smyrna,2020,2023,0,0,0,4,67,,,,0,,,,,,,0,,,,0,,FergBl00
+69,Marquez Callaway,WR,Warner Robins,2020,2023,0,0,1,9,45,,,,0,,,,,,,0,,83.0,1069.0,7,58.0,CallMa01
+70,Xavier McKinney,S,Roswell,2020,2023,0,0,2,17,49,,,,0,,,,,,,0,,,,0,,McKiXa00
+71,Andrew Thomas,OL,Lithonia,2020,2023,0,0,3,26,55,,,,0,,,,,,,0,,1.0,2.0,1,2.0,ThomAn02
+72,Harrison Bryant,TE,Macon,2020,2023,0,0,2,7,65,,,,0,,,,,6.0,16.0,0,8.0,89.0,791.0,10,41.0,BryaHa00
+73,Charlie Woerner,TE,Tiger,2020,2023,0,0,0,0,65,,,,0,,,,,,,0,,11.0,120.0,0,27.0,WoerCh00
+74,Antonio Gibson,RB,Stockbridge,2020,2023,0,0,2,23,61,,,,0,,,,,642.0,2643.0,22,40.0,172.0,1283.0,7,73.0,GibsAn00
+75,Tremayne Anchrum,OL,Powder Springs,2020,2023,0,0,0,2,31,,,,0,,,,,,,0,,,,0,,AnchTr00
+76,Tae Crowder,,Pine Mountain,2020,2023,0,0,2,16,43,,,,0,,,,,,,0,,,,0,,CrowTa00
+77,Derrick Brown,DL,Sugar Hill,2020,2023,0,1,3,28,66,,,,0,,,,,,,0,,,,0,,BrowDe05
+78,D.J. Wonnum,DL,Stone Mountain,2020,2023,0,0,1,17,62,,,,0,,,,,,,0,,,,0,,WonnDJ00
+79,Cam Gill,LB,Douglasville,2020,2023,0,0,0,3,40,,,,0,,,,,,,0,,,,0,,GillCa00
+80,Kyle Dugger,S,Decatur,2020,2023,0,0,2,21,61,,,,0,,,,,,,0,,,,0,,DuggKy00
+81,Essang Bassey,DB,Columbus,2020,2023,0,0,0,4,43,,,,0,,,,,,,0,,,,0,,BassEs01
+82,DeeJay Dallas,RB,Brunswick,2020,2023,0,0,0,6,61,0.0,1.0,0.0,0,0.0,1.0,1.0,0.0,112.0,468.0,4,27.0,61.0,396.0,1,41.0,DallDe00
+83,Jonah Williams,OL,Atlanta,2020,2023,0,0,3,31,59,,,,0,,,,,,,0,,,,0,,WillJo10
+84,Kindle Vildor,CB,Atlanta,2020,2023,0,0,2,8,51,,,,0,,,,,,,0,,,,0,,VildKi00
+85,Michael Carter,CB,Douglasville,2021,2023,0,0,0,9,47,,,,0,,,,,,,0,,,,0,,CartMi02
+86,Mason Kinsey,WR,Demorest,2021,2023,0,0,0,0,9,,,,0,,,,,,,0,,2.0,9.0,0,6.0,KinsMa00
+87,Eric Stokes,CB,Covington,2021,2023,0,0,2,7,28,,,,0,,,,,,,0,,,,0,,StokEr00
+88,Tay Gowan,,Covington,2021,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,GowaTa00
+89,Jaycee Horn,CB,Alpharetta,2021,2023,0,0,1,8,22,,,,0,,,,,,,0,,,,0,,HornJa00
+90,Davis Mills,QB,Atlanta,2021,2023,0,0,2,15,34,573.0,912.0,5955.0,35,67.0,25.0,64.0,463.0,52.0,161.0,2,17.0,,,0,,MillDa02
+91,Jerry Jacobs,CB,Atlanta,2021,2023,0,0,0,10,40,,,,0,,,,,,,0,,,,0,,JacoJe00
+92,Deon Jackson,RB,Atlanta,2021,2023,0,0,0,3,29,,,,0,,,,,95.0,283.0,2,17.0,35.0,223.0,1,27.0,JackDe02
+93,Ernest Jones,LB,Waycross,2021,2023,0,0,1,14,47,,,,0,,,,,,,0,,,,0,,JoneEr01
+94,Tommy Tremble,TE,Johns Creek,2021,2023,0,0,1,4,49,,,,0,,,,,3.0,11.0,1,7.0,62.0,548.0,7,30.0,TremTo00
+95,Justin Fields,QB,Kennesaw,2021,2023,0,0,1,34,40,578.0,958.0,6674.0,40,64.0,30.0,135.0,908.0,356.0,2220.0,14,67.0,,,0,,FielJu00
+96,Blake Gillikin,P,Smyrna,2021,2023,0,0,1,9,47,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,1.0,10.0,0,10.0,,,0,,GillBl00
+97,Cameron Sample,DE,Snellville,2021,2023,0,0,0,5,47,,,,0,,,,,,,0,,,,0,,SampCa00
+98,Ben Cleveland,G,Toccoa,2021,2023,0,0,0,5,37,,,,0,,,,,,,0,,,,0,,ClevBe00
+99,Rashod Bateman,WR,Tifton,2021,2023,0,0,0,11,34,,,,0,,,,,1.0,18.0,0,18.0,93.0,1167.0,4,75.0,BateRa00
+100,Richard LeCounte,S,Riceboro,2021,2023,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,LeCoRi00
+101,Azeez Ojulari,LB,Marietta,2021,2023,0,0,1,14,35,,,,0,,,,,,,0,,,,0,,OjulAz00
+102,Trey Sermon,RB,Marietta,2021,2023,0,0,0,2,25,,,,0,,,,,78.0,346.0,1,27.0,6.0,39.0,0,23.0,SermTr00
+103,T.J. Smith,DT,Moultrie,2021,2023,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,SmitTJ00
+104,DeMarquis Gates,LB,Hampton,2022,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,GateDe00
+105,Tomon Fox,OLB,Lawrenceville,2022,2023,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,FoxxTo00
+106,Mark Robinson,LB,Leesburg,2022,2023,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,RobiMa03
+107,Tariq Carpenter,DB,Ludowici,2022,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,CarpTa00
+108,Travon Walker,DE,Thomaston,2022,2023,0,0,1,14,32,,,,0,,,,,,,0,,,,0,,WalkTr03
+109,Chigoziem Okonkwo,TE,Powder Springs,2022,2023,0,0,0,9,34,,,,0,,,,,5.0,8.0,0,6.0,86.0,978.0,4,48.0,OkonCh00
+110,Shaun Jolly,CB,Stone Mountain,2022,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,JollSh00
+111,Malik Herring,DL,Forsyth,2022,2023,0,0,0,2,14,,,,0,,,,,,,0,,,,0,,HerrMa02
+112,Devonte Wyatt,DT,,2022,2023,0,0,0,4,33,,,,0,,,,,,,0,,,,0,,WyatDe00
+113,Chandler Wooten,LB,Acworth,2022,2023,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,WootCh00
+114,D'Anthony Bell,S,Covington,2022,2023,0,0,0,4,33,,,,0,,,,,,,0,,,,0,,BellDA03
+115,Christian Matthew,DB,Columbus,2022,2023,0,0,0,2,20,,,,0,,,,,,,0,,,,0,,MattCh01
+116,Malik Willis,QB,College Park,2022,2023,0,0,0,1,11,35.0,66.0,350.0,0,48.0,3.0,14.0,79.0,32.0,144.0,1,17.0,,,0,,WillMa12
+117,Montrell Washington,WR,Canton,2022,2023,0,0,0,0,21,,,,0,,,,,5.0,30.0,0,19.0,4.0,2.0,0,4.0,WashMo00
+118,Josh Blackwell,CB,Buford,2022,2023,0,0,0,2,26,,,,0,,,,,,,0,,,,0,,BlacJo00
+119,Devin Harper,LB,Atlanta,2022,2023,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,HarpDe00
+120,Joey Blount,FS,Atlanta,2022,2023,0,0,0,2,22,,,,0,,,,,,,0,,,,0,,BlouJo00
+121,Micah Abernathy,S,Atlanta,2022,2023,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,AberMi00
+122,Josh Downs,,,2023,2023,0,0,0,7,17,,,,0,,,,,,,0,,68.0,771.0,2,59.0,DownJo00
+123,Trenton Simpson,LB,Columbus,2023,2023,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,SimpTr00
+124,Christopher Smith,S,Atlanta,2023,2023,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,SmitCh04
+125,SirVocea Dennis,LB,,2023,2023,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,DennSi00
+126,John Ojukwu,,,2023,2023,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,OjukJo00
+127,BJ Ojulari,OLB,,2023,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,OjulBJ00
+128,Keaton Mitchell,RB,,2023,2023,0,0,0,4,8,,,,0,,,,,47.0,396.0,2,60.0,9.0,93.0,0,32.0,MitcKe01
+129,Wanya Morris,OL,Savannah,2023,2023,0,0,0,2,14,,,,0,,,,,,,0,,,,0,,MorrWa01
+130,Nolan Smith,LB,Savannah,2023,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,SmitNo02
+131,Marcelino McCrary-Ball,LB,Roswell,2023,2023,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,McCrMa01
+132,Terell Smith,DB,Snellville,2023,2023,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,SmitTe05
+133,Leroy Watson,T,Snellville,2023,2023,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,WatsLe00
+134,TK McLendon,DE,Soperton,2023,2023,0,0,0,2,7,,,,0,,,,,,,0,,,,0,,McLeTK00
+135,Chris Rodriguez,RB,Riverdale,2023,2023,0,0,0,2,13,,,,0,,,,,51.0,247.0,2,16.0,2.0,12.0,0,7.0,RodrCh00
+136,Myles Murphy,DE,Marietta,2023,2023,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,MurpMy00
+137,Casey Hayward,DB,Perry,2012,2022,0,2,7,49,152,,,,0,,,,,,,0,,,,0,,HaywCa00
+138,Ja'Wuan James,T,Atlanta,2014,2022,0,0,4,27,66,,,,0,,,,,,,0,,,,0,,JameJa01
+139,Henry Anderson,DE,Atlanta,2015,2022,0,0,4,21,89,,,,0,,,,,,,0,,,,0,,AndeHe00
+140,Mike Davis,RB,Atlanta,2015,2022,0,0,2,20,87,,,,0,,,,,558.0,2052.0,14,37.0,171.0,1066.0,4,23.0,DaviMi01
+141,Justin Coleman,CB,Brunswick,2015,2022,0,0,1,15,107,,,,0,,,,,,,0,,,,0,,ColeJu01
+142,Breshad Perriman,WR,Lithonia,2016,2022,0,0,1,15,80,,,,0,,,,,11.0,16.0,0,13.0,145.0,2343.0,16,66.0,PerrBr02
+143,Jarrad Davis,ILB,Kingland,2017,2022,0,0,3,22,68,,,,0,,,,,,,0,,,,0,,DaviJa01
+144,Raekwon McMillan,ILB,Midway,2018,2022,0,0,2,13,61,,,,0,,,,,,,0,,,,0,,McMiRa02
+145,Alexander Johnson,LB,Gainesville,2018,2022,0,0,2,17,39,,,,0,,,,,,,0,,,,0,,JohnAl01
+146,Ronald Jones II,RB,Fort Stewart,2018,2022,0,0,2,18,61,,,,0,,,,,505.0,2244.0,19,98.0,77.0,593.0,1,41.0,JoneRo01
+147,Colby Gossett,G,Cumming,2018,2022,0,0,0,4,36,,,,0,,,,,,,0,,,,0,,GossCo00
+148,Darryl Johnson,DE,Kingsland,2019,2022,0,0,0,4,38,,,,0,,,,,,,0,,,,0,,JohnDa10
+149,Isaiah Mack,DT,Tunnel Hill,2019,2022,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,MackIs00
+150,Nick Moore,LS,Snellville,2020,2022,0,0,0,1,35,,,,0,,,,,,,0,,,,0,,MoorNi00
+151,Penny Hart,WR,Roswell,2020,2022,0,0,0,1,39,,,,0,,,,,1.0,19.0,0,19.0,11.0,82.0,0,16.0,HartPe01
+152,Quintez Cephus,WR,Macon,2020,2022,0,0,0,5,22,,,,0,,,,,,,0,,37.0,568.0,4,49.0,CephQu00
+153,Rodrigo Blankenship,K,Marietta,2020,2022,0,0,0,3,24,,,,0,,,,,,,0,,,,0,,BlanRo03
+154,Jabari Zuniga,DL,Marietta,2020,2022,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,ZuniJa00
+155,Trey Hill,C,Warner Robins,2021,2022,0,0,0,3,24,,,,0,,,,,,,0,,,,0,,HillTr03
+156,Jared Pinkney,TE,Norcross,2021,2022,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,PinkJa02
+157,Jalen Camp,,Cumming,2021,2022,0,0,0,0,5,,,,0,,,,,,,0,,1.0,7.0,0,7.0,CampJa03
+158,Miller Forristall,TE,Cartersville,2021,2022,0,0,0,0,6,,,,0,,,,,,,0,,0.0,0.0,0,0.0,ForrMi00
+159,D'Ante Smith,T,Augusta,2021,2022,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,SmitDA03
+160,T.J. Carter,DE,Atlanta,2022,2022,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,CartTJ01
+161,Raleigh Webb,WR,Acworth,2022,2022,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,WebbRa02
+162,Kyric McGowan,WR,Dalton,2022,2022,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,McGoKy00
+163,Jacobi Francis,DB,Covington,2022,2022,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,FranJa03
+164,Manny Jones,DT,Cartersville,2022,2022,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,JoneMa07
+165,Brittain Brown,RB,Canton,2022,2022,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,BrowBr06
+166,Quandre Mosely,CB,Brunswick,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MoseQu00
+167,C.J. Brewer,DT,Bowdon,2022,2022,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BrewCJ00
+168,Jack Coco,LS,Johns Creek,2022,2022,0,0,0,1,17,,,,0,,,,,,,0,,,,0,,CocoJa00
+169,Jalen Virgil,WR,Lawrenceville,2022,2022,0,0,0,0,9,,,,0,,,,,,,0,,2.0,75.0,1,66.0,VirgJa00
+170,Buster Skrine,DB,Marietta,2011,2021,0,0,4,35,158,,,,0,,,,,,,0,,,,0,,SkriBu00
+171,Cam Newton,QB,College Park,2011,2021,1,3,9,115,148,2682.0,4474.0,32382.0,194,91.0,123.0,332.0,2477.0,1118.0,5628.0,75,72.0,3.0,68.0,1,27.0,NewtCa00
+172,James Carpenter,LG,Augusta,2011,2021,0,0,10,49,132,,,,0,,,,,,,0,,,,0,,CarpJa00
+173,Shawn Williams,SS,Damascus,2013,2021,0,0,4,25,125,,,,0,,,,,2.0,46.0,0,39.0,,,0,,WillSh02
+174,A.J. Bouye,CB,Tucker,2013,2021,0,1,5,33,110,,,,0,,,,,,,0,,,,0,,BouyA.00
+175,Kevin Minter,ILB,Suwanee,2013,2021,0,0,3,27,123,,,,0,,,,,,,0,,,,0,,MintKe00
+176,Alec Ogletree,OLB,Newnan,2013,2021,0,0,7,52,111,,,,0,,,,,,,0,,,,0,,OgleAl00
+177,Darqueze Dennard,CB,Dry Branch,2014,2021,0,0,0,13,87,,,,0,,,,,,,0,,,,0,,DennDa00
+178,Ronald Blair,DE,Greensboro,2016,2021,0,0,0,7,55,,,,0,,,,,,,0,,,,0,,BlaiRo00
+179,Tyrell Adams,LB,Atlanta,2016,2021,0,0,1,7,44,,,,0,,,,,,,0,,,,0,,AdamTy00
+180,Robert Nkemdiche,DT,Atlanta,2016,2021,0,0,0,6,38,,,,0,,,,,,,0,,,,0,,NkemRo00
+181,Christopher Milton,CB,Waycross,2016,2021,0,0,0,4,56,,,,0,,,,,,,0,,,,0,,MiltCh00
+182,Peyton Barber,RB,Roswell,2016,2021,0,0,1,15,89,,,,0,,,,,700.0,2457.0,21,44.0,71.0,428.0,2,34.0,BarbPe01
+183,Stephen Weatherly,OLB,Snellville,2016,2021,0,0,1,12,73,,,,0,,,,,,,0,,,,0,,WeatSt00
+184,Wayne Gallman,RB,Loganville,2017,2021,0,0,1,12,61,,,,0,,,,,366.0,1548.0,9,60.0,81.0,519.0,2,21.0,GallWa00
+185,Chris Herndon,TE,Norcross,2018,2021,0,0,2,6,49,,,,0,,,,,,,0,,75.0,836.0,8,32.0,HernCh00
+186,Dee Virgin,CB,Donalsonville,2018,2021,0,0,0,1,23,,,,0,,,,,,,0,,,,0,,VirgDe00
+187,Eric Smith,G,Decatur,2019,2021,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,SmitEr00
+188,Kaden Smith,TE,Atlanta,2019,2021,0,0,1,3,33,,,,0,,,,,,,0,,52.0,413.0,3,32.0,SmitKa00
+189,Cortez Broughton,DL,Warner Robins,2019,2021,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,BrouCo00
+190,Ty Long,P,Roswell,2019,2021,0,0,0,7,49,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,1.0,-28.0,0,0.0,,,0,,LongTy00
+191,Gabe Nabers,RB,Hahira,2020,2021,0,0,0,0,26,,,,0,,,,,5.0,15.0,0,4.0,8.0,42.0,2,9.0,NabeGa00
+192,Rodney Smith,RB,Jonesboro,2020,2021,0,0,0,1,9,,,,0,,,,,41.0,156.0,1,13.0,14.0,107.0,0,17.0,SmitRo08
+193,Chauncey Rivers,DE,Stone Mountain,2020,2021,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,RiveCh01
+194,Jordan Smith,,Lithonia,2021,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SmitJo03
+195,Kawaan Baker,,East Point,2021,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BakeKa00
+196,Nigel Warrior,,College Park,2021,2021,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,WarrNi01
+197,Mike Horton,,Atlanta,2021,2021,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,HortMi00
+198,Thomas Davis,OLB,Shellman,2005,2020,1,3,12,80,199,,,,0,,,,,,,0,,,,0,,DaviTh20
+199,Allen Bailey,DL,Sapelo Island,2011,2020,0,0,3,34,133,,,,0,,,,,,,0,,,,0,,BailAl00
+200,Chris Jones,P,Rome,2011,2020,0,0,0,12,126,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,3.0,54.0,0,30.0,,,0,,JoneCh02

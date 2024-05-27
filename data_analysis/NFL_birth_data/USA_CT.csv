@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,John Jenkins,DT,Meriden,2013,2023,0,0,1,22,133,,,,0,,,,,,,0,,,,0,,JenkJo00
+2,Tyler Matakevich,ILB,Stratford,2016,2023,0,0,0,9,129,,,,0,,,,,,,0,,,,0,,MataTy00
+3,Tim Boyle,QB,Hartford,2019,2023,0,0,0,3,20,114.0,183.0,934.0,4,42.0,12.0,10.0,75.0,26.0,0.0,0,14.0,,,0,,BoylTi00
+4,Zach Allen,DL,New Canaan,2019,2023,0,0,3,21,62,,,,0,,,,,,,0,,,,0,,AlleZa01
+5,Jack Driscoll,OL,Madison,2020,2023,0,0,0,11,54,,,,0,,,,,,,0,,,,0,,DrisJa00
+6,Jason Pinnock,CB,Windsor,2021,2023,0,0,0,8,42,,,,0,,,,,,,0,,,,0,,PinnJa01
+7,Ben Mason,,Newtown,2023,2023,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MasoBe00
+8,Julian Stanford,OLB,Bloomfield,2012,2022,0,0,1,12,122,,,,0,,,,,,,0,,,,0,,StanJu00
+9,Byron Jones,CB,New Britain,2015,2021,0,1,7,38,109,,,,0,,,,,,,0,,,,0,,JoneBy00
+10,Tarik Black,,Hamden,2021,2021,0,0,0,0,1,,,,0,,,,,,,0,,1.0,10.0,0,10.0,BlacTa00
+11,Jordan Reed,TE,New London,2013,2020,0,1,3,25,75,,,,0,,,,,1.0,18.0,0,18.0,355.0,3602.0,28,38.0,ReedJo02
+12,Seth Devalve,TE,Manchester,2016,2020,0,0,0,6,57,,,,0,,,,,,,0,,60.0,736.0,4,49.0,DevaSe00
+13,Tuzar Skipper,LB,Norwich,2019,2020,0,0,0,2,10,,,,0,,,,,,,0,,,,0,,SkipTu00
+14,Isaiah Wright,WR,West Hartford,2020,2020,0,0,0,2,14,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,3.0,16.0,0,9.0,27.0,197.0,0,22.0,WrigIs01
+15,Jerome Cunningham,TE,Waterbury,2015,2019,0,0,0,1,14,,,,0,,,,,,,0,,8.0,59.0,0,16.0,CunnJe00
+16,Marcus Cooper,CB,Bloomfield,2013,2018,0,0,1,14,75,,,,0,,,,,,,0,,,,0,,CoopMa00
+17,Ryan Delaire,DE,Hartford,2015,2018,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,DelaRy00
+18,Dwight Freeney,DE,Hartford,2002,2017,3,7,11,81,218,,,,0,,,,,,,0,,,,0,,FreeDw00
+19,Chris Baker,DT,Windsor,2009,2017,0,0,4,24,93,,,,0,,,,,,,0,,,,0,,BakeCh99
+20,Will Tye,TE,Middletown,2015,2017,0,0,2,7,32,,,,0,,,,,,,0,,94.0,897.0,4,45.0,TyexWi00
+21,Dan Orlovsky,QB,Bridgeport,2005,2015,0,0,1,7,26,298.0,512.0,3132.0,15,96.0,13.0,29.0,182.0,13.0,34.0,0,10.0,,,0,,OrloDa00
+22,Terrance Knighton,DT,Hartford,2009,2015,0,0,6,37,108,,,,0,,,,,,,0,,,,0,,KnigTe99
+23,Marcus Easley,WR,Stratford,2012,2015,0,0,0,1,42,,,,0,,,,,,,0,,3.0,71.0,1,58.0,EaslMa00
+24,Tyler Murphy,WR,Wethersfield,2015,2015,0,0,0,0,2,,,,0,,,,,,,0,,1.0,16.0,0,16.0,MurpTy00
+25,Matt Shaughnessy,DE,Norwich,2009,2014,0,0,3,22,75,,,,0,,,,,,,0,,,,0,,ShauMa99
+26,Silas Redd,RB,Norwalk,2014,2014,0,0,0,1,15,,,,0,,,,,16.0,75.0,1,14.0,8.0,107.0,0,37.0,ReddSi00
+27,Khairi Fortt,OLB,Stamford,2014,2014,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,FortKh00
+28,Rob Jackson,DE,New Haven,2008,2013,0,0,1,9,54,,,,0,,,,,,,0,,,,0,,JackRo99
+29,Donald Thomas,G,West Haven,2008,2013,0,0,1,16,45,,,,0,,,,,,,0,,,,0,,ThomDo26
+30,John Moffitt,G,Guilford,2011,2013,0,0,1,6,19,,,,0,,,,,,,0,,,,0,,MoffJo00
+31,Brian Sanford,DL,Hartford,2011,2013,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,SanfBr00
+32,James Nixon,CB,New Haven,2013,2013,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,NixoJa00
+33,Niko Koutouvides,MLB,New Britain,2004,2012,0,0,0,8,125,,,,0,,,,,,,0,,,,0,,KoutNi20
+34,Aaron Hernandez,TE,Bristol,2010,2012,0,0,2,21,38,,,,0,,,,,9.0,97.0,0,19.0,175.0,1956.0,18,46.0,HernAa00
+35,Bruce Campbell,T,Hamden,2010,2012,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,CampBr20
+36,Amari Spievey,DB,Middleton,2010,2012,0,0,2,11,35,,,,0,,,,,,,0,,,,0,,SpieAm99
+37,Damik Scafe,DE,Hartford,2012,2012,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ScafDa00
+38,Jamey Richard,C,Weston,2008,2011,0,0,0,11,48,,,,0,,,,,,,0,,,,0,,RichJa20
+39,Darryl Gamble,LB,Bainbridge,2011,2011,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,GambDa00
+40,Scott Lutrus,LB,Brookfield,2011,2011,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,LutrSc00
+41,John Carney,K,Hartford,1988,2010,1,2,0,40,302,,,,0,,,,,2.0,2.0,0,3.0,,,0,,carnejoh01
+42,Alex Joseph,LB,Stamford,2010,2010,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,JoseAl00
+43,Matt Lawrence,RB,Hartford,2009,2009,0,0,0,0,8,,,,0,,,,,4.0,0.0,0,4.0,1.0,4.0,0,4.0,LawrMa00
+44,Kory Sheets,RB,Manchester,2009,2009,0,0,0,0,2,,,,0,,,,,1.0,5.0,0,5.0,,,0,,SheeKo00
+45,Joe Horn,WR,New Haven,1996,2007,0,4,8,70,163,1.0,3.0,14.0,0,14.0,0.0,0.0,0.0,14.0,54.0,0,16.0,603.0,8744.0,58,76.0,HornJo00
+46,Andrew Pinnock,FB,Hartford,2003,2007,0,0,0,1,42,,,,0,,,,,18.0,56.0,0,15.0,4.0,31.0,0,14.0,PinnAn00
+47,Jamaal Branch,RB,Hartford,2006,2007,0,0,0,0,5,,,,0,,,,,10.0,29.0,0,9.0,5.0,14.0,1,7.0,BranJa00
+48,Chris Hetherington,FB,North Branford,1996,2006,0,0,0,3,126,,,,0,,,,,33.0,91.0,2,14.0,50.0,319.0,1,19.0,HethCh00
+49,Damane Duckett,DT,Waterbury,2004,2006,0,0,0,2,20,,,,0,,,,,,,0,,,,0,,DuckDa20
+50,Anttaj Hawthorne,DT,New Haven,2005,2006,0,0,0,1,18,,,,0,,,,,,,0,,,,0,,HawtAn20
+51,Ethan Brooks,T,Hartford,1996,2005,0,0,1,12,76,,,,0,,,,,,,0,,,,0,,BrooEt20
+52,Tebucky Jones,DB,New Britain,1998,2005,0,0,5,27,109,,,,0,,,,,,,0,,,,0,,JoneTe20
+53,Bill Romanowski,LB,Vernon,1988,2003,0,2,13,83,243,,,,0,,,,,,,0,,,,0,,RomaBi00
+54,Ed Ellis,T,New Haven,1997,2003,0,0,0,7,54,,,,0,,,,,,,0,,,,0,,ElliEd20
+55,Nate Hobgood-Chittick,DT,New Haven,1999,2002,0,0,0,2,33,,,,0,,,,,,,0,,,,0,,HobgNa20
+56,Tarek Saleh,OLB,Fairfield,1997,2001,0,0,0,4,59,,,,0,,,,,,,0,,1.0,22.0,0,22.0,SaleTa20
+57,Bobby Myers,DB,New Haven,2000,2001,0,0,0,3,17,,,,0,,,,,,,0,,,,0,,MyerBo21
+58,Eugene Robinson,DB,Hartford,1985,2000,0,3,15,88,250,,,,0,,,,,,,0,,,,0,,RobiEu00
+59,Jahine Arnold,WR,Rockville,1996,1999,0,0,0,1,13,,,,0,,,,,1.0,-3.0,0,0.0,6.0,76.0,0,26.0,ArnoJa00
+60,Nathan Davis,DE,Hartford,1997,1999,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,DaviNa20
+61,Dave Widell,C,Hartford,1988,1998,0,0,6,42,156,,,,0,,,,,,,0,,,,0,,WideDa20
+62,Terry Wooden,LB,Hartford,1990,1998,0,0,9,50,120,,,,0,,,,,,,0,,0.0,0.0,0,0.0,WoodTe20
+63,Willie Clark,DB,New Haven,1994,1998,0,0,0,8,59,,,,0,,,,,,,0,,,,0,,ClarWi20
+64,James Hamilton,LB,Hartford,1997,1998,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,HamiJa20
+65,Jerome Daniels,G,Hartford,1998,1998,0,0,0,3,8,,,,0,,,,,,,0,,,,0,,DaniJe20
+66,Doug Widell,G,Hartford,1989,1997,0,0,9,51,139,,,,0,,,,,,,0,,1.0,-7.0,0,0.0,WideDo20
+67,Todd Philcox,QB,Norwalk,1990,1997,0,0,0,3,15,85.0,173.0,1138.0,7,69.0,11.0,18.0,119.0,4.0,5.0,1,3.0,,,0,,PhilTo00
+68,Mike Jones,TE,Bridgeport,1990,1992,0,0,0,0,31,,,,0,,,,,,,0,,5.0,26.0,2,7.0,JoneMi01
+69,George Radachowsky,DB,Danbury,1984,1989,0,0,1,8,52,,,,0,,,,,,,0,,,,0,,RadaGe20
+70,Ken Bell,RB,Greenwich,1986,1989,0,0,0,0,59,,,,0,,,,,31.0,96.0,0,12.0,3.0,18.0,0,8.0,BellKe01
+71,O'Brien Alston,LB,New Haven,1988,1989,0,0,1,7,19,,,,0,,,,,,,0,,,,0,,AlstOB20
+72,Glenn Antrum,WR,Derby,1989,1989,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,AntrGl20
+73,Gary Kowalski,T,New Haven,1983,1988,0,0,2,14,58,,,,0,,,,,,,0,,,,0,,KowaGa20
+74,Doug DuBose,RB,New London,1987,1988,0,0,0,2,16,,,,0,,,,,34.0,149.0,2,37.0,10.0,94.0,0,14.0,DuboDo00
+75,Steve Hammond,LB,Hartford,1988,1988,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HammSt20
+76,Dave Puzzuoli,NT,Greenwich,1983,1987,0,0,0,7,76,,,,0,,,,,,,0,,,,0,,PuzzDa20
+77,Skip Lane,DB,Norwalk,1984,1987,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,LaneSk20
+78,Kevin Belcher,T,Bridgeport,1985,1987,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,BelcKe21
+79,John Sullivan,DB,Hartford,1986,1987,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,SullJo22
+80,Mel Black,LB,New Haven,1986,1987,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,BlacMe20
+81,Ron Monaco,LB,New Haven,1986,1987,0,0,0,3,17,,,,0,,,,,,,0,,,,0,,MonaRo21
+82,Paul Dufault,C,Bridgeport,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DufaPa20
+83,Scott Leach,LB,Bridgeport,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,LeacSc20
+84,Eric Stokes,C,Derby,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,StokEr20
+85,Ricky Atkinson,DB,Middletown,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,AtkiRi20
+86,Mark Carlson,T,Milford,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,CarlMa20
+87,Tony Sagnella,DT,New Haven,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,SagnTo20
+88,Tim Riordan,QB,New London,1987,1987,0,0,0,0,1,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,1.0,3.0,0,3.0,,,0,,RiorTi20
+89,Tony Brown,T,Stamford,1987,1987,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,BrowTo23
+90,Dan Sileo,DT,Stamford,1987,1987,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,SileDa20
+91,Jim Crocicchia,QB,Waterbury,1987,1987,0,0,0,0,1,6.0,15.0,89.0,1,46.0,0.0,2.0,17.0,4.0,5.0,0,7.0,,,0,,CrocJi20
+92,Jerry Bell,TE,Derby,1982,1986,0,0,2,10,60,,,,0,,,,,,,0,,101.0,1218.0,7,33.0,BellJe00
+93,Tom Condon,G,Derby,1974,1985,0,0,10,50,148,,,,0,,,,,,,0,,,,0,,CondTo20
+94,Rob Monaco,C,Hamden,1985,1985,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,MonaRo20
+95,Sandy Osiecki,QB,Ansonia,1984,1984,0,0,0,0,4,7.0,17.0,64.0,0,19.0,1.0,1.0,2.0,1.0,-2.0,0,-2.0,,,0,,OsieSa20
+96,Tony DeLuca,NT,Greenwich,1984,1984,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DeLuTo20
+97,Chuck Butler,LB,New Haven,1984,1984,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,ButlCh20
+98,Nick Giaquinto,RB,Bridgeport,1980,1983,0,0,0,10,53,,,,0,,,,,40.0,178.0,1,20.0,65.0,722.0,3,36.0,GiaqNi00
+99,Rich Diana,RB,Hamden,1982,1982,0,0,0,1,9,,,,0,,,,,8.0,31.0,0,7.0,2.0,21.0,0,13.0,DianRi00
+100,Phil Murphy,DT,New London,1980,1981,0,0,0,2,32,,,,0,,,,,,,0,,,,0,,MurpPh20
+101,Bob Kuziel,C,New Haven,1972,1980,0,0,3,25,90,,,,0,,,,,,,0,,,,0,,KuziBo20
+102,Tim Mazzetti,K,Old Greenwich,1978,1980,0,0,0,7,42,,,,0,,,,,,,0,,,,0,,mazzetim01
+103,Ken Bungarda,T,Hartford,1980,1980,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,BungKe20
+104,Tim Walker,LB,Hartford,1980,1980,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,WalkTi20
+105,Carl Barzilauskas,DT,Waterbury,1974,1979,0,0,5,24,70,,,,0,,,,,,,0,,,,0,,BarzCa20
+106,Cliff Olander,QB,Hartford,1977,1979,0,0,0,1,15,12.0,24.0,125.0,0,22.0,3.0,3.0,22.0,8.0,27.0,0,17.0,,,0,,OlanCl00
+107,Ed Bradley,RLB,Bridgeport,1972,1978,0,0,2,25,93,,,,0,,,,,,,0,,,,0,,BradEd21
+108,Fran Lynch,RB,Bridgeport,1967,1975,0,0,0,12,99,1.0,2.0,4.0,0,4.0,0.0,0.0,0.0,304.0,1258.0,12,54.0,35.0,357.0,2,40.0,LyncFr00
+109,Floyd Little,RB,New Haven,1967,1975,1,5,9,70,117,2.0,9.0,43.0,1,35.0,0.0,1.0,5.0,1641.0,6323.0,43,80.0,215.0,2418.0,9,74.0,LittFl00
+110,Jim Opperman,LB,Waterbury,1975,1975,0,0,0,3,10,,,,0,,,,,,,0,,,,0,,OppeJi20
+111,Brian Vertefeuille,T,Willimantic,1974,1974,0,0,0,2,14,,,,0,,,,,,,0,,,,0,,VertBr20
+112,Vince Clements,RB,Southington,1972,1973,0,0,0,7,16,,,,0,,,,,103.0,435.0,1,19.0,24.0,247.0,1,39.0,ClemVi00
+113,Ron Lamb,RB,New London,1968,1972,0,0,0,2,56,,,,0,,,,,55.0,163.0,0,17.0,8.0,97.0,0,60.0,LambRo00
+114,Billy Walik,WR,New Haven,1970,1972,0,0,0,0,32,,,,0,,,,,,,0,,2.0,15.0,1,15.0,WaliBi00
+115,Ron Gardin,DB,New Haven,1970,1971,0,0,0,8,22,,,,0,,,,,,,0,,,,0,,GardRo20
+116,Dave Graham,T,Bridgeport,1963,1969,0,0,2,21,83,,,,0,,,,,,,0,,,,0,,GrahDa20
+117,Booth Lusteg,K,New Haven,1966,1969,0,0,0,4,39,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,,,0,,,,0,,LustBo20
+118,Bob Skoronski,T,Ansonia,1956,1968,0,1,9,48,146,,,,0,,,,,,,0,,,,0,,SkorBo00
+119,Tom Cichowski,T,New Britain,1967,1968,0,0,1,4,13,,,,0,,,,,,,0,,,,0,,CichTo20
+120,Richard Swatland,G,Stamford,1968,1968,0,0,0,2,4,,,,0,,,,,,,0,,,,0,,SwatRi20
+121,Nick Pietrosante,FB,Ansonia,1959,1967,0,2,7,38,115,1.0,2.0,37.0,0,37.0,1.0,0.0,0.0,955.0,4026.0,28,57.0,141.0,1391.0,2,76.0,PietNi00
+122,Bo Hickey,RB,Stamford,1967,1967,0,0,0,3,12,,,,0,,,,,73.0,263.0,4,20.0,7.0,36.0,1,22.0,HickBo00
+123,Jerry Zawadzkas,TE,Torrington,1967,1967,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ZawaJe20
+124,Nick DeFelice,T,Derby,1965,1965,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,DeFeNi20
+125,Andy Robustelli,DE,Stamford,1951,1964,6,7,14,50,175,,,,0,,,,,,,0,,2.0,75.0,1,49.0,RobuAn00
+126,John Contoulis,DT,New London,1964,1964,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,ContJo20
+127,Tommy Wilson,HB,Stamford,1956,1963,0,1,2,10,91,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,508.0,2553.0,18,82.0,61.0,617.0,5,42.0,WilsTo00
+128,Tom Rychlec,E,Meriden,1958,1963,0,0,1,10,49,,,,0,,,,,1.0,-18.0,0,0.0,87.0,1089.0,3,36.0,RychTo00
+129,Fred Dugan,E,Stamford,1958,1963,0,0,4,18,75,,,,0,,,,,1.0,-9.0,0,0.0,153.0,2226.0,13,80.0,DugaFr00
+130,Joe Johnson,HB,New Haven,1954,1961,0,0,1,3,66,,,,0,,,,,93.0,376.0,0,21.0,84.0,920.0,8,61.0,JohnJo03
+131,Frank Robotti,LB,Stamford,1961,1961,0,0,0,5,12,,,,0,,,,,,,0,,,,0,,RoboFr20
+132,Bob Miller,DT,Norwalk,1952,1958,0,0,4,0,81,,,,0,,,,,,,0,,,,0,,MillBo20
+133,Dick Young,FB,Trumbull,1955,1957,0,0,0,0,34,,,,0,,,,,78.0,199.0,2,14.0,6.0,53.0,0,12.0,YounDi20
+134,Fred Robinson,G,West Haven,1957,1957,0,0,1,0,12,,,,0,,,,,,,0,,,,0,,RobiFr21
+135,John Bredice,E,Waterbury,1956,1956,0,0,1,0,12,,,,0,,,,,,,0,,10.0,146.0,1,40.0,BredJo20
+136,George Sulima,E,New Britain,1952,1954,0,0,2,0,31,,,,0,,,,,,,0,,49.0,746.0,2,69.0,SuliGe20
+137,Jack Zilly,DE,Waterbury,1947,1952,0,0,4,0,64,,,,0,,,,,,,0,,23.0,279.0,4,30.0,ZillJa20
+138,Ed Bradley,G,Bridgeport,1950,1952,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,BradEd20
+139,Pat Cannamela,LB,New London,1952,1952,0,0,1,0,12,,,,0,,,,,,,0,,,,0,,CannPa20
+140,Fritz Barzilauskas,G,Waterbury,1947,1951,0,0,2,0,36,,,,0,,,,,,,0,,,,0,,BarzFr20
+141,Gil Bouley,T,Plainfield,1945,1950,0,0,4,0,64,,,,0,,,,,,,0,,3.0,41.0,0,15.0,BoulGi20
+142,Ed Cody,FB,Newington,1947,1950,0,0,0,0,38,,,,0,,,,,93.0,346.0,2,51.0,1.0,2.0,0,2.0,CodyEd20
+143,Bob Dobelstein,G,Bridgeport,1946,1949,0,0,3,0,41,,,,0,,,,,,,0,,,,0,,DobeBo20
+144,Frank Hubbell,E,Bridgeport,1947,1949,0,0,1,0,36,,,,0,,,,,,,0,,15.0,226.0,3,48.0,HubbFr20
+145,Alex Sidorik,T,Hartford,1947,1949,0,0,0,0,33,,,,0,,,,,,,0,,,,0,,SidoAl20
+146,Pete Lamana,LB,Bristol,1946,1948,0,0,0,0,35,,,,0,,,,,6.0,21.0,0,,,,0,,LamaPe20
+147,Herb Nelson,E,Hartford,1946,1948,0,0,1,0,30,,,,0,,,,,1.0,1.0,0,1.0,6.0,64.0,0,,NelsHe20
+148,Ken Strong,FB,West Haven,1929,1947,3,0,8,0,131,20.0,52.0,380.0,6,,5.0,,,379.0,1228.0,24,2.0,22.0,254.0,7,,StroKe20
+149,Chet Gladchuk,C,Bridgeport,1941,1947,0,0,2,0,28,,,,0,,,,,,,0,,,,0,,GladCh20
+150,Lou DeFilippo,T,East Haven,1941,1947,0,0,0,0,36,,,,0,,,,,,,0,,,,0,,DeFiLo20
+151,Lou Palazzi,C,Groton,1946,1947,0,0,0,0,16,,,,0,,,,,,,0,,,,0,,PalaLo21
+152,Al Kowalski,BB,Bridgeport,1947,1947,0,0,0,0,10,,,,0,,,,,,,0,,,,0,,KowaAd20
+153,Ken Holley,QB,Hartford,1946,1946,0,0,0,0,5,3.0,11.0,36.0,0,,4.0,,,2.0,-22.0,0,0.0,,,0,,HollKe20
+154,Harry Connolly,TB,Norwalk,1946,1946,0,0,0,0,3,2.0,8.0,29.0,0,,1.0,,,8.0,18.0,0,,,,0,,ConnHa20
+155,Dom Sigillo,T,Storrs,1943,1945,0,0,0,0,23,,,,0,,,,,,,0,,,,0,,SigiDo20
+156,Bill Petrilas,HB,New Haven,1944,1945,0,0,0,0,14,,,,0,,,,,12.0,29.0,0,12.0,,,0,,PetrBi20
+157,Harry Jacunski,E,New Britain,1939,1944,0,1,3,0,55,,,,0,,,,,,,0,,52.0,985.0,6,86.0,JacuHa20
+158,Andy Natowich,HB,Derby,1944,1944,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,NatoAn20
+159,Ed Korisky,C,Hartford,1944,1944,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,KoriEd20
+160,Frank Turbert,HB,New Haven,1944,1944,0,0,0,0,5,5.0,15.0,37.0,0,21.0,0.0,,,14.0,-16.0,0,9.0,1.0,16.0,0,16.0,TurbFr20
+161,Rocky Uguccioni,E,New London,1944,1944,0,0,0,0,10,,,,0,,,,,,,0,,7.0,94.0,0,26.0,UgucRo20
+162,Herm Schmarr,DE,New Britain,1943,1943,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,SchmHe20
+163,George Grandinette,G,New Haven,1943,1943,0,0,0,0,10,,,,0,,,,,,,0,,,,0,,GranGe20
+164,Bernie Digris,T,Union City,1943,1943,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,DigrBe20
+165,Lou Ghecas,HB,Danbury,1941,1941,0,0,0,0,8,,,,0,,,,,2.0,0.0,0,3.0,,,0,,GhecLo20
+166,Dick Tuckey,TB,Naugatuck,1938,1938,0,0,0,0,7,8.0,32.0,140.0,1,30.0,3.0,,,23.0,76.0,0,,1.0,10.0,0,10.0,TuckDi20
+167,Ray Reckmack,E,Cheshire,1937,1937,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ReckRa20
+168,Johnny Sisk,HB,New Haven,1932,1936,0,0,1,0,56,4.0,14.0,20.0,0,8.0,2.0,,,200.0,894.0,3,,12.0,252.0,0,44.0,SiskJo21
+169,Joe Pivarnik,G,Bridgeport,1936,1936,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,PivaJo20
+170,George Mulligan,E,Waterbury,1936,1936,0,0,0,0,9,,,,0,,,,,,,0,,1.0,3.0,0,3.0,MullGe20
+171,Stu Clancy,B,Branford,1930,1935,0,0,0,0,50,3.0,16.0,80.0,0,35.0,4.0,,,128.0,409.0,4,,6.0,72.0,1,40.0,ClanSt20
+172,Steve Banas,BB,Bridgeport,1935,1935,0,0,0,0,3,0.0,2.0,0.0,0,0.0,0.0,,,8.0,3.0,0,,,,0,,BanaSt20
+173,Joe Hugret,E,Torrington,1934,1934,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HugrJo20
+174,Jack Spellman,E,Middletown,1925,1932,0,0,6,0,88,,,,0,,,,,,,0,,,,0,,SpelJa20
+175,Pop Williams,B,Jewett City,1928,1932,0,0,2,0,39,,,,0,,,,,0.0,0.0,11,0.0,0.0,0.0,2,0.0,WillPo20
+176,John Bunyan,G,Hartford,1929,1932,0,0,2,0,23,,,,0,,,,,,,0,,,,0,,BunyJo20
+177,Maury Dubofsky,G,Hartford,1932,1932,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,DuboMa20
+178,Les Maynard,E,Torrington,1932,1932,0,0,1,0,8,,,,0,,,,,,,0,,3.0,67.0,0,,MaynLe20
+179,Johnny Scalzi,B,Stamford,1931,1931,0,0,0,0,7,,,,1,,,,,,,0,,,,0,,ScalJo20
+180,Ralph Buckley,BB,Meriden,1930,1930,0,0,1,0,7,,,,0,,,,,,,0,,0.0,0.0,1,0.0,BuckRa20
+181,Tony Manfreda,HB,Meriden,1930,1930,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ManfTo20
+182,Mike Riordan,E,Bristol,1929,1929,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,RiorMi20
+183,Paul Kuczo,B,Stamford,1929,1929,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,KuczPa20
+184,Bob Dunn,C,Waterbury,1929,1929,0,0,1,0,6,,,,0,,,,,,,0,,,,0,,DunnBo20
+185,Walt Ellis,T,Noank,1924,1927,1,0,3,0,36,,,,0,,,,,,,0,,,,0,,ElliWa20
+186,Grat O'Connell,E,Thomaston,1926,1927,0,0,1,0,12,,,,0,,,,,,,0,,,,0,,OConGr20
+187,Elmer McCormick,C,Hartford,1923,1926,0,0,0,0,30,,,,0,,,,,,,0,,,,0,,McCoEl20
+188,Tommy Myers,B,New Britain,1925,1926,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,MyerTo20
+189,Matt Brennan,B,Stamford,1925,1926,0,0,1,0,16,,,,1,,,,,0.0,0.0,1,0.0,,,0,,BrenMa20
+190,Jake Friedman,E,Bridgeport,1926,1926,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,FrieJa20
+191,Dutch Forst,FB,Derby,1926,1926,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ForsDu20
+192,Jim Donlin,G,Hartford,1926,1926,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,DonlJi20
+193,Jim Foley,B,Hartford,1926,1926,0,0,1,0,9,,,,0,,,,,,,0,,,,0,,FoleJi20
+194,Dick Noble,G,Hartford,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,NoblDi20
+195,Eddie Barnikow,FB,Meriden,1926,1926,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BarnEd20
+196,Stan Sieracki,T,Meriden,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SierSt20
+197,Red O'Neill,C,New Britain,1926,1926,0,0,1,0,9,,,,0,,,,,,,0,,,,0,,ONeiRe20
+198,Henry Zehrer,FB,New Britain,1926,1926,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,ZehrHe20
+199,Mule Werwaiss,T,New Haven,1926,1926,0,0,1,0,9,,,,0,,,,,,,0,,,,0,,WerwMu20
+200,Pinky Lester,E,New London,1926,1926,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,LestPi20

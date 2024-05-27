@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Brandon Scherff,G,Denison,2015,2023,1,5,8,58,123,,,,0,,,,,,,0,,,,0,,ScheBr00
+2,James Ferentz,C,Iowa City,2015,2023,0,0,0,6,61,,,,0,,,,,,,0,,,,0,,FereJa00
+3,Casey Kreiter,LS,DeWitt,2016,2023,0,1,0,9,125,,,,0,,,,,,,0,,,,0,,KreiCa00
+4,Matt Haack,P,West Des Moines,2017,2023,0,0,1,10,99,1.0,3.0,1.0,1,1.0,1.0,0.0,0.0,1.0,2.0,0,2.0,,,0,,HaacMa00
+5,Ike Boettger,G,Cedar Falls,2018,2023,0,0,1,9,36,,,,0,,,,,,,0,,,,0,,BoetIk00
+6,Josey Jewell,ILB,Decorah,2018,2023,0,0,3,28,78,,,,0,,,,,,,0,,,,0,,JeweJo00
+7,Allen Lazard,WR,Des Moines,2018,2023,0,0,2,22,71,,,,0,,,,,8.0,70.0,0,21.0,192.0,2547.0,21,72.0,LazaAl00
+8,Ben Niemann,RILB,Des Moines,2018,2023,0,0,1,13,86,,,,0,,,,,,,0,,,,0,,NiemBe00
+9,T.J. Hockenson,TE,Chariton,2019,2023,0,2,2,27,72,,,,0,,,,,1.0,0.0,0,0.0,341.0,3547.0,23,81.0,HockTJ00
+10,Andrew Van Ginkel,OLB,Rock Valley,2019,2023,0,0,2,24,73,,,,0,,,,,,,0,,,,0,,VanGAn00
+11,Anthony Nelson,DL,Urbandale,2019,2023,0,0,0,11,75,,,,0,,,,,,,0,,,,0,,NelsAn01
+12,Joe Burrow,QB,Ames,2020,2023,0,1,3,44,52,1288.0,1895.0,14083.0,97,82.0,37.0,148.0,1040.0,183.0,605.0,10,23.0,,,0,,BurrJo01
+13,Matt Nelson,T,Cedar Rapids,2020,2023,0,0,1,9,43,,,,0,,,,,,,0,,0.0,0.0,0,0.0,NelsMa00
+14,Tristan Wirfs,OL,Mount Vernon,2020,2023,1,3,3,44,63,,,,0,,,,,,,0,,,,0,,WirfTr00
+15,Spencer Brown,T,Lenox,2021,2023,0,0,1,24,44,,,,0,,,,,,,0,,,,0,,BrowSp00
+16,Christian Rozeboom,LB,Sioux Center,2021,2023,0,0,0,5,44,,,,0,,,,,,,0,,,,0,,RozeCh00
+17,Jake Hummel,LB,Des Moines,2022,2023,0,0,0,1,24,,,,0,,,,,,,0,,,,0,,HummJa00
+18,Jack Cochrane,LB,Mount Vernon,2022,2023,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,CochJa00
+19,Ko Kieft,TE,Sioux Center,2022,2023,0,0,1,1,33,,,,0,,,,,,,0,,8.0,82.0,2,19.0,KiefKo00
+20,Tyler Linderbaum,OL,Solon,2022,2023,0,1,1,16,32,,,,0,,,,,,,0,,,,0,,LindTy00
+21,Julian Good-Jones,,Cedar Rapids,2023,2023,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GoodJu00
+22,David Johnson,RB,Clinton,2015,2022,1,1,3,42,92,,,,0,,,,,1007.0,4071.0,39,58.0,277.0,2805.0,18,58.0,JohnDa08
+23,Austin Blythe,C,Williamson,2016,2022,0,0,4,33,92,,,,0,,,,,,,0,,,,0,,BlytAu00
+24,Ross Pierschbacher,OL,Cedar Falls,2019,2022,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,PierRo00
+25,Jake Gervase,DB,Davnport,2019,2022,0,0,0,1,19,,,,0,,,,,,,0,,1.0,12.0,0,12.0,GervJa00
+26,Caleb Shudak,K,Council Bluffs,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ShudCa00
+27,Dominique Dafney,TE,West Des Moines,2020,2021,0,0,0,0,15,,,,0,,,,,,,0,,4.0,60.0,1,26.0,DafnDo00
+28,Landen Akers,,Cedar Rapids,2021,2021,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,AkerLa00
+29,Rico Gafford,WR,West De Moines,2018,2020,0,0,0,0,8,,,,0,,,,,,,0,,2.0,66.0,1,49.0,GaffRi00
+30,Darren Sproles,RB,Waterloo,2005,2019,0,3,1,62,183,,,,0,,,,,732.0,3552.0,23,49.0,553.0,4840.0,32,81.0,SproDa00
+31,Marshal Yanda,G,Cedar Rapids,2007,2019,2,8,10,92,177,,,,0,,,,,,,0,,,,0,,YandMa20
+32,Austin Howard,T,Davenport,2010,2018,0,0,6,32,97,,,,0,,,,,,,0,,,,0,,HowaAu20
+33,A.J. Derby,TE,Iowa City,2016,2018,0,0,0,3,25,,,,0,,,,,,,0,,40.0,452.0,3,29.0,DerbA.00
+34,Leonard Wester,T,Mt. Union,2016,2018,0,0,0,3,27,,,,0,,,,,,,0,,1.0,2.0,1,2.0,WestLe00
+35,Cole Croston,T,Sergeant Bluff,2017,2018,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,CrosCo00
+36,Trevon Young,DE,Des Moines,2018,2018,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,YounTr00
+37,Riley McCarron,WR,Dubuque,2018,2018,0,0,0,0,1,,,,0,,,,,,,0,,0.0,0.0,0,0.0,McCaRi00
+38,Matt Tobin,T,Worthington,2013,2017,0,0,1,12,57,,,,0,,,,,,,0,,,,0,,TobiMa00
+39,Henry Krieger-Coble,TE,Mount Pleasant,2016,2017,0,0,0,0,3,,,,0,,,,,,,0,,1.0,13.0,0,13.0,KrieHe00
+40,Marshall Koehn,K,Solon,2017,2017,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,KoehMa00
+41,Brandon Myers,TE,Prairie City,2009,2016,0,0,5,12,115,,,,0,,,,,,,0,,199.0,1954.0,9,29.0,MyerBr00
+42,Julian Vandervelde,OL,Davenport,2011,2015,0,0,0,1,18,,,,0,,,,,,,0,,,,0,,VandJu00
+43,Tyler Starr,OLB,Little Rock,2015,2015,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,StarTy00
+44,James Morris,ILB,Solon,2015,2015,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,MorrJa01
+45,Kyle Orton,QB,Altoona,2005,2014,0,0,5,40,87,1613.0,2712.0,18037.0,101,87.0,69.0,165.0,1016.0,126.0,296.0,4,15.0,,,0,,OrtoKy00
+46,Chad Rinehart,T,Boone,2009,2014,0,0,1,23,58,,,,0,,,,,,,0,,,,0,,RineCh20
+47,Brad Meester,C,Iowa Falls,2000,2013,0,0,14,74,209,,,,0,,,,,,,0,,1.0,9.0,0,9.0,MeesBr20
+48,Joel Dreessen,TE,Ida Grove,2005,2013,0,0,4,16,120,,,,0,,,,,,,0,,158.0,1767.0,19,56.0,DreeJo00
+49,Pat Angerer,LB,Bettendorf,2010,2013,0,0,3,18,54,,,,0,,,,,,,0,,,,0,,AngePa99
+50,David Reed,WR,Dubuque,2010,2013,0,0,0,2,36,,,,0,,,,,2.0,31.0,0,16.0,6.0,68.0,0,23.0,ReedDa00
+51,Allen Reisner,TE,Marion,2011,2013,0,0,0,0,15,,,,0,,,,,,,0,,7.0,58.0,0,16.0,ReisAl00
+52,Kyle Vanden Bosch,DE,Larchwood,2001,2012,0,3,9,58,152,,,,0,,,,,,,0,,,,0,,VandKy99
+53,Dan Koppen,C,Dubuque,2003,2012,0,1,9,72,136,,,,0,,,,,,,0,,,,0,,KoppDa20
+54,Nate Kaeding,K,Iowa City,2004,2012,1,2,0,21,115,,,,0,,,,,,,0,,0.0,0.0,0,0.0,kaedinat01
+55,Tyler Sash,SS,Oskaloosa,2011,2012,0,0,0,1,23,,,,0,,,,,,,0,,,,0,,SashTy00
+56,Jordan Bernstine,CB,Des Moines,2012,2012,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BernJo00
+57,Casey Wiegmann,C,Parkerburg,1997,2011,0,1,13,70,227,,,,0,,,,,,,0,,,,0,,WiegCa20
+58,Aaron Kampman,DE,Cedar Falls,2002,2011,0,2,7,55,123,,,,0,,,,,,,0,,,,0,,KampAa99
+59,Ben Leber,LB,Council Bluffs,2002,2011,0,0,8,46,143,,,,0,,,,,,,0,,,,0,,LebeBe20
+60,Robert Gallery,T,Manchester,2004,2011,0,0,7,38,104,,,,0,,,,,,,0,,,,0,,GallRo20
+61,Mitch King,DT,Burlington,2010,2011,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,KingMi99
+62,Adrian Arrington,WR,Cedar Rapids,2010,2011,0,0,0,1,5,,,,0,,,,,,,0,,9.0,110.0,0,17.0,ArriAd00
+63,Rob Bruggeman,C,Cedar Rapids,2010,2011,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BrugRo20
+64,Ryan Mahaffey,FB,Des Moines,2011,2011,0,0,0,0,5,,,,0,,,,,,,0,,1.0,5.0,0,5.0,MahaRy00
+65,Sage Rosenfels,QB,Maquoketa,2002,2010,0,0,0,13,44,351.0,562.0,4156.0,30,77.0,29.0,19.0,127.0,48.0,95.0,1,19.0,,,0,,RoseSa00
+66,Matt Kroul,DT,Mount Vernon,2010,2010,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,KrouMa00
+67,Kurt Warner,QB,Burlington,1998,2009,2,4,8,96,124,2666.0,4070.0,32344.0,208,85.0,128.0,260.0,1669.0,173.0,286.0,3,23.0,1.0,0.0,0,0.0,WarnKu00
+68,Josh Stamer,OLB,Sutherland,2003,2009,0,0,0,6,90,,,,0,,,,,,,0,,,,0,,StamJo20
+69,Trent Green,QB,Cedar Rapids,1997,2008,0,2,7,94,120,2266.0,3740.0,28475.0,162,99.0,114.0,259.0,1621.0,243.0,914.0,6,24.0,3.0,-7.0,0,1.0,GreeTr00
+70,Jared DeVries,DE,Aplington,1999,2008,0,0,3,18,120,,,,0,,,,,,,0,,,,0,,DeVrJa20
+71,David Barrett,DB,Waterloo,2000,2008,0,0,6,31,131,,,,0,,,,,,,0,,,,0,,BarrDa22
+72,Tim Dwight,WR,Iowa City,1998,2007,0,0,2,30,116,1.0,2.0,22.0,0,22.0,0.0,0.0,0.0,53.0,380.0,3,48.0,194.0,2964.0,19,78.0,DwigTi00
+73,Matt Chatham,OLB,Newton,2000,2007,0,0,0,8,91,,,,0,,,,,,,0,,,,0,,ChatMa20
+74,Anthony Schlegel,MLB,Cedar Rapids,2006,2007,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,SchlAn20
+75,Quinn Sypniewski,TE,Des Moines,2006,2007,0,0,1,2,31,,,,0,,,,,,,0,,36.0,261.0,1,13.0,SypnQu00
+76,Adam Timmerman,G,Cherokee,1995,2006,0,2,11,78,187,,,,0,,,,,,,0,,1.0,-4.0,0,3.0,TimmAd20
+77,Ross Verba,T,Des Moines,1997,2006,0,0,8,42,113,,,,0,,,,,,,0,,,,0,,VerbRo20
+78,Ryan Hannam,TE,St. Ansgar,2002,2006,0,0,0,2,54,,,,0,,,,,,,0,,22.0,215.0,2,36.0,HannRy00
+79,Jordan Carstens,DT,Carroll,2004,2006,0,0,1,9,29,,,,0,,,,,,,0,,,,0,,CarsJo20
+80,Tyson Smith,LB,Des Moines,2006,2006,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,SmitTy20
+81,A.J. Schable,DE,Ida Grove,2006,2006,0,0,0,1,11,,,,0,,,,,1.0,5.0,0,5.0,,,0,,SchaA.20
+82,Zeron Flemister,TE,Sioux City,2000,2005,0,0,1,4,60,,,,0,,,,,,,0,,38.0,439.0,4,33.0,FlemZe00
+83,Eddie Berlin,WR,Urbandale,2001,2005,0,0,0,3,62,,,,0,,,,,,,0,,26.0,379.0,2,50.0,BerlEd00
+84,J.J. Moses,WR,Waterloo,2002,2005,0,0,0,0,34,,,,0,,,,,,,0,,,,0,,MoseJ.00
+85,Jared Clauss,DT,West Des Moines,2004,2005,0,0,0,3,29,,,,0,,,,,,,0,,,,0,,ClauJa20
+86,Dedric Ward,WR,Cedar Rapids,1997,2004,0,0,1,20,103,,,,0,,,,,12.0,86.0,0,21.0,167.0,2307.0,12,71.0,WardDe00
+87,Derek Pagel,DB,Plainfield,2003,2004,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,PageDe20
+88,Everett Lindsay,T,Burlington,1993,2003,0,0,3,28,136,,,,0,,,,,,,0,,,,0,,LindEv20
+89,Greg Biekert,LB,Iowa City,1993,2003,0,0,10,57,176,,,,0,,,,,,,0,,,,0,,BiekGr20
+90,Mike Banks,TE,Mason City,2002,2003,0,0,0,0,18,,,,0,,,,,,,0,,,,0,,BankMi20
+91,Bruce Nelson,G,Emmetsburg,2003,2003,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,NelsBr20
+92,MarTay Jenkins,WR,Waterloo,1999,2002,0,0,0,11,40,,,,0,,,,,7.0,6.0,0,16.0,70.0,987.0,4,65.0,JenkMa00
+93,Kahlil Hill,WR,Iowa City,2002,2002,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,HillKa20
+94,Matt Snider,FB,Des Moines,1999,2001,0,0,0,0,28,,,,0,,,,,,,0,,,,0,,SnidMa21
+95,Bryce Paup,LB,Jefferson,1990,2000,1,4,7,67,148,,,,0,,,,,,,0,,,,0,,PaupBr00
+96,James Jones,DT,Davenport,1991,2000,0,0,9,56,160,,,,0,,,,,3.0,2.0,1,1.0,3.0,4.0,2,2.0,JoneJa20
+97,Chad Hennings,DT,Elberon,1992,2000,0,0,4,34,119,,,,0,,,,,,,0,,,,0,,HennCh20
+98,Michael Roan,TE,Iowa City,1995,2000,0,0,1,4,62,,,,0,,,,,,,0,,45.0,403.0,3,26.0,RoanMi00
+99,Kenny Shedd,WR,Davenport,1996,2000,0,0,0,2,60,,,,0,,,,,,,0,,16.0,252.0,1,51.0,ShedKe00
+100,Brian Hansen,P,Hawarden,1984,1999,0,1,0,24,212,3.0,3.0,45.0,1,26.0,0.0,0.0,0.0,10.0,-25.0,0,10.0,,,0,,HansBr20
+101,Mike Morris,C,Centerville,1987,1999,0,0,0,10,188,,,,0,,,,,,,0,,,,0,,MorrMi20
+102,Greg Engel,C,Davenport,1995,1999,0,0,1,5,32,,,,0,,,,,,,0,,,,0,,EngeGr20
+103,Tavian Banks,RB,Davenport,1998,1999,0,0,0,3,14,,,,0,,,,,49.0,222.0,1,51.0,18.0,157.0,0,38.0,BankTa00
+104,Reggie Roby,P,Waterloo,1983,1998,2,3,0,28,238,1.0,1.0,48.0,0,48.0,0.0,0.0,0.0,9.0,4.0,0,12.0,,,0,,RobyRe20
+105,Jeff Criswell,T,Grinnell,1987,1998,0,0,9,54,171,,,,0,,,,,,,0,,,,0,,CrisJe20
+106,Brian Jones,MLB,Iowa City,1991,1998,0,0,1,7,44,,,,0,,,,,,,0,,,,0,,JoneBr20
+107,Jon Haskins,LB,Des Moines,1998,1998,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HaskJo20
+108,Nick Gallery,P,Manchester,1998,1998,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GallNi20
+109,Todd Doxzon,WR,Sioux City,1998,1998,0,0,0,0,9,,,,0,,,,,2.0,6.0,0,3.0,0.0,0.0,0,0.0,DoxzTo00
+110,Scott Davis,G,Glenwood,1993,1997,0,0,0,4,21,,,,0,,,,,,,0,,,,0,,DaviSc21
+111,Gunnard Twyner,WR,Bettendorf,1997,1997,0,0,0,0,4,,,,0,,,,,,,0,,4.0,45.0,0,16.0,TwynGu20
+112,Terry Hoage,DB,Ames,1984,1996,0,0,4,29,141,,,,0,,,,,1.0,38.0,1,38.0,,,0,,HoagTe20
+113,Doug Riesenberg,T,Carroll,1987,1996,0,0,9,56,145,,,,0,,,,,,,0,,,,0,,RiesDo20
+114,Trev Alberts,LB,Cedar Falls,1994,1996,0,0,0,4,29,,,,0,,,,,,,0,,,,0,,AlbeTr20
+115,Joel Crisman,G,Cherokee,1996,1996,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,CrisJo20
+116,Carey Bender,RB,Marion,1996,1996,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BendCa20
+117,Dennis Gibson,LB,Des Moines,1987,1995,0,0,8,43,121,,,,0,,,,,,,0,,,,0,,GibsDe20
+118,Hugh Millen,QB,Des Moines,1987,1995,0,0,2,15,40,560.0,928.0,6440.0,22,76.0,35.0,126.0,830.0,65.0,260.0,1,26.0,0.0,0.0,0,0.0,MillHu00
+119,Marv Cook,TE,Iowa City,1989,1995,1,2,6,13,112,,,,0,,,,,,,0,,257.0,2190.0,13,49.0,CookMa00
+120,T.J. Rubley,QB,Davenport,1993,1995,0,0,0,5,10,112.0,195.0,1377.0,8,54.0,7.0,13.0,106.0,31.0,108.0,0,13.0,,,0,,RublTJ00
+121,Garry Howe,NT,Spencer,1992,1994,0,0,0,2,13,,,,0,,,,,,,0,,,,0,,HoweGa20
+122,Brian Ratigan,LB,Council Bluffs,1994,1994,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,RatiBr20
+123,Jay Hilgenberg,C,Iowa City,1981,1993,2,7,9,83,188,,,,0,,,,,,,0,,,,0,,HilgJa00
+124,Bruce Reimers,G,Algona,1984,1993,0,0,7,42,135,,,,0,,,,,,,0,,,,0,,ReimBr20
+125,Joel Hilgenberg,C,Iowa City,1984,1993,0,1,7,51,142,,,,0,,,,,,,0,,1.0,9.0,0,9.0,HilbJo00
+126,Bill Lewis,C,Sioux City,1986,1993,0,0,5,24,71,,,,0,,,,,,,0,,,,0,,LewiBi21
+127,Kelly Goodburn,P,Cherokee,1987,1993,0,0,0,8,85,,,,0,,,,,5.0,37.0,0,16.0,,,0,,GoodKe20
+128,Rick Graf,LOLB,Iowa City,1987,1993,0,0,1,14,73,,,,0,,,,,,,0,,,,0,,GrafRi20
+129,Mike Haight,G,Manchester,1986,1992,0,0,3,20,63,,,,0,,,,,,,0,,,,0,,HaigMi20
+130,Ron Geater,DE,Marion,1992,1992,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,GeatRo20
+131,Bryan Millard,G,Sioux City,1984,1991,0,0,6,43,121,,,,0,,,,,,,0,,1.0,-5.0,0,0.0,MillBr20
+132,Bruce Perkins,RB,Waterloo,1990,1991,0,0,0,1,30,,,,0,,,,,17.0,47.0,0,9.0,11.0,83.0,2,34.0,PerkBr00
+133,Dave Ahrens,MLB,Cedar Falls,1981,1990,0,0,3,26,130,,,,0,,,,,,,0,,1.0,4.0,0,4.0,AhreDa20
+134,Paul Fairchild,G,Carroll,1984,1990,0,0,2,21,83,,,,0,,,,,,,0,,,,0,,FairPa20
+135,Bruce Klosterman,LILB,Dubuque,1987,1990,0,0,0,6,42,,,,0,,,,,,,0,,,,0,,KlosBr20
+136,Kip Corrington,DB,Ames,1989,1990,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,CorrKi20
+137,Mark Hall,DE,Morgan City,1989,1990,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,HallMa20
+138,Mike Stensrud,NT,Forest City,1979,1989,0,0,4,32,139,,,,0,,,,,,,0,,,,0,,StenMi20
+139,Troy Stedman,LB,Cedar Falls,1988,1988,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,StedTr20
+140,Dave Croston,T,Sioux City,1988,1988,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,CrosDa21
+141,Henry Waechter,DE,Epworth,1982,1987,0,0,0,7,53,,,,0,,,,,,,0,,,,0,,WaecHe20
+142,Steve Baack,NT,Ames,1984,1987,0,0,0,4,55,,,,0,,,,,,,0,,,,0,,BaacSt20
+143,Al Wenglikowski,LB,Burlington,1984,1987,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,WengAl20
+144,Todd Frain,TE,Council Bluffs,1986,1987,0,0,0,0,4,,,,0,,,,,,,0,,2.0,22.0,0,11.0,FraiTo20
+145,Kurt Ploeger,DE,Iowa Falls,1986,1987,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,PloeKu20
+146,Mark Tigges,T,Algona,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,TiggMa20
+147,Brian Glasgow,TE,Burlington,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,2.0,16.0,0,11.0,GlasBr20
+148,Jon Roehlk,G,Davenport,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,RoehJo20
+149,Chad Stark,RB,Decorah,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,StarCh20
+150,Kyle Borland,LB,Denison,1987,1987,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,BorlKy20
+151,Todd Black,WR,Fort Dodge,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BlacTo20
+152,Bill Berthusen,NT,Grinnell,1987,1987,0,0,0,2,4,,,,0,,,,,,,0,,,,0,,BertBi20
+153,Vince Jasper,G,Hawarden,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,JaspVi20
+154,Charlie Dickey,G,Ottumwa,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DickCh20
+155,Joe Stepanek,DT,Tama,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,StepJo20
+156,Aric Anderson,LB,Waverly,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,AndeAr20
+157,Steve Bartkowski,QB,Des Moines,1975,1986,0,2,10,69,129,1932.0,3456.0,24124.0,156,86.0,144.0,356.0,2956.0,178.0,239.0,11,18.0,,,0,,BartSt00
+158,Bill Ring,RB,Des Moines,1981,1986,0,0,0,10,69,,,,0,,,,,183.0,732.0,7,34.0,45.0,336.0,1,24.0,RingBi00
+159,John Harty,NT,Sioux City,1981,1986,0,0,1,11,42,,,,0,,,,,,,0,,,,0,,HartJo20
+160,Keli McGregor,TE,Primghar,1985,1985,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,McGrKe20
+161,Vern Den Herder,DE,Le Mars,1971,1982,0,0,10,68,166,,,,0,,,,,,,0,,1.0,7.0,1,7.0,DenHVe20
+162,Keith Krepfle,TE,Dubuque,1975,1982,0,0,5,25,97,,,,0,,,,,1.0,2.0,0,2.0,152.0,2425.0,19,55.0,KrepKe00
+163,Jim Jensen,RB,Waterloo,1976,1982,0,0,1,14,78,,,,0,,,,,283.0,1126.0,4,32.0,80.0,651.0,3,34.0,JensJi01
+164,Greg Davidson,C,Independence,1980,1982,0,0,0,3,39,,,,0,,,,,,,0,,,,0,,DaviGr20
+165,Kirby Criswell,LB,Grinnell,1980,1981,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,CrisKi20
+166,Mark Arneson,LB,Iowa City,1972,1980,0,0,8,42,127,,,,0,,,,,,,0,,,,0,,ArneMa20
+167,Bill Larson,TE,Greenfield,1975,1980,0,0,0,1,43,,,,0,,,,,,,0,,10.0,108.0,1,24.0,LarsBi21
+168,Dan Peiffer,C,Sigourney,1975,1980,0,0,2,14,37,,,,0,,,,,,,0,,,,0,,PeifDa20
+169,Ed Burns,QB,Council Bluffs,1979,1980,0,0,0,0,18,,,,0,,,,,,,0,,,,0,,BurnEd20
+170,Dave Becker,DB,Atlantic,1980,1980,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,BeckDa20
+171,Wally Hilgenberg,LB,Marshalltown,1964,1979,0,0,8,75,199,,,,0,,,,,,,0,,,,0,,HilgWa20
+172,Dan Jilek,LB,Cedar Rapids,1976,1979,0,0,2,14,58,,,,0,,,,,,,0,,,,0,,JileDa20
+173,Kim Jones,RB,Waterloo,1976,1979,0,0,0,0,43,,,,0,,,,,26.0,80.0,0,10.0,4.0,33.0,0,14.0,JoneKi00
+174,Tom Randall,G,Mason City,1978,1979,0,0,0,7,24,,,,0,,,,,,,0,,,,0,,RandTo20
+175,Larry Ball,OLB,Iowa City,1972,1978,0,0,0,22,79,,,,0,,,,,,,0,,,,0,,BallLa20
+176,Merv Krakau,RLB,Jefferson,1973,1978,0,0,3,19,72,,,,0,,,,,,,0,,,,0,,KrakMe20
+177,Dave Green,P,Mason City,1973,1978,0,0,0,15,76,5.0,8.0,106.0,0,45.0,0.0,0.0,0.0,3.0,0.0,0,0.0,1.0,9.0,0,9.0,GreeDa20
+178,Mike Hennigan,RILB,Washington,1973,1978,0,0,1,14,64,,,,0,,,,,,,0,,,,0,,HennMi20
+179,Ted Burgmeier,DB,Dubuque,1978,1978,0,0,0,2,8,,,,0,,,,,,,0,,,,0,,BurgTe20
+180,Ed Podolak,RB,Atlantic,1969,1977,0,0,6,53,104,4.0,6.0,82.0,0,24.0,1.0,2.0,13.0,1157.0,4451.0,34,65.0,288.0,2456.0,6,59.0,PodoEd00
+181,Duane Benson,RLB,Belmond,1967,1976,0,0,0,25,121,,,,0,,,,,,,0,,,,0,,BensDu20
+182,Doug Winslow,WR,Des Moines,1973,1976,0,0,0,0,17,,,,0,,,,,,,0,,4.0,45.0,0,14.0,WinsDo00
+183,Larry Lawrence,QB,Mount Pleasant,1974,1976,0,0,0,1,9,9.0,31.0,79.0,0,17.0,4.0,6.0,45.0,6.0,36.0,0,19.0,,,0,,LawrLa00
+184,Tony Baker,RB,Fort Madison,1968,1975,0,1,2,23,86,,,,0,,,,,536.0,2087.0,15,54.0,82.0,685.0,2,42.0,BakeTo00
+185,Larry Ely,MLB,Iowa City,1970,1975,0,0,1,10,29,,,,0,,,,,,,0,,,,0,,ElyxLa20
+186,Wayne Clark,QB,Oskaloosa,1970,1975,0,0,0,2,40,52.0,120.0,745.0,0,62.0,14.0,12.0,106.0,16.0,86.0,1,16.0,,,0,,ClarWa00
+187,Jim Arneson,G,Iowa City,1973,1975,0,0,0,10,33,,,,0,,,,,,,0,,,,0,,ArneJi20
+188,Mike Eischeid,K,Orange City,1966,1974,0,0,0,17,112,1.0,1.0,6.0,0,6.0,0.0,0.0,0.0,4.0,38.0,0,24.0,,,0,,EiscMi20
+189,Jim Miller,G,Iowa City,1971,1974,0,0,1,7,30,,,,0,,,,,,,0,,,,0,,MillJi21
+190,Bill Demory,QB,Indianola,1973,1974,0,0,0,1,7,12.0,39.0,159.0,2,31.0,8.0,8.0,73.0,4.0,-1.0,0,0.0,,,0,,DemoBi00
+191,Dave McCurry,DB,Grinnell,1974,1974,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,McCuDa21
+192,Paul Seiler,C,Algona,1967,1973,0,0,0,12,39,,,,0,,,,,,,0,,,,0,,SeilPa20
+193,Dave Williams,WR,Cedar Rapids,1967,1973,0,0,4,30,86,,,,0,,,,,6.0,69.0,0,43.0,183.0,2768.0,25,71.0,WillDa02
+194,Jack Pardee,LB,Exira,1957,1972,1,1,15,77,196,,,,0,,,,,,,0,,,,0,,PardJa00
+195,Dave Long,DE,Jefferson,1966,1972,0,0,4,24,96,,,,0,,,,,,,0,,,,0,,LongDa21
+196,Richard Winther,C,Charles City,1971,1972,0,0,0,5,16,,,,0,,,,,,,0,,,,0,,WintRi20
+197,Bob Christiansen,DT,Marshalltown,1972,1972,0,0,0,1,4,,,,0,,,,,,,0,,,,0,,ChriBo20
+198,Karl Noonan,SE,Dubuque,1966,1971,0,1,2,19,84,,,,0,,,,,2.0,-20.0,0,0.0,136.0,1798.0,17,51.0,NoonKa00
+199,Mike Dirks,DT,Monticello,1968,1971,0,0,0,9,43,,,,0,,,,,,,0,,,,0,,DirkMi20
+200,Mike Haffner,WR,Waterloo,1968,1971,0,0,2,11,37,1.0,1.0,18.0,0,18.0,0.0,0.0,0.0,3.0,3.0,0,1.0,59.0,991.0,7,52.0,HaffMi00

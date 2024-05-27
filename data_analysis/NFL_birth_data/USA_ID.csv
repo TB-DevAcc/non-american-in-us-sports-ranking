@@ -1,0 +1,74 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Taysom Hill,QB,Pocatello,2017,2023,0,0,0,25,97,191.0,298.0,2348.0,11,70.0,8.0,29.0,181.0,398.0,2159.0,27,60.0,76.0,756.0,11,45.0,HillTa00
+2,Leighton Vander Esch,OLB,Riggins,2018,2023,0,1,5,35,71,,,,0,,,,,,,0,,,,0,,VandLe00
+3,Jonah Williams,DE,Meridian,2021,2023,0,0,0,10,41,,,,0,,,,,,,0,,,,0,,WillJo16
+4,Scott Matlock,DL,Homedale,2023,2023,0,0,0,1,12,,,,0,,,,,,,0,,,,0,,MatlSc00
+5,Bryce Callahan,CB,Moscow,2015,2022,0,0,3,24,81,,,,0,,,,,,,0,,,,0,,CallBr00
+6,Tommy Togiai,DT,Pocatello,2021,2022,0,0,0,2,18,,,,0,,,,,,,0,,,,0,,TogiTo00
+7,Matt Paradis,C,Council,2015,2021,0,0,6,34,98,,,,0,,,,,,,0,,,,0,,ParaMa00
+8,Josh Hill,TE,Blackfoot,2013,2020,0,0,4,8,117,,,,0,,,,,2.0,-16.0,0,0.0,116.0,1071.0,15,37.0,HillJo02
+9,Brock Osweiler,QB,Coeur d'Alene,2012,2018,0,0,1,14,49,697.0,1165.0,7418.0,37,75.0,31.0,79.0,559.0,92.0,266.0,4,21.0,1.0,-14.0,0,0.0,OsweBr00
+10,Paul Kruger,DE,Rexburg,2009,2016,0,0,4,29,114,,,,0,,,,,,,0,,,,0,,KrugPa99
+11,Shea McClellin,DE,Caldwell,2012,2016,0,0,3,17,66,,,,0,,,,,,,0,,,,0,,McClSh00
+12,Hugh Thornton,G,Boise,2013,2015,0,0,3,16,37,,,,0,,,,,,,0,,,,0,,ThorHu00
+13,Brandon Bair,DT,Rexburg,2014,2015,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,BairBr00
+14,Jordan Gross,T,Fruitland,2003,2013,1,3,11,69,167,,,,0,,,,,,,0,,0.0,1.0,0,1.0,GrosJo20
+15,Mark Asper,G,Rexburg,2012,2013,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,AspeMa00
+16,Jake Scott,G,Lewiston,2004,2012,0,0,9,58,131,,,,0,,,,,,,0,,,,0,,ScotJa21
+17,A.J. Feeley,QB,Caldwell,2001,2011,0,0,1,7,28,425.0,762.0,4618.0,28,89.0,31.0,44.0,276.0,37.0,49.0,1,7.0,,,0,,FeelA.00
+18,Korey Hall,LB,Mountain Home,2007,2011,0,0,2,0,61,,,,0,,,,,,,0,,21.0,137.0,1,13.0,HallKo99
+19,Jeb Putzier,TE,Eagle,2002,2008,0,0,1,12,69,,,,0,,,,,,,0,,96.0,1251.0,3,39.0,PutzJe00
+20,Rob Morris,LB,Nampa,2000,2007,0,0,4,24,99,,,,0,,,,,,,0,,,,0,,MorrRo20
+21,Jimmy Farris,WR,Lewiston,2003,2007,0,0,0,1,36,,,,0,,,,,,,0,,7.0,118.0,2,42.0,FarrJi00
+22,Jake Plummer,QB,Boise,1997,2006,0,1,10,77,143,2484.0,4350.0,29253.0,161,85.0,161.0,284.0,1735.0,428.0,1853.0,17,40.0,2.0,4.0,0,2.0,PlumJa00
+23,Spencer Toone,LB,Idaho Falls,2006,2006,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ToonSp20
+24,Chris Horn,WR,Caldwell,2004,2005,0,0,0,4,28,,,,0,,,,,1.0,12.0,0,12.0,33.0,365.0,1,50.0,HornCh00
+25,Cody Pickett,QB,Caldwell,2004,2005,0,0,0,1,6,18.0,45.0,195.0,0,28.0,4.0,5.0,30.0,14.0,47.0,0,12.0,,,0,,PickCo00
+26,Brock Forsey,RB,Meridian,2003,2004,0,0,0,2,16,,,,0,,,,,69.0,244.0,2,17.0,3.0,37.0,0,22.0,ForsBr00
+27,Jordan Kramer,LB,Parma,2003,2004,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,KramJo20
+28,Matt Hill,T,Grangeville,2002,2003,0,0,0,3,26,,,,0,,,,,,,0,,,,0,,HillMa22
+29,Mike Hollis,K,Kellogg,1995,2002,0,1,0,23,124,,,,0,,,,,,,0,,,,0,,hollimik01
+30,Teag Whiting,T,Burley,2002,2002,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WhitTe20
+31,Hans Olsen,DT,Caldwell,2001,2001,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,OlseHa20
+32,Merril Hoge,RB,Pocatello,1987,1994,0,0,6,38,114,,,,0,,,,,825.0,3139.0,21,41.0,254.0,2133.0,13,40.0,HogeMe00
+33,Steve Hoyem,T,Boise,1994,1994,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,HoyeSt20
+34,Rich Moran,G,Boise,1985,1993,0,0,5,34,108,,,,0,,,,,,,0,,,,0,,MoraRi20
+35,Rollin Putzier,DT,Coeur d'Alene,1988,1989,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,PutzRo20
+36,Bobby Watkins,DB,Cottonwood,1982,1988,0,0,3,32,83,,,,0,,,,,,,0,,,,0,,WatkBo21
+37,Brent Pease,QB,Moscow,1987,1988,0,0,0,2,20,62.0,135.0,792.0,3,51.0,9.0,7.0,54.0,23.0,31.0,2,8.0,,,0,,PeasBr00
+38,Ron Hadley,LB,Caldwell,1987,1988,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,HadlRo20
+39,Brad White,NT,Rexburg,1981,1987,0,0,1,10,73,,,,0,,,,,,,0,,,,0,,WhitBr20
+40,Rick Woods,DB,Boise,1982,1987,0,0,1,18,71,,,,0,,,,,,,0,,,,0,,WoodRi22
+41,Dave Romasko,RB,Pocatello,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,RomaDa20
+42,Ken Greene,DB,Lewiston,1978,1984,0,0,5,29,98,,,,0,,,,,,,0,,,,0,,GreeKe20
+43,Ernie Hughes,C,Boise,1978,1983,0,0,2,11,45,,,,0,,,,,,,0,,,,0,,HughEr20
+44,Gary Wimmer,LB,Pocatello,1983,1983,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WimmGa20
+45,Robin Earl,TE,Boise,1977,1982,0,0,2,7,84,,,,0,,,,,94.0,382.0,1,34.0,47.0,486.0,4,28.0,EarlRo00
+46,Duke Fergerson,WR,Boise,1977,1980,0,0,1,7,42,,,,0,,,,,,,0,,35.0,543.0,2,45.0,FergDu00
+47,John Grant,DT,Boise,1973,1979,0,0,3,30,99,,,,0,,,,,,,0,,,,0,,GranJo21
+48,Steve Preece,DB,Idaho Falls,1969,1977,0,0,5,33,119,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,3.0,7.0,1,11.0,,,0,,PreeSt20
+49,Wayne Baker,DT,Sandpoint,1975,1975,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,BakeWa20
+50,Wayne Walker,LB,Boise,1958,1972,1,3,13,93,200,,,,0,,,,,,,0,,,,0,,WalkWa01
+51,Larry Wilson,DB,Rigby,1960,1972,5,8,13,91,169,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,5.0,36.0,1,35.0,,,0,,WilsLa00
+52,Dick Arndt,DT,Bonners Ferry,1967,1970,0,0,0,9,34,,,,0,,,,,,,0,,,,0,,ArndDi20
+53,John Foruria,DB,Emmett,1967,1968,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,ForuJo20
+54,Bobby Post,DB,Twin Falls,1967,1967,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,PostBo20
+55,Lee Folkins,TE,Wallace,1961,1965,0,1,2,12,63,,,,0,,,,,1.0,9.0,0,9.0,80.0,1042.0,10,52.0,FolkLe00
+56,Jim Wagstaff,DB,American Falls,1959,1961,0,0,2,14,30,,,,0,,,,,,,0,,,,0,,WagsJi20
+57,Bob Kennedy,B,Boise,1946,1950,0,0,1,0,58,5.0,11.0,128.0,0,27.0,3.0,,,253.0,1017.0,9,,23.0,137.0,1,,KennBo20
+58,Jimmy Johnston,B,Parma,1939,1946,0,0,2,0,28,,,,0,,,,,100.0,321.0,3,65.0,40.0,461.0,4,45.0,JohnJi21
+59,Joe Davis,E,St. Anthony,1946,1946,0,0,1,0,14,,,,0,,,,,,,0,,22.0,337.0,1,,DaviJo21
+60,Dean McAdams,TB,Caldwell,1941,1943,0,0,1,0,30,84.0,191.0,932.0,4,56.0,25.0,,,188.0,375.0,0,39.0,12.0,111.0,0,47.0,McAdDe20
+61,Ed Justice,WB,Post Falls,1936,1942,0,1,2,0,63,,,,0,,,,,44.0,137.0,1,2.0,70.0,1006.0,9,41.0,JustEd20
+62,Stan Pavkov,G,Gooding,1939,1940,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,PavkSt20
+63,Jeep Brett,E,Lewiston,1936,1937,0,0,1,0,19,,,,0,,,,,,,0,,15.0,274.0,1,,BretJe20
+64,Zuck Carlson,G,Ahsahka,1929,1936,1,0,6,0,95,,,,0,,,,,,,0,,,,0,,CarlZu20
+65,Ike Peterson,B,Berill,1935,1936,0,0,0,0,22,5.0,23.0,92.0,1,,4.0,,,136.0,575.0,3,84.0,10.0,75.0,0,,PeteIk20
+66,John Norby,HB,Rupert,1934,1935,0,0,0,0,11,,,,0,,,,,2.0,5.0,0,4.0,3.0,43.0,0,34.0,NorbJo21
+67,Vic Baltzell,WB,Soda Springs,1935,1935,0,0,0,0,2,,,,0,,,,,1.0,0.0,0,0.0,,,0,,BaltVi20
+68,Ted Bucklin,FB,Idaho Falls,1927,1931,0,0,1,0,14,,,,0,,,,,0.0,0.0,1,0.0,,,0,,BuckTe21
+69,John Vesser,E,Coeur d'Alene,1927,1931,0,0,1,0,21,,,,0,,,,,,,0,,0.0,0.0,1,0.0,VessJo20
+70,Hoot Drury,E,,1930,1931,0,0,1,0,24,,,,0,,,,,,,0,,0.0,0.0,1,0.0,DrurHo20
+71,Hust Stockton,FB,Parma,1925,1929,0,0,3,0,53,,,,15,,,,,0.0,0.0,6,0.0,,,0,,StocHu20
+72,Ray Stephens,C,Blackfoot,1927,1927,0,0,1,0,10,,,,0,,,,,,,0,,,,0,,StepRa20
+73,Ben Bangs,WB,Moscow,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BangBe20

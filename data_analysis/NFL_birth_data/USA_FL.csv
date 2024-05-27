@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Matthew Stafford,QB,Tampa,2009,2023,0,2,13,121,206,4834.0,7649.0,56047.0,357,87.0,180.0,474.0,3152.0,411.0,1315.0,15,24.0,2.0,-3.0,0,3.0,StafMa00
+2,Jason Pierre-Paul,DE,Deerfield Beach,2010,2023,1,3,11,74,182,,,,0,,,,,,,0,,,,0,,PierJa99
+3,Patrick Peterson,CB,Fort Lauderdale,2011,2023,3,8,12,103,201,1.0,1.0,17.0,0,17.0,0.0,0.0,0.0,7.0,34.0,0,17.0,10.0,64.0,0,19.0,PetePa00
+4,Lavonte David,OLB,Miami,2012,2023,1,1,11,86,181,,,,0,,,,,,,0,,,,0,,DaviLa00
+5,Geno Smith,QB,Miramar,2013,2023,0,2,3,42,77,1314.0,2077.0,14823.0,84,84.0,57.0,172.0,1255.0,263.0,1222.0,10,32.0,2.0,11.0,0,13.0,SmitGe00
+6,Teddy Bridgewater,QB,Miami,2014,2023,0,1,4,49,79,1372.0,2067.0,15120.0,75,87.0,47.0,166.0,1114.0,221.0,844.0,11,19.0,,,0,,BridTe00
+7,Khalil Mack,OLB,Fort Pierce,2014,2023,3,8,8,95,151,,,,0,,,,,,,0,,,,0,,MackKh00
+8,Jonotthan Harrison,C,Groveland,2014,2023,0,0,3,19,86,,,,0,,,,,,,0,,,,0,,HarrJo03
+9,Latavius Murray,RB,Titusville,2014,2023,0,1,3,44,151,,,,0,,,,,1560.0,6552.0,59,90.0,239.0,1620.0,2,46.0,MurrLa00
+10,Willie Snead,WR,Winter Park,2015,2023,0,0,4,29,103,1.0,1.0,50.0,1,50.0,0.0,0.0,0.0,3.0,15.0,0,13.0,281.0,3445.0,16,63.0,SneaWi00
+11,Trevor Siemian,QB,Windermere,2015,2023,0,0,2,16,40,707.0,1208.0,7751.0,44,76.0,32.0,85.0,542.0,84.0,251.0,2,17.0,,,0,,SiemTr00
+12,Charley Hughlett,LS,Tampa,2015,2023,0,0,0,7,147,,,,0,,,,,,,0,,,,0,,HughCh01
+13,Raheem Mostert,RB,New Smyrna Beach,2015,2023,0,1,2,28,90,,,,0,,,,,674.0,3513.0,32,80.0,92.0,738.0,8,76.0,MostRa00
+14,Amari Cooper,WR,Miami,2015,2023,0,5,8,64,140,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,14.0,41.0,0,11.0,667.0,9486.0,60,90.0,CoopAm00
+15,Phillip Dorsett,WR,Fort Lauderdale,2015,2023,0,0,0,16,94,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,14.0,84.0,0,17.0,151.0,2001.0,12,64.0,DorsPh00
+16,Randy Gregory,DE,Jacksonville,2015,2023,0,0,1,15,72,,,,0,,,,,,,0,,,,0,,GregRa00
+17,Jon Feliciano,G,Davie,2015,2023,0,0,2,26,113,,,,0,,,,,,,0,,,,0,,FeliJo00
+18,Denzel Perryman,ILB,Coral Gables,2015,2023,0,1,6,39,108,,,,0,,,,,,,0,,,,0,,PerrDe00
+19,De'Vondre Campbell,OLB,Fort Myers,2016,2023,1,0,7,49,115,,,,0,,,,,,,0,,,,0,,CampDe00
+20,Jayron Kearse,SS,Fort Myers,2016,2023,0,0,3,18,119,,,,0,,,,,,,0,,,,0,,KearJa00
+21,Anthony Brown,CB,Tampa,2016,2023,0,0,4,23,96,,,,0,,,,,,,0,,,,0,,BrowAn02
+22,Chris Moore,WR,Orlando,2016,2023,0,0,0,13,106,,,,0,,,,,16.0,69.0,0,38.0,138.0,1710.0,8,67.0,MoorCh00
+23,Derrick Henry,RB,Yulee,2016,2023,1,4,4,64,119,7.0,9.0,37.0,4,12.0,0.0,0.0,0.0,2030.0,9502.0,90,99.0,155.0,1458.0,3,75.0,HenrDe00
+24,Keanu Neal,FS,Webster,2016,2023,0,1,3,25,89,,,,0,,,,,,,0,,,,0,,NealKe01
+25,Jacoby Brissett,QB,West Palm Beach,2016,2023,0,0,3,34,79,981.0,1600.0,10574.0,51,80.0,23.0,130.0,817.0,230.0,915.0,15,27.0,1.0,2.0,0,2.0,BrisJa00
+26,Dante Fowler,OLB,St. Petersburg,2016,2023,0,0,2,25,125,,,,0,,,,,,,0,,,,0,,FowlDa00
+27,Laremy Tunsil,T,Lake City,2016,2023,0,4,6,49,108,,,,0,,,,,,,0,,,,0,,TunsLa00
+28,Deon Bush,FS,Miami,2016,2023,0,0,0,8,101,,,,0,,,,,,,0,,,,0,,BushDe00
+29,Artie Burns,CB,Miami,2016,2023,0,0,1,17,86,,,,0,,,,,,,0,,,,0,,BurnAr00
+30,Joey Bosa,DE,Miami,2016,2023,0,4,6,51,93,,,,0,,,,,,,0,,,,0,,BosaJo00
+31,Nathan Peterman,QB,Jacksonville,2017,2023,0,0,0,3,15,85.0,160.0,712.0,4,28.0,13.0,12.0,66.0,24.0,87.0,1,24.0,,,0,,PeteNa00
+32,David Sharpe,T,Jacksonville,2017,2023,0,0,0,4,45,,,,0,,,,,,,0,,,,0,,SharDa02
+33,DeMarcus Walker,DE,Jacksonville,2017,2023,0,0,0,17,83,,,,0,,,,,,,0,,,,0,,WalkDe03
+34,Justin McCray,G,Miami,2017,2023,0,0,1,15,80,,,,0,,,,,,,0,,,,0,,McCrJu00
+35,Isaiah McKenzie,WR,Miami,2017,2023,0,0,2,15,93,1.0,1.0,12.0,1,12.0,0.0,0.0,0.0,50.0,244.0,4,18.0,152.0,1427.0,11,46.0,McKeIs00
+36,Dalvin Cook,RB,Miami,2017,2023,0,4,5,52,88,0.0,0.0,0.0,0,0.0,0.0,1.0,5.0,1349.0,6207.0,47,81.0,236.0,1872.0,5,64.0,CookDa01
+37,Eddie Jackson,SS,Lauderdale Lakes,2017,2023,1,2,6,45,100,,,,0,,,,,,,0,,,,0,,JackEd01
+38,Anthony Walker,MLB,Miami,2017,2023,0,0,4,32,85,,,,0,,,,,,,0,,,,0,,WalkAn01
+39,Marcus Maye,FS,Melbourne,2017,2023,0,0,5,27,77,,,,0,,,,,,,0,,,,0,,MayeMa00
+40,Fabian Moreau,CB,Fort Lauderdale,2017,2023,0,0,3,20,106,,,,0,,,,,,,0,,,,0,,MoreFa00
+41,Matt Breida,RB,Brandon,2017,2023,0,0,1,23,98,,,,0,,,,,575.0,2652.0,9,83.0,120.0,935.0,6,32.0,BreiMa00
+42,Trey Hendrickson,DE,Orlando,2017,2023,0,3,3,43,93,,,,0,,,,,,,0,,,,0,,HendTr00
+43,Jeremiah Ledbetter,DT,Orlando,2017,2023,0,0,0,3,38,,,,0,,,,,,,0,,,,0,,LedbJe00
+44,Matt Milano,OLB,Orlando,2017,2023,1,1,4,52,90,,,,0,,,,,,,0,,,,0,,MilaMa00
+45,Rayshawn Jenkins,FS,St. Petersburg,2017,2023,0,0,4,28,109,,,,0,,,,,,,0,,,,0,,JenkRa00
+46,Shaquill Griffin,DB,St. Petersburg,2017,2023,0,1,5,28,89,,,,0,,,,,,,0,,,,0,,GrifSh00
+47,Ronnie Harrison,SS,Tallahassee,2018,2023,0,0,3,19,74,,,,0,,,,,,,0,,,,0,,HarrRo02
+48,Jeff Driskel,QB,Oviedo,2018,2023,0,0,0,7,24,229.0,391.0,2394.0,16,47.0,10.0,43.0,305.0,80.0,417.0,3,27.0,2.0,10.0,0,6.0,DrisJe00
+49,Marquez Valdes-Scantling,WR,St. Petersburg,2018,2023,0,0,4,26,92,,,,0,,,,,9.0,48.0,0,21.0,186.0,3155.0,16,78.0,ValdMa00
+50,Jeremy Reaves,FS,Pensacola,2018,2023,1,1,0,11,47,,,,0,,,,,,,0,,,,0,,ReavJe00
+51,Richie James,WR,Sarasota,2018,2023,0,0,1,13,66,,,,0,,,,,4.0,5.0,0,4.0,105.0,1372.0,7,57.0,JameRi00
+52,Ray-Ray McCloud,WR,Tampa,2018,2023,0,0,0,8,77,,,,0,,,,,15.0,192.0,1,71.0,90.0,768.0,1,42.0,McClRa00
+53,Bruce Hector,DT,Tampa,2018,2023,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,HectBr00
+54,Lamar Jackson,QB,Pompano Beach,2018,2023,2,3,4,84,86,1362.0,2112.0,15887.0,125,83.0,45.0,169.0,859.0,875.0,5258.0,29,79.0,0.0,0.0,0,0.0,JackLa00
+55,Chris Board,OLB,Orlando,2018,2023,0,0,0,7,97,,,,0,,,,,,,0,,,,0,,BoarCh00
+56,Andre Smith,ILB,Jacksonville,2018,2023,0,0,0,6,62,,,,0,,,,,,,0,,,,0,,SmitAn04
+57,Darious Williams,CB,Jacksonville,2018,2023,0,0,1,21,80,,,,0,,,,,,,0,,,,0,,WillDa09
+58,Geron Christian,T,Ocala,2018,2023,0,0,0,12,58,,,,0,,,,,,,0,,,,0,,ChriGe01
+59,Deadrin Senat,DT,Naples,2018,2023,0,0,0,4,37,,,,0,,,,,,,0,,,,0,,SenaDe00
+60,Carlton Davis,CB,Miami,2018,2023,0,0,4,26,76,,,,0,,,,,,,0,,,,0,,DaviCa02
+61,Mike Boone,RB,Macclenny,2018,2023,0,0,0,3,66,,,,0,,,,,104.0,539.0,4,59.0,25.0,186.0,0,34.0,BoonMi00
+62,Calvin Ridley,WR,Fort Lauderdale,2018,2023,0,0,2,33,66,,,,0,,,,,22.0,85.0,0,19.0,324.0,4358.0,36,75.0,RidlCa00
+63,Hayden Hurst,TE,Jacksonville,2018,2023,0,0,1,17,79,,,,0,,,,,1.0,0.0,0,0.0,195.0,1902.0,15,61.0,HursHa00
+64,Brandon Powell,WR,Deerfield Beach,2018,2023,0,0,0,7,61,,,,0,,,,,25.0,108.0,0,20.0,76.0,678.0,3,41.0,PoweBr00
+65,Marquis Haynes,OLB,Jacksonville,2018,2023,0,0,0,7,71,,,,0,,,,,,,0,,,,0,,HaynMa01
+66,Brandon Facyson,CB,Jacksonville,2018,2023,0,0,0,8,75,,,,0,,,,,,,0,,,,0,,FacyBr00
+67,Derwin James,SS,Haines City,2018,2023,1,3,3,29,66,,,,0,,,,,,,0,,,,0,,JameDe00
+68,Tre'Quan Smith,WR,Boynton Beach,2018,2023,0,0,3,15,67,,,,0,,,,,1.0,3.0,0,3.0,131.0,1764.0,18,62.0,SmitTr03
+69,J.C. Jackson,DB,Immokalee,2018,2023,0,1,1,28,77,,,,0,,,,,,,0,,,,0,,JackJ.00
+70,Brian Burns,EDGE,Fort Lauderdale,2019,2023,0,2,3,36,80,,,,0,,,,,,,0,,,,0,,BurnBr00
+71,Dennis Daley,OL,Fort Lauderdale,2019,2023,0,0,2,14,54,,,,0,,,,,,,0,,,,0,,DaleDe00
+72,Nick Bosa,EDGE,Fort Lauderdale,2019,2023,1,4,3,50,68,,,,0,,,,,,,0,,,,0,,BosaNi00
+73,Devin Singletary,RB,Fort Lauderdale,2019,2023,0,0,4,34,78,1.0,1.0,6.0,1,6.0,0.0,0.0,0.0,888.0,4049.0,20,51.0,175.0,1164.0,4,49.0,SingDe00
+74,Jawaan Taylor,OL,Cocoa,2019,2023,0,0,4,33,83,,,,0,,,,,,,0,,,,0,,TaylJa02
+75,C.J. Gardner-Johnson,S,Cocoa,2019,2023,0,0,3,17,58,,,,0,,,,,,,0,,,,0,,GardCh00
+76,Jamel Dean,CB,Cocoa,2019,2023,0,0,2,19,70,,,,0,,,,,,,0,,,,0,,DeanJa00
+77,Ogbonnia Okoronkwo,DE,Gainesville,2019,2023,0,0,0,9,64,,,,0,,,,,,,0,,,,0,,OkorOg00
+78,Marquise Brown,WR,Hollywood,2019,2023,0,0,3,34,72,,,,0,,,,,5.0,30.0,0,29.0,313.0,3644.0,28,83.0,BrowMa04
+79,D'Ernest Johnson,RB,Immokalee,2019,2023,0,0,0,8,81,,,,0,,,,,182.0,846.0,3,30.0,41.0,369.0,0,42.0,JohnDE04
+80,Azeez Al-Shaair,OLB,Tampa,2019,2023,0,0,3,25,73,,,,0,,,,,,,0,,,,0,,AlShAz00
+81,Andrew Beck,TE,Tampa,2019,2023,0,0,0,2,66,1.0,1.0,6.0,0,6.0,0.0,0.0,0.0,8.0,6.0,1,3.0,25.0,214.0,3,29.0,BeckAn01
+82,Isaiah Wynn,T,St. Petersburg,2019,2023,0,0,3,22,50,,,,0,,,,,,,0,,,,0,,WynnIs00
+83,Amani Oruwariye,CB,St. Petersburg,2019,2023,0,0,2,11,54,,,,0,,,,,,,0,,,,0,,OruwAm00
+84,Byron Pringle,WR,Tampa,2019,2023,0,0,0,11,74,,,,0,,,,,,,0,,91.0,1194.0,9,40.0,PrinBy00
+85,Devin Bush Jr.,OLB,Pembroke Pines,2019,2023,0,0,2,24,65,,,,0,,,,,,,0,,,,0,,BushDe01
+86,Travis Homer,RB,West Palm Beach,2019,2023,0,0,0,8,65,,,,0,,,,,83.0,453.0,1,73.0,52.0,464.0,2,50.0,HomeTr00
+87,Fred Johnson,G,West Palm Beach,2019,2023,0,0,0,6,45,,,,0,,,,,,,0,,,,0,,JohnFr01
+88,Diontae Johnson,WR,Ruskin,2019,2023,0,1,4,33,77,,,,0,,,,,19.0,134.0,0,25.0,391.0,4363.0,25,71.0,JohnDi01
+89,Cole Holcomb,OLB,New Smyrna Beach,2019,2023,0,0,3,25,58,,,,0,,,,,,,0,,,,0,,HolcCo00
+90,Eddy Pineiro,K,Miami,2019,2023,0,0,1,11,53,,,,0,,,,,,,0,,,,0,,PineEd00
+91,Sheldrick Redwine,S,Miami,2019,2023,0,0,0,4,34,,,,0,,,,,,,0,,,,0,,RedwSh00
+92,Chris Lammons,DB,Lauderhill,2019,2023,0,0,0,3,46,,,,0,,,,,,,0,,,,0,,LammCh00
+93,Trysten Hill,DL,Lee,2019,2023,0,0,0,5,32,,,,0,,,,,,,0,,,,0,,HillTr00
+94,Shaquille Quarterman,OLB,Orange Park,2020,2023,0,0,0,4,63,,,,0,,,,,,,0,,,,0,,QuarSh00
+95,C.J. Henderson,CB,Miami,2020,2023,0,0,2,12,49,,,,0,,,,,,,0,,,,0,,HendCJ00
+96,Darrynton Evans,RB,Oak Hill,2020,2023,0,0,0,3,19,,,,0,,,,,62.0,246.0,1,21.0,12.0,120.0,1,33.0,EvanDa02
+97,Nick Westbrook-Ikhine,WR,Lake Mary,2020,2023,0,0,1,11,61,,,,0,,,,,,,0,,94.0,1276.0,10,63.0,WestNi00
+98,Donald Parham,TE,Lakeland,2020,2023,0,0,0,6,47,,,,0,,,,,,,0,,67.0,764.0,11,26.0,ParhDo00
+99,Josh Uche,OLB,Miami,2020,2023,0,0,0,8,51,,,,0,,,,,,,0,,,,0,,UcheJo00
+100,James Pierre,DB,Deerfield Beach,2020,2023,0,0,0,6,66,,,,0,,,,,,,0,,,,0,,PierJa01
+101,Jerry Jeudy,WR,Deerfield Beach,2020,2023,0,0,2,22,57,,,,0,,,,,6.0,43.0,0,14.0,211.0,3053.0,11,92.0,JeudJe00
+102,Tyler Huntley,QB,Dania,2020,2023,0,1,0,6,20,221.0,342.0,1957.0,8,43.0,7.0,29.0,169.0,115.0,509.0,3,21.0,,,0,,HuntTy01
+103,Sam Franklin,OLB,Crystal River,2020,2023,0,0,0,8,64,,,,0,,,,,,,0,,,,0,,FranSa00
+104,Zack Moss,RB,Hialeah Gardens,2020,2023,0,0,0,16,53,,,,0,,,,,484.0,2076.0,14,56.0,75.0,523.0,4,26.0,MossZa00
+105,Tommy Townsend,P,Orlando,2020,2023,1,1,1,8,66,3.0,4.0,40.0,0,16.0,0.0,0.0,0.0,,,0,,,,0,,TownTo01
+106,Tony Jones,RB,St. Petersburg,2020,2023,0,0,0,2,25,,,,0,,,,,93.0,274.0,2,19.0,17.0,96.0,0,19.0,JoneTo04
+107,Josh Metellus,S,Pembroke Pines,2020,2023,0,0,0,10,65,,,,0,,,,,,,0,,,,0,,MeteJo00
+108,Gabriel Davis,WR,Sanford,2020,2023,0,0,2,25,64,,,,0,,,,,2.0,-2.0,0,0.0,163.0,2730.0,27,98.0,DaviGa01
+109,Tre' McKitty,TE,Wesley Chapel,2021,2023,0,0,0,1,34,,,,0,,,,,,,0,,16.0,117.0,0,12.0,McKiTr00
+110,Jacob Harris,TE,Palm Harbor,2021,2023,0,0,0,0,18,,,,0,,,,,,,0,,1.0,6.0,0,6.0,HarrJa03
+111,Stone Forsythe,T,Winter Garden,2021,2023,0,0,0,8,44,,,,0,,,,,,,0,,,,0,,ForsSt00
+112,Mike White,QB,Pembroke Pines,2021,2023,0,0,0,5,14,196.0,313.0,2219.0,9,68.0,13.0,13.0,94.0,19.0,-1.0,1,4.0,,,0,,WhitMi01
+113,Mitchell Wilcox,TE,Tarpon Springs,2021,2023,0,0,0,2,48,,,,0,,,,,,,0,,29.0,211.0,1,19.0,WilcMi01
+114,Tyson Campbell,CB,Plantation,2021,2023,0,0,2,15,43,,,,0,,,,,,,0,,,,0,,CampTy01
+115,Patrick Surtain II,CB,Plantation,2021,2023,1,2,2,28,50,,,,0,,,,,,,0,,,,0,,SurtPa01
+116,Shaun Wade,DB,Jacksonville,2021,2023,0,0,0,3,20,,,,0,,,,,,,0,,,,0,,WadeSh00
+117,Jamien Sherwood,LB,Jensen Beach,2021,2023,0,0,0,4,39,,,,0,,,,,,,0,,,,0,,SherJa00
+118,Michael Carter,RB,Navarre,2021,2023,0,0,2,12,45,,,,0,,,,,291.0,1228.0,7,55.0,101.0,714.0,1,37.0,CartMi03
+119,Shemar Jean-Charles,CB,Mirarmar,2021,2023,0,0,0,1,28,,,,0,,,,,,,0,,,,0,,JeanSh00
+120,Dicaprio Bootle,DB,Miami,2021,2023,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,BootDi00
+121,Tutu Atwell,WR,Miami,2021,2023,0,0,0,8,37,,,,0,,,,,14.0,65.0,1,22.0,57.0,781.0,4,62.0,AtweTu00
+122,Khalil Herbert,RB,Fort Lauderdale,2021,2023,0,0,0,12,42,,,,0,,,,,364.0,1775.0,8,63.0,43.0,287.0,2,25.0,HerbKh00
+123,Mac Jones,QB,Jacksonville,2021,2023,0,1,2,24,42,864.0,1308.0,8918.0,46,75.0,36.0,84.0,599.0,117.0,327.0,1,18.0,,,0,,JoneMa05
+124,Elijah Moore,WR,Fort Lauderdale,2021,2023,0,0,1,12,44,,,,0,,,,,19.0,70.0,1,19.0,139.0,1624.0,8,62.0,MoorEl00
+125,Asante Samuel Jr.,CB,Fort Lauderdale,2021,2023,0,0,2,13,46,,,,0,,,,,,,0,,,,0,,SamuAs00
+126,Tedarrell Slaton,DT,Fort Lauderdale,2021,2023,0,0,0,10,51,,,,0,,,,,,,0,,,,0,,SlatTe00
+127,Rashad Weaver,OLB,Fort Lauderdale,2021,2023,0,0,0,5,33,,,,0,,,,,,,0,,,,0,,WeavRa00
+128,Marco Wilson,CB,Fort Lauderdale,2021,2023,0,0,2,12,44,,,,0,,,,,,,0,,,,0,,WilsMa04
+129,Richie Grant,S,Fort Walton Beach,2021,2023,0,0,1,13,50,,,,0,,,,,,,0,,,,0,,GranRi00
+130,Gregory Rousseau,DE,Coconut Creek,2021,2023,0,0,2,25,46,,,,0,,,,,,,0,,,,0,,RousGr00
+131,Chris Rumph,OLB,Gainesville,2021,2023,0,0,0,3,37,,,,0,,,,,,,0,,,,0,,RumpCh00
+132,Nicholas Petit-Frere,T,,2022,2023,0,0,1,7,19,,,,0,,,,,,,0,,,,0,,PetiNi00
+133,James Houston,LB,Fort Lauderdale,2022,2023,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,HousJa01
+134,Raheem Layne,S,Deland,2022,2023,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,LaynRa00
+135,Ryan Neuzil,OL,Bradenton,2022,2023,0,0,0,3,26,,,,0,,,,,,,0,,,,0,,NeuzRy00
+136,Kerby Joseph,DB,Orlando,2022,2023,0,0,1,10,32,,,,0,,,,,,,0,,,,0,,JoseKe03
+137,Zachary Carter,DE,Tampa,2022,2023,0,0,1,8,33,,,,0,,,,,,,0,,,,0,,CartZa00
+138,Malik Davis,RB,Tampa,2022,2023,0,0,0,2,15,,,,0,,,,,38.0,161.0,1,23.0,6.0,63.0,0,18.0,DaviMa02
+139,Jake Hansen,LB,Tarpon Springs,2022,2023,0,0,0,3,25,,,,0,,,,,,,0,,,,0,,HansJa01
+140,Josh Jobe,DB,Miami,2022,2023,0,0,0,2,28,,,,0,,,,,,,0,,,,0,,JobeJo00
+141,Evan Neal,OL,Okeechobee,2022,2023,0,0,1,8,20,,,,0,,,,,,,0,,,,0,,NealEv00
+142,Luke Masterson,LB,Naples,2022,2023,0,0,0,5,33,,,,0,,,,,,,0,,,,0,,MastLu00
+143,Damarri Mathis,DB,Lakeland,2022,2023,0,0,1,6,33,,,,0,,,,,,,0,,,,0,,MathDa00
+144,Brandon Walton,T,Largo,2022,2023,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,WaltBr01
+145,Keir Thomas,OLB,Miami,2022,2023,0,0,0,2,16,,,,0,,,,,,,0,,,,0,,ThomKe04
+146,Ameer Speed,CB,Jacksonville,2023,2023,0,0,0,0,13,,,,0,,,,,,,0,,,,0,,SpeeAm00
+147,Josh Hayes,DB,Lakeland,2023,2023,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,HayeJo01
+148,Anthony Richardson,QB,Miami,2023,2023,0,0,0,3,4,50.0,84.0,577.0,3,39.0,1.0,7.0,29.0,25.0,136.0,4,23.0,,,0,,RichAn03
+149,Tyler Steen,T,Miami,2023,2023,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,SteeTy00
+150,Elijah Higgins,TE,,2023,2023,0,0,0,2,11,,,,0,,,,,,,0,,14.0,163.0,1,26.0,HiggEl00
+151,DJ Ivey,CB,Florida City,2023,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,IveyDJ00
+152,Jordan Battle,S,,2023,2023,0,0,0,3,17,,,,0,,,,,,,0,,,,0,,BattJo00
+153,Benny Sapp III,S,Fort Lauderdale,2023,2023,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,SappBe00
+154,Tank Dell,WR,Daytona Beach,2023,2023,0,0,0,6,11,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0,11.0,51.0,0,13.0,47.0,709.0,7,68.0,DellNa00
+155,Anthony Johnson,S,Coconut Creek,2023,2023,0,0,0,2,12,,,,0,,,,,,,0,,,,0,,JohnAn08
+156,Claudin Cherelus,LB,Golden Gate,2023,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,CherCl00
+157,Qwuantrezz Knight,CB,Gretna,2023,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,KnigQw00
+158,A.T. Perry,WR,,2023,2023,0,0,0,2,10,,,,0,,,,,,,0,,12.0,246.0,4,44.0,PerrAT00
+159,Ricky Lee,T,Jacksonville,2023,2023,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,LeexRi00
+160,Jaylon Jones,CB,Jacksonville,2023,2023,0,0,0,4,17,,,,0,,,,,,,0,,,,0,,JoneJa13
+161,Andrew Farmer,OLB,Jacksonville,2023,2023,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,FarmAn00
+162,Chamarri Conner,DB,Jacksonville,2023,2023,0,0,0,3,17,,,,0,,,,,,,0,,,,0,,ConnCh01
+163,Janarius Robinson,DE,Panama City,2023,2023,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,RobiJa04
+164,Xavier Hutchinson,WR,St. Augustine,2023,2023,0,0,0,1,16,,,,0,,,,,5.0,49.0,0,17.0,8.0,90.0,0,34.0,HutcXa00
+165,Josh Bynes,MLB,Lauderdale Lakes,2011,2022,0,0,6,37,138,,,,0,,,,,,,0,,,,0,,ByneJo00
+166,T.Y. Hilton,WR,Miami Springs,2012,2022,0,4,8,72,146,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,9.0,55.0,0,19.0,638.0,9812.0,53,87.0,HiltT.00
+167,Jackrabbit Jenkins,CB,Pahokee,2012,2022,0,1,10,51,144,,,,0,,,,,,,0,,,,0,,JenkJa03
+168,Jonathan Bostic,LILB,Wellington,2013,2022,0,0,5,36,121,,,,0,,,,,,,0,,,,0,,BostJo00
+169,Xavier Rhodes,CB,Miami,2013,2022,1,3,8,49,135,,,,0,,,,,,,0,,,,0,,RhodXa00
+170,Giovani Bernard,RB,Davie,2013,2022,0,0,2,42,135,,,,0,,,,,937.0,3783.0,22,89.0,367.0,2989.0,14,61.0,BernGi00
+171,Akeem Spence,DT,Fort Walton Beach,2013,2022,0,0,4,27,117,,,,0,,,,,,,0,,,,0,,SpenAk00
+172,Nickell Robey-Coleman,CB,Frostproof,2013,2022,0,0,0,15,129,,,,0,,,,,,,0,,,,0,,RobeNi00
+173,John Brown,WR,Homestead,2014,2022,0,0,5,36,103,1.0,1.0,28.0,1,28.0,0.0,0.0,0.0,13.0,47.0,0,13.0,321.0,4790.0,32,75.0,BrowJo02
+174,Sammy Watkins,WR,Fort Myers,2014,2022,0,0,6,43,111,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,11.0,76.0,0,31.0,364.0,5384.0,34,84.0,WatkSa00
+175,Christian Jones,ILB,Winter Park,2014,2022,0,0,5,32,128,,,,0,,,,,,,0,,,,0,,JoneCh05
+176,Lamarcus Joyner,CB,Miami,2014,2022,0,0,4,26,110,,,,0,,,,,,,0,,,,0,,JoynLa00
+177,Pat O'Donnell,P,Lake Worth,2014,2022,0,0,1,17,145,1.0,1.0,38.0,1,38.0,0.0,0.0,0.0,1.0,-12.0,0,0.0,,,0,,ODonPa00
+178,Duke Johnson,RB,Miami,2015,2022,0,0,0,28,97,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,532.0,2265.0,11,40.0,311.0,2870.0,12,52.0,JohnDu00
+179,John Miller,G,Miami,2015,2022,0,0,5,31,87,,,,0,,,,,,,0,,,,0,,MillJo04
+180,Bobby Hart,G,Lauderhill,2015,2022,0,0,4,27,98,,,,0,,,,,,,0,,,,0,,HartBo00
+181,P.J. Williams,CB,Ocala,2016,2022,0,0,2,19,89,,,,0,,,,,,,0,,,,0,,WillP.00
+182,Michael Palardy,P,Margate,2016,2022,0,0,0,9,80,1.0,2.0,12.0,0,12.0,0.0,0.0,0.0,1.0,1.0,0,1.0,,,0,,PalaMi00
+183,Mackensie Alexander,CB,Immokalee,2016,2022,0,0,1,12,85,,,,0,,,,,,,0,,,,0,,AlexMa01
+184,Greg Mabin,CB,Fort Lauderdale,2017,2022,0,0,0,3,45,,,,0,,,,,,,0,,,,0,,MabiGr00
+185,Quincy Wilson,CB,Fort Lauderdale,2017,2022,0,0,0,4,33,,,,0,,,,,,,0,,,,0,,WilsQu01
+186,Marlon Mack,RB,Sarasota,2017,2022,0,0,2,20,55,,,,0,,,,,583.0,2568.0,21,63.0,65.0,547.0,3,66.0,MackMa00
+187,Marcell Harris,S,Orlando,2018,2022,0,0,0,14,63,,,,0,,,,,,,0,,,,0,,HarrMa03
+188,Sony Michel,RB,Orlando,2018,2022,0,0,2,21,65,,,,0,,,,,779.0,3243.0,18,48.0,56.0,439.0,2,31.0,MichSo00
+189,Austin Calitro,RILB,Orlando,2018,2022,0,0,0,8,53,,,,0,,,,,,,0,,,,0,,CaliAu00
+190,Javon Wims,WR,Carol City,2018,2022,0,0,0,1,34,,,,0,,,,,1.0,2.0,0,2.0,28.0,266.0,2,37.0,WimsJa00
+191,Mike Love,DE,Clearwater,2018,2022,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,LoveMi00
+192,Trayvon Mullen,CB,Fort Lauderdale,2019,2022,0,0,2,10,46,,,,0,,,,,,,0,,,,0,,MullTr00
+193,Jeff Smith,WR,St. Petersburg,2019,2022,0,0,0,3,36,0.0,0.0,0.0,0,0.0,0.0,1.0,16.0,1.0,-1.0,0,0.0,34.0,426.0,0,50.0,SmitJe03
+194,Byron Cowart,DL,Seffner,2019,2022,0,0,1,10,36,,,,0,,,,,,,0,,,,0,,CowaBy00
+195,Jaquan Johnson,CB,Miami,2019,2022,0,0,0,5,60,1.0,1.0,13.0,0,13.0,0.0,0.0,0.0,,,0,,,,0,,JohnJa11
+196,Rashad Fenton,CB,Miami,2019,2022,0,0,0,7,49,,,,0,,,,,,,0,,,,0,,FentRa00
+197,Ulysees Gilbert,LB,Ocala,2019,2022,0,0,0,2,31,,,,0,,,,,,,0,,,,0,,GilbUl00
+198,Freddie Swain,WR,Ocala,2020,2022,0,0,0,5,37,,,,0,,,,,5.0,32.0,0,11.0,42.0,576.0,6,68.0,SwaiFr00
+199,Jonathan Garvin,DL,Lake Worth,2020,2022,0,0,0,3,38,,,,0,,,,,,,0,,,,0,,GarvJo00
+200,Herb Miller,DB,Miramar,2020,2022,0,0,0,0,17,,,,0,,,,,,,0,,,,0,,MillHe01

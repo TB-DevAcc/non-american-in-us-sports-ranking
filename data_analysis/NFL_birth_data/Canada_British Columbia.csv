@@ -1,0 +1,20 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Chase Claypool,WR,Abbotsford,2020,2023,0,0,1,19,58,1.0,1.0,1.0,1,1.0,0.0,0.0,0.0,33.0,171.0,2,25.0,175.0,2261.0,13,84.0,ClayCh01
+2,Jevon Holland,S,Coquitlam,2021,2023,0,0,2,16,45,,,,0,,,,,,,0,,,,0,,HollJe02
+3,Christian Covington,DT,Vancouver,2015,2022,0,0,1,20,102,,,,0,,,,,,,0,,,,0,,CoviCh00
+4,Danny Watkins,OL,Kelowna,2011,2013,0,0,1,9,24,,,,0,,,,,,,0,,,,0,,WatkDa00
+5,Mitch Berger,P,Kamloops,1994,2009,0,2,0,21,187,0.0,3.0,0.0,0,0.0,1.0,0.0,0.0,3.0,0.0,0,0.0,,,0,,BergMi20
+6,Corey Mace,DT,Port Moody,2008,2009,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,MaceCo00
+7,Rob Meier,DE,Vancouver,2000,2008,0,0,3,30,138,,,,0,,,,,,,0,,,,0,,MeieRo20
+8,Teyo Johnson,TE,White Rock,2003,2005,0,0,0,2,30,,,,0,,,,,,,0,,26.0,288.0,3,25.0,JohnTe00
+9,Davis Sanchez,DB,Vancouver,2001,2002,0,0,0,2,22,,,,0,,,,,,,0,,,,0,,SancDa20
+10,Doug Brown,DT,Coquitlam,1998,1999,0,0,1,4,20,,,,0,,,,,,,0,,,,0,,BrowDo23
+11,Rick Goltz,DE,Vancouver,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GoltRi20
+12,Allan Kennedy,T,Vancouver,1981,1984,0,0,0,4,34,,,,0,,,,,,,0,,,,0,,KennAl20
+13,Jim Mills,T,Vancouver,1983,1984,0,0,1,7,21,,,,0,,,,,,,0,,,,0,,MillJi23
+14,Art Kuehn,C,Victoria,1976,1983,0,0,1,21,100,,,,0,,,,,,,0,,,,0,,KuehAr20
+15,Gary Pettigrew,DT,Vancouver,1966,1974,0,0,6,28,111,,,,0,,,,,,,0,,,,0,,PettGa20
+16,Bill Crawford,G,New Westminster,1960,1960,0,0,0,2,4,,,,0,,,,,,,0,,,,0,,CrawBi20
+17,Earl Nolan,T,Vancouver,1937,1938,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,NolaEa20
+18,Frank Stojack,G,Wycliffe,1935,1936,0,0,0,0,23,,,,0,,,,,,,0,,,,0,,StojFr20
+19,Tommy Hughitt,B,Genoa,1920,1924,0,0,5,0,56,,,,5,,,,,0.0,0.0,3,0.0,0.0,0.0,3,0.0,HughTo20

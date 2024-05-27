@@ -1,0 +1,26 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Hunter Long,TE,Exeter,2021,2023,0,0,0,0,20,,,,0,,,,,,,0,,1.0,8.0,0,8.0,LongHu00
+2,Ryan Griffin,TE,Londonderry,2013,2022,0,0,5,14,134,,,,0,,,,,,,0,,210.0,2184.0,14,47.0,GrifRy00
+3,Kendall Reyes,DT,Nashua,2012,2016,0,0,3,22,76,,,,0,,,,,,,0,,,,0,,ReyeKe00
+4,Ryan Durand,G,Worcester,2010,2010,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DuraRy20
+5,Andre Ramsey,T,Portsmouth,2009,2009,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,RamsAn20
+6,Chad Eaton,DT,Exeter,1996,2004,0,0,5,36,103,,,,0,,,,,,,0,,,,0,,EatoCh20
+7,Don Macek,C,Manchester,1976,1989,0,0,11,64,162,,,,0,,,,,,,0,,,,0,,MaceDo20
+8,John Bosa,DE,Keene,1987,1989,0,0,1,10,31,,,,0,,,,,,,0,,,,0,,BosaJo20
+9,Greg Landry,QB,Nashua,1968,1984,0,1,6,80,146,1276.0,2300.0,16052.0,98,84.0,103.0,316.0,2503.0,430.0,2655.0,21,76.0,,,0,,LandGr00
+10,Sherman White,DE,Manchester,1972,1983,0,0,12,59,158,,,,0,,,,,,,0,,,,0,,WhitSh21
+11,Steve Corbett,G,Dover,1975,1975,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,CorbSt20
+12,Lou Kirouac,G,Manchester,1963,1967,0,0,1,10,50,,,,0,,,,,,,0,,,,0,,KiroLo20
+13,John Kissell,DT,Nashua,1948,1956,0,0,4,0,98,,,,0,,,,,,,0,,,,0,,KissJo20
+14,Ed Kissell,DB,Nashua,1952,1954,0,0,0,0,13,,,,0,,,,,,,0,,,,0,,KissEd20
+15,Veto Kissell,LB,Nashua,1949,1950,0,0,0,0,20,,,,0,,,,,12.0,25.0,0,7.0,3.0,37.0,0,,KissVi20
+16,Nick Daukas,T,Nashua,1946,1947,0,0,0,0,15,,,,0,,,,,,,0,,2.0,19.0,0,,DaukNi20
+17,Lou Daukas,C,Nashua,1947,1947,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,DaukLo20
+18,Adolph Kissell,HB,Nashua,1942,1942,0,0,0,0,4,,,,0,,,,,2.0,-1.0,0,11.0,,,0,,KissAd20
+19,Sam Knox,G,Bow,1934,1936,0,0,2,0,31,,,,0,,,,,,,0,,,,0,,KnoxSa20
+20,Ted Kucharski,E,Exeter,1930,1930,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,KuchTe20
+21,Bill Kenyon,TB,Manchester,1925,1925,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,KenyBi20
+22,Johnny McQuade,B,Manchester,1922,1922,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,McQuJo20
+23,Dan O'Connor,T,Manchester,1920,1921,0,0,1,0,17,,,,0,,,,,,,0,,,,0,,OConDa20
+24,Joe Murphy,G,Concord,1920,1921,0,0,1,0,8,,,,0,,,,,,,0,,,,0,,MurpJo20
+25,Dan Ahern,T,Manchester,1921,1921,0,0,1,0,3,,,,0,,,,,,,0,,,,0,,AherDa20

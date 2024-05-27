@@ -1,0 +1,54 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Connor McGovern,G,Fargo,2017,2023,0,0,5,29,102,,,,0,,,,,,,0,,,,0,,McGoCo00
+2,Cordell Volson,T,Balfour,2022,2023,0,0,1,16,33,,,,0,,,,,,,0,,,,0,,VolsCo02
+3,Brayden Thomas,DE,Bismarck,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ThomBr04
+4,Brent Qvale,T,Williston,2015,2020,0,0,0,12,77,,,,0,,,,,,,0,,0.0,-2.0,0,0.0,QvalBr01
+5,Jim Kleinsasser,TE,Carrington,1999,2011,0,0,10,14,181,,,,0,,,,,43.0,147.0,1,12.0,192.0,1688.0,6,39.0,KleiJi00
+6,Brooks Bollinger,QB,Grand Forks,2004,2008,0,0,1,6,21,211.0,360.0,2226.0,9,60.0,9.0,49.0,301.0,41.0,155.0,0,15.0,,,0,,BollBr00
+7,Bennie Joppru,TE,Dickinson,2006,2007,0,0,0,0,19,,,,0,,,,,,,0,,,,0,,JoppBe00
+8,Ronnie Bradford,DB,Minot,1993,2002,0,0,7,30,133,,,,0,,,,,,,0,,,,0,,BradRo20
+9,Phil Hansen,DE,Ellendale,1991,2001,0,0,11,65,156,,,,0,,,,,,,0,,,,0,,HansPh20
+10,Andy Heck,T,Fargo,1989,2000,0,0,11,60,185,,,,0,,,,,,,0,,,,0,,HeckAn20
+11,J.J. Syvrud,LB,Rock Springs,1999,1999,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SyvrJ.20
+12,Mark Nelson,T,Grand Forks,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,NelsMa20
+13,John Trahan,WR,Grand Forks,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,4.0,40.0,0,14.0,TrahJo20
+14,Dave Logan,WR,Fargo,1976,1984,0,0,7,37,119,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,,,0,,263.0,4250.0,24,65.0,LogaDa00
+15,Mark Slater,C,Crosby,1978,1983,0,0,0,13,82,,,,0,,,,,,,0,,,,0,,SlatMa20
+16,Doug Beaudoin,DB,Dickinson,1976,1981,0,0,2,15,59,,,,0,,,,,,,0,,,,0,,BeauDo20
+17,Jeff Severson,DB,Fargo,1972,1979,0,0,1,16,83,,,,0,,,,,,,0,,,,0,,SeveJe20
+18,Rich Baska,LB,Bismarck,1976,1977,0,0,0,6,18,,,,0,,,,,,,0,,,,0,,BaskRi20
+19,Randy Hedberg,QB,Parshall,1977,1977,0,0,0,1,7,25.0,90.0,244.0,0,19.0,10.0,15.0,131.0,9.0,35.0,0,12.0,,,0,,HedbRa00
+20,Gregory Wojcik,DT,Jamestown,1971,1975,0,0,0,8,33,,,,0,,,,,,,0,,,,0,,WojcGr20
+21,Gary Larsen,DT,Fargo,1964,1974,0,2,8,72,149,,,,0,,,,,,,0,,,,0,,LarsGa00
+22,Dick Hanson,T,Hillsboro,1971,1971,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,HansDi20
+23,Bill Swain,LLB,Dickinson,1963,1969,0,0,1,21,82,,,,0,,,,,,,0,,,,0,,SwaiBi20
+24,Ron Green,WR,Fargo,1967,1968,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,GreeRo22
+25,Lynn Hoyem,G,Fargo,1962,1967,0,0,1,21,84,,,,0,,,,,,,0,,,,0,,HoyeLy20
+26,Dave Lince,TE,Fargo,1966,1967,0,0,0,0,18,,,,0,,,,,,,0,,,,0,,LincDa20
+27,Pete Retzlaff,E,Ellendale,1956,1966,1,5,10,59,132,,,,0,,,,,6.0,-4.0,0,8.0,452.0,7412.0,47,84.0,RetzPe00
+28,Dick Degen,LB,Jamestown,1965,1966,0,0,0,7,22,,,,0,,,,,,,0,,,,0,,DegeDi20
+29,Jack Patera,OLB,Bismarck,1955,1961,0,0,1,1,61,,,,0,,,,,,,0,,,,0,,PateJa20
+30,Steve Myhra,G,Wahpeton,1957,1961,0,0,0,6,62,,,,0,,,,,1.0,1.0,0,1.0,,,0,,MyhrSt20
+31,Jim Brandt,DB,Fargo,1952,1954,0,0,1,0,33,0.0,1.0,0.0,0,0.0,0.0,,,61.0,188.0,4,20.0,3.0,24.0,0,11.0,BranJi20
+32,Don Simensen,T,Minot,1951,1952,0,0,2,0,24,,,,0,,,,,,,0,,,,0,,SimeDo20
+33,Jake Leicht,HB,Jamestown,1948,1949,0,0,1,0,26,,,,0,,,,,26.0,81.0,1,,13.0,146.0,1,12.0,LeicJa20
+34,Bob Greenhalgh,FB,Fargo,1949,1949,0,0,1,0,10,,,,0,,,,,62.0,188.0,0,14.0,3.0,23.0,0,14.0,GreeBo21
+35,Bob Wiese,B,Jamestown,1947,1948,0,0,0,0,16,,,,0,,,,,20.0,61.0,0,21.0,5.0,53.0,0,24.0,WiesBo20
+36,Les Lear,T,Grafton,1944,1947,0,0,0,0,40,,,,0,,,,,,,0,,,,0,,LearLe20
+37,Cliff Rothrock,C,Fargo,1947,1947,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,RothCl20
+38,Jerry Mulready,E,Fargo,1947,1947,0,0,1,0,9,,,,0,,,,,,,0,,7.0,108.0,0,,MulrJe20
+39,Ernie Wheeler,DB,Fargo,1939,1942,0,0,0,0,10,5.0,17.0,94.0,1,30.0,7.0,,,17.0,0.0,0,0.0,,,0,,WheeEr20
+40,Ed Lechner,G,Fessenden,1942,1942,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,LechEd20
+41,Bob Pylman,T,Ellendale,1938,1939,0,0,0,0,21,,,,0,,,,,,,0,,1.0,1.0,0,1.0,PylmBo20
+42,Charlie Gainor,DE,Sargeant,1939,1939,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GainCh21
+43,Jack Mackenroth,C,Minot,1938,1938,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,MackJa20
+44,Verne Oech,G,Beach,1936,1937,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,OechVe20
+45,Larry Steinbach,T,New Rockford,1930,1933,0,0,1,0,29,,,,0,,,,,,,0,,1.0,5.0,0,5.0,SteiLa20
+46,Jim Pederson,B,Harvey,1930,1932,0,0,2,0,20,,,,0,,,,,1.0,2.0,0,2.0,,,0,,PedeJi20
+47,Cy Kahl,B,Heaton,1930,1931,0,0,1,0,12,,,,0,,,,,,,0,,,,0,,KahlCy20
+48,Stu MacMillan,G,McVille,1931,1931,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,MacMSt20
+49,Ernie Jessen,T,Dickinson,1931,1931,0,0,1,0,8,,,,0,,,,,,,0,,,,0,,JessEr20
+50,Louie Larson,C,Reynolds,1926,1929,0,0,1,0,10,,,,0,,,,,,,0,,,,0,,LarsLo20
+51,Leon Boutwell,B,Orr,1922,1923,0,0,1,0,15,,,,0,,,,,,,0,,,,0,,BoutLe20
+52,Paul Sheeks,BB,Grand Rapids,1921,1922,0,0,2,0,21,,,,0,,,,,,,0,,0.0,0.0,1,0.0,SheePa20
+53,Marshall Jones,WB,Fargo,1920,1921,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,JoneMa22

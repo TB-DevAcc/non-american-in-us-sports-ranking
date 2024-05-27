@@ -1,0 +1,42 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Duron Harmon,FS,Dover,2013,2023,0,0,3,29,168,,,,0,,,,,,,0,,,,0,,HarmDu00
+2,Angelo Blackson,DT,Wilmington,2015,2023,0,0,1,23,128,,,,0,,,,,,,0,,,,0,,BlacAn00
+3,Brian O'Neill,T,Wilmington,2018,2023,0,1,5,42,93,,,,0,,,,,,,0,,,,0,,ONeiBr00
+4,Bilal Nichols,DT,Newark,2018,2023,0,0,4,36,94,,,,0,,,,,,,0,,,,0,,NichBi00
+5,Troy Reeder,OLB,Hockessin,2019,2023,0,0,1,17,83,,,,0,,,,,,,0,,,,0,,ReedTr01
+6,David Sills,WR,Wilmington,2021,2023,0,0,0,1,16,,,,0,,,,,,,0,,13.0,123.0,0,24.0,SillDa01
+7,Wendell Smallwood,RB,Wilmington,2016,2021,0,0,1,10,56,,,,0,,,,,238.0,956.0,5,26.0,60.0,474.0,2,36.0,SmalWe00
+8,Brandon Rusnak,DB,Wilmington,2019,2021,0,0,0,1,28,,,,0,,,,,,,0,,,,0,,WatsBr01
+9,Briean Boddy-Calhoun,CB,Wilmington,2016,2020,0,0,0,9,47,,,,0,,,,,,,0,,,,0,,BoddBr01
+10,Paul Worrilow,MLB,Wilmington,2013,2019,0,0,4,22,76,,,,0,,,,,,,0,,,,0,,WorrPa00
+11,Andre Patton,WR,Wilmington,2019,2019,0,0,1,0,13,,,,0,,,,,,,0,,6.0,56.0,0,15.0,PattAn00
+12,David Grinnage,TE,Newark,2018,2018,0,0,0,0,4,,,,0,,,,,,,0,,6.0,61.0,0,24.0,GrinDa00
+13,Quadree Henderson,WR,Wilmington,2018,2018,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,HendQu00
+14,Kyle Carter,TE,New Castle,2017,2017,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,CartKy01
+15,Justin Perillo,TE,Wilmington,2014,2016,0,0,0,1,20,,,,0,,,,,,,0,,15.0,137.0,1,24.0,PeriJu00
+16,C.J. Davis,G,Millsboro,2010,2012,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,DaviC.20
+17,Jeff Otah,T,New Castle,2008,2011,0,0,2,14,29,,,,0,,,,,,,0,,,,0,,OtahJe20
+18,Orien Harris,DT,Newark,2006,2009,0,0,0,1,20,,,,0,,,,,,,0,,,,0,,HarrOr20
+19,Luke Petitgout,T,Milford,1999,2007,0,0,8,44,117,,,,0,,,,,,,0,,,,0,,PetiLu20
+20,Rich Parson,WR,Newark,2005,2005,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ParsRi20
+21,Jamie Duncan,LB,Wilmington,1998,2004,0,0,3,29,96,,,,0,,,,,,,0,,,,0,,DuncJa20
+22,Javor Mills,DE,Wilmington,2002,2002,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,MillJa20
+23,Lovett Purnell,TE,Seaford,1996,1999,0,0,0,2,36,,,,0,,,,,,,0,,19.0,159.0,5,22.0,PurnLo00
+24,Michael Reed,DB,Wilmington,1995,1996,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ReedMi20
+25,Charles Hope,G,Wilmington,1994,1994,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,HopeCh20
+26,Rick Donnalley,C,Wilmington,1982,1987,0,0,2,24,71,,,,0,,,,,,,0,,,,0,,DonnRi20
+27,Clarence Bailey,RB,Milford,1987,1987,0,0,0,0,3,,,,0,,,,,10.0,55.0,0,13.0,,,0,,BailCl20
+28,Mike Meade,RB,Dover,1982,1985,0,0,0,3,49,,,,0,,,,,72.0,261.0,1,19.0,21.0,126.0,2,31.0,MeadMi00
+29,Tim Wilson,FB,New Castle,1977,1984,0,0,4,18,101,,,,0,,,,,398.0,1414.0,6,24.0,99.0,609.0,3,24.0,WilsTi00
+30,Joe Campbell,DE,Wilmington,1977,1981,0,0,1,12,65,,,,0,,,,,,,0,,,,0,,CampJo21
+31,Conway Hayman,G,Newark,1975,1980,0,0,3,22,77,,,,0,,,,,,,0,,,,0,,HaymCo20
+32,Anthony Anderson,RB,Wilmington,1979,1980,0,0,0,1,32,,,,0,,,,,24.0,123.0,1,31.0,,,0,,AndeAn20
+33,Kevin Reilly,LB,Wilmington,1973,1975,0,0,0,7,25,,,,0,,,,,,,0,,,,0,,ReilKe20
+34,Gary Hayman,RB,Newark,1974,1975,0,0,0,0,15,,,,0,,,,,17.0,61.0,0,8.0,,,0,,HaymGa00
+35,Tom Hall,WR,Wilmington,1962,1969,0,0,1,19,96,,,,0,,,,,4.0,-4.0,0,5.0,103.0,1441.0,8,69.0,HallTo00
+36,Pete Larson,RB,Wilmington,1967,1968,0,0,0,4,22,,,,0,,,,,69.0,216.0,2,34.0,20.0,191.0,1,25.0,LarsPe00
+37,Leon Dombrowski,LB,Wilmington,1960,1960,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DombLe20
+38,Carl Elliott,DE,Laurel,1951,1954,0,0,2,0,48,,,,0,,,,,,,0,,60.0,581.0,6,33.0,ElliCa20
+39,Tex Warrington,G,Dover,1946,1948,0,0,3,0,39,,,,0,,,,,,,0,,0.0,2.0,0,2.0,WarrTe21
+40,Eddie Michaels,G,Wilmington,1936,1946,0,0,4,0,62,,,,0,,,,,,,0,,,,0,,MichEd20
+41,John Tosi,C,Wilmington,1939,1939,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,TosiJo20

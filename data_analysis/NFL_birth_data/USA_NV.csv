@@ -1,0 +1,77 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Lawrence Guy,DT,Las Vegas,2012,2023,0,0,6,62,177,,,,0,,,,,,,0,,,,0,,GuyxLa00
+2,Kyle Van Noy,OLB,Reno,2014,2023,0,0,6,52,142,,,,0,,,,,,,0,,,,0,,VanNKy00
+3,Ronnie Stanley,T,Las Vegas,2016,2023,1,1,5,49,87,,,,0,,,,,,,0,,,,0,,StanRo00
+4,Miles Killebrew,SS,Henderson,2016,2023,1,1,0,15,129,,,,0,,,,,,,0,,,,0,,KillMi00
+5,Will Hernandez,G,Las Vegas,2018,2023,0,0,4,34,92,,,,0,,,,,,,0,,,,0,,HernWi00
+6,Nick Gates,T,Las Vegas,2019,2023,0,0,1,14,57,,,,0,,,,,,,0,,0.0,0.0,0,0.0,GateNi00
+7,Brandon Aiyuk,WR,Reno,2020,2023,0,0,3,37,62,,,,0,,,,,13.0,117.0,2,38.0,269.0,3931.0,25,76.0,AiyuBr00
+8,Brevin Jordan,TE,Las Vegas,2021,2023,0,0,0,4,34,,,,0,,,,,,,0,,51.0,525.0,5,27.0,JordBr00
+9,Tony Fields,LB,Las Vegas,2021,2023,0,0,0,9,44,,,,0,,,,,,,0,,,,0,,FielTo00
+10,Rhamondre Stevenson,RB,Las Vegas,2021,2023,0,0,0,17,41,,,,0,,,,,499.0,2265.0,14,64.0,121.0,782.0,1,41.0,StevRh00
+11,Daniel Bellinger,TE,Las Vegas,2022,2023,0,0,1,5,29,,,,0,,,,,1.0,2.0,1,2.0,55.0,523.0,2,26.0,BellDa00
+12,Puka Nacua,WR,Las Vegas,2023,2023,0,1,0,14,17,,,,0,,,,,12.0,89.0,0,31.0,105.0,1486.0,6,80.0,NacuPu00
+13,Ramiz Ahmed,K,Las Vegas,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,AhmeRa00
+14,John Molchon,G,Las Vegas,2022,2022,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MolcJo01
+15,Kai Nacua,FS,Las Vegas,2017,2021,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,NacuKa00
+16,Antoine Wesley,WR,Las Vegas,2021,2021,0,0,0,2,15,,,,0,,,,,,,0,,19.0,208.0,3,33.0,WeslAn01
+17,Billy Winn,DT,Las Vegas,2012,2020,0,0,2,15,74,,,,0,,,,,,,0,,,,0,,WinnBi00
+18,LeShaun Sims,CB,Las Vegas,2016,2020,0,0,0,11,69,,,,0,,,,,,,0,,,,0,,SimsLe00
+19,Xavier Grimble,TE,Las Vegas,2016,2019,0,0,0,2,47,,,,0,,,,,,,0,,23.0,239.0,3,23.0,GrimXa00
+20,Ben Jacobs,OLB,Las Vegas,2011,2018,0,0,0,4,73,,,,0,,,,,,,0,,,,0,,JacoBe00
+21,Brandon Marshall,OLB,Las Vegas,2012,2018,0,0,4,30,74,,,,0,,,,,,,0,,,,0,,MarsBr01
+22,Korey Toomer,ILB,Las Vegas,2014,2018,0,0,0,11,53,,,,0,,,,,,,0,,,,0,,ToomKo00
+23,DeMarco Murray,RB,Las Vegas,2011,2017,1,3,7,60,99,1.0,2.0,10.0,1,10.0,0.0,0.0,0.0,1604.0,7174.0,49,91.0,307.0,2165.0,6,44.0,MurrDe00
+24,Kerwynn Williams,RB,Las Vegas,2013,2017,0,0,0,6,39,,,,0,,,,,218.0,971.0,4,49.0,15.0,126.0,0,25.0,WillKe05
+25,Jace Billingsley,WR,Winnemucca,2017,2017,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BillJa00
+26,Duke Williams,SS,Reno,2013,2016,0,0,0,8,58,,,,0,,,,,,,0,,,,0,,WillDu00
+27,Steven Jackson,RB,Las Vegas,2004,2015,0,3,10,75,160,1.0,1.0,2.0,1,2.0,0.0,0.0,0.0,2764.0,11438.0,69,59.0,461.0,3683.0,9,64.0,JackSt00
+28,Quinton Carter,DB,Las Vegas,2011,2014,0,0,1,5,30,,,,0,,,,,,,0,,,,0,,CartQu01
+29,Chris Carr,DB,Reno,2005,2013,0,0,1,17,125,,,,0,,,,,,,0,,,,0,,CarrCh22
+30,Harvey Dahl,T,Fallon,2006,2013,0,0,6,32,87,,,,0,,,,,,,0,,,,0,,DahlHa20
+31,Stevenson Sylvester,LILB,Las Vegas,2010,2013,0,0,0,6,50,,,,0,,,,,,,0,,,,0,,SylvSt99
+32,Juron Criner,WR,Las Vegas,2012,2013,0,0,0,1,13,,,,0,,,,,,,0,,19.0,183.0,1,20.0,CrinJu00
+33,D.J. Campbell,FS,Las Vegas,2012,2013,0,0,0,2,9,,,,0,,,,,,,0,,,,0,,CampD.00
+34,Josh Barrett,DB,Reno,2008,2011,0,0,0,3,25,,,,0,,,,,,,0,,,,0,,BarrJo99
+35,Gerard Lawson,DB,Las Vegas,2008,2010,0,0,0,1,21,,,,0,,,,,,,0,,,,0,,LawsGe20
+36,Clint Stitser,K,Reno,2010,2010,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,StitCl00
+37,Vernon Fox,DB,Las Vegas,2002,2009,0,0,0,10,98,,,,0,,,,,,,0,,,,0,,FoxxVe20
+38,Brian Kelly,DB,Las Vegas,1998,2008,0,0,5,36,141,,,,0,,,,,,,0,,,,0,,KellBr21
+39,Grey Ruegamer,C,Las Vegas,2000,2008,0,0,1,15,124,,,,0,,,,,,,0,,0.0,0.0,0,0.0,RuegGr20
+40,Andre Dyson,DB,Las Vegas,2001,2007,0,0,5,31,96,,,,0,,,,,,,0,,,,0,,DysoAn20
+41,Ed Hartwell,LB,Las Vegas,2001,2006,0,0,3,28,77,,,,0,,,,,,,0,,,,0,,HartEd20
+42,Richard Seigler,LB,Las Vegas,2004,2006,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,SeigRi20
+43,James Sims,RB,Las Vegas,2006,2006,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,SimsJa00
+44,DeAndra Cobb,RB,Las Vegas,2005,2005,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,CobbDe00
+45,Tony Newson,LB,Las Vegas,2002,2004,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,NewsTo21
+46,Tommy Bennett,DB,Las Vegas,1996,2001,0,0,2,16,79,,,,0,,,,,,,0,,,,0,,BennTo20
+47,DeShone Myles,MLB,Las Vegas,1998,2001,0,0,0,3,18,,,,0,,,,,,,0,,,,0,,MyleDe20
+48,Tony Graziani,QB,Las Vegas,1997,1999,0,0,0,3,18,85.0,174.0,999.0,2,62.0,8.0,15.0,100.0,16.0,51.0,0,12.0,0.0,0.0,0,0.0,GrazTo00
+49,Mike Quinn,QB,Las Vegas,1997,1998,0,0,0,0,4,2.0,3.0,20.0,0,10.0,0.0,0.0,0.0,5.0,-6.0,0,0.0,,,0,,QuinMi00
+50,Mike Crawford,LB,Reno,1997,1997,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,CrawMi21
+51,Jerrol Williams,LOLB,Las Vegas,1989,1996,0,0,1,23,85,,,,0,,,,,,,0,,,,0,,WillJe22
+52,Dirk Borgognone,K,Elko,1995,1995,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BorgDi20
+53,Keith Kartz,C,Las Vegas,1987,1993,0,0,6,39,100,,,,0,,,,,,,0,,,,0,,KartKe20
+54,Nick Bell,RB,Las Vegas,1991,1993,0,0,0,8,35,,,,0,,,,,226.0,853.0,7,66.0,21.0,213.0,0,24.0,BellNi00
+55,Mack Travis,NT,Las Vegas,1993,1993,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,TravMa20
+56,Eric Sanders,T,Reno,1981,1992,0,0,1,23,158,,,,0,,,,,,,0,,,,0,,SandEr20
+57,Jo-Jo Townsell,WR,Reno,1985,1990,0,0,0,10,83,,,,0,,,,,2.0,0.0,0,2.0,70.0,1119.0,5,63.0,TownJo00
+58,Blake Ezor,RB,Las Vegas,1990,1990,0,0,0,1,9,,,,0,,,,,23.0,81.0,0,15.0,,,0,,EzorBl20
+59,Chris McLemore,RB,Las Vegas,1987,1988,0,0,0,1,12,,,,0,,,,,17.0,58.0,0,9.0,2.0,9.0,0,5.0,McLeCh20
+60,Frank Hawkins,RB,Las Vegas,1981,1987,0,0,2,15,88,,,,0,,,,,431.0,1659.0,15,32.0,97.0,691.0,3,35.0,HawkFr00
+61,Ken Marchiol,LB,Las Vegas,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,MarcKe20
+62,Eddie Hunter,RB,Reno,1987,1987,0,0,0,2,6,,,,0,,,,,56.0,210.0,0,23.0,7.0,28.0,2,8.0,HuntEd20
+63,Carl Keever,LB,Reno,1987,1987,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,KeevCa20
+64,Robin Sendlein,LOLB,Las Vegas,1981,1985,0,0,0,8,72,,,,0,,,,,,,0,,,,0,,SendRo20
+65,Anthony Corley,RB,Reno,1984,1985,0,0,0,1,18,,,,0,,,,,18.0,89.0,0,23.0,,,0,,CorlAn20
+66,David Humm,QB,Las Vegas,1975,1984,0,0,0,2,95,63.0,137.0,753.0,3,43.0,8.0,12.0,100.0,16.0,28.0,0,9.0,,,0,,HummDa00
+67,Mike Machurek,QB,Las Vegas,1984,1984,0,0,0,1,4,14.0,43.0,193.0,0,48.0,6.0,1.0,12.0,1.0,9.0,0,9.0,,,0,,MachMi00
+68,Billy Campfield,RB,Las Vegas,1978,1983,0,0,0,16,73,,,,0,,,,,169.0,670.0,5,50.0,108.0,970.0,6,50.0,CampBi00
+69,Nick Eyre,T,Las Vegas,1981,1981,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,EyreNi20
+70,Rick Kay,LB,Henderson,1973,1977,0,0,0,15,43,,,,0,,,,,,,0,,,,0,,KayxRi20
+71,Ken Mitchell,LB,Denio,1973,1974,0,0,0,8,28,,,,0,,,,,,,0,,,,0,,MitcKe20
+72,Lee White,RB,Las Vegas,1968,1972,0,0,0,5,44,,,,0,,,,,123.0,389.0,0,16.0,16.0,143.0,1,19.0,WhitLe00
+73,Max McGee,E,Saxon City,1954,1967,0,1,9,58,148,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,12.0,121.0,0,36.0,345.0,6346.0,50,82.0,McGeMa00
+74,Ed Pine,LB,Reno,1962,1965,0,0,2,17,50,,,,0,,,,,,,0,,,,0,,PineEd20
+75,Mike Jurich,T,Ruth,1941,1942,0,0,0,0,15,,,,0,,,,,,,0,,,,0,,JuriMi20
+76,Frank McNally,C,Ryepatch,1931,1934,1,0,2,0,36,,,,0,,,,,,,0,,,,0,,McNaFr20

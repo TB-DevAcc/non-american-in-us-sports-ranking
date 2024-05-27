@@ -1,0 +1,10 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Tyler Varga,RB,Stockholm,2015,2015,0,0,0,0,3,,,,0,,,,,1.0,2.0,0,2.0,1.0,18.0,0,18.0,VargTy00
+2,Ola Kimrin,K,Malmo,2004,2004,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,kimriola01
+3,Bjorn Nittmo,K,Lomma,1989,1989,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,nittmbjo01
+4,Goran Lingmerth,K,Nassjo,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LingGo20
+5,Ove Johansson,K,Gothenburg,1977,1977,0,0,0,-1,2,,,,0,,,,,,,0,,,,0,,JohaOv20
+6,Chris Gartner,K,Gothenburg,1974,1974,0,0,0,0,11,,,,0,,,,,,,0,,,,0,,GartCh20
+7,Curly Oden,B,Stockholm,1925,1932,0,0,5,0,67,,,,3,,,,,0.0,0.0,8,0.0,0.0,0.0,4,0.0,OdenCu20
+8,Stone Hallquist,BB,Soderholm,1926,1926,0,0,1,0,9,,,,0,,,,,,,0,,,,0,,HallSt21
+9,John Kvist,T,,1920,1920,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,KvisJo20

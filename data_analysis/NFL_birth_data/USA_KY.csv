@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Patrick Scales,LS,Louisville,2014,2023,0,0,0,6,122,,,,0.0,,,,,,,0.0,,,,0.0,,ScalPa00
+2,DeVante Parker,WR,Louisville,2015,2023,0,0,5,36,119,,,,0.0,,,,,,,0.0,,402.0,5660.0,27.0,56.0,ParkDe01
+3,George Fant,T,Bowling Green,2016,2023,0,0,4,31,99,,,,0.0,,,,,,,0.0,,1.0,9.0,0.0,9.0,FantGe00
+4,Jarrett Stidham,QB,Corbin,2019,2023,0,0,0,6,16,117.0,197.0,1422.0,8.0,60.0,8.0,19.0,121.0,32.0,97.0,0.0,11.0,,,0.0,,StidJa00
+5,Damien Harris,RB,Richmond,2019,2023,0,0,3,16,44,,,,0.0,,,,,472.0,2188.0,21.0,64.0,42.0,297.0,0.0,21.0,HarrDa06
+6,Montez Sweat,EDGE,Richmond,2019,2023,0,1,3,36,76,,,,0.0,,,,,,,0.0,,,,0.0,,SweaMo00
+7,Logan Woodside,QB,Frankfort,2020,2023,0,0,0,0,13,4.0,7.0,34.0,0.0,12.0,1.0,1.0,7.0,14.0,10.0,0.0,18.0,,,0.0,,WoodLo00
+8,Jedrick Wills Jr.,OL,Lexington,2020,2023,0,0,3,24,53,,,,0.0,,,,,,,0.0,,,,0.0,,WillJe04
+9,Derrick Barnes,LB,Covington,2021,2023,0,0,0,10,48,,,,0.0,,,,,,,0.0,,,,0.0,,BarnDe02
+10,Landon Young,T,Grayson County,2021,2023,0,0,0,6,39,,,,0.0,,,,,,,0.0,,,,0.0,,YounLa00
+11,Nate Hobbs,CB,Louisville,2021,2023,0,0,1,10,40,,,,0.0,,,,,,,0.0,,,,0.0,,HobbNa00
+12,Jordan Meredith,OL,Bowling Green,2022,2023,0,0,0,1,18,,,,0.0,,,,,,,0.0,,,,0.0,,MereJo00
+13,Russ Yeast,DB,Danville,2022,2023,0,0,0,4,32,,,,0.0,,,,,,,0.0,,,,0.0,,YeasRu00
+14,Wan'Dale Robinson,WR,Frankfort,2022,2023,0,0,0,6,21,,,,0.0,,,,,11.0,86.0,1.0,32.0,83.0,752.0,2.0,33.0,RobiWa01
+15,Desmond Ridder,QB,Louisville,2022,2023,0,0,0,12,19,322.0,503.0,3544.0,14.0,71.0,12.0,40.0,230.0,69.0,257.0,5.0,23.0,1.0,-6.0,0.0,0.0,RiddDe00
+16,Michael Mayer,TE,,2023,2023,0,0,0,3,14,,,,0.0,,,,,,,0.0,,27.0,304.0,2.0,32.0,MayeMi00
+17,Lucky Jackson,,Lexington,2023,2023,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,JackLu00
+18,Corey Peters,DT,Louisville,2010,2022,0,0,9,49,164,,,,0.0,,,,,,,0.0,,,,0.0,,PeteCo00
+19,Rex Burkhead,RB,Winchester,2013,2022,0,0,0,21,115,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,488.0,1908.0,17.0,36.0,192.0,1534.0,9.0,32.0,BurkRe00
+20,Keelan Cole,WR,Louisville,2017,2022,0,0,2,20,93,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,8.0,0.0,6.0,197.0,2832.0,14.0,75.0,ColeKe00
+21,Joel Iyiegbuniwe,OLB,Bowling Green,2018,2022,0,0,0,5,65,,,,0.0,,,,,,,0.0,,,,0.0,,IyieJo00
+22,Reggie Bonnafon,RB,Louisville,2019,2022,0,0,0,2,23,,,,0.0,,,,,32.0,197.0,1.0,59.0,10.0,87.0,1.0,32.0,BonnRe00
+23,Jonas Griffith,LB,Louisville,2021,2022,0,0,0,7,22,,,,0.0,,,,,,,0.0,,,,0.0,,GrifJo01
+24,Luke Stocker,TE,Berea,2011,2021,0,0,7,5,142,,,,0.0,,,,,1.0,0.0,0.0,0.0,85.0,705.0,5.0,33.0,StocLu00
+25,Deon Yelder,TE,Louisville,2018,2021,0,0,0,1,31,,,,0.0,,,,,,,0.0,,11.0,86.0,0.0,24.0,YeldDe00
+26,Brandon Dunn,DT,Louisville,2014,2020,0,0,3,17,76,,,,0.0,,,,,,,0.0,,,,0.0,,DunnBr00
+27,Jamon Brown,T,Fern Creek,2015,2020,0,0,3,21,62,,,,0.0,,,,,,,0.0,,,,0.0,,BrowJa04
+28,Colin Holba,LS,Louisville,2017,2020,0,0,0,0,19,,,,0.0,,,,,,,0.0,,,,0.0,,HolbCo00
+29,Daniel Ross,DT,Louisville,2017,2020,0,0,0,2,21,,,,0.0,,,,,,,0.0,,,,0.0,,RossDa02
+30,Taywan Taylor,WR,Louisville,2017,2020,0,0,0,6,35,,,,0.0,,,,,8.0,43.0,0.0,17.0,53.0,697.0,2.0,55.0,TaylTa00
+31,Malcolm Perry,WR,Fort Campbell,2020,2020,0,0,0,1,9,,,,0.0,,,,,3.0,5.0,0.0,6.0,9.0,92.0,1.0,25.0,PerrMa00
+32,Weston Richburg,C,Louisville,2014,2019,0,0,5,33,79,,,,0.0,,,,,,,0.0,,,,0.0,,RichWe00
+33,Dalyn Dawkins,RB,Louisville,2018,2019,0,0,0,0,4,,,,0.0,,,,,11.0,26.0,0.0,14.0,0.0,0.0,0.0,0.0,DawkDa01
+34,Mike Mitchell,DB,Fort Thomas,2009,2018,0,0,5,33,145,,,,0.0,,,,,,,0.0,,,,0.0,,MitcMi99
+35,Keith Tandy,S,Hopkinsville,2012,2018,0,0,0,8,90,,,,0.0,,,,,1.0,18.0,0.0,18.0,,,0.0,,TandKe00
+36,Josh Forrest,ILB,Paducah,2016,2017,0,0,0,2,12,,,,0.0,,,,,,,0.0,,,,0.0,,ForrJo00
+37,Jacob Tamme,TE,Danvillr,2008,2016,0,0,2,21,130,,,,0.0,,,,,,,0.0,,259.0,2570.0,14.0,41.0,TammJa00
+38,David Bruton,DB,Winchester,2009,2016,0,0,0,10,108,,,,0.0,,,,,2.0,48.0,0.0,35.0,,,0.0,,BrutDa99
+39,Winston Guy,DB,Lexington,2012,2016,0,0,0,3,37,,,,0.0,,,,,,,0.0,,,,0.0,,GuyxWi00
+40,Jordan Gay,P,Danville,2014,2016,0,0,0,0,33,,,,0.0,,,,,,,0.0,,,,0.0,,GayxJo00
+41,Charles Johnson,WR,Edgewood,2014,2016,0,0,0,7,39,,,,0.0,,,,,1.0,-11.0,0.0,0.0,60.0,834.0,2.0,56.0,JohnCh08
+42,C.J. Mosley,DT,Fort Knox,2005,2015,0,0,1,21,140,,,,0.0,,,,,,,0.0,,,,0.0,,MoslC.20
+43,Sean Richardson,S,Fort Campbell,2012,2015,0,0,0,1,30,,,,0.0,,,,,,,0.0,,,,0.0,,RichSe00
+44,Mitchell Henry,TE,Lexington,2015,2015,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,HenrMi00
+45,George Wilson,SS,Paducah,2005,2014,0,0,5,26,124,,,,0.0,,,,,1.0,6.0,0.0,6.0,,,0.0,,WilsGe01
+46,C.J. Spillman,DB,Louisville,2009,2014,0,0,0,5,85,,,,0.0,,,,,,,0.0,,,,0.0,,SpilCJ99
+47,Brandon Deaderick,DT,Elizabethtown,2010,2014,0,0,0,9,60,,,,0.0,,,,,,,0.0,,,,0.0,,DeadBr99
+48,Chase Minnifield,DB,Lexington,2014,2014,0,0,0,1,7,,,,0.0,,,,,,,0.0,,,,0.0,,MinnCh00
+49,David Akers,K,Lexington,1998,2013,2,6,0,33,237,2.0,2.0,25.0,1.0,14.0,0.0,0.0,0.0,2.0,25.0,0.0,15.0,,,0.0,,akersdav01
+50,Champ Bailey,DB,Fort Campbell,1999,2013,3,12,14,117,215,,,,0.0,,,,,2.0,11.0,1.0,7.0,4.0,89.0,0.0,42.0,BailCh00
+51,Yeremiah Bell,DB,Winchester,2004,2013,0,1,7,40,142,,,,0.0,,,,,,,0.0,,,,0.0,,BellYe20
+52,Rob Bironas,K,Louisville,2005,2013,1,1,0,29,144,,,,0.0,,,,,,,0.0,,,,0.0,,bironrob01
+53,Michael Bush,RB,Louisville,2008,2013,0,0,2,25,89,1.0,3.0,8.0,0.0,8.0,0.0,0.0,0.0,809.0,3250.0,29.0,67.0,104.0,1010.0,2.0,55.0,BushMi00
+54,Justin Green,DB,Louisville,2013,2013,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,GreeJu01
+55,Justin Miller,DB,Owensboro,2005,2012,0,1,0,15,46,,,,0.0,,,,,,,0.0,,,,0.0,,MillJu99
+56,Chris Redman,QB,Louisville,2000,2011,0,0,0,9,30,286.0,500.0,3179.0,21.0,74.0,14.0,34.0,198.0,33.0,25.0,0.0,7.0,,,0.0,,RedmCh00
+57,David Martin,TE,Fort Campbell,2001,2011,0,0,4,12,120,,,,0.0,,,,,,,0.0,,159.0,1562.0,15.0,61.0,MartDa00
+58,Jon McGraw,DB,Louisville,2002,2011,0,0,2,18,122,,,,0.0,,,,,2.0,8.0,0.0,4.0,,,0.0,,McGrJo21
+59,Myron Pryor,DT,Louisville,2009,2011,0,0,0,3,24,,,,0.0,,,,,,,0.0,,,,0.0,,PryoMy99
+60,Drew Miller,C,Puducah,2011,2011,0,0,0,0,1,,,,,,,,,,,,,,,,,MillDr00
+61,Jeremy Jarmon,DE,Fort Knox,2009,2010,0,0,0,1,16,,,,0.0,,,,,,,0.0,,,,0.0,,JarmJe99
+62,Brian Brohm,QB,Louisville,2009,2010,0,0,0,0,3,27.0,52.0,252.0,0.0,33.0,5.0,5.0,13.0,3.0,-3.0,0.0,0.0,,,0.0,,BrohBr00
+63,Shane Andrus,K,Murray,2009,2010,0,0,0,0,7,,,,0.0,,,,,,,0.0,,,,0.0,,AndrSh00
+64,Aaron Pettrey,K,Raceland,2010,2010,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,PettAa00
+65,Jeremi Johnson,FB,Louisville,2003,2009,0,0,4,4,96,,,,0.0,,,,,52.0,149.0,2.0,15.0,61.0,310.0,6.0,27.0,JohnJe00
+66,Herana-Daze Jones,DB,Louisville,2006,2009,0,0,0,1,31,,,,0.0,,,,,,,0.0,,,,0.0,,JoneHe21
+67,Keenan Burton,WR,Louisville,2008,2009,0,0,1,3,22,,,,0.0,,,,,3.0,8.0,0.0,5.0,38.0,425.0,1.0,30.0,BurtKe00
+68,Shaun Alexander,RB,Florence,2000,2008,1,3,7,68,123,,,,0.0,,,,,2187.0,9453.0,100.0,88.0,215.0,1520.0,12.0,80.0,AlexSh00
+69,Isaac Sowells,T,Louisville,2006,2008,0,0,0,1,17,,,,0.0,,,,,,,0.0,,,,0.0,,SoweIs20
+70,Jason Dunn,TE,Harrodsburg,1996,2007,0,0,2,7,160,,,,0.0,,,,,1.0,-5.0,0.0,0.0,81.0,910.0,11.0,58.0,DunnJa00
+71,Artose Pinner,RB,Hopkinsville,2003,2007,0,0,0,8,47,,,,0.0,,,,,250.0,858.0,8.0,49.0,39.0,308.0,0.0,26.0,PinnAr00
+72,Jared Lorenzen,QB,Covington,2006,2007,0,0,0,0,4,4.0,8.0,28.0,0.0,9.0,0.0,1.0,5.0,2.0,4.0,0.0,2.0,,,0.0,,LoreJa00
+73,Chris Barclay,RB,Louisville,2007,2007,0,0,0,0,5,,,,0.0,,,,,1.0,3.0,0.0,3.0,2.0,13.0,0.0,7.0,BarcCh00
+74,Robert Reynolds,LB,Bowling Green,2004,2006,0,0,0,2,33,,,,0.0,,,,,,,0.0,,,,0.0,,ReynRo20
+75,Rob Smith,T,Fort Thomas,2006,2006,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,SmitRo20
+76,Eric Shelton,RB,Lexington,2006,2006,0,0,0,0,9,,,,0.0,,,,,8.0,23.0,0.0,9.0,1.0,6.0,0.0,6.0,ShelEr00
+77,Marcus Green,DT,Louisville,2006,2006,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,GreeMa20
+78,Calvin Branch,DB,Lexington,1997,2005,0,0,0,3,60,,,,0.0,,,,,,,0.0,,,,0.0,,BranCa20
+79,Joe Jefferson,DB,Russellville,2002,2005,0,0,0,3,27,,,,0.0,,,,,,,0.0,,,,0.0,,JeffJo20
+80,Tyrone Hopson,G,Hopkinsville,1999,2004,0,0,0,3,23,,,,0.0,,,,,,,0.0,,,,0.0,,HopsTy20
+81,Dennis Johnson,DE,Danville,2002,2004,0,0,1,5,29,,,,0.0,,,,,,,0.0,,,,0.0,,JohnDe22
+82,Michael Brown,LB,Louisville,2004,2004,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,BrowMi20
+83,Todd Perry,G,Calloway County,1993,2003,0,0,9,54,165,,,,0.0,,,,,,,0.0,,,,0.0,,PerrTo20
+84,Billy Lyon,DE,Ashland,1998,2003,0,0,0,8,72,,,,0.0,,,,,,,0.0,,,,0.0,,LyonBi20
+85,Tim Couch,QB,Hyden,1999,2003,0,0,3,30,62,1025.0,1714.0,11131.0,64.0,79.0,67.0,166.0,1119.0,124.0,556.0,2.0,40.0,2.0,-13.0,0.0,0.0,CoucTi00
+86,Rashad Holman,DB,Louisville,2001,2003,0,0,0,4,46,,,,0.0,,,,,,,0.0,,,,0.0,,HolmRa20
+87,Tony Driver,DB,Louisville,2001,2002,0,0,0,0,11,,,,0.0,,,,,,,0.0,,,,0.0,,DrivTo20
+88,Chris Demaree,DT,Louisville,2002,2002,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,DemaCh20
+89,Bernard Jackson,DE,Louisville,2002,2002,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,JackBe21
+90,Dean Wells,LB,Louisville,1993,2001,0,0,6,33,129,,,,0.0,,,,,,,0.0,,,,0.0,,WellDe20
+91,Patrick Jeffers,WR,Fort Campbell,1996,2001,0,0,1,17,46,,,,0.0,,,,,2.0,16.0,0.0,23.0,98.0,1563.0,14.0,88.0,JeffPa00
+92,Craig Yeast,WR,Danville,1999,2001,0,0,1,5,35,,,,0.0,,,,,3.0,-1.0,0.0,15.0,27.0,321.0,0.0,27.0,YeasCr00
+93,Travis Prentice,RB,Louisville,2000,2001,0,0,1,4,30,,,,0.0,,,,,187.0,525.0,9.0,17.0,38.0,201.0,1.0,13.0,PrenTr00
+94,Wes Ours,RB,Christian County,2001,2001,0,0,0,0,3,,,,0.0,,,,,,,0.0,,1.0,3.0,0.0,3.0,OursWe00
+95,Dermontti Dawson,C,Lexington,1988,2000,6,7,11,96,184,,,,0.0,,,,,,,0.0,,,,0.0,,DawsDe00
+96,Cris Dishman,DB,Louisville,1988,2000,1,2,11,78,199,,,,0.0,,,,,,,0.0,,,,0.0,,DishCr00
+97,LaVell Boyd,WR,Louisville,2000,2000,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,BoydLa20
+98,Doug Pelfrey,K,Fort Thomas,1993,1999,0,0,0,18,111,0.0,1.0,0.0,0.0,0.0,0.0,1.0,4.0,,,0.0,,,,0.0,,pelfrdou01
+99,Kendall Ogle,LB,Fayette County,1999,1999,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,OgleKe20
+100,Cecil Collins,RB,Fort Knox,1999,1999,0,0,1,3,8,,,,0.0,,,,,131.0,414.0,2.0,25.0,6.0,32.0,0.0,12.0,CollCe00
+101,Will Wolford,T,Louisville,1986,1998,0,3,13,75,191,,,,0.0,,,,,,,0.0,,,,0.0,,WolfWi00
+102,Mark Pike,DE,Elizabethtown,1987,1998,0,0,0,10,173,,,,0.0,,,,,,,0.0,,,,0.0,,PikeMa20
+103,Jerry Reynolds,T,Fort Thomas,1996,1998,0,0,0,2,25,,,,0.0,,,,,,,0.0,,,,0.0,,ReynJe20
+104,Tony McCombs,RLB,Hopkinsville,1997,1998,0,0,1,6,26,,,,0.0,,,,,,,0.0,,,,0.0,,McCoTo20
+105,Marc Logan,RB,Lexington,1987,1997,0,0,3,22,139,,,,0.0,,,,,325.0,1391.0,15.0,51.0,123.0,1135.0,3.0,32.0,LogaMa00
+106,Carwell Gardner,FB,Louisville,1990,1997,0,0,0,7,101,,,,0.0,,,,,211.0,749.0,10.0,19.0,36.0,281.0,1.0,22.0,GardCa00
+107,Jeff Brohm,QB,Louisville,1996,1997,0,0,0,2,8,37.0,58.0,353.0,1.0,49.0,1.0,7.0,47.0,20.0,54.0,0.0,22.0,,,0.0,,BrohJe00
+108,Leland Taylor,DT,Louisville,1997,1997,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,TaylLe20
+109,D.J. Johnson,DB,Louisville,1989,1996,0,0,6,32,117,,,,0.0,,,,,,,0.0,,,,0.0,,JohnD.20
+110,Oliver Barnett,DE,Louisville,1990,1995,0,0,0,11,85,,,,0.0,,,,,,,0.0,,,,0.0,,BarnOl20
+111,Vince Buck,DB,Owensboro,1990,1995,0,0,4,27,84,,,,0.0,,,,,,,0.0,,,,0.0,,BuckVi20
+112,Kurt Barber,OLB,Paducah,1992,1995,0,0,0,4,50,,,,0.0,,,,,,,0.0,,,,0.0,,BarbKu20
+113,Terry Samuels,TE,Louisville,1994,1995,0,0,0,0,20,,,,0.0,,,,,1.0,1.0,0.0,1.0,10.0,76.0,0.0,17.0,SamuTe20
+114,Phil Simms,QB,Springfield,1979,1993,0,2,11,91,164,2576.0,4647.0,33462.0,199.0,80.0,157.0,477.0,3418.0,349.0,1252.0,6.0,28.0,2.0,7.0,0.0,13.0,SimmPh00
+115,Joe Jacoby,T,Louisville,1981,1993,2,4,11,84,170,,,,0.0,,,,,,,0.0,,,,0.0,,JacoJo00
+116,Jim Riggs,TE,Fort Knox,1987,1993,0,0,0,3,82,,,,0.0,,,,,,,0.0,,37.0,274.0,0.0,21.0,RiggJi20
+117,Chuck Bradley,T,Covington,1993,1993,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,BradCh20
+118,Frank Minnifield,DB,Lexington,1984,1992,1,4,9,64,122,,,,0.0,,,,,,,0.0,,0.0,0.0,0.0,0.0,MinnFr00
+119,Ken Willis,K,Owensboro,1990,1992,0,0,0,9,47,,,,0.0,,,,,,,0.0,,,,0.0,,williken01
+120,Mark Sander,LB,Louisville,1992,1992,0,0,0,2,12,,,,0.0,,,,,,,0.0,,,,0.0,,SandMa20
+121,Bubba Paris,T,Hardin County,1983,1991,0,0,7,51,130,,,,0.0,,,,,,,0.0,,,,0.0,,PariBu20
+122,George Adams,RB,Lexington,1985,1991,0,0,1,13,76,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,257.0,886.0,3.0,39.0,111.0,1014.0,4.0,70.0,AdamGe00
+123,Steve Gabbard,DT,Lexington,1991,1991,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,GabbSt20
+124,Donnie Gardner,DE,Louisville,1991,1991,0,0,0,1,10,,,,0.0,,,,,,,0.0,,,,0.0,,GardDo20
+125,Dwayne Woodruff,DB,Bowling Green,1979,1990,0,0,8,49,157,,,,0.0,,,,,,,0.0,,,,0.0,,WoodDw20
+126,Chris Foote,C,Louisville,1980,1990,0,0,0,10,104,,,,0.0,,,,,,,0.0,,,,0.0,,FootCh20
+127,Cornell Burbage,WR,Lexington,1987,1989,0,0,0,3,23,,,,0.0,,,,,,,0.0,,26.0,352.0,2.0,77.0,BurbCo00
+128,John Shannon,DT,Lexington,1988,1989,0,0,0,2,25,,,,0.0,,,,,,,0.0,,,,0.0,,ShanJo20
+129,Byron Ingram,G,Lexington,1987,1988,0,0,0,3,13,,,,0.0,,,,,,,0.0,,,,0.0,,IngrBy20
+130,Rick Massie,WR,Paris,1987,1988,0,0,0,2,13,,,,0.0,,,,,,,0.0,,16.0,283.0,4.0,39.0,MassRi20
+131,Jerry Reese,DE,Hopkinsville,1988,1988,0,0,0,1,15,,,,0.0,,,,,,,0.0,,,,0.0,,ReesJe20
+132,Elois Grooms,DE,Tompkinsville,1975,1987,0,0,7,40,138,,,,0.0,,,,,,,0.0,,1.0,3.0,1.0,3.0,GrooEl20
+133,Jim Ramey,DE,Louisville,1979,1987,0,0,0,2,10,,,,0.0,,,,,,,0.0,,,,0.0,,RameJi20
+134,Kelly Kirchbaum,LB,Fort Knox,1980,1987,0,0,0,0,4,,,,0.0,,,,,,,0.0,,,,0.0,,KircKe20
+135,Joe Phillips,WR,Franklin,1985,1987,0,0,0,0,6,,,,0.0,,,,,,,0.0,,,,0.0,,PhilJo21
+136,Gary Dulin,DE,Madisonville,1986,1987,0,0,0,2,6,,,,0.0,,,,,,,0.0,,,,0.0,,DuliGa20
+137,Randy Frazier,LB,Letcher County,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,FrazRa20
+138,Carl Brazley,DB,Louisville,1987,1987,0,0,0,1,2,,,,0.0,,,,,,,0.0,,,,0.0,,BrazCa21
+139,Curtis Jeffries,TE,Louisville,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,JeffCu20
+140,Kevin Lamar,G,Louisville,1987,1987,0,0,0,0,1,,,,0.0,,,,,,,0.0,,,,0.0,,LamaKe20
+141,Derrick Thomas,RB,Paducah,1987,1987,0,0,0,0,1,,,,0.0,,,,,1.0,2.0,0.0,2.0,,,0.0,,ThomDe21
+142,Keith Bosley,T,Richmond,1987,1987,0,0,0,2,3,,,,0.0,,,,,,,0.0,,,,0.0,,BoslKe20
+143,Boris Byrd,DB,Warren County,1987,1987,0,0,0,0,3,,,,0.0,,,,,,,0.0,,,,0.0,,ByrdBo20
+144,Chris Brown,DB,Owensboro,1984,1985,0,0,0,3,22,,,,0.0,,,,,,,0.0,,,,0.0,,BrowCh24
+145,Dan Neal,C,Corbin,1973,1983,0,0,7,37,134,,,,0.0,,,,,1.0,-6.0,0.0,0.0,,,0.0,,NealDa20
+146,Mike Shumann,WR,Louisville,1978,1983,0,0,1,8,63,,,,0.0,,,,,1.0,19.0,0.0,19.0,62.0,760.0,5.0,39.0,ShumMi00
+147,Frank LeMaster,LB,Lexington,1974,1982,0,1,8,58,129,,,,0.0,,,,,8.0,101.0,0.0,30.0,1.0,-4.0,0.0,0.0,LeMaFr00
+148,Coy Bacon,DE,Cadiz,1968,1981,0,3,11,71,180,,,,0.0,,,,,,,0.0,,,,0.0,,BacoCo00
+149,Joe Federspiel,LB,Louisville,1972,1981,0,0,10,42,141,,,,0.0,,,,,,,0.0,,,,0.0,,FedeJo21
+150,Steve Raible,WR,Louisville,1976,1981,0,0,0,10,84,,,,0.0,,,,,3.0,15.0,0.0,13.0,68.0,1017.0,3.0,80.0,RaibSt00
+151,Greg Bright,DB,Fort Campbell,1980,1981,0,0,1,9,20,,,,0.0,,,,,,,0.0,,,,0.0,,BrigGr21
+152,David Shula,WR,Lexington,1981,1981,0,0,0,0,16,,,,0.0,,,,,,,0.0,,,,0.0,,ShulDa20
+153,Bob Winkel,DT,Paducah,1979,1980,0,0,0,4,31,,,,0.0,,,,,,,0.0,,,,0.0,,WinkBo20
+154,Jim Marshall,DE,Danville,1960,1979,0,2,20,102,282,,,,0.0,,,,,,,0.0,,,,0.0,,MarsJi00
+155,Dick Conn,DB,Louisville,1974,1979,0,0,0,10,58,,,,0.0,,,,,,,0.0,,,,0.0,,ConnDi20
+156,Virgil Livers,DB,Fairfield,1975,1979,0,0,5,27,68,,,,0.0,,,,,,,0.0,,,,0.0,,LiveVi20
+157,Joel Parker,WR,Louisville,1974,1977,0,0,2,5,22,0.0,1.0,0.0,0.0,0.0,0.0,1.0,6.0,2.0,2.0,0.0,6.0,51.0,585.0,6.0,58.0,ParkJo00
+158,Fred Rayhle,TE,Covington,1977,1977,0,0,0,0,2,,,,0.0,,,,,,,0.0,,,,0.0,,RayhFr20
+159,Howard Stidham,LB,Radcliff,1977,1977,0,0,0,1,4,,,,0.0,,,,,,,0.0,,,,0.0,,StidHo20
+160,Larry Schreiber,RB,Covington,1971,1976,0,0,2,22,74,,,,0.0,,,,,506.0,1749.0,10.0,23.0,117.0,982.0,4.0,64.0,SchrLa00
+161,Sonny Collins,RB,Madisonville,1976,1976,0,0,0,3,11,,,,0.0,,,,,91.0,319.0,0.0,47.0,4.0,37.0,0.0,20.0,CollSo00
+162,Irv Goode,G,Newport,1962,1974,0,2,10,58,162,,,,0.0,,,,,,,0.0,,,,0.0,,GoodIr00
+163,Dick Palmer,LB,Lexington,1970,1974,0,0,0,11,43,,,,0.0,,,,,,,0.0,,,,0.0,,PalmDi20
+164,Dave Means,DE,Hopkinsville,1974,1974,0,0,0,2,9,,,,0.0,,,,,,,0.0,,,,0.0,,MeanDa20
+165,Bubba McCollum,DT,Louisville,1974,1974,0,0,0,1,11,,,,0.0,,,,,,,0.0,,,,0.0,,McCoBu20
+166,Sam Gruneisen,C,Louisville,1962,1973,0,0,8,42,130,,,,0.0,,,,,,,0.0,,,,0.0,,GrunSa20
+167,Mo Moorman,G,Louisville,1968,1973,0,0,6,31,72,,,,0.0,,,,,,,0.0,,1.0,-1.0,0.0,0.0,MoorMo20
+168,Lee Bouggess,RB,Louisville,1970,1973,0,0,2,12,32,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,271.0,697.0,5.0,26.0,78.0,589.0,3.0,34.0,BougLe00
+169,Bill Bell,K,Fort Knox,1971,1973,0,0,0,3,31,,,,0.0,,,,,1.0,-3.0,0.0,0.0,,,0.0,,BellBi20
+170,Leo Hayden,RB,Louisville,1971,1973,0,0,0,0,13,,,,0.0,,,,,8.0,11.0,1.0,5.0,1.0,17.0,0.0,17.0,HaydLe00
+171,Lee Calland,DB,Louisville,1963,1972,0,0,5,32,101,,,,0.0,,,,,,,0.0,,,,0.0,,CallLe20
+172,John Matlock,C,Louisville,1967,1972,0,0,0,13,59,,,,0.0,,,,,,,0.0,,,,0.0,,MatlJo20
+173,Phil Clark,DB,Burlington,1967,1971,0,0,2,18,52,,,,0.0,,,,,,,0.0,,,,0.0,,ClarPh20
+174,Sam Ball,T,Henderson,1966,1970,0,0,3,25,61,,,,0.0,,,,,,,0.0,,,,0.0,,BallSa20
+175,Rick Norton,QB,Louisville,1966,1970,0,0,0,6,32,159.0,382.0,1815.0,7.0,65.0,30.0,47.0,430.0,19.0,41.0,0.0,13.0,,,0.0,,NortRi00
+176,Dicky Lyons,DB,Louisville,1970,1970,0,0,0,1,4,,,,0.0,,,,,,,0.0,,,,0.0,,LyonDi20
+177,Bob Talamini,G,Louisville,1960,1968,3,6,8,62,126,,,,0.0,,,,,0.0,14.0,0.0,14.0,,,0.0,,TalaBo00
+178,Dave Simmons,LB,Elizabethtown,1965,1968,0,0,1,12,44,,,,0.0,,,,,,,0.0,,,,0.0,,SimmDa20
+179,Rodger Bird,DB,Corbin,1966,1968,0,0,2,17,38,,,,0.0,,,,,,,0.0,,,,0.0,,BirdRo20
+180,Curt Gentry,DB,Waco,1966,1968,0,0,1,13,38,,,,0.0,,,,,,,0.0,,,,0.0,,GentCu20
+181,Bob Poole,TE,Paducah,1964,1967,0,0,0,3,50,,,,0.0,,,,,,,0.0,,19.0,223.0,0.0,19.0,PoolBo00
+182,Sherman Lewis,DB,Louisville,1966,1967,0,0,0,5,10,,,,0.0,,,,,,,0.0,,,,0.0,,LewiSh20
+183,Paul Hornung,HB,Louisville,1957,1966,2,2,8,45,104,24.0,55.0,383.0,5.0,41.0,4.0,2.0,30.0,893.0,3711.0,50.0,72.0,130.0,1480.0,12.0,83.0,HornPa00
+184,Tom Hutchinson,TE,Stanford,1963,1966,0,0,0,5,47,,,,0.0,,,,,,,0.0,,19.0,409.0,2.0,70.0,HutcTo00
+185,Mike Dukes,LB,Louisville,1960,1965,0,0,4,33,81,,,,0.0,,,,,,,0.0,,,,0.0,,DukeMi20
+186,Herschel Turner,T,Breathitt County,1964,1965,0,0,0,7,27,,,,0.0,,,,,,,0.0,,,,0.0,,TurnHe20
+187,Gerry Bussell,DB,Middlesboro,1965,1965,0,0,0,2,6,,,,0.0,,,,,,,0.0,,,,0.0,,BussGe20
+188,Glenn Shaw,FB,Paducah,1960,1964,0,0,0,2,29,,,,0.0,,,,,47.0,148.0,3.0,38.0,8.0,146.0,1.0,55.0,ShawGl00
+189,Matt Snorton,TE,Crofton,1964,1964,0,0,0,0,5,,,,0.0,,,,,,,0.0,,,,0.0,,SnorMa20
+190,Bob Dougherty,LB,Bellevue,1957,1963,0,0,5,20,69,,,,0.0,,,,,,,0.0,,,,0.0,,DougBo20
+191,Bob Butler,G,Madisonville,1962,1963,0,0,0,2,4,,,,0.0,,,,,,,0.0,,,,0.0,,ButlBo20
+192,Ted Greene,LB,,1960,1962,0,0,1,13,32,,,,0.0,,,,,,,0.0,,,,0.0,,GreeTe20
+193,Jack Scott,DT,Ashland,1960,1961,0,0,0,7,21,,,,0.0,,,,,,,0.0,,,,0.0,,ScotJa20
+194,Elbie Nickel,E,Fullerton,1947,1957,0,3,9,0,131,,,,0.0,,,,,,,0.0,,329.0,5131.0,37.0,77.0,NickEl00
+195,Fred Enke,QB,Louisville,1948,1954,0,0,3,0,68,297.0,689.0,4169.0,31.0,65.0,53.0,,507.0,170.0,640.0,1.0,41.0,4.0,39.0,0.0,18.0,EnkeFr20
+196,Willie Carter,HB,Louisville,1953,1953,0,0,0,0,8,,,,0.0,,,,,2.0,-3.0,0.0,2.0,,,0.0,,CartWi20
+197,Jay Rhodemyre,C,Ashland,1948,1952,0,0,4,0,45,,,,0.0,,,,,,,0.0,,,,0.0,,RhodJa20
+198,Bill Murray,G,Dayton,1950,1952,0,0,3,0,35,,,,0.0,,,,,,,0.0,,1.0,-4.0,0.0,0.0,MurrBi20
+199,Don Phelps,HB,Richmond,1950,1952,0,0,0,0,17,,,,0.0,,,,,55.0,263.0,3.0,33.0,1.0,28.0,0.0,28.0,PhelDo20
+200,Fred Davis,T,Louisville,1941,1951,0,2,5,0,97,,,,0.0,,,,,,,0.0,,,,0.0,,DaviFr00

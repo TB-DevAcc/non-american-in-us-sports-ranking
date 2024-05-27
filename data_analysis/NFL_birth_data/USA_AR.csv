@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Hunter Henry,TE,Little Rock,2016,2023,0,0,5,28,103,,,,0,,,,,,,0,,329.0,3853.0,38,59.0,HenrHu00
+2,Nick Mullens,QB,Little Rock,2018,2023,0,0,2,16,29,528.0,803.0,6391.0,34,85.0,31.0,48.0,371.0,44.0,22.0,0,7.0,,,0,,MullNi00
+3,Dre Greenlaw,OLB,Fayetteville,2019,2023,0,0,3,28,62,,,,0,,,,,,,0,,,,0,,GreeDr00
+4,Kiondre Thomas,CB,Fort Smith,2021,2023,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,ThomKi00
+5,Gregory Junior,CB,Crossett,2022,2023,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,JuniGr00
+6,Treylon Burks,WR,Warren,2022,2023,0,0,0,6,22,,,,0,,,,,9.0,65.0,0,20.0,49.0,665.0,1,70.0,BurkTr00
+7,Deuce Vaughn,RB,Fayetteville,2023,2023,0,0,0,1,7,,,,0,,,,,23.0,40.0,0,13.0,7.0,40.0,0,11.0,VaugDe00
+8,Brandon Allen,QB,Fayetteville,2019,2022,0,0,0,4,15,149.0,263.0,1611.0,10,75.0,6.0,21.0,143.0,33.0,64.0,0,11.0,0.0,0.0,0,0.0,AlleBr00
+9,Tre Norwood,DB,Fort Smith,2021,2022,0,0,0,3,32,,,,0,,,,,,,0,,,,0,,NorwTr00
+10,Demetrius Harris,TE,Jacksonville,2014,2021,0,0,3,6,115,,,,0,,,,,,,0,,82.0,809.0,9,51.0,HarrDe03
+11,Jeremy Sprinkle,TE,Pine Bluff,2017,2021,0,0,2,2,76,,,,0,,,,,,,0,,37.0,332.0,3,23.0,SpriJe00
+12,K.J. Hill,WR,Little Rock,2020,2021,0,0,0,1,21,,,,0,,,,,,,0,,10.0,103.0,0,25.0,HillKJ00
+13,Damarea Crockett,RB,Little Rock,2021,2021,0,0,0,0,12,,,,0,,,,,3.0,7.0,0,6.0,,,0,,CrocDa01
+14,Clinton McDonald,DT,Jacksonville,2010,2019,0,0,2,26,121,,,,0,,,,,,,0,,,,0,,McDoCl99
+15,Charles Clay,TE,Little Rock,2011,2019,0,0,9,29,127,,,,0,,,,,7.0,15.0,1,13.0,357.0,3868.0,24,67.0,ClayCh00
+16,Jarius Wright,WR,Warren,2012,2019,0,0,1,24,111,,,,0,,,,,11.0,143.0,0,34.0,224.0,2782.0,11,87.0,WrigJa02
+17,Jermey Parnell,T,Blytheville,2011,2018,0,0,4,29,111,,,,0,,,,,,,0,,,,0,,ParnJe00
+18,Martrell Spaight,OLB,Little Rock,2015,2018,0,0,0,6,37,,,,0,,,,,,,0,,,,0,,SpaiMa00
+19,Kenneth Dixon,RB,El Dorado,2016,2018,0,0,0,5,18,,,,0,,,,,148.0,715.0,4,37.0,36.0,213.0,1,21.0,DixoKe00
+20,Darren McFadden,RB,North Little Rock,2008,2017,0,0,4,39,103,1.0,4.0,16.0,1,16.0,0.0,1.0,5.0,1302.0,5421.0,28,70.0,254.0,2114.0,5,67.0,McFaDa00
+21,Ryan Mallett,QB,Batesville,2012,2017,0,0,0,4,21,190.0,345.0,1835.0,9,48.0,10.0,7.0,37.0,28.0,-5.0,1,6.0,,,0,,MallRy00
+22,Cedric Thornton,DT,Star City,2012,2017,0,0,3,24,89,,,,0,,,,,,,0,,,,0,,ThorCe00
+23,DeAngelo Williams,RB,Little Rock,2006,2016,0,1,6,61,142,,,,0,,,,,1730.0,8096.0,61,77.0,236.0,2106.0,9,72.0,WillDe02
+24,David Johnson,TE,Pine Bluff,2009,2016,0,0,1,3,98,,,,0,,,,,2.0,4.0,0,2.0,31.0,304.0,1,32.0,JohnDa05
+25,Kevin Williams,DT,Arkadelphia,2003,2015,5,6,12,102,203,,,,0,,,,,,,0,,,,0,,WillKe98
+26,Chris Gragg,TE,Pine Bluff,2013,2015,0,0,0,1,32,,,,0,,,,,,,0,,24.0,251.0,2,29.0,GragCh00
+27,Zach Hocker,K,Russelville,2015,2015,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,HockZa00
+28,Peyton Hillis,RB,Conway,2008,2014,0,0,3,21,81,1.0,3.0,13.0,0,13.0,0.0,0.0,0.0,696.0,2832.0,23,48.0,134.0,1050.0,3,52.0,HillPe00
+29,Damian Williams,WR,Springdale,2010,2014,0,0,1,10,57,,,,0,,,,,1.0,5.0,0,5.0,107.0,1327.0,5,54.0,WillDa04
+30,Jerry Franklin,LB,Marion,2012,2014,0,0,0,2,20,,,,0,,,,,,,0,,,,0,,FranJe00
+31,Jake Bequette,DE,Little Rock,2012,2013,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,BequJa00
+32,Jake Byrne,TE,Rogers,2013,2013,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,ByrnJa00
+33,Dennis Johnson,RB,Texarkana,2013,2013,0,0,0,1,8,,,,0,,,,,49.0,183.0,0,29.0,8.0,46.0,0,14.0,JohnDe02
+34,Corey Williams,DT,Camden,2004,2012,0,0,5,33,126,,,,0,,,,,,,0,,,,0,,WillCo21
+35,Chris Harris,DB,Little Rock,2005,2012,0,0,6,38,101,,,,0,,,,,,,0,,,,0,,HarrCh20
+36,Jamaal Anderson,DE,Little Rock,2007,2012,0,0,3,20,77,,,,0,,,,,,,0,,,,0,,AndeJa98
+37,Tyrell Johnson,DB,Rison,2008,2012,0,0,1,10,53,,,,0,,,,,,,0,,,,0,,JohnTy99
+38,Mitch Petrus,G,Carlisle,2010,2012,0,0,0,4,27,,,,0,,,,,,,0,,,,0,,PetrMi20
+39,Joe Adams,WR,Little Rock,2012,2012,0,0,0,0,9,,,,0,,,,,3.0,13.0,0,5.0,1.0,7.0,0,7.0,AdamJo01
+40,Stacy Andrews,T,Camden,2004,2011,0,0,3,23,94,,,,0,,,,,,,0,,,,0,,AndrSt21
+41,Frank Okam,DT,Pine Bluff,2008,2011,0,0,0,3,25,,,,0,,,,,,,0,,,,0,,OkamFr99
+42,Julius Pruitt,WR,Newport,2011,2011,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,PruiJu00
+43,Lee Ziemba,OL,Rogers,2011,2011,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,ZiemLe00
+44,Zack Pianalto,TE,Springdale,2011,2011,0,0,0,0,13,,,,0,,,,,,,0,,4.0,40.0,0,15.0,PianZa00
+45,Shawn Andrews,G,Camden,2004,2010,1,2,3,35,63,,,,0,,,,,,,0,,,,0,,AndrSh55
+46,Marcus Harrison,DT,Little Rock,2008,2010,0,0,1,6,37,,,,0,,,,,,,0,,,,0,,HarrMa98
+47,Marcus Brown,DB,Marianna,2010,2010,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BrowMa25
+48,Mark Bradley,WR,Pine Bluff,2005,2009,0,0,0,10,57,2.0,2.0,63.0,1,37.0,0.0,0.0,0.0,2.0,20.0,0,22.0,92.0,1283.0,9,75.0,BradMa00
+49,Torrance Daniels,LB,Clarendon,2006,2009,0,0,0,1,27,,,,0,,,,,,,0,,,,0,,DaniTo20
+50,Kevin Payne,DB,El Dorado,2007,2009,0,0,1,10,32,,,,0,,,,,,,0,,,,0,,PaynKe99
+51,Oren O'Neal,FB,Stuttgart,2007,2009,0,0,0,0,18,,,,0,,,,,1.0,0.0,0,0.0,1.0,1.0,0,1.0,ONeaOr00
+52,Jonathan Luigs,C,Little Rock,2009,2009,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,LuigJo20
+53,Matt Jones,WR,Fort Smith,2005,2008,0,0,1,22,54,2.0,3.0,12.0,0,6.0,0.0,0.0,0.0,14.0,36.0,0,25.0,166.0,2153.0,15,49.0,JoneMa00
+54,Weston Dacus,LB,Searcy,2008,2008,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,DacuWe99
+55,Keith Traylor,DT,Little Rock,1991,2007,0,0,11,60,229,,,,0,,,,,,,0,,,,0,,TrayKe20
+56,Priest Holmes,RB,Fort Smith,1997,2007,3,3,5,82,113,0.0,3.0,0.0,0,0.0,1.0,0.0,0.0,1780.0,8172.0,86,72.0,339.0,2962.0,8,67.0,HolmPr00
+57,Greg Wesley,DB,Little Rock,2000,2007,0,0,7,39,118,,,,0,,,,,,,0,,,,0,,WeslGr20
+58,Jon Bradley,DT,West Helena,2004,2007,0,0,0,3,41,,,,0,,,,,5.0,9.0,0,3.0,2.0,10.0,0,8.0,BradJo20
+59,Rod Smith,WR,Texarkana,1995,2006,0,3,10,104,183,2.0,5.0,86.0,0,72.0,0.0,1.0,11.0,44.0,348.0,1,50.0,849.0,11389.0,68,85.0,SmitRo01
+60,Cedric Cobbs,RB,Little Rock,2004,2006,0,0,0,0,5,,,,0,,,,,25.0,59.0,0,13.0,,,0,,CobbCe00
+61,Cedric Houston,RB,Clarendon,2005,2006,0,0,0,5,20,,,,0,,,,,194.0,676.0,7,31.0,15.0,109.0,0,16.0,HousCe00
+62,Ran Carthon,RB,Osceola,2005,2006,0,0,0,0,9,,,,0,,,,,16.0,22.0,2,7.0,1.0,10.0,0,10.0,CartRa00
+63,Ray Brown,G,Marion,1986,2005,0,1,12,78,262,,,,0,,,,,,,0,,,,0,,BrowRa00
+64,Willie Roaf,T,Pine Bluff,1993,2005,4,11,12,111,189,,,,0,,,,,,,0,,,,0,,RoafWi00
+65,Steve Foley,LB,Little Rock,1998,2005,0,0,5,30,96,,,,0,,,,,,,0,,,,0,,FoleSt21
+66,Dat Nguyen,LB,Fort Chaffee,1999,2005,0,0,4,37,90,,,,0,,,,,,,0,,,,0,,NguyDa20
+67,Reggie Swinton,WR,Little Rock,2001,2005,0,0,0,8,69,,,,0,,,,,6.0,33.0,0,23.0,41.0,493.0,2,45.0,SwinRe00
+68,Carlos Hall,DE,Marianna,2002,2005,0,0,2,17,59,,,,0,,,,,,,0,,,,0,,HallCa20
+69,William Hampton,DB,Little Rock,2001,2004,0,0,0,2,22,,,,0,,,,,,,0,,,,0,,HampWi20
+70,Chris Akins,DB,Little Rock,1999,2003,0,0,0,4,61,,,,0,,,,,,,0,,,,0,,AkinCh20
+71,Joe Davenport,TE,Springdale,2001,2003,0,0,0,1,29,,,,0,,,,,,,0,,11.0,93.0,0,22.0,DaveJo00
+72,Charles Stackhouse,FB,West Memphis,2002,2003,0,0,0,1,30,,,,0,,,,,1.0,0.0,0,0.0,19.0,118.0,3,18.0,StacCh00
+73,Trey Junkin,TE,Conway,1983,2002,0,0,0,2,281,,,,0,,,,,,,0,,17.0,144.0,7,28.0,JunkTr20
+74,Robert Thomas,FB,Little Rock,1998,2002,0,0,3,4,68,,,,0,,,,,39.0,157.0,0,24.0,50.0,280.0,3,23.0,ThomRo02
+75,Kevin Williams,DB,Pine Bluff,1998,2002,0,0,0,8,43,,,,0,,,,,,,0,,,,0,,WillKe25
+76,Madre Hill,RB,Malvern,1999,2002,0,0,0,0,7,,,,0,,,,,,,0,,0.0,0.0,0,0.0,HillMa20
+77,Henry Burris,QB,Fort Smith,2002,2002,0,0,0,1,6,18.0,51.0,207.0,3,45.0,5.0,4.0,20.0,15.0,104.0,0,17.0,,,0,,BurrHe00
+78,J.J. Jones,LB,Little Rock,2002,2002,0,0,0,1,13,,,,0,,,,,,,0,,,,0,,JoneJ.20
+79,Jackie Harris,TE,Pine Bluff,1990,2001,0,0,8,33,167,,,,0,,,,,1.0,1.0,0,1.0,393.0,4410.0,25,66.0,HarrJa00
+80,Cortez Kennedy,DT,Osceola,1990,2000,3,8,9,97,167,,,,0,,,,,,,0,,,,0,,KennCo00
+81,Isaac Jones,WR,Little Rock,1999,2000,0,0,0,0,2,,,,0,,,,,,,0,,1.0,8.0,0,8.0,JoneIs00
+82,Ryan Hale,DT,Rogers,1999,2000,0,0,0,2,25,,,,0,,,,,,,0,,,,0,,HaleRy20
+83,Leslie O'Neal,DE,Little Rock,1986,1999,0,6,12,89,196,,,,0,,,,,,,0,,,,0,,ONeaLe00
+84,Eric Hill,LB,Blytheville,1989,1999,0,0,11,52,160,,,,0,,,,,,,0,,,,0,,HillEr20
+85,Wayne Martin,DE,Forrest City,1989,1999,0,1,10,68,171,,,,0,,,,,,,0,,0.0,0.0,0,0.0,MartWa00
+86,Lawrence Phillips,RB,Little Rock,1996,1999,0,0,2,11,35,0.0,0.0,0.0,0,0.0,0.0,1.0,12.0,424.0,1453.0,14,68.0,34.0,219.0,1,47.0,PhilLa00
+87,Melvin Bradley,LB,Barton,1999,1999,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BradMe20
+88,Ronnie Powell,WR,Hope,1999,1999,0,0,0,0,14,,,,0,,,,,1.0,-14.0,0,-14.0,1.0,45.0,0,45.0,PoweRo00
+89,Willie Davis,WR,Little Rock,1991,1998,0,0,7,40,108,1.0,1.0,22.0,1,22.0,0.0,0.0,0.0,2.0,4.0,0,15.0,286.0,4503.0,33,74.0,DaviWi00
+90,Mike Cherry,QB,Texarkana,1997,1998,0,0,0,0,2,0.0,1.0,0.0,0,0.0,0.0,1.0,9.0,4.0,-5.0,0,-1.0,,,0,,CherMi00
+91,Lamanzer Williams,DE,Greensboro,1998,1998,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WillLa20
+92,Derek Russell,WR,Little Rock,1991,1997,0,0,2,22,88,,,,0,,,,,1.0,6.0,0,6.0,172.0,2401.0,8,57.0,RussDe00
+93,Isaac Davis,G,Malvern,1994,1997,0,0,2,14,58,,,,0,,,,,,,0,,,,0,,DaviIs20
+94,Tyree Davis,WR,Altheimer,1995,1997,0,0,0,0,14,,,,0,,,,,,,0,,2.0,48.0,0,37.0,DaviTy20
+95,Ray Nealy,RB,Little Rock,1997,1997,0,0,0,0,1,,,,0,,,,,1.0,2.0,0,2.0,,,0,,NealRa00
+96,Elbert Shelley,DB,Tyronza,1987,1996,0,4,0,12,119,,,,0,,,,,,,0,,,,0,,ShelEl00
+97,Keith Jackson,TE,Little Rock,1988,1996,3,5,7,43,129,,,,0,,,,,,,0,,441.0,5283.0,49,73.0,JackKe00
+98,James Williams,DB,Osceola,1990,1996,0,0,2,17,70,,,,0,,,,,,,0,,,,0,,WillJa23
+99,Carl Kidd,DB,Pine Bluff,1995,1996,0,0,0,3,29,,,,0,,,,,,,0,,,,0,,KiddCa20
+100,Freddie Bradley,RB,Helena,1996,1996,0,0,0,1,10,,,,0,,,,,32.0,109.0,0,17.0,1.0,20.0,0,20.0,BradFr00
+101,Doug Terry,DB,Dumas,1992,1995,0,0,0,7,57,,,,0,,,,,,,0,,,,0,,TerrDo20
+102,Darwin Ireland,LB,Pine Bluff,1994,1995,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,IrelDa20
+103,Monte Coleman,RLB,Pine Bluff,1979,1994,0,0,4,41,215,,,,0,,,,,1.0,-1.0,0,0.0,1.0,12.0,0,12.0,ColeMo20
+104,Todd Jones,T,Hope,1993,1993,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,JoneTo20
+105,Roy Green,WR,Magnolia,1979,1992,2,2,9,70,190,1.0,2.0,20.0,0,20.0,0.0,1.0,9.0,23.0,140.0,1,44.0,559.0,8965.0,66,83.0,GreeRo01
+106,Ronnie Lee,T,Pine Bluff,1979,1992,0,0,8,43,186,,,,0,,,,,,,0,,25.0,167.0,3,41.0,LeexRo20
+107,Billy Ray Smith,LB,Fayetteville,1983,1992,0,0,7,46,126,0.0,1.0,0.0,0,0.0,1.0,0.0,0.0,,,0,,,,0,,SmitBi22
+108,Freddie Childress,G,Little Rock,1991,1992,0,0,0,4,31,,,,0,,,,,,,0,,,,0,,ChilFr20
+109,James Rouse,RB,Little Rock,1990,1991,0,0,0,1,30,,,,0,,,,,43.0,130.0,0,10.0,15.0,93.0,0,14.0,RousJa20
+110,Jessie Clark,RB,Thebes,1983,1990,0,0,3,18,88,,,,0,,,,,415.0,1736.0,9,80.0,102.0,943.0,6,75.0,ClarJe00
+111,Stanley Blair,DB,Pine Bluff,1990,1990,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,BlaiSt20
+112,Jeff Walker,T,Jonesboro,1986,1989,0,0,0,2,30,,,,0,,,,,,,0,,,,0,,WalkJe20
+113,David Ward,LB,Helena,1987,1989,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,WardDa21
+114,Mike Junkin,RILB,North Little Rock,1987,1989,0,0,0,3,20,,,,0,,,,,,,0,,,,0,,JunkMi20
+115,Raphel Cherry,DB,Little Rock,1985,1988,0,0,1,10,42,,,,0,,,,,,,0,,1.0,11.0,0,11.0,CherRa20
+116,Dennis Woodberry,DB,Texarkana,1986,1988,0,0,0,4,31,,,,0,,,,,,,0,,,,0,,WoodDe20
+117,Greg Horne,P,Russellville,1987,1988,0,0,0,4,25,,,,0,,,,,3.0,20.0,0,20.0,,,0,,HornGr20
+118,Curtis Burrow,K,Brinkley,1988,1988,0,0,0,-1,1,,,,0,,,,,,,0,,,,0,,burrocur01
+119,Greg Lee,DB,Pine Bluff,1988,1988,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,LeexGr20
+120,Reggie Wilkes,LB,Pine Bluff,1978,1987,0,0,7,49,137,,,,0,,,,,,,0,,,,0,,WilkRe20
+121,Trent Bryant,DB,Arkadelphia,1981,1987,0,0,0,4,32,,,,0,,,,,,,0,,,,0,,BryaTr20
+122,John Simmons,DB,Little Rock,1981,1987,0,0,0,6,72,,,,0,,,,,,,0,,,,0,,SimmJo20
+123,Danny Walters,DB,Prescott,1983,1987,0,0,3,17,54,,,,0,,,,,,,0,,,,0,,WaltDa22
+124,Daniel Hunter,DB,Arkadelphia,1985,1987,0,0,0,4,43,,,,0,,,,,,,0,,,,0,,HuntDa22
+125,Jimmy Walker,DT,Camden,1987,1987,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,WalkJi20
+126,Keith Kidd,WR,Crossett,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,KiddKe20
+127,Dexter Clark,DB,Dermott,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,ClarDe20
+128,Arrike James,RB,Dumas,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,1.0,14.0,0,14.0,JameAr20
+129,Terry Love,DB,Forrest City,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LoveTe20
+130,Joe Dixon,NT,Fort Smith,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,DixoJo20
+131,Enis Jackson,DB,Helena,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,JackEn20
+132,Brian Sisley,DE,Hot Springs,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,SislBr20
+133,Stacy Gore,P,Jonesboro,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,GoreSt20
+134,Theo Young,TE,Newport,1987,1987,0,0,0,0,12,,,,0,,,,,,,0,,2.0,10.0,0,6.0,YounTh20
+135,Dave Burnette,T,Parkin,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BurnDa21
+136,Danny Bradley,RB,Pine Bluff,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,7.0,50.0,2,14.0,BradDa21
+137,Leonard Jackson,LB,Pine Bluff,1987,1987,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,JackLe20
+138,Bobby Duckworth,WR,Crossett,1982,1986,0,0,0,16,62,,,,0,,,,,,,0,,82.0,1784.0,13,88.0,DuckBo00
+139,August Curley,LILB,Little Rock,1983,1986,0,0,1,7,38,,,,0,,,,,,,0,,,,0,,CurlAu20
+140,Vince Warren,WR,Little Rock,1986,1986,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,WarrVi20
+141,Don Rogers,DB,Texarkana,1984,1985,0,0,2,13,31,,,,0,,,,,,,0,,,,0,,RogeDo21
+142,Earnest Rhone,RILB,Ogden,1975,1984,0,0,3,40,116,,,,0,,,,,,,0,,,,0,,RhonEa20
+143,Dwight Scales,WR,Little Rock,1976,1984,0,0,0,12,90,,,,0,,,,,,,0,,56.0,1120.0,4,80.0,ScalDw00
+144,Jimmy Rogers,RB,Forrest City,1980,1984,0,0,1,7,72,,,,0,,,,,175.0,661.0,3,32.0,33.0,296.0,2,43.0,RogeJi00
+145,Tony Woodruff,WR,Hazen,1982,1984,0,0,0,5,23,,,,0,,,,,,,0,,36.0,554.0,5,38.0,WoodTo00
+146,Stan Adams,LB,Marion,1984,1984,0,0,0,1,4,,,,0,,,,,,,0,,,,0,,AdamSt20
+147,Freddie Scott,WR,Grady,1974,1983,0,0,6,41,132,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,25.0,191.0,1,48.0,262.0,4270.0,20,50.0,ScotFr01
+148,James White,DT,Hot Springs,1976,1983,0,0,4,36,117,,,,0,,,,,,,0,,,,0,,WhitJa20
+149,Mike McCoy,DB,West Memphis,1976,1983,0,0,7,37,110,,,,0,,,,,,,0,,,,0,,McCoMi22
+150,Leotis Harris,G,Little Rock,1978,1983,0,0,4,26,74,,,,0,,,,,,,0,,,,0,,HarrLe20
+151,Cleo Miller,RB,Gould,1974,1982,0,0,2,30,115,,,,0,,,,,593.0,2492.0,16,50.0,140.0,1175.0,1,38.0,MillCl00
+152,Phil Tabor,DE,Little Rock,1979,1982,0,0,1,15,56,,,,0,,,,,,,0,,,,0,,TaboPh20
+153,Ike Harris,WR,West Memphis,1975,1981,0,0,5,32,88,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,4.0,31.0,0,22.0,211.0,3305.0,16,45.0,HarrIk00
+154,Ike Forte,RB,Texarkana,1976,1981,0,0,0,8,64,,,,0,,,,,165.0,511.0,5,26.0,39.0,387.0,2,28.0,FortIk00
+155,Ray Phillips,OLB,Fordyce,1977,1981,0,0,0,11,69,,,,0,,,,,,,0,,,,0,,PhilRa20
+156,Jerry Eckwood,RB,Brinkley,1979,1981,0,0,3,18,47,0.0,5.0,0.0,0,0.0,0.0,1.0,1.0,515.0,1845.0,6,61.0,93.0,956.0,1,40.0,EckwJe00
+157,Ken Poole,DE,Hermitage,1981,1981,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,PoolKe20
+158,Terry Nelson,TE,Arkadelphia,1973,1980,0,0,3,13,87,,,,0,,,,,12.0,85.0,1,18.0,87.0,1113.0,6,52.0,NelsTe00
+159,Larry Brunson,WR,Little Rock,1974,1980,0,0,3,18,79,,,,0,,,,,12.0,63.0,0,65.0,104.0,1787.0,6,84.0,BrunLa00
+160,Paul Tabor,C,Little Rock,1980,1980,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,TaboPa20
+161,Chuck Herman,G,North Little Rock,1980,1980,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HermCh20
+162,Rufus Mayes,T,Clarksdale,1969,1979,0,0,7,53,139,,,,0,,,,,,,0,,,,0,,MayeRu20
+163,Cliff Harris,DB,Fayetteville,1970,1979,3,6,9,80,141,,,,0,,,,,,,0,,,,0,,HarrCl00
+164,Jimmy Childs,WR,El Dorado,1978,1979,0,0,0,1,21,,,,0,,,,,,,0,,12.0,143.0,1,23.0,ChilJi20
+165,Cleveland Jackson,TE,Crossett,1979,1979,0,0,0,0,2,,,,0,,,,,,,0,,1.0,7.0,0,7.0,JackCl20
+166,Chris DeFrance,WR,Waldo,1979,1979,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,DeFrCh20
+167,James McAlister,RB,Little Rock,1975,1978,0,0,0,7,43,,,,0,,,,,190.0,677.0,3,20.0,30.0,218.0,2,39.0,McAlJa00
+168,Jerry Latin,RB,Prescott,1975,1978,0,0,0,6,51,,,,0,,,,,140.0,560.0,4,57.0,16.0,152.0,0,20.0,LatiJe00
+169,Scott Bull,QB,Camden,1976,1978,0,0,0,5,36,76.0,193.0,992.0,3,48.0,17.0,33.0,251.0,49.0,186.0,3,18.0,,,0,,BullSc00
+170,Dave Mays,QB,Pine Bluff,1976,1978,0,0,0,5,12,80.0,156.0,937.0,7,60.0,11.0,9.0,82.0,9.0,16.0,0,6.0,,,0,,MaysDa00
+171,Phil Dokes,DT,North Little Rock,1977,1978,0,0,1,5,22,,,,0,,,,,,,0,,,,0,,DokePh20
+172,Gerald Skinner,T,Malvern,1978,1978,0,0,0,2,15,,,,0,,,,,,,0,,,,0,,SkinGe20
+173,Calvin O'Neal,LB,Osceola,1978,1978,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,ONeaCa20
+174,Ralph Neely,T,Little Rock,1965,1977,3,2,12,86,172,,,,0,,,,,1.0,10.0,0,10.0,,,0,,NeelRa00
+175,Eddie Moss,RB,Dell,1973,1977,0,0,0,0,35,,,,0,,,,,22.0,66.0,1,13.0,,,0,,MossEd00
+176,Stan Winfrey,RB,Forrest City,1975,1977,0,0,0,3,30,,,,0,,,,,55.0,215.0,1,13.0,6.0,55.0,1,16.0,WinfSt00
+177,Steve Burks,WR,Little Rock,1975,1977,0,0,0,2,34,,,,0,,,,,1.0,2.0,0,2.0,13.0,264.0,0,76.0,BurkSt00
+178,Jimmy Gunn,RLB,Augusta,1970,1976,0,0,2,22,86,,,,0,,,,,,,0,,,,0,,GunnJi20
+179,Roscoe Word,DB,Pine Bluff,1974,1976,0,0,2,10,37,,,,0,,,,,,,0,,,,0,,WordRo20
+180,Jim Weatherly,C,Hazen,1976,1976,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,WeatJi21
+181,Freddie Douglas,WR,McGehee,1976,1976,0,0,0,0,7,,,,0,,,,,,,0,,3.0,58.0,0,35.0,DougFr00
+182,Willie Frazier,TE,El Dorado,1964,1975,1,3,4,32,121,,,,0,,,,,6.0,118.0,1,70.0,209.0,3088.0,36,80.0,FrazWi00
+183,Billy Lefear,RB,Magnolia,1972,1975,0,0,0,2,43,,,,0,,,,,35.0,143.0,0,43.0,10.0,73.0,0,14.0,LeFeBi00
+184,Jim Thrower,DB,Camden,1970,1974,0,0,0,7,46,,,,0,,,,,,,0,,,,0,,ThroJi20
+185,Carl Wafer,DE,Magnolia,1974,1974,0,0,0,1,3,,,,0,,,,,,,0,,,,0,,WafeCa20
+186,Danny Rhodes,LB,Texarkana,1974,1974,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,RhodDa20
+187,Glen Ray Hines,T,El Dorado,1966,1973,0,2,8,41,112,,,,0,,,,,,,0,,,,0,,HineGl00
+188,Mike Simpson,DB,Mena,1970,1973,0,0,2,11,41,,,,0,,,,,,,0,,,,0,,SimpMi20
+189,Jim Files,LB,Paris,1970,1973,0,0,4,23,56,,,,0,,,,,,,0,,,,0,,FileJi20
+190,W.K. Hicks,DB,Texarkana,1964,1972,0,1,8,50,125,,,,0,,,,,,,0,,,,0,,HickW.00
+191,Glen Condren,DT,Fort Smith,1965,1972,0,0,4,24,79,,,,0,,,,,,,0,,,,0,,CondGl20
+192,Jim Lindsey,RB,Caldwell,1966,1972,0,0,0,12,84,,,,0,,,,,178.0,566.0,6,19.0,56.0,632.0,4,49.0,LindJi00
+193,Roy Shivers,RB,Halley,1966,1972,0,0,0,11,73,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,176.0,680.0,10,42.0,38.0,400.0,4,40.0,ShivRo00
+194,Gene Howard,DB,Little Rock,1968,1972,0,0,4,25,63,,,,0,,,,,,,0,,,,0,,HowaGe20
+195,Bob Wallace,WR,Texarkana,1968,1972,0,0,2,15,59,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,8.0,45.0,0,18.0,109.0,1403.0,9,58.0,WallBo00
+196,Mike Carter,WR,Little Rock,1970,1972,0,0,0,0,7,,,,0,,,,,1.0,25.0,0,25.0,2.0,24.0,0,14.0,CartMi00
+197,Paul Gibson,WR,Paris,1972,1972,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GibsPa21
+198,Elijah Pitts,HB,Mayflower,1961,1971,0,0,2,28,134,4.0,9.0,113.0,1,51.0,0.0,0.0,0.0,514.0,1788.0,28,34.0,104.0,1245.0,6,84.0,PittEl00
+199,Travis Williams,RB,El Dorado,1967,1971,0,0,0,21,62,,,,0,,,,,289.0,1166.0,6,39.0,52.0,598.0,5,60.0,WillTr00
+200,Willie Jones,DT,Moro,1967,1971,0,0,0,7,22,,,,0,,,,,,,0,,,,0,,JoneWi20

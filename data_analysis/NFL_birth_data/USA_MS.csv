@@ -1,0 +1,201 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Fletcher Cox,DT,Yazoo City,2012,2023,1,6,11,95,188,,,,0,,,,,,,0,,,,0,,CoxxFl00
+2,Demario Davis,OLB,Collins,2012,2023,1,2,10,98,194,,,,0,,,,,,,0,,,,0,,DaviDe00
+3,Gabe Jackson,G,Liberty,2014,2023,0,0,9,47,136,,,,0,,,,,,,0,,2.0,-5.0,0,1.0,JackGa00
+4,Ty Montgomery,WR,Jackson,2015,2023,0,0,1,17,92,,,,0,,,,,263.0,1187.0,7,61.0,147.0,1159.0,4,43.0,MontTy01
+5,Mario Edwards,DE,Gautier,2015,2023,0,0,1,18,114,,,,0,,,,,,,0,,,,0,,EdwaMa01
+6,Chris Jones,DT,Houston,2016,2023,2,5,7,77,123,,,,0,,,,,,,0,,,,0,,JoneCh09
+7,Justin Evans,SS,Wiggins,2017,2023,0,0,2,10,43,,,,0,,,,,,,0,,,,0,,EvanJu00
+8,J.T. Gray,DB,Clarksdale,2018,2023,1,1,0,13,81,,,,0,,,,,,,0,,,,0,,GrayJ.00
+9,Logan Cooke,P,Columbia,2018,2023,0,0,1,14,95,4.0,4.0,33.0,0,13.0,0.0,1.0,19.0,,,0,,,,0,,CookLo00
+10,Charvarius Ward,DB,McComb,2018,2023,0,1,4,29,90,,,,0,,,,,,,0,,,,0,,WardCh01
+11,KhaDarel Hodge,WR,D'Lo,2018,2023,0,0,0,7,89,,,,0,,,,,1.0,0.0,0,0.0,57.0,864.0,1,52.0,HodgKh00
+12,Darrell Henderson,RB,Bateville,2019,2023,0,0,1,15,54,,,,0,,,,,442.0,1854.0,15,40.0,76.0,577.0,4,32.0,HendDa00
+13,A.J. Brown,WR,Starkville,2019,2023,0,3,4,57,77,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,5.0,70.0,1,49.0,379.0,5947.0,42,91.0,BrowAJ00
+14,Elgton Jenkins,OL,Clarksdale,2019,2023,0,2,3,38,70,,,,0,,,,,,,0,,,,0,,JenkEl00
+15,Johnathan Abram,S,Columbia,2019,2023,0,0,2,13,52,,,,0,,,,,,,0,,,,0,,AbraJo01
+16,D.K. Metcalf,WR,Oxford,2019,2023,0,2,4,46,82,,,,0,,,,,3.0,17.0,0,7.0,372.0,5332.0,43,84.0,MetcDK00
+17,Gardner Minshew II,QB,Flowood,2019,2023,0,1,2,29,49,891.0,1423.0,9937.0,59,78.0,24.0,105.0,577.0,146.0,621.0,5,23.0,1.0,0.0,0,0.0,MinsGa00
+18,Damien Lewis,OL,Biloxi,2020,2023,0,0,3,26,61,,,,0,,,,,,,0,,,,0,,LewiDa05
+19,Willie Gay Jr.,OLB,Starkville,2020,2023,0,0,3,22,57,,,,0,,,,,,,0,,,,0,,GayJWi00
+20,Saahdiq Charles,OL,Jackson,2020,2023,0,0,0,8,35,,,,0,,,,,,,0,,,,0,,CharSa00
+21,Cam Akers,RB,Jackson,2020,2023,0,0,1,11,36,0.0,0.0,0.0,0,0.0,0.0,1.0,7.0,398.0,1581.0,11,61.0,38.0,320.0,1,38.0,AkerCa00
+22,Darius Harris,LB,Horn Lake,2020,2023,0,0,0,4,33,,,,0,,,,,,,0,,,,0,,HarrDa07
+23,Tyre Phillips,OL,Grenada,2020,2023,0,0,0,11,44,,,,0,,,,,,,0,,,,0,,PhilTy00
+24,Raekwon Davis,DL,Meridian,2020,2023,0,0,3,22,63,,,,0,,,,,,,0,,,,0,,DaviRa03
+25,Kevin Dotson,OL,West Point,2020,2023,0,0,1,17,53,,,,0,,,,,,,0,,,,0,,DotsKe00
+26,Benito Jones,DT,Waynesboro,2020,2023,0,0,0,8,40,,,,0,,,,,,,0,,,,0,,JoneBe03
+27,Kenneth Gainwell,RB,Yazoo City,2021,2023,0,0,0,13,49,1.0,1.0,17.0,0,17.0,0.0,0.0,0.0,205.0,895.0,11,32.0,86.0,605.0,1,20.0,GainKe00
+28,D'Wayne Eskridge,WR,Winona,2021,2023,0,0,0,2,24,,,,0,,,,,8.0,74.0,0,30.0,17.0,122.0,1,17.0,EskrDW00
+29,Brandin Echols,CB,Memphis,2021,2023,0,0,1,7,41,,,,0,,,,,,,0,,1.0,18.0,0,18.0,EchoBr00
+30,D.J. Montgomery,WR,Durant,2021,2023,0,0,0,0,10,,,,0,,,,,,,0,,6.0,92.0,1,34.0,MontDJ01
+31,Christian Holmes,CB,Leland,2022,2023,0,0,0,3,30,,,,0,,,,,,,0,,,,0,,HolmCh00
+32,Tim Jones,WR,Biloxi,2022,2023,0,0,0,1,34,,,,0,,,,,,,0,,14.0,113.0,0,20.0,JoneTi00
+33,Nakobe Dean,LB,Horn Lake,2022,2023,0,0,0,2,22,,,,0,,,,,,,0,,,,0,,DeanNa00
+34,DeAundre Alford,DB,Hernando,2022,2023,0,0,0,4,32,,,,0,,,,,,,0,,,,0,,AlfoDe00
+35,J.J. Russell,LB,Grenada,2022,2023,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,RussJJ00
+36,Jaylin Williams,,,2023,2023,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,WillJa14
+37,Chris Blair,,Louisville,2023,2023,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BlaiCh00
+38,Jonathan Mingo,WR,Brandon,2023,2023,0,0,0,3,15,,,,0,,,,,,,0,,43.0,418.0,0,40.0,MingJo00
+39,Darrell Luter,CB,Hattiesburg,2023,2023,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,LuteDa00
+40,Jerrick Reed,S,Olive Branch,2023,2023,0,0,0,0,10,,,,0,,,,,,,0,,,,0,,ReedJe00
+41,Gervarrius Owens,S,Greenville,2023,2023,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,OwenGe00
+42,Ethan Bonner,,Meridian,2023,2023,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,BonnEt00
+43,Jason Brownlee,WR,West Point,2023,2023,0,0,0,0,7,,,,0,,,,,,,0,,5.0,56.0,1,24.0,BrowJa07
+44,Jamie Collins,OLB,McCall Creek,2013,2022,0,1,7,58,125,,,,0,,,,,,,0,,,,0,,CollJa00
+45,Malcolm Brown,RB,Biloxi,2015,2022,0,0,0,10,88,,,,0,,,,,349.0,1394.0,13,24.0,51.0,374.0,1,30.0,BrowMa03
+46,Damien Wilson,ILB,Gloster,2015,2022,0,0,5,31,127,,,,0,,,,,,,0,,,,0,,WilsDa02
+47,Christian Ringo,DE,Jackson,2016,2022,0,0,0,5,36,,,,0,,,,,,,0,,,,0,,RingCh00
+48,Vernon Butler,DT,Pike County,2016,2022,0,0,2,13,77,,,,0,,,,,,,0,,,,0,,ButlVe00
+49,A.J. Moore,DB,Bassfield,2018,2022,0,0,0,5,56,,,,0,,,,,,,0,,,,0,,MoorA.00
+50,Tarvarius Moore,S,Quitman,2018,2022,0,0,1,8,61,,,,0,,,,,,,0,,,,0,,MoorTa00
+51,Genard Avery,OLB,Grenada,2018,2022,0,0,2,11,62,,,,0,,,,,,,0,,,,0,,AverGe00
+52,C.J. Moore,DB,Bassfield,2019,2022,0,0,0,4,56,,,,0,,,,,4.0,86.0,0,42.0,,,0,,MoorCJ01
+53,Kemon Hall,CB,Calhoun City,2021,2022,0,0,0,1,18,,,,0,,,,,,,0,,,,0,,HallKe01
+54,Kylin Hill,RB,Columbus,2021,2022,0,0,0,0,10,,,,0,,,,,11.0,31.0,0,8.0,1.0,5.0,0,5.0,HillKy00
+55,Kobe Jones,DE,Starkville,2022,2022,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,JoneKo00
+56,K.J. Wright,MLB,Olive Branch,2011,2021,0,1,10,64,161,,,,0,,,,,,,0,,,,0,,WrigK.00
+57,Alejandro Villanueva,T,Meridian,2015,2021,0,2,7,47,113,,,,0,,,,,,,0,,1.0,2.0,1,2.0,VillAl00
+58,Benardrick McKinney,ILB,Tunica,2015,2021,0,1,5,44,91,,,,0,,,,,,,0,,,,0,,McKiBe00
+59,Woodrow Hamilton,DL,Raleigh,2016,2021,0,0,0,2,10,,,,0,,,,,,,0,,,,0,,HamiWo00
+60,Wynton McManis,LB,Olive Branch,2016,2021,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,McMaWy00
+61,Justin Hamilton,DT,Natchez,2017,2021,0,0,0,2,27,,,,0,,,,,,,0,,,,0,,HamiJu00
+62,Chris Carson,RB,Biloxi,2017,2021,0,0,3,29,49,,,,0,,,,,769.0,3502.0,24,61.0,107.0,804.0,7,29.0,CarsCh00
+63,Ja'Marcus Bradley,WR,Ackerman,2020,2021,0,0,0,2,8,,,,0,,,,,,,0,,9.0,124.0,0,37.0,BradJa01
+64,Davion Taylor,LB,McComb,2020,2021,0,0,0,3,21,,,,0,,,,,,,0,,,,0,,TaylDa01
+65,Scottie Phillips,RB,Ellisville,2020,2021,0,0,0,0,11,,,,0,,,,,8.0,22.0,0,5.0,3.0,16.0,0,8.0,PhilSc01
+66,DeMichael Harris,WR,Vicksburg,2020,2021,0,0,0,1,9,,,,0,,,,,6.0,46.0,0,19.0,10.0,79.0,0,21.0,HarrDe09
+67,Marquiss Spencer,DT,Greenwood,2021,2021,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SpenMa00
+68,Tramaine Brock,DB,Gulfport,2010,2020,0,0,2,21,118,,,,0,,,,,,,0,,,,0,,BrocTr00
+69,Donte Moncrief,WR,Raleigh,2014,2020,0,0,3,18,83,,,,0,,,,,6.0,20.0,0,7.0,205.0,2576.0,21,80.0,MoncDo00
+70,Malcolm Butler,CB,Vicksburg,2014,2020,0,1,4,41,100,,,,0,,,,,,,0,,,,0,,ButlMa01
+71,Martinas Rankin,T,Jackson,2018,2020,0,0,0,7,23,,,,0,,,,,,,0,,,,0,,RankMa00
+72,Jordan Thomas,TE,Hattiesburg,2018,2020,0,0,1,2,27,,,,0,,,,,,,0,,22.0,226.0,5,39.0,ThomJo05
+73,Fred Brown,WR,Jackson,2019,2020,0,0,0,0,14,,,,0,,,,,,,0,,2.0,21.0,0,16.0,BrowFr01
+74,Jonathan Brown,K,Clinton,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BrowJo03
+75,Javon Patterson,OL,Petal,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,PattJa00
+76,Farrod Green,TE,Wesson,2020,2020,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,GreeFa00
+77,Bradley Sowell,T,Hernando,2012,2019,0,0,1,17,106,,,,0,,,,,,,0,,1.0,2.0,1,2.0,SoweBr00
+78,Jermaine Whitehead,DB,Greenwood,2016,2019,0,0,0,5,34,,,,0,,,,,1.0,7.0,0,7.0,,,0,,WhitJe02
+79,De'Lance Turner,RB,McLain,2018,2019,0,0,0,0,12,,,,0,,,,,5.0,10.0,0,5.0,2.0,17.0,0,10.0,TurnDe01
+80,Damion Willis,WR,Jackson,2019,2019,0,0,0,1,10,,,,0,,,,,,,0,,9.0,82.0,0,17.0,WillDa11
+81,Alexander Hollins,WR,Yazoo City,2019,2019,0,0,0,0,5,,,,0,,,,,,,0,,2.0,46.0,0,35.0,HollAl00
+82,Glover Quin,DB,McComb,2009,2018,0,1,10,51,159,,,,0,,,,,,,0,,,,0,,QuinGl99
+83,Stevan Ridley,RB,Natchez,2011,2018,0,0,1,25,73,,,,0,,,,,743.0,3102.0,24,43.0,30.0,162.0,0,24.0,RidlSt00
+84,Tom Johnson,DT,Moss Point,2011,2018,0,0,1,22,116,,,,0,,,,,,,0,,,,0,,JohnTo01
+85,Derek Newton,T,Utica,2011,2018,0,0,4,28,83,,,,0,,,,,,,0,,,,0,,NewtDe00
+86,Vontarrius Dora,LB,West Point,2016,2018,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,DoraVo00
+87,Chris Landrum,LB,Meridian,2016,2018,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,LandCh00
+88,Derrick Jones,CB,Eupora,2017,2018,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,JoneDe02
+89,Breeland Speaks,DE,Jackson,2018,2018,0,0,0,3,16,,,,0,,,,,,,0,,,,0,,SpeaBr00
+90,JJ Jones,WR,Columbus,2018,2018,0,0,0,0,4,,,,0,,,,,1.0,0.0,0,0.0,1.0,3.0,0,3.0,JoneJJ00
+91,Lyndon Johnson,DL,West Point,2018,2018,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,JohnLy00
+92,Johnthan Banks,CB,Maben,2013,2017,0,0,2,11,57,,,,0,,,,,,,0,,,,0,,BankJo00
+93,Deontae Skinner,LB,Macon,2014,2017,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,SkinDe00
+94,Carlos Thompson,LB,Hollandale,2015,2017,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,ThomCa02
+95,Channing Ward,DE,Aberdeen,2016,2017,0,0,0,1,6,,,,0,,,,,,,0,,,,0,,WardCh00
+96,Anthony Steen,G,Lambert,2016,2017,0,0,1,6,21,,,,0,,,,,,,0,,,,0,,SteeAn00
+97,Eugene Sims,LB,Mt.Olive,2010,2016,0,0,1,17,99,,,,0,,,,,,,0,,,,0,,SimsEu99
+98,Akeem Davis,S,Laurel,2014,2016,0,0,0,1,21,,,,0,,,,,,,0,,,,0,,DaviAk00
+99,Donald Hawkins,G,Memphis,2014,2016,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,HawkDo01
+100,Toby Johnson,DT,Morehead,2016,2016,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,JohnTo02
+101,Taveze Calhoun,DB,Brandon,2016,2016,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,CalhTa01
+102,Adairius Barnes,CB,Vicksburg,2016,2016,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,BarnAd01
+103,Jamarca Sanford,DB,Batesville,2009,2015,0,0,3,15,95,,,,0,,,,,,,0,,,,0,,SanfJa99
+104,Anthony Dixon,RB,Jackson,2010,2015,0,0,0,7,96,,,,0,,,,,274.0,934.0,11,47.0,23.0,140.0,0,19.0,DixoAn00
+105,Alex Carrington,DE,Tupelo,2010,2015,0,0,1,7,59,,,,0,,,,,,,0,,,,0,,CarrAl99
+106,Chris Givens,WR,Jackson,2012,2015,0,0,2,12,60,,,,0,,,,,11.0,42.0,0,24.0,107.0,1779.0,5,65.0,GiveCh00
+107,Josh Boyd,DT,Jackson,2013,2015,0,0,0,4,26,,,,0,,,,,,,0,,,,0,,BoydJo00
+108,Rico Richardson,WR,Natchez,2014,2015,0,0,0,0,6,,,,0,,,,,,,0,,0.0,0.0,0,0.0,RichRi00
+109,Kevin Norwood,WR,Biloxi,2014,2015,0,0,0,1,10,,,,0,,,,,,,0,,9.0,102.0,0,31.0,NorwKe00
+110,Kaleb Eulls,DT,Yazoo City,2015,2015,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,EullKa00
+111,Tommy Kelly,DE,Jackson,2004,2014,0,0,7,48,150,,,,0,,,,,,,0,,,,0,,KellTo21
+112,Chris Spencer,C,Madison,2005,2014,0,0,6,38,137,,,,0,,,,,,,0,,,,0,,SpenCh21
+113,Jason Campbell,QB,Laurel,2006,2014,0,0,5,48,90,1519.0,2518.0,16771.0,87,84.0,60.0,170.0,1096.0,240.0,1204.0,6,29.0,,,0,,CampJa00
+114,Micheal Spurlock,WR,Indianola,2006,2014,0,0,0,9,68,0.0,5.0,0.0,0,0.0,0.0,0.0,0.0,1.0,3.0,0,3.0,47.0,502.0,3,43.0,SpurMi00
+115,Parys Haralson,DE,Flora,2006,2014,0,0,7,38,118,,,,0,,,,,,,0,,,,0,,HaraPa20
+116,Quentin Groves,LB,Greenville,2008,2014,0,0,2,17,100,,,,0,,,,,,,0,,,,0,,GrovQu99
+117,Jerrell Powe,DL,Waynesboro,2011,2014,0,0,0,5,28,,,,0,,,,,,,0,,,,0,,PoweJe00
+118,Antonio Johnson,DT,Greenville,2008,2013,0,0,3,21,83,,,,0,,,,,,,0,,,,0,,JohnAn03
+119,M.D. Jennings,S,Grenada,2011,2013,0,0,2,10,47,,,,0,,,,,1.0,6.0,0,6.0,,,0,,JennM.00
+120,Vick Ballard,RB,Pascagoula,2012,2013,0,0,1,5,17,,,,0,,,,,224.0,877.0,2,26.0,18.0,147.0,1,19.0,BallVi00
+121,Jason Vega,DE,Brockton,2013,2013,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,VegaJa00
+122,Cooper Carlisle,G,Greenville,2000,2012,0,0,8,54,190,,,,0,,,,,,,0,,1.0,6.0,1,6.0,CarlCo20
+123,Mario Haggan,MLB,Clarksdale,2003,2012,0,0,2,21,132,,,,0,,,,,,,0,,,,0,,HaggMa20
+124,Spencer Johnson,DT,Waynesboro,2004,2012,0,0,1,21,125,,,,0,,,,,,,0,,,,0,,JohnSp20
+125,Stephen Peterman,G,Gulfport,2005,2012,0,0,6,34,90,,,,0,,,,,,,0,,,,0,,PeteSt20
+126,Cedric Griffin,DB,Natchez,2006,2012,0,0,4,23,89,,,,0,,,,,,,0,,0.0,0.0,0,0.0,GrifCe20
+127,Brandon McDonald,DB,Collins,2007,2012,0,0,2,15,80,,,,0,,,,,,,0,,,,0,,McDoBr99
+128,James Brown,G,Magnolia,2012,2012,0,0,0,1,5,,,,0,,,,,,,0,,,,0,,BrowJa02
+129,Charles Mitchell,SS,Clarksdale,2012,2012,0,0,0,1,10,,,,0,,,,,,,0,,,,0,,MitcCh01
+130,Sammy Brown,LB,Hattiesburg,2012,2012,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,BrowSa00
+131,Reggie Kelly,TE,Aberdeen,1999,2011,0,0,10,12,184,,,,0,,,,,,,0,,195.0,1767.0,5,50.0,KellRe00
+132,Donald Lee,TE,Maben,2003,2011,0,0,5,17,133,,,,0,,,,,,,0,,209.0,1990.0,19,60.0,LeexDo00
+133,C.C. Brown,DB,Greenwood,2005,2011,0,0,3,19,83,,,,0,,,,,,,0,,,,0,,BrowC.20
+134,Jerious Norwood,RB,Jackson,2006,2011,0,0,0,20,66,0.0,2.0,0.0,0,0.0,1.0,0.0,0.0,399.0,2056.0,7,78.0,96.0,912.0,3,67.0,NorwJe00
+135,Jayme Mitchell,DE,Jackson,2006,2011,0,0,1,9,43,,,,0,,,,,,,0,,,,0,,MitcJa20
+136,Eldra Buckley,RB,Charleston,2009,2011,0,0,0,1,34,,,,0,,,,,36.0,111.0,1,13.0,1.0,10.0,0,10.0,BuckEl00
+137,Brett Favre,QB,Gulfport,1991,2010,3,11,19,158,302,6300.0,10169.0,71838.0,508,99.0,336.0,525.0,3487.0,602.0,1844.0,14,40.0,2.0,-7.0,0,2.0,FavrBr00
+138,Deshea Townsend,DB,Batesville,1998,2010,0,0,4,40,191,,,,0,,,,,,,0,,,,0,,TownDe20
+139,Correll Buckhalter,RB,Laurel,2001,2010,0,0,0,27,103,,,,0,,,,,655.0,2944.0,21,64.0,144.0,1410.0,6,59.0,BuckCo00
+140,Floyd Womack,T,Cleveland,2001,2010,0,0,5,30,120,,,,0,,,,,,,0,,,,0,,WomaFl20
+141,Clinton Portis,RB,Laurel,2002,2010,0,2,7,72,113,3.0,6.0,47.0,3,17.0,0.0,1.0,2.0,2230.0,9923.0,75,78.0,247.0,2018.0,5,74.0,PortCl00
+142,Charlie Anderson,OLB,Jackson,2004,2010,0,0,0,9,94,,,,0,,,,,,,0,,,,0,,AndeCh21
+143,Chris White,C,Winona,2005,2010,0,0,1,7,33,,,,0,,,,,,,0,,,,0,,WhitCh22
+144,Kareem Moore,DB,Tupelo,2008,2010,0,0,1,7,42,,,,0,,,,,,,0,,,,0,,MoorKa99
+145,Tim Duckworth,G,Taylorsville,2010,2010,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,DuckTi20
+146,Larry Hart,DE,Madison,2010,2010,0,0,0,1,14,,,,0,,,,,,,0,,,,0,,HartLa99
+147,Gary Banks,WR,Meridian,2010,2010,0,0,0,0,2,,,,0,,,,,,,0,,1.0,2.0,0,2.0,BankGa00
+148,Lee Robinson,LB,Gloster,2010,2010,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,RobiLe99
+149,Jason Ferguson,DT,Nettleton,1997,2009,0,0,9,50,159,,,,0,,,,,,,0,,,,0,,FergJa21
+150,Fred Smoot,DB,Jackson,2001,2009,0,0,7,40,129,,,,0,,,,,,,0,,,,0,,SmooFr20
+151,Ken Lucas,DB,Cleveland,2001,2009,0,0,7,46,138,,,,0,,,,,,,0,,,,0,,LucaKe20
+152,Kenny Smith,DT,Meridian,2001,2009,0,0,1,7,36,,,,0,,,,,,,0,,,,0,,SmitKe23
+153,Kendall Simmons,G,Ripley,2002,2009,0,0,5,35,84,,,,0,,,,,,,0,,,,0,,SimmKe20
+154,Justin Griffith,FB,Magee,2003,2009,0,0,6,11,96,,,,0,,,,,94.0,413.0,1,21.0,141.0,989.0,12,62.0,GrifJu00
+155,Marcus Johnson,G,Greenville,2005,2009,0,0,1,8,53,,,,0,,,,,,,0,,,,0,,JohnMa20
+156,Quinton Culberson,LB,Jackson,2007,2009,0,0,1,5,36,,,,0,,,,,,,0,,,,0,,CulbQu99
+157,Justin Jenkins,WR,Pearl,2007,2009,0,0,0,0,36,,,,0,,,,,1.0,-3.0,0,0.0,0.0,0.0,0,0.0,JenkJu00
+158,Nate Hughes,WR,Macon,2009,2009,0,0,0,1,8,,,,0,,,,,,,0,,5.0,70.0,1,35.0,HughNa00
+159,Jake Allen,WR,Laurel,2009,2009,0,0,0,0,3,,,,0,,,,,,,0,,0.0,0.0,0,0.0,AlleJa24
+160,Dominic Douglas,LB,Clinton,2009,2009,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,DougDo20
+161,Deuce McAllister,RB,Lena,2001,2008,0,2,4,55,97,1.0,4.0,12.0,1,12.0,0.0,1.0,8.0,1429.0,6096.0,49,76.0,234.0,1720.0,5,39.0,McAlDe00
+162,Ellis Wyms,DE,Indianola,2001,2008,0,0,1,13,95,,,,0,,,,,,,0,,,,0,,WymsEl20
+163,Terrence Metcalf,G,Clarksdale,2002,2008,0,0,1,11,84,,,,0,,,,,,,0,,,,0,,MetcTe20
+164,Louis Green,OLB,Vicksburg,2004,2008,0,0,0,4,64,,,,0,,,,,,,0,,,,0,,GreeLo20
+165,Cleo Lemon,QB,Greenwood,2006,2008,0,0,1,6,15,211.0,379.0,2185.0,8,64.0,7.0,30.0,190.0,36.0,106.0,4,11.0,,,0,,LemoCl00
+166,LaMarcus Hicks,DB,Clarksdale,2007,2008,0,0,0,0,12,,,,0,,,,,,,0,,,,0,,HickLa99
+167,Tavares Washington,G,Greenville,2008,2008,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,WashTa20
+168,Steve McNair,QB,Mount Olive,1995,2007,0,3,10,99,161,2733.0,4544.0,31304.0,174,87.0,119.0,254.0,1567.0,669.0,3590.0,37,71.0,1.0,4.0,0,4.0,McNaSt00
+169,Eric Moulds,WR,Lucedale,1996,2007,0,3,11,78,186,,,,0,,,,,29.0,163.0,0,29.0,764.0,9995.0,49,84.0,MoulEr00
+170,Fred Thomas,DB,Bruce,1996,2007,0,0,5,32,156,,,,0,,,,,,,0,,,,0,,ThomFr20
+171,Michael Myers,DT,Vicksburg,1998,2007,0,0,3,34,138,,,,0,,,,,,,0,,,,0,,MyerMi20
+172,Roderick Coleman,DT,Vicksburg,1999,2007,0,1,4,37,109,,,,0,,,,,,,0,,,,0,,ColeRo99
+173,Todd Wade,T,Greenwood,2000,2007,0,0,7,41,99,,,,0,,,,,,,0,,,,0,,WadeTo20
+174,Alvin McKinley,DE,Jackson,2000,2007,0,0,3,22,97,,,,0,,,,,,,0,,,,0,,McKiAl20
+175,Tank Williams,DB,Gulfport,2002,2007,0,0,4,20,70,,,,0,,,,,,,0,,,,0,,WillTa20
+176,Von Hutchins,DB,Natchez,2004,2007,0,0,1,5,38,,,,0,,,,,,,0,,,,0,,HutcVo20
+177,John Eubanks,DB,Mound Bayou,2006,2007,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,EubaJo20
+178,Tre Stallings,G,McComb,2007,2007,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,StalTr20
+179,Fred McAfee,RB,Philadelphia,1991,2006,0,1,0,9,194,,,,0,,,,,304.0,1273.0,8,53.0,35.0,211.0,0,30.0,McAfFr00
+180,Carlos Emmons,LB,Greenwood,1996,2006,0,0,8,54,147,,,,0,,,,,,,0,,,,0,,EmmoCa20
+181,Kris Mangum,TE,Magee,1997,2006,0,0,4,11,126,,,,0,,,,,,,0,,151.0,1424.0,9,35.0,MangKr00
+182,Dexter McCleon,DB,Meridian,1997,2006,0,0,4,38,148,,,,0,,,,,,,0,,,,0,,McClDe21
+183,Jeff Posey,LB,Bassfield,1998,2006,0,0,6,31,139,,,,0,,,,,,,0,,,,0,,PoseJe20
+184,Kenyatta Walker,T,Meridian,2001,2006,0,0,5,29,75,,,,0,,,,,,,0,,,,0,,WalkKe21
+185,Rod Davis,MLB,Gulfport,2004,2006,0,0,0,3,40,,,,0,,,,,,,0,,,,0,,DaviRo21
+186,Antoine Cash,LB,Anguilla,2005,2006,0,0,0,1,19,,,,0,,,,,,,0,,,,0,,CashAn20
+187,Mike Espy,WR,Madison,2006,2006,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,EspyMi20
+188,Joe Sykes,DE,Grenada,2006,2006,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,SykeJo20
+189,Montez Murphy,DE,Meridian,2006,2006,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MurpMo20
+190,Terrell Buckley,DB,Pascagoula,1992,2005,0,0,8,57,209,,,,0,,,,,,,0,,0.0,0.0,0,0.0,BuckTe20
+191,Eric Warfield,DB,Vicksburg,1998,2005,0,0,5,31,115,,,,0,,,,,,,0,,,,0,,WarfEr20
+192,Antuan Edwards,DB,Starkville,1999,2005,0,0,1,15,71,,,,0,,,,,,,0,,,,0,,EdwaAn21
+193,Reggie Myles,DB,Pascagoula,2002,2005,0,0,0,2,51,,,,0,,,,,,,0,,,,0,,MyleRe20
+194,Torrin Tucker,T,Meridian,2003,2005,0,0,2,12,36,,,,0,,,,,,,0,,,,0,,TuckTo20
+195,Adrian Mayes,DB,Hattiesburg,2004,2005,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,MayeAd20
+196,Lorenzo Diamond,TE,Biloxi,2004,2005,0,0,1,0,21,,,,0,,,,,,,0,,11.0,73.0,0,18.0,DiamLo00
+197,Cornelius Wortham,LB,Calhoun City,2005,2005,0,0,0,1,8,,,,0,,,,,,,0,,,,0,,WortCo20
+198,Jeremy LeSueur,DB,Holly Springs,2005,2005,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,LeSuJe20
+199,Kory Chapman,RB,Batesville,2005,2005,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ChapKo00
+200,Jerry Rice,WR,Crawford,1985,2004,10,13,18,160,303,3.0,10.0,71.0,1,41.0,1.0,0.0,0.0,87.0,645.0,10,43.0,1549.0,22895.0,197,96.0,RiceJe00

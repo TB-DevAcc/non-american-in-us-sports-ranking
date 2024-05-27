@@ -1,0 +1,188 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,C.J. Goodwin,DB,Wheeling,2016,2023,0,0,0,5,102,,,,0,,,,,,,0,,0.0,0.0,0,0.0,GoodC.00
+2,Trevon Wesco,TE,Martinsburg,2019,2023,0,0,0,0,69,,,,0,,,,,2.0,2.0,0,2.0,9.0,134.0,0,32.0,WescTr00
+3,Derrek Pitts,CB,Dunbar,2023,2023,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,PittDe01
+4,Dante Stills,DT,Fairmont,2023,2023,0,0,0,3,15,,,,0,,,,,,,0,,,,0,,StilDa01
+5,Tyson Bagent,QB,Martinsburg,2023,2023,0,0,0,3,5,94.0,143.0,859.0,3,41.0,6.0,5.0,35.0,23.0,109.0,2,20.0,,,0,,BageTy00
+6,Nazeeh Johnson,S,Martinsburg,2022,2022,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,JohnNa01
+7,Dorian Etheridge,LB,Charleston,2021,2021,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,EtheDo00
+8,Ryan Switzer,WR,Charleston,2017,2019,0,0,0,3,41,,,,0,,,,,10.0,26.0,0,8.0,50.0,321.0,1,24.0,SwitRy00
+9,Dewey McDonald,S,Ranson,2014,2017,0,0,0,3,32,,,,0,,,,,,,0,,0.0,0.0,0,0.0,McDoDe01
+10,Demetri Goodson,CB,Charlestown,2014,2016,0,0,0,2,26,,,,0,,,,,,,0,,,,0,,GoodDe00
+11,Landon Turner,OL,Morgantown,2016,2016,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,TurnLa00
+12,Aaron Dobson,WR,Dunbar,2013,2015,0,0,1,6,24,,,,0,,,,,,,0,,53.0,698.0,4,81.0,DobsAa00
+13,Randy Moss,WR,Rand,1998,2012,4,6,12,124,218,4.0,8.0,106.0,2,37.0,1.0,0.0,0.0,25.0,159.0,0,25.0,982.0,15292.0,156,82.0,MossRa00
+14,Derek Hardman,T,Spencer,2010,2012,0,0,0,3,15,,,,0,,,,,,,0,,,,0,,HardDe00
+15,Alex Parsons,OL,Charleton,2012,2012,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,ParsAl00
+16,Chris Massey,RB,Charleston,2002,2011,0,0,0,13,141,,,,0,,,,,1.0,-1.0,0,0.0,0.0,0.0,0,0.0,MassCh00
+17,Darrion Scott,DE,Charleston,2004,2011,0,0,2,15,57,,,,0,,,,,,,0,,,,0,,ScotDa20
+18,Ikechuku Ndukwe,G,Morgantown,2006,2011,0,0,1,10,35,,,,0,,,,,,,0,,,,0,,NdukIk20
+19,Jason Rader,TE,Charleston,2006,2008,0,0,0,0,11,,,,0,,,,,,,0,,1.0,26.0,0,26.0,RadeJa00
+20,Quincy Wilson,RB,Weirton,2006,2007,0,0,0,0,4,,,,0,,,,,2.0,2.0,0,5.0,,,0,,WilsQu00
+21,Rich Braham,C,Morgantown,1994,2006,0,0,10,55,146,,,,0,,,,,,,0,,,,0,,BrahRi20
+22,Tom Lopienski,FB,Parkersburg,2003,2004,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,LopiTo20
+23,Will Poole,DB,Beckley,2004,2004,0,0,0,1,15,,,,0,,,,,,,0,,,,0,,PoolWi20
+24,Shane Burton,DE,Logan,1996,2003,0,0,2,30,125,,,,0,,,,,,,0,,,,0,,BurtSh20
+25,Jason Starkey,C,Barboursville,2000,2003,0,0,1,5,34,,,,0,,,,,,,0,,1.0,7.0,0,7.0,StarJa20
+26,Bobbie Howard,LB,Rand,2001,2003,0,0,1,6,35,,,,0,,,,,,,0,,,,0,,HowaBo21
+27,Rashod Kent,TE,Fairmont,2003,2003,0,0,0,0,7,,,,0,,,,,,,0,,0.0,0.0,0,0.0,KentRa20
+28,James Jett,WR,Charles Town,1993,2002,0,0,5,34,140,,,,0,,,,,2.0,3.0,0,3.0,256.0,4417.0,30,84.0,JettJa00
+29,Eric Smedley,DB,Charleston,1996,1999,0,0,0,2,42,,,,0,,,,,,,0,,,,0,,SmedEr20
+30,Anthony Bass,DB,St. Albans,1998,1999,0,0,0,2,17,,,,0,,,,,,,0,,,,0,,BassAn20
+31,Kelvin Kinney,DE,Montgomery,1997,1998,0,0,1,6,18,,,,0,,,,,,,0,,,,0,,KinnKe20
+32,Robert Walker,RB,Huntington,1996,1996,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WalkRo20
+33,Carl Lee,DB,South Charleston,1983,1994,1,3,10,69,181,,,,0,,,,,,,0,,,,0,,LeexCa00
+34,John Ray,T,Charleston,1993,1993,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,RayxJo20
+35,Michael Barber,WR,Winfield,1989,1992,0,0,0,4,41,,,,0,,,,,1.0,-13.0,0,0.0,38.0,483.0,2,42.0,BarbMi00
+36,Curt Warner,RB,Wyoming,1983,1990,0,3,6,60,100,,,,0,,,,,1698.0,6844.0,56,60.0,193.0,1467.0,7,30.0,WarnCu00
+37,Gary Jeter,DE,Weirton,1977,1989,0,0,3,35,168,,,,0,,,,,,,0,,,,0,,JeteGa20
+38,Robert Lyons,DB,Wheeling,1989,1989,0,0,0,1,9,,,,0,,,,,,,0,,,,0,,LyonRo20
+39,Rod Martin,LB,Welch,1977,1988,1,2,10,76,165,,,,0,,,,,,,0,,,,0,,MartRo00
+40,Dennis Harrah,G,Charleston,1975,1987,1,6,11,63,168,,,,0,,,,,,,0,,0.0,3.0,0,3.0,HarrDe01
+41,Adrian Wright,RB,Charleston,1987,1987,0,0,0,2,3,,,,0,,,,,37.0,112.0,0,11.0,13.0,98.0,1,15.0,WrigAd20
+42,Calvin Turner,DE,Fairmont,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,TurnCa20
+43,Tommy Humphrey,G,Huntington,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,HumpTo21
+44,Leonard Williams,RB,Man,1987,1987,0,0,0,0,2,,,,0,,,,,9.0,25.0,0,9.0,1.0,5.0,0,5.0,WillLe21
+45,Cal Wallace,DE,Montgomery,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,WallCa20
+46,Dan Morgan,G,Wheeling,1987,1987,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,MorgDa20
+47,Tom Beasley,DE,Bluefield,1978,1986,0,0,3,27,105,,,,0,,,,,,,0,,,,0,,BeasTo20
+48,Fulton Walker,DB,Martinsburg,1981,1986,0,0,0,5,81,,,,0,,,,,,,0,,,,0,,WalkFu20
+49,Tom Pridemore,DB,Oak Hill,1978,1985,0,0,6,43,121,,,,0,,,,,2.0,55.0,0,48.0,,,0,,PridTo20
+50,Terry Echols,LB,Mullens,1984,1984,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,EchoTe20
+51,Robert Alexander,RB,Charleston,1982,1983,0,0,0,0,24,,,,0,,,,,8.0,31.0,0,15.0,2.0,3.0,0,10.0,AlexRo20
+52,Walt Easley,RB,Charleston,1981,1982,0,0,0,2,13,1.0,1.0,5.0,0,5.0,0.0,0.0,0.0,81.0,235.0,1,9.0,9.0,62.0,0,21.0,EaslWa00
+53,Rich Thomaselli,RB,Follansbee,1981,1982,0,0,0,0,21,,,,0,,,,,,,0,,1.0,8.0,0,8.0,ThomRi21
+54,Kevin Miller,WR,Weirton,1978,1980,0,0,0,0,23,,,,0,,,,,,,0,,1.0,35.0,1,35.0,MillKe21
+55,Ray Williams,RB,Welch,1980,1980,0,0,0,3,6,0.0,0.0,0.0,0,0.0,0.0,1.0,8.0,2.0,17.0,1,11.0,10.0,146.0,1,22.0,WillRa00
+56,Ron McCartney,LB,Charleston,1977,1979,0,0,0,12,45,,,,0,,,,,,,0,,,,0,,McCaRo21
+57,Rick Nuzum,C,Charleston,1977,1978,0,0,0,6,30,,,,0,,,,,,,0,,,,0,,NuzuRi20
+58,Don Nottingham,RB,Widen,1971,1977,0,0,3,27,98,,,,0,,,,,611.0,2496.0,34,56.0,67.0,502.0,0,35.0,NottDo00
+59,John Holland,WR,Beckley,1974,1977,0,0,1,7,38,,,,0,,,,,,,0,,35.0,634.0,3,63.0,HollJo00
+60,Oakley Dalton,DT,Welch,1977,1977,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,DaltOa20
+61,William Anderson,DB,Colliers,1975,1976,0,0,0,3,15,,,,0,,,,,,,0,,,,0,,AndeWi21
+62,Bill Craven,DB,Ranson,1976,1976,0,0,0,2,13,,,,0,,,,,,,0,,,,0,,CravBi20
+63,Charlie Cowan,T,Braeholm,1961,1975,0,3,14,72,206,,,,0,,,,,,,0,,1.0,1.0,0,1.0,CowaCh00
+64,Joe Gilliam,QB,Charleston,1972,1975,0,0,0,11,20,147.0,331.0,2103.0,9,61.0,17.0,12.0,104.0,22.0,64.0,1,14.0,,,0,,GillJo00
+65,Lonnie Warwick,LB,Raleigh,1965,1974,0,0,5,58,120,,,,0,,,,,,,0,,,,0,,WarwLo20
+66,Garry Lyle,DB,New Martinsville,1968,1974,0,0,2,21,84,0.0,0.0,0.0,0,0.0,0.0,1.0,4.0,4.0,28.0,0,26.0,7.0,48.0,0,13.0,LyleGa20
+67,Chuck Howley,LB,Wheeling,1958,1973,5,6,12,94,180,,,,0,,,,,,,0,,,,0,,HowlCh00
+68,Bill West,DB,Weirton,1972,1972,0,0,0,2,8,,,,0,,,,,,,0,,,,0,,WestBi20
+69,Harry Jones,RB,Huntington,1967,1970,0,0,0,2,29,,,,0,,,,,44.0,85.0,0,16.0,9.0,131.0,0,48.0,JoneHa01
+70,Gary Roberts,G,Parkersburg,1970,1970,0,0,0,3,11,,,,0,,,,,,,0,,,,0,,RobeGa20
+71,Sam Huff,LB,Edna Gas,1956,1969,2,5,13,64,168,,,,0,,,,,,,0,,,,0,,HuffSa00
+72,Gordon Lambert,LB,Leckie,1968,1969,0,0,0,3,14,,,,0,,,,,,,0,,,,0,,LambGo20
+73,Alex Hawkins,HB,Welch,1959,1968,0,0,3,24,125,0.0,1.0,0.0,0,0.0,0.0,1.0,10.0,208.0,787.0,10,39.0,129.0,1751.0,12,54.0,HawkAl00
+74,Bernie Casey,FL,Wyco,1961,1968,0,1,6,53,105,,,,0,,,,,1.0,23.0,0,23.0,359.0,5444.0,40,68.0,CaseBe00
+75,Larry Bowie,G,Pike,1962,1968,0,0,6,34,92,,,,0,,,,,,,0,,,,0,,BowiLa20
+76,Mike Ciccolella,MLB,Follansbee,1966,1968,0,0,1,8,35,,,,0,,,,,,,0,,,,0,,CiccMi20
+77,Bob Smith,DB,Williamson,1968,1968,0,0,0,2,6,,,,0,,,,,,,0,,,,0,,SmitBo20
+78,Gino Marchetti,DE,Smithers,1952,1966,7,11,13,59,161,,,,0,,,,,,,0,,1.0,36.0,1,19.0,MarcGi00
+79,John Reger,LB,Wheeling,1955,1966,0,3,11,42,144,,,,0,,,,,,,0,,,,0,,RegeJo00
+80,Dick Leftridge,FB,Hinton,1966,1966,0,0,0,0,4,,,,0,,,,,8.0,17.0,2,5.0,,,0,,LeftDi00
+81,Frank Roy,G,Montgomery,1966,1966,0,0,0,1,11,,,,0,,,,,,,0,,,,0,,RoyxFr20
+82,Tom Good,LB,South Charleston,1966,1966,0,0,0,1,2,,,,0,,,,,,,0,,,,0,,GoodTo20
+83,Buzz Nutter,C,Summersville,1954,1965,0,1,11,35,153,,,,0,,,,,,,0,,,,0,,NuttBu00
+84,Jimmy Carr,DB,Kayford,1955,1965,0,0,7,33,108,,,,0,,,,,30.0,115.0,0,41.0,9.0,157.0,0,59.0,CarrJi20
+85,Jim Schrader,C,Weston,1954,1964,0,3,8,22,116,,,,0,,,,,,,0,,,,0,,SchrJi00
+86,Ed Holler,LB,Bluefield,1963,1964,0,0,1,8,15,,,,0,,,,,1.0,8.0,0,8.0,,,0,,HollEd20
+87,Mack Yoho,DE,Reader,1960,1963,0,0,4,32,56,,,,0,,,,,,,0,,,,0,,YohoMa20
+88,Bob Simms,LB,Clendenin,1960,1962,0,0,0,9,31,,,,0,,,,,,,0,,1.0,58.0,0,58.0,SimmBo21
+89,Monte Crockett,HB,Talcott,1960,1962,0,0,1,5,40,,,,0,,,,,,,0,,35.0,512.0,1,51.0,CrocMo00
+90,Nick Mumley,DE,Wheeling,1960,1962,0,0,3,17,42,,,,0,,,,,,,0,,,,0,,MumlNi20
+91,Bill Miller,DT,Raleigh County,1962,1962,0,0,0,2,4,,,,0,,,,,,,0,,,,0,,MillBi20
+92,Gene Johnson,DB,Clay,1959,1961,0,0,2,6,30,,,,0,,,,,,,0,,,,0,,JohnGe20
+93,Glenn Davis,WR,Wellsburg,1960,1961,0,0,0,1,12,,,,0,,,,,,,0,,10.0,132.0,0,19.0,DaviGl00
+94,Billy Reynolds,HB,St. Marys,1953,1960,0,0,0,0,54,,,,0,,,,,176.0,585.0,7,33.0,24.0,252.0,0,55.0,ReynBi00
+95,Jim Greer,E,Huntington,1960,1960,0,0,0,3,14,,,,0,,,,,,,0,,22.0,284.0,1,33.0,GreeJi00
+96,Chuck Drazenovich,LB,Jere,1950,1959,0,4,8,0,113,,,,0,,,,,117.0,330.0,8,28.0,10.0,139.0,0,27.0,DrazCh00
+97,Dick Daugherty,G,Moundsville,1951,1958,0,1,5,0,69,,,,0,,,,,,,0,,,,0,,DaugDi00
+98,Frank Gatski,C,Farmington,1946,1957,3,1,10,0,144,,,,0,,,,,,,0,,,,0,,GatsFr00
+99,Norm Willey,DE,Hastings,1950,1957,1,2,5,0,92,,,,0,,,,,,,0,,2.0,50.0,0,37.0,WillNo00
+100,John Stock,E,Weirton,1956,1956,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,StocJo20
+101,Fred Wyant,QB,Weston,1956,1956,0,0,0,0,10,1.0,2.0,17.0,0,17.0,0.0,,,,,0,,,,0,,WyanFr20
+102,Bob Lusk,C,Williamson,1956,1956,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,LuskBo20
+103,Dave Stephenson,G,Clendenin,1950,1955,0,0,2,0,61,,,,0,,,,,,,0,,,,0,,StepDa21
+104,Tony Adamle,LB,Fairmont,1947,1954,0,2,2,0,75,,,,0,,,,,60.0,255.0,2,3.0,2.0,35.0,0,22.0,AdamTo02
+105,Jim Kincaid,DB,Ansted,1954,1954,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,KincJi20
+106,Dick Hensley,E,Williamson,1949,1953,0,0,0,0,33,,,,0,,,,,,,0,,19.0,358.0,2,60.0,HensDi20
+107,John Brewer,FB,Twin Branch,1952,1953,0,0,0,0,18,,,,0,,,,,67.0,273.0,3,71.0,9.0,62.0,0,16.0,BrewJo21
+108,Rex Bumgardner,HB,Clarksburg,1948,1952,0,0,2,0,54,,,,0,,,,,236.0,868.0,4,26.0,22.0,404.0,6,63.0,BumgRe20
+109,Howard Hartley,B,Ravenswood,1948,1952,0,0,3,0,57,,,,0,,,,,5.0,40.0,1,26.0,3.0,37.0,0,24.0,HartHo20
+110,Joe Moss,T,Elkins,1952,1952,0,0,1,0,12,,,,0,,,,,,,0,,,,0,,MossJo20
+111,Walt Barnes,G,Parkersburg,1948,1951,0,1,2,0,47,,,,0,,,,,,,0,,,,0,,BarnWa00
+112,Charlie Seabright,BB,McMechen,1941,1950,0,0,5,0,63,2.0,6.0,20.0,1,17.0,1.0,,,1.0,4.0,0,4.0,31.0,241.0,3,33.0,SeabCh20
+113,Dick Huffman,T,Charleston,1947,1950,3,1,4,0,47,,,,0,,,,,,,0,,2.0,36.0,0,23.0,HuffDi00
+114,Hal Shoener,E,Reedsville,1948,1950,0,0,2,0,38,,,,0,,,,,1.0,1.0,0,1.0,22.0,160.0,3,,ShoeHa20
+115,Jim Lipinski,T,Monongah,1950,1950,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,LipiJi20
+116,Bob Hoffman,B,Star City,1940,1949,0,0,0,0,54,,,,0,,,,,111.0,398.0,10,20.0,7.0,71.0,1,13.0,HoffBo20
+117,Joe Aguirre,E,Rock Springs,1941,1949,1,0,5,0,83,0.0,1.0,0.0,0,0.0,0.0,,,3.0,16.0,0,21.0,163.0,2223.0,30,68.0,AguiJo20
+118,Russ Thomas,T,Griffithsville,1946,1949,0,0,3,0,44,,,,0,,,,,,,0,,,,0,,ThomRu20
+119,Jim Pearcy,G,Harrisville,1946,1949,0,0,2,0,49,,,,0,,,,,,,0,,,,0,,PearJi20
+120,Herb Shoener,E,Reedsville,1948,1949,0,0,1,0,18,,,,0,,,,,,,0,,,,0,,ShoeHe20
+121,Marshall Goldberg,B,Elkins,1939,1948,0,0,6,0,77,8.0,28.0,114.0,1,44.0,3.0,,,476.0,1644.0,11,32.0,60.0,775.0,5,76.0,GoldMa20
+122,Herb Coleman,C,Chester,1946,1948,0,0,1,0,37,,,,0,,,,,,,0,,,,0,,ColeHe20
+123,John Rokisky,DE,Mount Clare,1946,1948,0,0,0,0,25,,,,0,,,,,,,0,,2.0,21.0,0,13.0,RokiJo20
+124,Les Palmer,HB,Cedar Grove,1948,1948,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,PalmLe20
+125,Bill Gompers,HB,Wheeling,1948,1948,0,0,0,0,14,,,,0,,,,,48.0,219.0,1,,,,0,,GompBi20
+126,Paul Rickards,QB,Wheeling,1948,1948,0,0,0,0,3,2.0,2.0,4.0,0,3.0,0.0,,31.0,2.0,21.0,0,11.0,,,0,,RickPa20
+127,Al Baisi,G,Norton,1940,1947,0,2,0,0,22,,,,0,,,,,,,0,,,,0,,BaisAl20
+128,John Lookabaugh,E,Ridgeley,1946,1947,0,0,0,0,9,,,,0,,,,,,,0,,12.0,145.0,1,31.0,LookJo20
+129,Billy Jones,G,Mannington,1947,1947,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,JoneBi20
+130,Lou Zontini,B,Whitesville,1940,1946,0,0,0,0,40,2.0,3.0,18.0,0,18.0,0.0,,,48.0,133.0,3,16.0,4.0,110.0,1,53.0,ZontLo20
+131,Tony Leon,G,Follansbee,1943,1946,0,0,2,0,36,,,,0,,,,,,,0,,,,0,,LeonTo20
+132,Bill Dutton,HB,Morgantown,1946,1946,0,0,0,0,11,4.0,6.0,31.0,0,11.0,0.0,,,53.0,169.0,2,38.0,2.0,68.0,0,52.0,DuttBi20
+133,Bob Adkins,BB,Letart,1940,1945,0,0,0,0,20,,,,0,,,,,1.0,5.0,0,5.0,4.0,73.0,1,55.0,AdkiBo20
+134,George Cafego,FB,Whipple,1940,1945,0,0,2,0,35,77.0,161.0,966.0,5,50.0,16.0,,,155.0,77.0,1,20.0,13.0,133.0,0,15.0,CafeGe20
+135,Dick Booth,B,Newell,1941,1945,0,0,1,0,15,5.0,8.0,135.0,2,71.0,1.0,,,33.0,100.0,1,17.0,10.0,193.0,1,54.0,BootDi20
+136,Dick Dolly,E,Onego,1941,1945,0,0,1,0,19,,,,0,,,,,1.0,2.0,0,2.0,8.0,122.0,0,47.0,DollDi20
+137,Abe Shires,T,Alderson,1945,1945,0,0,0,0,7,,,,0,,,,,,,0,,,,0,,ShirAb20
+138,John Lucente,FB,Clarksburg,1945,1945,0,0,1,0,10,,,,0,,,,,82.0,242.0,1,18.0,11.0,45.0,0,23.0,LuceJo20
+139,Jackie Hunt,FB,Huntington,1945,1945,0,0,0,0,4,,,,0,,,,,1.0,1.0,0,1.0,,,0,,HuntJa21
+140,Bill Anderson,DE,Triadelphia,1945,1945,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,AndeBi20
+141,Frank Kimble,E,Williamson,1945,1945,0,0,0,0,9,,,,0,,,,,,,0,,2.0,16.0,0,13.0,KimbFr20
+142,Kenny Fryer,TB,Wellsburg,1944,1944,0,0,0,0,3,9.0,24.0,91.0,0,25.0,2.0,,,15.0,15.0,0,9.0,,,0,,FryeKe20
+143,Len Barnum,B,Parkersburg,1938,1942,0,0,2,0,52,38.0,120.0,602.0,6,45.0,15.0,,,239.0,590.0,3,20.0,11.0,167.0,0,32.0,BarnLe21
+144,Al Thacker,G,Kayford,1942,1942,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,ThacAl20
+145,John Jett,E,Canton,1941,1941,0,0,0,0,5,,,,0,,,,,,,0,,4.0,50.0,0,18.0,JettJo20
+146,Sam Bartholomew,FB,Charleston,1941,1941,0,0,0,0,9,,,,0,,,,,21.0,69.0,0,10.0,3.0,15.0,0,7.0,BartSa20
+147,John Shonk,E,Charleston,1941,1941,0,0,0,0,10,,,,0,,,,,,,0,,5.0,52.0,0,14.0,ShonJo20
+148,Jack Mattiford,G,Peora,1941,1941,0,0,0,0,10,,,,0,,,,,,,0,,1.0,21.0,0,21.0,MattJa20
+149,Ken Moore,G,Clarksburg,1940,1940,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,MoorKe21
+150,Ev Elkins,B,Hamlin,1940,1940,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ElkiEv20
+151,Bill Moore,E,Wheeling,1939,1939,0,0,0,0,9,,,,0,,,,,1.0,7.0,0,7.0,6.0,82.0,1,,MoorBi20
+152,Tony Tonelli,C,Wheeling,1939,1939,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,ToneTo20
+153,Bill Karr,E,Ripley,1933,1938,1,0,5,0,63,,,,0,,,,,6.0,27.0,1,10.0,48.0,1032.0,18,49.0,KarrBi20
+154,Nels Peterson,B,Weston,1937,1938,0,0,0,0,9,0.0,6.0,0.0,0,0.0,2.0,,,23.0,78.0,1,32.0,4.0,43.0,1,,PeteNe20
+155,Johnny Stephens,E,Parkersburg,1938,1938,0,0,0,0,11,,,,0,,,,,,,0,,6.0,75.0,0,,StepJo21
+156,Wayne Underwood,T,West Union,1937,1937,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,UndeWa20
+157,Ed Matesic,TB,Marshall County,1934,1936,0,0,3,0,34,99.0,262.0,1412.0,8,,34.0,,,159.0,377.0,1,,4.0,51.0,1,13.0,MateEd20
+158,Win Croft,G,Cowley,1935,1936,0,0,0,0,20,,,,0,,,,,,,0,,,,0,,CrofWi20
+159,Tod Goodwin,E,Wheeling,1935,1936,0,0,2,0,20,,,,0,,,,,3.0,-1.0,0,0.0,33.0,511.0,6,65.0,GoodTo21
+160,Winnie Anderson,E,Charleston,1936,1936,0,0,0,0,5,,,,0,,,,,,,0,,7.0,74.0,0,,AndeWi22
+161,Red Kirkman,B,Woodland,1933,1935,0,0,2,0,20,30.0,97.0,393.0,4,1.0,15.0,,,28.0,55.0,0,,12.0,198.0,2,54.0,KirkRe20
+162,Bill Parriott,FB,Newburgh,1934,1934,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,ParrBi20
+163,Frank Abruzzino,BB,Shinnston,1931,1933,0,0,1,0,23,,,,0,,,,,,,0,,,,0,,AbruFr20
+164,Dick Powell,E,Gilmer County,1932,1933,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,PoweDi20
+165,Harry Thayer,T,Charleston,1933,1933,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,ThayHa20
+166,Ramey Hunter,E,Huntington,1933,1933,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,HuntRa20
+167,Hoge Workman,B,Huntington,1924,1932,0,0,2,0,19,,,,9,,,,,1.0,1.0,0,1.0,,,0,,WorkHo20
+168,Latham Flanagan,E,Buckhannon,1931,1931,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,FlanLa20
+169,Harry Myles,E,Lewisburg,1929,1930,0,0,0,0,6,,,,0,,,,,,,0,,,,0,,MyleHa20
+170,Gibby Welch,B,Parkersburg,1928,1929,0,0,2,0,25,,,,1,,,,,0.0,0.0,3,0.0,0.0,0.0,10,0.0,WelcGi20
+171,Cassy Ryan,BB,Mannington,1929,1929,0,0,1,0,9,,,,0,,,,,,,0,,0.0,0.0,1,0.0,RyanCa20
+172,Red Shurtliffe,WB,New Martinsville,1929,1929,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,ShurRe20
+173,Carl Davis,E,Charleston,1927,1927,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,DaviCa21
+174,Hoot Flanagan,TB,Toll Gate,1925,1926,0,0,2,0,18,,,,1,,,,,0.0,0.0,5,0.0,,,0,,FlanHo20
+175,Aaron Oliker,E,Clarksburg,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,OlikAa20
+176,Walter Mahan,G,Follansbee,1926,1926,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MahaWa20
+177,Fred Graham,E,Masontown,1926,1926,0,0,0,0,2,,,,0,,,,,,,0,,,,0,,GrahFr20
+178,Bill Berrehsem,T,Wheeling,1926,1926,0,0,1,0,6,,,,0,,,,,,,0,,,,0,,BerrBi20
+179,Joe Work,E,Bristol,1923,1925,0,0,3,0,19,,,,0,,,,,,,0,,0.0,0.0,1,0.0,WorkJo20
+180,Russell Meredith,T,Fairmont,1923,1925,0,0,1,0,10,,,,0,,,,,,,0,,,,0,,MereRu20
+181,Gale Bullman,E,Lesterville,1925,1925,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,BullGa20
+182,Oscar Wolford,G,Charleston,1920,1924,0,0,3,0,27,,,,0,,,,,,,0,,,,0,,WolfOs20
+183,Jack Storer,TB,Wheeling,1924,1924,0,0,1,0,14,,,,1,,,,,0.0,0.0,7,0.0,0.0,0.0,1,0.0,StorJa20
+184,John Kellison,G,Buckeye,1920,1922,0,0,1,0,8,,,,0,,,,,,,0,,,,0,,KellJo20
+185,Gene Carroll,E,St. Marys,1922,1922,0,0,0,0,4,,,,0,,,,,,,0,,,,0,,CarrGe20
+186,Russ Bailey,C,Weston,1920,1921,0,0,2,0,23,,,,0,,,,,,,0,,,,0,,BailRu20
+187,Bill Stobbs,BB,Wheeling,1921,1921,0,0,1,0,7,,,,0,,,,,,,0,,,,0,,StobBi20

@@ -1,0 +1,34 @@
+Rk,Player,Pos,City,From,To,AP1,PB,St,wAV,G,Cmp,Att,Yds,TD,Lng,Int,Sk,Yds.1,Att.1,Yds.2,TD.1,Lng.1,Rec,Yds.3,TD.2,Lng.2,Player-additional
+1,Jermaine Eluemunor,G,Chalk Farm,2017,2023,0,0,1,20,87,,,,0,,,,,,,0,,,,0,,ElueJe00
+2,Julian Okwara,DL,London,2020,2023,0,0,0,4,38,,,,0,,,,,,,0,,,,0,,OkwaJu00
+3,Josh Mauro,DE,St. Albans,2014,2021,0,0,2,20,80,,,,0,,,,,,,0,,,,0,,MaurJo00
+4,Jack Crawford,DE,London,2012,2020,0,0,3,18,109,,,,0,,,,,,,0,,,,0,,CrawJa00
+5,Jay Ajayi,RB,London,2015,2019,0,1,2,19,45,,,,0,,,,,572.0,2546.0,13,71.0,63.0,419.0,1,32.0,AjayJa00
+6,Obi Melifonwu,SS,London,2017,2018,0,0,0,1,7,,,,0,,,,,,,0,,,,0,,MeliOb00
+7,Menelik Watson,T,Manchester,2013,2017,0,0,2,9,34,,,,0,,,,,,,0,,,,0,,WatsMe00
+8,Osi Umenyiora,DE,London,2003,2014,1,2,6,63,161,,,,0,,,,,,,0,,,,0,,UmenOs99
+9,Visanthe Shiancoe,TE,Birmingham,2003,2013,0,0,5,23,149,,,,0,,,,,,,0,,245.0,2679.0,27,79.0,ShiaVi00
+10,Tim Shaw,MLB,Exeter,2007,2012,0,0,0,6,80,,,,0,,,,,,,0,,,,0,,ShawTi99
+11,Josh Samuda,G,Birmingham,2012,2012,0,0,0,1,16,,,,0,,,,,,,0,,,,0,,SamuJo00
+12,Sammy Morris,RB,Oxford,2000,2011,0,0,3,27,144,0.0,0.0,0.0,0,0.0,0.0,1.0,9.0,736.0,3053.0,26,55.0,166.0,1258.0,1,44.0,MorrSa00
+13,Domonique Foxworth,DB,Oxford,2005,2011,0,0,2,19,78,,,,0,,,,,,,0,,,,0,,FoxwDo20
+14,Rhys Lloyd,K,Dover,2007,2010,0,0,0,0,50,,,,0,,,,,,,0,,,,0,,LloyRh44
+15,Vince Newsome,DB,Braintree,1983,1992,0,0,6,38,141,,,,0,,,,,,,0,,,,0,,NewsVi20
+16,Galand Thaxton,LB,Mildenhall AFB,1989,1991,0,0,0,2,30,,,,0,,,,,,,0,,,,0,,ThaxGa20
+17,Ian Howfield,K,Watford,1991,1991,0,0,0,0,9,,,,0,,,,,,,0,,,,0,,howfiian01
+18,Wayne Radloff,C,London,1985,1989,0,0,3,16,65,,,,0,,,,,,,0,,,,0,,RadlWa20
+19,Vince Abbott,K,London,1987,1988,0,0,0,3,23,,,,0,,,,,,,0,,,,0,,abbotvin01
+20,Mick Luckhurst,K,Redbourn,1981,1987,0,0,0,21,95,,,,0,,,,,,,0,,,,0,,luckhmic01
+21,Owen Gill,RB,London,1985,1987,0,0,0,4,32,,,,0,,,,,98.0,490.0,3,67.0,21.0,189.0,0,20.0,GillOw20
+22,John O'Callaghan,TE,London,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,OCalJo20
+23,Pat Morrison,DB,London,1987,1987,0,0,0,0,1,,,,0,,,,,,,0,,,,0,,MorrPa20
+24,Mike Estep,G,Northampton,1987,1987,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,EsteMi20
+25,Jon Norris,DE,Lancaster,1987,1987,0,0,0,2,3,,,,0,,,,,,,0,,,,0,,NorrJo20
+26,Mike Dawson,DT,Dorking,1976,1984,0,0,7,36,113,,,,0,,,,,,,0,,,,0,,DawsMi20
+27,John Smith,K,Leafield,1974,1983,0,1,0,27,116,,,,0,,,,,,,0,,,,0,,smithjoh01
+28,Ken Clark,P,Southampton,1979,1979,0,0,0,2,16,2.0,2.0,32.0,0,30.0,0.0,0.0,0.0,1.0,3.0,0,3.0,,,0,,ClarKe21
+29,Bobby Howfield,K,Bushey,1968,1974,0,0,0,17,89,,,,0,,,,,,,0,,,,0,,HowfBo20
+30,Rick Sharp,T,London,1970,1972,0,0,0,8,29,,,,0,,,,,,,0,,,,0,,SharRi20
+31,Mike Walker,K,Lancaster,1972,1972,0,0,0,0,8,,,,0,,,,,,,0,,,,0,,WalkMi21
+32,John Dibb,T,Wilsden,1930,1930,0,0,0,0,3,,,,0,,,,,,,0,,,,0,,DibbJo20
+33,Maury Segal,E,,1925,1925,0,0,0,0,5,,,,0,,,,,,,0,,,,0,,SegaMa20
