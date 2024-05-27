@@ -2787,9 +2787,9 @@ St. Louis,United States,38.6280278,-90.1910154
 Midwest City,United States,35.4495097,-97.3967025
 Knoxville,United States,35.9603948,-83.9210261
 Laie,United States,21.6438449,-157.924442
-Texarkana,United States,33.44667445,-94.07714830522015
+Texarkana,United States,33.44667445,-94.07714830522016
 San Diego,United States,32.7174202,-117.162772
-Winston-Salem State,United States,36.089515399999996,-80.22397373065107
+Winston-Salem State,United States,36.0895154,-80.22397373065107
 Grand Rapids,United States,42.9632425,-85.6678639
 Rock Springs,United States,41.5860557,-109.2194544
 Manchester,United States,42.9956397,-71.4547891
@@ -2946,7 +2946,7 @@ Summit,United States,41.1457902,-81.5333603
 Martinsburg,United States,39.4562528,-77.9639604
 Sapelo Island,United States,31.4774455,-81.2417611
 Broken Arrow,United States,36.0525993,-95.7908195
-Fort Campbell,United States,36.631338299999996,-87.61568844317374
+Fort Campbell,United States,36.6313383,-87.61568844317374
 Milford,United States,41.2222218,-73.0570603
 Mustang,United States,35.384227,-97.7244813
 Columbus,United States,39.9622601,-83.0007065
@@ -2990,7 +2990,7 @@ Independence,United States,39.0924792,-94.4137923
 Moscow,United States,46.7323875,-117.000165
 Alameda,United States,37.6090291,-121.899142
 Garner,United States,43.102147,-93.6020069
-Fort Lawton,United States,34.569849500000004,-98.41812229900623
+Fort Lawton,United States,34.569849500000004,-98.41812229900624
 Meridian,United States,32.3643098,-88.703656
 Maben,United States,37.6387248,-81.3939921
 Mason City,United States,43.1524574,-93.2017941
@@ -3008,7 +3008,7 @@ Cristobal,Panama,9.3530018,-79.9045593
 Newport Beach,United States,33.6170092,-117.9294401
 Hudson,United States,40.7381635,-74.0550731
 Vicksburg,United States,32.3528055,-90.8777342
-St. Paul,United States,37.517132000000004,-95.17604240058537
+St. Paul,United States,37.517132,-95.17604240058536
 Arnold,United States,38.4226711,-90.3758287
 Sikeston,United States,36.876719,-89.5878579
 Covington,United States,31.196549,-86.4597236
@@ -3023,7 +3023,7 @@ Orangeburg,United States,33.4918203,-80.8556476
 South Bend,United States,41.6833813,-86.2500066
 Waterloo,United States,42.498275,-92.3328743
 Racine,United States,42.7260523,-87.7825242
-Marrero,United States,29.8835055,-90.11844862641495
+Marrero,United States,29.8835055,-90.11844862641496
 Mobile,United States,30.6913462,-88.0437509
 Dayton,United States,39.7589478,-84.1916069
 Salt Lake City,United States,40.7596198,-111.886797
@@ -3102,7 +3102,7 @@ Wheeling,United States,42.138889,-87.9310944
 Raleigh,United States,35.7803977,-78.6390989
 Lorain,United States,41.2633554,-82.1734746
 Lovington,United States,32.9440685,-103.3487454
-LaGrande,United States,40.637703099999996,-74.38439274564652
+LaGrande,United States,40.6377031,-74.38439274564652
 Grinnell,United States,39.12723,-100.629031
 Reading,United States,40.335345,-75.9279495
 Sumter,United States,28.6689748,-82.076402
@@ -3140,7 +3140,7 @@ Appleton,United States,44.2613967,-88.4069744
 Tilden,United States,28.4600647,-98.5482896
 Morristown,United States,40.7992398,-74.4774358537687
 Carrollton,United States,32.9537349,-96.8902816
-Boutte,United States,29.8951685,-90.38943007298417
+Boutte,United States,29.8951685,-90.38943007298415
 Williamson,United States,30.6580927,-97.6041649
 Clarksville,United States,36.5277607,-87.3588703
 Orlando,United States,28.5421109,-81.3790304
@@ -3446,7 +3446,7 @@ El Dorado,United States,33.2115087,-92.6650144
 Kennewick,United States,46.2087066,-119.119919
 Paoli,United States,40.0417847,-75.4838685
 Deerfield,United States,42.1711365,-87.8445119
-Vashon,United States,47.420875949999996,-122.47370525466893
+Vashon,United States,47.42087595,-122.47370525466891
 Marshalltown,United States,42.048881,-92.9122672
 Bountiful,United States,40.8894611,-111.8804817
 Suffolk,United States,40.8832318,-72.8578027
@@ -3628,7 +3628,7 @@ Stratford,United States,36.3361403,-102.072119
 Clarendon,United States,34.9359346,-100.8905829
 Dickson,United States,36.1459327,-87.3480592
 North,United States,40.2340936,-75.2731376
-Oxon Hill,United States,38.784824900000004,-76.9694015528087
+Oxon Hill,United States,38.7848249,-76.9694015528087
 Capistrano Beach,United States,33.4587166,-117.66857
 Petersburg,United States,37.1924594,-77.3677408
 Moundsville,United States,39.920425,-80.7432124
@@ -3756,7 +3756,7 @@ Harrodsburg,United States,37.762298,-84.8432852
 Faribault,United States,43.6647961,-93.9510501
 Rapid City,United States,44.0806041,-103.228023
 Sachse,United States,32.9762327,-96.5952703
-St. Hilaire,Canada,47.298137249999996,-68.39933493698268
+St. Hilaire,Canada,47.29813725,-68.39933493698268
 Spearville,United States,37.8500191,-99.7567932
 Sonora,United States,30.5667344,-100.642859
 Scotch Plains,United States,40.65538,-74.3898732
@@ -3772,7 +3772,7 @@ Mullens,United States,37.5832541,-81.3804607
 Brinkley,United States,34.8878719,-91.1945688
 Danville,United States,40.125222,-87.6304614
 Lansing,United States,42.7337712,-84.5553805
-Yorktown,United States,37.235665499999996,-76.51364950821196
+Yorktown,United States,37.2356655,-76.51364950821196
 Conway,United States,35.2521996,-92.6888936
 Downers Grove,United States,41.7936822,-88.0102281
 Gretna,United States,29.9146493,-90.0539604
@@ -3870,11 +3870,11 @@ Voorhees,United States,39.8512162,-74.9619779
 Toll Gate,United States,39.2725811,-80.9151078
 Buckhannon,United States,38.9939426,-80.2322698
 Lemont,United States,41.6737149,-88.0016263
-Fort Hood,United States,31.2012636,-97.70842502110759
+Fort Hood,United States,31.2012636,-97.7084250211076
 Converse,United States,43.0202459,-105.5046207
 Lockport,United States,43.1687104,-78.696567
 Nuku'Alofa,Tonga,-21.1343401,-175.201808
-St. Ann,United States,38.72814435,-90.38790815533517
+St. Ann,United States,38.72814435,-90.38790815533515
 Wallace,United States,38.9073846,-101.7565099
 Pineville,United States,36.7620301,-83.6949176
 Odenville,United States,33.6773237,-86.3966481
@@ -3983,7 +3983,7 @@ Charlestown,United States,43.2383483,-72.4247132
 Gaffney,United States,35.0717945,-81.6498195
 Newport,United States,41.4899827,-71.3137707
 South Charleston,United States,38.368429,-81.69957
-River Ridge,United States,29.954659499999998,-90.2160804784312
+River Ridge,United States,29.9546595,-90.2160804784312
 Higley,United States,44.50015535,-74.91602865896805
 Kenosha,United States,42.5846773,-87.8212263
 Jonesboro,United States,35.8272257,-90.6949871
@@ -4042,7 +4042,7 @@ Gbanga,Liberia,6.996269,-9.470905
 Calhoun City,United States,33.8553915,-89.3114613
 Mountain Home,United States,43.1329504,-115.691197
 Morgan City,United States,29.6993748,-91.20677
-Fort Huachuca,United States,31.527254499999998,-110.36064751457843
+Fort Huachuca,United States,31.5272545,-110.36064751457845
 Holden,United States,38.7141778,-93.9913303
 Gardner,United States,42.5763523,-71.9952737
 Soderholm,Sweden,59.4659069,18.7515833
@@ -4105,7 +4105,7 @@ Johnstown,United States,40.3267407,-78.9219698
 Baldwin,United States,33.0869398,-83.2633216
 McPherson,United States,38.3659015,-97.6575171
 Palm Springs,United States,33.8246269,-116.540303
-Fort Peck,United States,48.0096025,-106.44767298035953
+Fort Peck,United States,48.0096025,-106.44767298035951
 Manilla,Philippines,14.5906346,120.9799964
 Lakeland,United States,28.0394654,-81.9498042
 Hartsville,United States,42.2470149,-77.6938807
@@ -4115,7 +4115,7 @@ Parshall,United States,47.953346,-102.134892
 Mandurah,Australia,-32.5302495,115.7208782
 Galesburg,United States,40.9475652,-90.3712169
 Rushford,United States,43.8082606,-91.7531265
-Vava'u,Tonga,-18.623146849999998,-174.00213804910913
+Vava'u,Tonga,-18.62314685,-174.0021380491091
 Bothell,United States,47.7623204,-122.2054035
 Chatham,United States,35.7151316,-79.2533035
 Loris,United States,34.0562812,-78.8903044
@@ -4205,14 +4205,14 @@ Genoa,Canada,46.4806625,-81.0602592
 Maple Grove,United States,45.0984983,-93.4419222
 State College,United States,40.7944504,-77.8616386
 Brooklyn Park,United States,45.1004807,-93.3443585
-St. Catherine,Jamaica,18.047173700000002,-77.03338518903325
+St. Catherine,Jamaica,18.0471737,-77.03338518903325
 Roseburg,United States,43.216505,-123.3417381
 Willoughby,United States,41.6397696,-81.4065011
 Framington,United States,39.838352,-86.294844
 Jasper,United States,30.7485258,-94.000884
 Dania,United States,47.6577778,-117.4170107
 Orlova,Czechia,49.8459427,18.4309274
-Stanford,United States,37.426540700000004,-122.17030545534064
+Stanford,United States,37.4265407,-122.17030545534064
 St. Augustine,United States,40.7183728,-90.4109616
 Manalapan,United States,40.2852895,-74.333495
 Northampton,United States,40.7451356,-75.3289302
@@ -4252,7 +4252,7 @@ Tannersville,United States,42.1956438,-74.1337508
 Watertown,United States,42.3652518,-71.1843236
 Damascus,Syria,33.5130695,36.3095814
 St. Matthews,United States,38.249880000000005,-85.63574235919543
-St. Rose,United States,29.956663499999998,-90.31134635034735
+St. Rose,United States,29.9566635,-90.31134635034736
 Chula Vista,United States,32.6400541,-117.084195
 Brentwood,United States,37.9317766,-121.696026
 Clemson,United States,34.6850749,-82.8364111
@@ -4274,7 +4274,7 @@ Decorah,United States,43.3041609,-91.7859098
 Gainesville,United States,29.6519684,-82.3249846
 Brussels,United States,38.9494939,-90.5887314
 East St. Louis,United States,38.6268666,-90.159707
-Coconut Creek,United States,26.271462800000002,-80.18181396580121
+Coconut Creek,United States,26.2714628,-80.18181396580121
 Galloway,United States,39.9139207,-83.1633336
 Stanton,United States,37.5691072,-101.7935648
 Papillion,United States,41.1544433,-96.0422378
@@ -4319,7 +4319,7 @@ Eupora,United States,33.5406769,-89.2670124
 Tuscumbia,United States,34.7312005,-87.70253
 Elkhart,United States,41.6012796,-85.8590603
 Waycross,United States,31.2135511,-82.3540178
-Subic Bay,Philippines,14.78497865,120.23397993795183
+Subic Bay,Philippines,14.78497865,120.23397993795184
 Big Stone Gap,United States,36.8677938,-82.7742267
 Artesia,United States,33.8690197,-118.0796195
 Evanston,United States,42.0470043,-87.6846053
@@ -4370,7 +4370,7 @@ Pulaski,United States,37.2314232,-89.1183427
 Demorest,United States,34.565193,-83.5453322
 David City,United States,41.2527355,-97.1300668
 Woodland,United States,38.6786109,-121.7733285
-Mercer Island,United States,47.5602073,-122.22014226861951
+Mercer Island,United States,47.5602073,-122.22014226861953
 Carrington,United States,47.44972,-99.126224
 Litchfield,United States,41.767249,-73.2543049
 Lake Barrington,United States,42.2126265,-88.1671534508794
@@ -4524,7 +4524,7 @@ Ewa Beach,United States,21.315603,-158.008804
 Waianae,United States,21.4454875,-158.18782389776402
 Fo'ui,Tonga,-21.13166395,-175.21743655
 St. Albans,United Kingdom,51.753051,-0.3379675
-Johnsonville,United States,38.521492699999996,-88.53797753905751
+Johnsonville,United States,38.5214927,-88.53797753905751
 Melbourne,United States,28.106471,-80.6371513
 Tipton,United States,40.2899154,-86.058442
 Scappoose,United States,45.7572997,-122.8743589
@@ -4578,7 +4578,7 @@ Waukegan,United States,42.3636331,-87.8447938
 Skokie,United States,42.0262972,-87.7521069
 Simpsonville,United States,34.7370639,-82.2542834
 Portsmouth,United States,43.0702223,-70.7548621
-Willard,United States,39.09371795,-95.94277075656349
+Willard,United States,39.09371795,-95.94277075656348
 Destrehan,United States,29.960933,-90.3705407077716
 Hennepin County,United States,45.0257232,-93.4865052
 Timisoara,Romania,45.7538355,21.2257474
@@ -4602,7 +4602,7 @@ Fort Lewis,United States,47.1086912,-122.554979
 Littleton,United States,39.613321,-105.016649
 Wahoo,United States,41.2111084,-96.6197985
 Flowood,United States,32.3092861,-90.1386811
-McNary,United States,34.084283,-109.85576440100813
+McNary,United States,34.084283,-109.85576440100812
 Thibodaux,United States,29.7957633,-90.822871
 Erath,United States,32.1954856,-98.2213499
 Denio,United States,41.9899992,-118.635542
@@ -4732,7 +4732,7 @@ Nu'uuli,United States,-14.312637,-170.717112
 Pittsboro,United States,35.727716799999996,-79.17396839557132
 Westerly,United States,37.9923315,-81.3206634
 Hamilton,United States,31.6429346,-97.9715967
-Council,United States,44.728532,-116.43648182094685
+Council,United States,44.728532,-116.43648182094684
 Exira,United States,41.5905324,-94.8757758
 Hardin County,United States,30.3049642,-94.403904
 Bartlesville,United States,36.7421089,-95.9528877
@@ -4741,7 +4741,7 @@ San Ramon,United States,37.7648021,-121.9544387
 Port Royal,United States,32.2207592,-80.6723303
 Newburgh,United States,41.5034271,-74.0104179
 Floral Park,United States,40.7246999,-73.7048024
-Charleton,United States,32.39902375,-90.09696972943543
+Charleton,United States,32.39902375,-90.09696972943544
 Ludenscheid,Germany,51.218137,7.6396975
 Langton,Canada,42.7419289,-80.5776754
 Capetown,South Africa,-33.9285616,18.4094545
@@ -4773,7 +4773,7 @@ Raceland,United States,38.5399754,-82.7283275
 Plattsburgh,United States,44.6951801,-73.4549227
 Pawtucket,United States,41.8789531,-71.3821203
 Redlands,United States,34.0550328,-117.1827445
-Lowmoor,United States,46.483872399999996,-87.82796588388705
+Lowmoor,United States,46.4838724,-87.82796588388705
 Towanda,United States,40.5639242,-88.8989607
 Fordyce,United States,33.8137161,-92.4129303
 Ellisville,United States,38.5946373,-90.584838
@@ -4828,7 +4828,7 @@ Victoria,United States,28.8026443,-96.9766308
 Bastrop,United States,30.0541116,-97.3887764
 Cedaredge,United States,38.9016487,-107.926454
 Fond du Lac,United States,43.7533414,-88.4493796
-Shawnee Mission,United States,38.99134745,-94.63274030884841
+Shawnee Mission,United States,38.99134745,-94.6327403088484
 Shape,Belgium,50.50298345,3.9761295711271982
 Waxahachie,United States,32.3944908,-96.8439365
 Pensacola,United States,30.421309,-87.2169149
@@ -4898,13 +4898,13 @@ Tooele,United States,40.4062872,-113.1966394
 Leone,United States,-14.3386615,-170.7833056
 Inman,United States,38.2320232,-97.7733326
 Otto,United States,42.356173,-78.8317
-Campobasso,Italy,41.717264799999995,14.826226697820019
+Campobasso,Italy,41.717264799999995,14.82622669782002
 Sartell,United States,45.6216319,-94.2069365
 Setauket,United States,40.9355473,-73.1188824
 Milan,Italy,45.4641943,9.1896346
 Avellino,Italy,40.9965446,15.1405690365004
 Eutaw,United States,32.8406848,-87.8875144
-Baker,United States,0.19599149999999999,-176.47805742528612
+Baker,United States,0.1959914999999999,-176.47805742528612
 Brenham,United States,30.1668828,-96.3977442
 Shelton,United States,41.2684927,-73.1737082
 Montrose,United States,38.4375391,-108.2403855
@@ -5004,7 +5004,7 @@ Minden,United States,41.4667146,-95.542622
 Musselshell,United States,46.4728903,-108.4473635
 Crofton,United States,39.01595465,-76.68420565430054
 Mahtomedi,United States,45.0696886,-92.9516037
-St. Michael,United States,63.464510000000004,-162.09896275266192
+St. Michael,United States,63.46451,-162.09896275266192
 Satanta,United States,37.4370646,-100.988276
 Talbotville,Canada,42.8031625,-81.2531447
 Poughkeepsie,United States,41.7065539,-73.9283672
@@ -5054,7 +5054,7 @@ Ramsey,United States,45.0165728,-93.0949501
 Cohasset,United States,47.263556,-93.620215
 Bogue,United States,39.362507,-99.687336
 Nicodemus,United States,39.3925947,-99.6178816
-Whitefish,United States,48.450293,-114.33828531635987
+Whitefish,United States,48.450293,-114.33828531635989
 Rzeszow,Poland,50.013064,22.016143457294312
 Lahr,Germany,49.9440252,6.2909576
 Fontana,United States,34.0922947,-117.43433
@@ -5113,7 +5113,7 @@ West Union,United States,42.9624184,-91.8076644
 Kailua-Kona,United States,19.641941,-155.996933
 Eaton,United States,42.5935964,-84.8443666
 Brighton,United States,39.983721,-104.8110775
-Eufala,United States,31.908345949999998,-85.14396224153569
+Eufala,United States,31.90834595,-85.14396224153569
 Haltom,United States,32.7995738,-97.2691817
 Penn Valley,United States,39.1948165,-121.19264637070282
 Eagle Butte,United States,45.000375,-101.234324
@@ -5180,18 +5180,18 @@ Fitchburg,United States,42.5854371,-71.8046023
 Baumholder,Germany,49.6167,7.33333
 Springhill,United States,33.0022966,-93.4612001
 Auburn Hills,United States,42.6875323,-83.2341028
-James Island,United States,47.906307749999996,-124.64865782632894
+James Island,United States,47.90630775,-124.64865782632894
 Burley,United States,42.5357428,-113.792794
 Seibert,United States,39.2991591,-102.869097
 Parkerburg,United States,31.987866,-81.054101
 East Boston,United States,42.3718183,-71.02815051029489
 Vale,United States,43.982063,-117.238456
 Blythewood,United States,34.2187005,-80.98456918011235
-Bingham Canyon,United States,40.53115585,-112.12974988127753
+Bingham Canyon,United States,40.53115585,-112.12974988127752
 Dora,United States,33.7286935,-87.0904188
 Chelsea,United States,42.3917638,-71.0328284
 Coppell,United States,32.9552598,-97.0155703
-LaPlace,United States,30.071599300000003,-90.46635890468855
+LaPlace,United States,30.071599300000003,-90.46635890468856
 Rialto,United States,34.1064001,-117.3703235
 Lewis Center,United States,40.1983958,-83.0101843
 Merrillville,United States,41.4828144,-87.3328139
@@ -5227,7 +5227,7 @@ Charles City,United States,37.3705777,-77.0605098
 Gosnells,Australia,-32.0673135,115.99773042056074
 Tiger,United States,32.7078463,-110.6823227
 Lisbon,United States,41.9211165,-91.3854913
-Fort Bragg,United States,39.4534731,-123.81491141575003
+Fort Bragg,United States,39.4534731,-123.81491141575005
 Minster,United States,40.3931033,-84.3760612
 Waimanalo,United States,21.346304,-157.7211
 Beaverdam,United States,40.832992,-83.9742826
