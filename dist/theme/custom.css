@@ -597,3 +597,19 @@ figcaption:before {
   margin-top: auto;
   opacity: 0.75;
 }
+.method-slide .logo {
+  width: 100%;
+  max-width: 8vw;
+  height: auto;
+  margin: 1em 1em 1em 1em;
+}
+
+#logo-row {
+  width: 90%;
+  justify-content: space-between;
+}
+
+#NBA-logo {
+  width: auto;
+  max-height: 20vh;
+}
