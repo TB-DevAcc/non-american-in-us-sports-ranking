@@ -190,6 +190,8 @@ label, text, caption, figcaption, button {
 // ---------------------------------------------
 
 .slide-container {
+  display: flex;
+  flex-direction: column;
   text-align: left;
   position: relative;
   top: 10vh;
@@ -199,6 +201,16 @@ label, text, caption, figcaption, button {
   padding: 10px;
   box-sizing: border-box;
   overflow: hidden;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
 }
 
 .container-fluid {
@@ -291,5 +303,26 @@ figcaption:before {
   .val-change {
     transition: color 0.3s ease;
     color: #B75D69;
+  }
+}
+
+// Method Slide
+.method-slide {
+  .slide-container {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .column {
+    align-content: center;
+    justify-content: space-between;
+  }
+
+  h2 {
+    margin: 0.3em 0.3em 1em 0.3em;
+  }
+  .column p {
+    margin-top: auto;
+    opacity: 0.75;
   }
 }

@@ -481,6 +481,8 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   }
 }
 .slide-container {
+  display: flex;
+  flex-direction: column;
   text-align: left;
   position: relative;
   top: 10vh;
@@ -490,6 +492,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   padding: 10px;
   box-sizing: border-box;
   overflow: hidden;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
 }
 
 .container-fluid {
@@ -567,4 +579,21 @@ figcaption:before {
 .data-slide .val-change {
   transition: color 0.3s ease;
   color: #B75D69;
+}
+
+.method-slide .slide-container {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.method-slide .column {
+  align-content: center;
+  justify-content: space-between;
+}
+.method-slide h2 {
+  margin: 0.3em 0.3em 1em 0.3em;
+}
+.method-slide .column p {
+  margin-top: auto;
+  opacity: 0.75;
 }
