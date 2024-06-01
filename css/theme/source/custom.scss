@@ -279,3 +279,17 @@ figcaption:before {
 // ---------------------------------------------
 
 // Title Slide
+
+// Data Slide
+.data-slide {
+  .slide-container {
+    text-align: center;
+  }
+  h1 {
+    margin: 0 0 1em 0;
+  }
+  .val-change {
+    transition: color 0.3s ease;
+    color: #B75D69;
+  }
+}

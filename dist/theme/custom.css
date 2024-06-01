@@ -557,3 +557,14 @@ figcaption:before {
 .booktabs-table tbody tr:hover {
   background-color: #e9e9e9;
 }
+
+.data-slide .slide-container {
+  text-align: center;
+}
+.data-slide h1 {
+  margin: 0 0 1em 0;
+}
+.data-slide .val-change {
+  transition: color 0.3s ease;
+  color: #B75D69;
+}

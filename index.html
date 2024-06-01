@@ -9,7 +9,7 @@
 
 	<title>Global Game Changers</title>
 	<link rel="icon" href="src/img/keynote.ico" type="image/x-icon">
-	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+	<!-- <link rel="stylesheet" href="dist/css/bootstrap.min.css"> -->
 	<link rel="stylesheet" href="dist/reset.css">
 	<link rel="stylesheet" href="dist/reveal.css">
 	<link rel="stylesheet" href="dist/theme/custom.css">
@@ -33,7 +33,7 @@
 	<!-- Additional JS -->
 	<script src="dist/js/bibtex-bundle.js"></script>
 	<script src="dist/js/d3-bundle.js"></script>
-	<script src="dist/js/bootstrap.bundle.min.js"></script>
+	<!-- <script src="dist/js/bootstrap.bundle.min.js"></script> -->
 
 	<!-- Reveal.js and plugins -->
 	<script src="dist/reveal.js"></script>
@@ -77,7 +77,13 @@
 				controls: true,
 				progress: false,
 				hash: true,
+				transition: "none",
 				slideNumber: "c/t",
+				menu: {
+					titleSelector: '',
+					useTextContentForMissingTitles: false,
+					hideMissingTitles: true,
+				},
 				mathjax3: {
 					mathjax: 'dist/js/mathjax-bundle.js',
 					tex: {
@@ -334,7 +340,42 @@
 			}
 		}
 	</script>
+	<script>
+		Reveal.on('ready', function (event) {
+			// Initialize all counters on document ready
+			document.querySelectorAll('.number-transform').forEach(fragment => {
+				fragment.textContent = fragment.getAttribute('data-num-start');
+			});
+		});
 
+		Reveal.on('fragmentshown', function (event) {
+			const fragment = event.fragment;
+			if (fragment.classList.contains('number-transform')) {
+				const start = parseInt(fragment.getAttribute('data-num-start'), 10);
+				const end = parseInt(fragment.getAttribute('data-num-end'), 10);
+				const duration = 3000; // Duration of animation in milliseconds
+				const stepTime = 50; // Time between each step (lower = faster animation)
+				const steps = duration / stepTime; // Total number of steps
+				const stepSize = (start - end) / steps; // Size of each step
+				let currentNumber = start;
+
+				const counter = setInterval(() => {
+					currentNumber -= stepSize;
+					if (currentNumber <= end) {
+						fragment.textContent = Math.floor(end);
+						clearInterval(counter);
+					} else {
+						fragment.textContent = Math.floor(currentNumber);
+					}
+				}, stepTime);
+			}
+		});
+
+		// Utilizing an easing function to create a non-linear animation effect
+		function easeOutExpo(t, b, c, d) {
+			return c * (-Math.pow(2, -10 * t / d) + 1) + b;
+		}
+	</script>
 </body>
 
 </html>
