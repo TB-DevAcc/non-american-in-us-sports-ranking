@@ -349,6 +349,7 @@ figcaption:before {
   font-size: smaller;
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 
 #sportsMetrics th,
