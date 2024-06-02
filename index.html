@@ -597,15 +597,172 @@
 	</script>
 
 	<script>
-		Reveal.on('ready', function () {
-			TESTER = document.getElementById('tester');
-			Plotly.newPlot(TESTER, [{
-				x: [1, 2, 3, 4, 5],
-				y: [1, 2, 4, 8, 16]
-			}], {
-				margin: { t: 0 }
+		// Gapminder animation
+		Reveal.on('ready', function (event) {
+			d3.csv('./src/data/data_seasons.csv').then(function (data) {
+				var lookup = {};
+
+				function getData(season, continent) {
+					var bySeason = lookup[season] || (lookup[season] = {});
+					var trace = bySeason[continent] || (bySeason[continent] = {
+						x: [],
+						y: [],
+						id: [],
+						text: [],
+						marker: { size: [] }
+					});
+					return trace;
+				}
+
+				// Process each row
+				data.forEach(function (datum) {
+					var season = datum.Season;
+					var continent = datum['Home Continent'];
+					var trace = getData(season, continent);
+
+					trace.text.push(datum.Player);
+					trace.id.push(datum.Player);
+					trace.x.push(+datum['Defensive Performance']);
+					trace.y.push(+datum['Offensive Performance']);
+					trace.marker.size.push(500);  // Example size, adjust as necessary
+				});
+
+				// Ensure we have seasons and continents populated
+				var seasons = Object.keys(lookup);
+				if (seasons.length === 0) {
+					console.error('No data available for seasons');
+					return;
+				}
+
+				// Gather all continents across all seasons
+				var allContinents = new Set();
+				seasons.forEach(season => {
+					Object.keys(lookup[season]).forEach(continent => {
+						allContinents.add(continent);
+					});
+				});
+				allContinents = Array.from(allContinents); // Convert Set to Array for easier processing
+
+				var firstSeason = lookup[seasons[0]];
+
+				// Create the main traces, one for each continent
+				var traces = allContinents.map(function (continent) {
+					var data = firstSeason[continent] || { x: [], y: [], id: [], text: [], marker: { size: [] } };
+					return {
+						name: continent,
+						x: data.x.slice(),
+						y: data.y.slice(),
+						id: data.id.slice(),
+						text: data.text.slice(),
+						mode: 'markers',
+						marker: {
+							size: data.marker.size,
+							sizemode: 'area',
+							sizeref: 2,
+						}
+					};
+				});
+
+				// Create a frame for each season
+				var frames = [];
+				seasons.forEach(function (season) {
+					frames.push({
+						name: season,
+						data: allContinents.map(function (continent) {
+							var data = lookup[season][continent] || { x: [], y: [], id: [], text: [], marker: { size: [] } };
+							return {
+								name: continent,
+								x: data.x.slice(),
+								y: data.y.slice(),
+								id: data.id.slice(),
+								text: data.text.slice(),
+								mode: 'markers',
+								marker: {
+									size: data.marker.size,
+									sizemode: 'area',
+									sizeref: 2
+								}
+							};
+						})
+					});
+				});
+
+				// Slider steps for each season
+				var sliderSteps = seasons.map(function (season) {
+					return {
+						method: 'animate',
+						label: season,
+						args: [[season], {
+							mode: 'immediate',
+							transition: { duration: 300 },
+							frame: { duration: 300, redraw: true }
+						}]
+					};
+				});
+
+				var layout = {
+					xaxis: {
+						title: 'Defensive Performance',
+						range: [0, 100]  // Adjust according to the actual data range
+					},
+					yaxis: {
+						title: 'Offensive Performance',
+						range: [0, 100]  // Adjust according to the actual data range
+					},
+					hovermode: 'closest',
+					updatemenus: [{
+						x: 0,
+						y: 0,
+						yanchor: 'top',
+						xanchor: 'left',
+						showactive: false,
+						direction: 'left',
+						type: 'buttons',
+						pad: { t: 87, r: 10 },
+						buttons: [{
+							method: 'animate',
+							args: [null, {
+								mode: 'immediate',
+								fromcurrent: true,
+								transition: { duration: 300 },
+								frame: { duration: 500, redraw: true }
+							}],
+							label: 'Play'
+						}, {
+							method: 'animate',
+							args: [[null], {
+								mode: 'immediate',
+								transition: { duration: 0 },
+								frame: { duration: 0, redraw: false }
+							}],
+							label: 'Pause'
+						}]
+					}],
+					sliders: [{
+						pad: { l: 130, t: 55 },
+						currentvalue: {
+							visible: true,
+							prefix: 'Season:',
+							xanchor: 'right',
+							font: { size: 20, color: '#666' }
+						},
+						steps: sliderSteps
+					}]
+				};
+
+				// Create the plot
+				Plotly.newPlot('myDiv', {
+					data: traces,
+					layout: layout,
+					frames: frames,
+				});
+
+			}).catch(function (error) {
+				console.error('Error loading CSV:', error);
 			});
 		});
+
+
 	</script>
 
 </body>
