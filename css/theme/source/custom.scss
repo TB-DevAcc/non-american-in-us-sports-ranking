@@ -320,6 +320,7 @@ figcaption:before {
 
   h2 {
     margin: 0.3em 0.3em 1em 0.3em;
+    font-weight: bold;
   }
   .column p {
     margin-top: auto;
@@ -352,19 +353,26 @@ figcaption:before {
 #sportsMetrics th,
 #sportsMetrics td {
   text-align: center;
-  padding: 8px;
   vertical-align: middle;
 }
 
 #sportsMetrics .svg-line td {
   padding: 0;
-  /* Remove padding for line-only rows */
-  height: 10px;
-  /* Set a specific height for the line row */
+  height: 25px;
+}
+
+#sportsMetrics .svg-line-rotate {
+  rotate: 180deg;
+}
+
+#sportsMetrics .svg-header-line td {
+  padding: 0;
+  height: 50px;
 }
 
 #sportsMetrics .metric {
   font-size: 0.8em;
+  color: $color-primary;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -378,7 +386,5 @@ figcaption:before {
 
 .svg-horizontal-line {
   width: 100%;
-  /* Ensures the SVG stretches across the full width of the cell */
   height: 100%;
-  /* Match the height of the cell */
 }
