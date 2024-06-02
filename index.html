@@ -356,36 +356,55 @@
 		Reveal.on('slidechanged', function (event) {
 			if (event.currentSlide.id === 'method-slide-2') {
 				loadLottieAnimations();
-			} else {
-				stopLottieAnimations();
 			}
 		});
 
 		function loadLottieAnimations() {
 			const animations = [
-				{ id: 'overall-value', path: './src/anim/abacus.json' },
+				// { id: 'overall-value', path: './src/anim/abacus.json', colorNms: { 'Highlight': '#B75D69' } },
+				{ id: 'overall-value', path: './src/anim/abacus.json', colorNms: {} },
+				{ id: 'points-nfl', path: './src/anim/points_nfl.json', colorNms: {} },
+				{ id: 'points-nba', path: './src/anim/points_nba.json', colorNms: {} },
+				{ id: 'batting-mlb', path: './src/anim/batting_mlb.json', colorNms: {} },
+				{ id: 'points-nhl', path: './src/anim/goal_nhl.json', colorNms: {} },
+				{ id: 'goals-mls', path: './src/anim/goals_mls.json', colorNms: {} },
+				{ id: 'tackles-nfl', path: './src/anim/tackles_nfl.json', colorNms: {} },
+				{ id: 'blocks-nba', path: './src/anim/blocks_nba.json', colorNms: {} },
+				{ id: 'era-mlb', path: './src/anim/era_mlb.json', colorNms: {} },
+				{ id: 'hits-nhl', path: './src/anim/hit_nhl.json', colorNms: {} },
+				{ id: 'tackles-won-mls', path: './src/anim/tackles_mls.json', colorNms: {} },
+				{ id: 'height-all', path: './src/anim/height.json', colorNms: {} },
+				{ id: 'weight-all', path: './src/anim/weight.json', colorNms: {} },
+				{ id: 'language-difficulty-all', path: './src/anim/languages.json', colorNms: {} },
+				{ id: 'travel-distance-all', path: './src/anim/distance.json', colorNms: {} },
 			];
 
 			animations.forEach(anim => {
 				const element = document.getElementById(anim.id);
+				if (!element) {
+					console.warn("Could not find element", element, "for id", anim.id)
+				}
 				if (element && !element.classList.contains('lottie-loaded')) {
 					fetch(anim.path)
 						.then(response => response.json())
 						.then(data => {
-							// Modify colors within the JSON data
-							modifyColors(data);
+							// Loop through each layer and modify colors
+							data.layers.forEach(layer => {
+								modifyColors(layer, anim.colorNms, anim.id); // Pass the color names and their new values
+							});
 							lottie.loadAnimation({
-								container: element, // the DOM element that will contain the animation
+								container: element,
 								renderer: 'svg',
 								loop: true,
 								autoplay: true,
-								animationData: data // Use the modified JSON data
+								animationData: data
 							});
 							element.classList.add('lottie-loaded');
 						});
 				}
 			});
 		}
+
 
 		function hexToRgba(hex) {
 			// Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
@@ -407,33 +426,29 @@
 			return [r / 255, g / 255, b / 255, a]; // Normalize RGB values to [0, 1] range
 		}
 
-		function modifyColors(data) {
-			// Loop through all layers and effects to find and modify color properties
-			data.layers.forEach(layer => {
-				if (layer.ef) {
-					layer.ef.forEach(effect => {
-						if (effect.nm === "Base Color") {
-							// effect.ef[0].v.k = hexToRgba("#b75d69");
+		function modifyColors(layer, colorMapping, animId) {
+			if (!layer.ef) return; // If no effects field, exit the function
+
+			layer.ef.forEach(effect => {
+				// Check if effect is a color control and its name is in the mapping
+				if (effect.nm && colorMapping[effect.nm] && effect.ef) {
+					effect.ef.forEach(subEffect => {
+						if (subEffect.ty === 2 && subEffect.v) { // Ensure it's a color type effect
+							subEffect.v.k = hexToRgba(colorMapping[effect.nm]);
+							console.log("Changed color for", animId, "with effect", effect.nm, "to", colorMapping[effect.nm])
 						}
-						else if (effect.nm === "Highlight") {
-							effect.ef[0].v.k = hexToRgba("#b75d69");
-						}
+					});
+				}
+
+				// If the effect itself has nested effects, recurse into them
+				if (effect.ef) {
+					effect.ef.forEach(innerEffect => {
+						modifyColors(innerEffect, colorMapping, animId); // Recursive call
 					});
 				}
 			});
 		}
 
-		function stopLottieAnimations() {
-			const lotties = document.querySelectorAll('.lottie');
-			lotties.forEach(lottie => {
-				const animInstance = lottie.getRegisteredAnimations();
-				animInstance.forEach(instance => {
-					if (instance.wrapper === lottie) {
-						instance.stop();
-					}
-				});
-			});
-		}
 	</script>
 </body>
 

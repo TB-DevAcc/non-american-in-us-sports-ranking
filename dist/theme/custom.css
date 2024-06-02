@@ -668,3 +668,11 @@ figcaption:before {
   margin: auto;
   display: block;
 }
+
+.row-center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
