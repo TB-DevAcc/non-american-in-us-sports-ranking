@@ -615,19 +615,41 @@ figcaption:before {
 }
 
 #sportsMetrics {
+  font-size: smaller;
   width: 100%;
   border-collapse: collapse;
 }
 
 #sportsMetrics th,
 #sportsMetrics td {
-  border-right: 1px solid #edc79b;
   text-align: center;
   padding: 8px;
   vertical-align: middle;
 }
 
-#sportsMetrics .metric tr:last-child,
-#sportsMetrics thead tr:last-child {
-  border-bottom: 1px solid #edc79b;
+#sportsMetrics .svg-line td {
+  padding: 0;
+  /* Remove padding for line-only rows */
+  height: 10px;
+  /* Set a specific height for the line row */
+}
+
+#sportsMetrics .metric {
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#sportsMetrics .league-logo img {
+  max-width: 50px;
+  max-height: 50px;
+  height: auto;
+  width: auto;
+}
+
+.svg-horizontal-line {
+  width: 100%;
+  /* Ensures the SVG stretches across the full width of the cell */
+  height: 100%;
+  /* Match the height of the cell */
 }

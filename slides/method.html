@@ -52,18 +52,29 @@
 
     <table id="sportsMetrics">
       <thead>
+
         <tr>
-          <th>Metric</th>
-          <th>NFL</th>
-          <th>NBA</th>
-          <th>MLB</th>
-          <th>NHL</th>
-          <th>MLS</th>
+          <th></th>
+          <th id="NFL-logo" class="league-logo"><img src="src/img/NFL_logo.svg" alt="NFL Logo"></th>
+          <th id="NBA-logo" class="league-logo"><img src="src/img/NBA_Logo.svg" alt="NBA Logo"></th>
+          <th id="MLB-logo" class="league-logo"><img src="src/img/MLB_logo.svg" alt="MLB Logo"></th>
+          <th id="NHL-logo" class="league-logo"><img src="src/img/NHL_logo.svg" alt="NHL Logo"></th>
+          <th id="MLS-logo" class="league-logo"><img src="src/img/MLS_logo.svg" alt="MLS Logo"></th>
+        </tr>
+
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <image href="../../src/img/line_4.svg" width="100%" height="100%" />
+            </svg>
+          </td>
         </tr>
       </thead>
-      <tbody class="metric overallValue">
+      <tbody>
         <tr>
-          <td rowspan="2">Overall Value</td>
+          <td rowspan="2" class="metric">Overall Value</td>
           <td>Approximate Value</td>
           <td>Win Shares</td>
           <td>Wins Above Replacement</td>
@@ -77,10 +88,19 @@
           <td></td>
           <td></td>
         </tr>
-      </tbody>
-      <tbody class="metric offensivePerformance">
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <image href="../../src/img/line_3.svg" width="100%" height="100%" />
+            </svg>
+          </td>
+        </tr>
+
+
         <tr>
-          <td rowspan="3">Offensive Performance</td>
+          <td rowspan="3" class="metric">Offensive Performance</td>
           <td>Total Points</td>
           <td>Points</td>
           <td>Home Runs</td>
@@ -101,10 +121,19 @@
           <td></td>
           <td></td>
         </tr>
-      </tbody>
-      <tbody class="metric defensivePerformance">
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <image href="../../src/img/line_3.svg" width="100%" height="100%" />
+            </svg>
+          </td>
+        </tr>
+
+
         <tr>
-          <td rowspan="5">Defensive Performance</td>
+          <td rowspan="5" class="metric">Defensive Performance</td>
           <td>Tackles</td>
           <td>Blocks</td>
           <td>Earned Run Average</td>
@@ -139,10 +168,19 @@
           <td></td>
           <td></td>
         </tr>
-      </tbody>
-      <tbody class="metric biometrics">
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <image href="../../src/img/line_3.svg" width="100%" height="100%" />
+            </svg>
+          </td>
+        </tr>
+
+
         <tr>
-          <td rowspan="2">Biometrics</td>
+          <td rowspan="2" class="metric">Biometrics</td>
           <td>Height</td>
           <td>Height</td>
           <td>Height</td>
@@ -156,10 +194,19 @@
           <td>Weight</td>
           <td>Weight</td>
         </tr>
-      </tbody>
-      <tbody class="metric migrationDifficulty">
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <image href="../../src/img/line_3.svg" width="100%" height="100%" />
+            </svg>
+          </td>
+        </tr>
+
+
         <tr>
-          <td rowspan="2">Migration Difficulty</td>
+          <td rowspan="2" class="metric">Migration Difficulty</td>
           <td>Language Difficulty</td>
           <td>Language Difficulty</td>
           <td>Language Difficulty</td>
@@ -172,6 +219,15 @@
           <td>Travel Distance</td>
           <td>Travel Distance</td>
           <td>Travel Distance</td>
+        </tr>
+        <!-- SVG Line Row -->
+        <tr class="svg-line">
+          <td colspan="6">
+            <svg class="svg-horizontal-line" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 100 100"
+              preserveAspectRatio="none">
+              <path d="M0 0.5h100" stroke="#EDC79B" stroke-width="1" />
+            </svg>
+          </td>
         </tr>
       </tbody>
     </table>
