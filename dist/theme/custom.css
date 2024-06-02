@@ -684,6 +684,7 @@ figcaption:before {
   justify-content: space-between;
 }
 .podium-slide .row h1, .podium-slide .row h2, .podium-slide .row h3, .podium-slide .row h4 {
+  text-transform: uppercase !important;
   margin: 1em 1em 1em 1em;
 }
 
@@ -743,4 +744,8 @@ figcaption:before {
 
 #podium-slide-3 .row {
   max-width: 80vw;
+}
+
+.final-slide h1 {
+  font-family: "jasd", "Wingdings", monospace;
 }

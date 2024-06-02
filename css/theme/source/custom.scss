@@ -416,6 +416,7 @@ figcaption:before {
   align-items: center;
   justify-content: space-between;
   h1, h2, h3, h4 {
+    text-transform: uppercase !important;
     margin: 1em 1em 1em 1em;
   }
 }
@@ -480,4 +481,10 @@ figcaption:before {
 
 #podium-slide-3 .row {
   max-width: 80vw;
+}
+
+// Final slide
+
+.final-slide h1 {
+  font-family: 'jasd', 'Wingdings', monospace;
 }
