@@ -1,0 +1,13 @@
+Metric,Metric-subcategory,NFL,NBA,MLB,NHL,MLS
+Overall Value,Overall Value 1,Approximate Value,Win Shares,Wins Above Replacement,Point Shares,Plus-Minus
+Overall Value,Overall Value 2,,All Star Appearances,,,
+Offensive Performance,Offensive Performance 1,Total Points,Points,Home Runs,Points,Goals
+Offensive Performance,Offensive Performance 2,Yards from Scrimmage,Assists,Runs Batted In,Goals,Assists
+Offensive Performance,Offensive Performance 3,Passing Yards,,,,
+Defensive Performance,Defensive Performance 1,Tackles,Blocks,Earned Run Average,Hits,Tackles Won
+Defensive Performance,Defensive Performance 2,Sacks,Steals,Strikeouts,Blocked Shots,Interceptions
+Defensive Performance,Defensive Performance 3,Interceptions,Defensive Rebounds,,,
+Defensive Performance,Defensive Performance 4,Forced Fumbles,Blocks,,,
+Defensive Performance,Defensive Performance 5,Passes Defended,Steals,,,
+Biometrics,Biometrics 1,Height and Weight,Height and Weight,Height and Weight,Height and Weight,Height and Weight
+Migration Difficulty,Migration Difficulty 1,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance

@@ -1,0 +1,21 @@
+Metric,NFL,NBA,MLB,NHL,MLS
+Overall Value 1,Approximate Value,Win Shares,Wins Above Replacement,Point Shares,Plus-Minus
+Overall Value 2,,All Star Appearances,,,
+Offensive Performance 1,Total Points,Points,Home Runs,Points,Goals
+Offensive Performance 2,Yards from Scrimmage,Assists,Runs Batted In,Goals,Assists
+Offensive Performance 3,Passing Yards,Points per Game,Home Runs per Game,Points per Game,Goals per Game
+Offensive Performance 4,Points per Game,Assists per Game,Runs Batted In per Game,Goals per Game,Assists per Game
+Offensive Performance 5,Yards from Scrimmage per Game,,,,
+Offensive Performance 6,Passing Yards per Game,,,,
+Defensive Performance 1,Tackles,Blocks,Earned Run Average,Hits,Tackles Won
+Defensive Performance 2,Sacks,Steals,Strikeouts,Blocked Shots,Interceptions
+Defensive Performance 3,Interceptions,Defensive Rebounds,Strikeouts per Game,,
+Defensive Performance 4,Forced Fumbles,Blocks per Game,Shutouts,,
+Defensive Performance 5,Passes Defended,Steals per Game,,,
+Defensive Performance 6,Tackles per Game,Defensive Rebounds per Game,,,
+Defensive Performance 7,Sacks per Game,,,,
+Defensive Performance 8,Interceptions per Game,,,,
+Defensive Performance 9,Forced Fumbles per Game,,,,
+Defensive Performance 10,Passes Defended per Game,,,,
+Biometrics 1,Height and Weight,Height and Weight,Height and Weight,Height and Weight,Height and Weight
+Migration Difficulty 1,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance,Language Difficulty & Travel Distance
