@@ -613,3 +613,21 @@ figcaption:before {
   width: auto;
   max-height: 20vh;
 }
+
+#sportsMetrics {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#sportsMetrics th,
+#sportsMetrics td {
+  border-right: 1px solid #edc79b;
+  text-align: center;
+  padding: 8px;
+  vertical-align: middle;
+}
+
+#sportsMetrics .metric tr:last-child,
+#sportsMetrics thead tr:last-child {
+  border-bottom: 1px solid #edc79b;
+}
