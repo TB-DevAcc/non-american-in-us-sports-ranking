@@ -33,6 +33,7 @@
 	<!-- Additional JS -->
 	<script src="dist/js/bibtex-bundle.js"></script>
 	<script src="dist/js/d3-bundle.js"></script>
+	<script src="dist/js/plotly-2.32.0.min.js" charset="utf-8"></script>
 	<script src="dist/js/lottie-bundle.js"></script>
 
 
@@ -593,6 +594,18 @@
 			});
 		});
 
+	</script>
+
+	<script>
+		Reveal.on('ready', function () {
+			TESTER = document.getElementById('tester');
+			Plotly.newPlot(TESTER, [{
+				x: [1, 2, 3, 4, 5],
+				y: [1, 2, 4, 8, 16]
+			}], {
+				margin: { t: 0 }
+			});
+		});
 	</script>
 
 </body>
