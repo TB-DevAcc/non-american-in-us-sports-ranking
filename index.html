@@ -33,7 +33,8 @@
 	<!-- Additional JS -->
 	<script src="dist/js/bibtex-bundle.js"></script>
 	<script src="dist/js/d3-bundle.js"></script>
-	<!-- <script src="dist/js/bootstrap.bundle.min.js"></script> -->
+	<script src="dist/js/lottie-bundle.js"></script>
+
 
 	<!-- Reveal.js and plugins -->
 	<script src="dist/reveal.js"></script>
@@ -351,39 +352,87 @@
 		}
 	</script>
 	<script>
-		Reveal.on('ready', function (event) {
-			// Initialize all counters on document ready
-			document.querySelectorAll('.number-transform').forEach(fragment => {
-				fragment.textContent = fragment.getAttribute('data-num-start');
-			});
-		});
-
-		Reveal.on('fragmentshown', function (event) {
-			const fragment = event.fragment;
-			if (fragment.classList.contains('number-transform')) {
-				const start = parseInt(fragment.getAttribute('data-num-start'), 10);
-				const end = parseInt(fragment.getAttribute('data-num-end'), 10);
-				const duration = 3000; // Duration of animation in milliseconds
-				const stepTime = 50; // Time between each step (lower = faster animation)
-				const steps = duration / stepTime; // Total number of steps
-				const stepSize = (start - end) / steps; // Size of each step
-				let currentNumber = start;
-
-				const counter = setInterval(() => {
-					currentNumber -= stepSize;
-					if (currentNumber <= end) {
-						fragment.textContent = Math.floor(end);
-						clearInterval(counter);
-					} else {
-						fragment.textContent = Math.floor(currentNumber);
-					}
-				}, stepTime);
+		// Lottie animations
+		Reveal.on('slidechanged', function (event) {
+			if (event.currentSlide.id === 'method-slide-2') {
+				loadLottieAnimations();
+			} else {
+				stopLottieAnimations();
 			}
 		});
 
-		// Utilizing an easing function to create a non-linear animation effect
-		function easeOutExpo(t, b, c, d) {
-			return c * (-Math.pow(2, -10 * t / d) + 1) + b;
+		function loadLottieAnimations() {
+			const animations = [
+				{ id: 'overall-value', path: './src/anim/abacus.json' },
+			];
+
+			animations.forEach(anim => {
+				const element = document.getElementById(anim.id);
+				if (element && !element.classList.contains('lottie-loaded')) {
+					fetch(anim.path)
+						.then(response => response.json())
+						.then(data => {
+							// Modify colors within the JSON data
+							modifyColors(data);
+							lottie.loadAnimation({
+								container: element, // the DOM element that will contain the animation
+								renderer: 'svg',
+								loop: true,
+								autoplay: true,
+								animationData: data // Use the modified JSON data
+							});
+							element.classList.add('lottie-loaded');
+						});
+				}
+			});
+		}
+
+		function hexToRgba(hex) {
+			// Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
+			let r = 0, g = 0, b = 0, a = 1;
+			if (hex.length == 4) {
+				r = parseInt(hex[1] + hex[1], 16);
+				g = parseInt(hex[2] + hex[2], 16);
+				b = parseInt(hex[3] + hex[3], 16);
+			} else if (hex.length == 7) {
+				r = parseInt(hex[1] + hex[2], 16);
+				g = parseInt(hex[3] + hex[4], 16);
+				b = parseInt(hex[5] + hex[6], 16);
+			} else if (hex.length == 9) { // Handling hex with alpha
+				r = parseInt(hex[1] + hex[2], 16);
+				g = parseInt(hex[3] + hex[4], 16);
+				b = parseInt(hex[5] + hex[6], 16);
+				a = parseInt(hex[7] + hex[8], 16) / 255;
+			}
+			return [r / 255, g / 255, b / 255, a]; // Normalize RGB values to [0, 1] range
+		}
+
+		function modifyColors(data) {
+			// Loop through all layers and effects to find and modify color properties
+			data.layers.forEach(layer => {
+				if (layer.ef) {
+					layer.ef.forEach(effect => {
+						if (effect.nm === "Base Color") {
+							// effect.ef[0].v.k = hexToRgba("#b75d69");
+						}
+						else if (effect.nm === "Highlight") {
+							effect.ef[0].v.k = hexToRgba("#b75d69");
+						}
+					});
+				}
+			});
+		}
+
+		function stopLottieAnimations() {
+			const lotties = document.querySelectorAll('.lottie');
+			lotties.forEach(lottie => {
+				const animInstance = lottie.getRegisteredAnimations();
+				animInstance.forEach(instance => {
+					if (instance.wrapper === lottie) {
+						instance.stop();
+					}
+				});
+			});
 		}
 	</script>
 </body>

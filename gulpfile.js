@@ -123,6 +123,27 @@ gulp.task("d3-bundle", () => {
   });
 });
 
+gulp.task("lottie-bundle", () => {
+  return rollup({
+    input: "js/utils/lottie-setup.js",
+    plugins: [resolve(), commonjs(), babel(babelConfig), terser()],
+    onwarn: function (warning, warn) {
+      if (warning.code === "CIRCULAR_DEPENDENCY") {
+        return;
+      }
+      warn(warning);
+    },
+  }).then((bundle) => {
+    return bundle.write({
+      file: "./dist/js/lottie-bundle.js",
+      format: "iife",
+      name: "LottieBundle",
+      sourcemap: true,
+      banner: banner,
+    });
+  });
+});
+
 gulp.task("mathjax-bundle", () => {
   return rollup({
     input: "js/utils/mathjax-setup.js",
@@ -351,6 +372,7 @@ gulp.task(
       "copy-bootstrap",
       "copy-bootstrap-css",
       "d3-bundle",
+      "lottie-bundle",
       "mathjax-bundle",
       "bibtex-bundle"
     ),
@@ -367,6 +389,7 @@ gulp.task(
     "copy-bootstrap",
     "copy-bootstrap-css",
     "d3-bundle",
+    "lottie-bundle",
     "mathjax-bundle",
     "bibtex-bundle"
   )
