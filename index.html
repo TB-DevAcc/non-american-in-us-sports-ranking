@@ -609,22 +609,48 @@
 						y: [],
 						id: [],
 						text: [],
-						marker: { size: [] }
+						marker: { size: [], symbol: [], color: [] } // Include color in the marker object
 					});
 					return trace;
+				}
+
+				function getSymbolForLeague(league) {
+					var symbols = {
+						'NFL': 'square',
+						'NBA': 'circle',
+						'MLB': 'diamond',
+						'NHL': 'cross',
+						'MLS': 'x'
+					};
+					return symbols[league] || 'circle'; // Default to circle if no match
+				}
+
+				function getColor(continent) {
+					var colors = {
+						'Africa': '#FF5733',
+						'Europe': '#33FFCE',
+						'Asia': '#337BFF',
+						'North America': '#8333FF',
+						'South America': '#FF8333',
+						'Oceania': '#33FF57'
+					};
+					return colors[continent] || '#AAAAAA'; // Default color if no match
 				}
 
 				// Process each row
 				data.forEach(function (datum) {
 					var season = datum.Season;
 					var continent = datum['Home Continent'];
+					var league = datum.League;
 					var trace = getData(season, continent);
 
 					trace.text.push(datum.Player);
 					trace.id.push(datum.Player);
 					trace.x.push(+datum['Defensive Performance']);
 					trace.y.push(+datum['Offensive Performance']);
-					trace.marker.size.push(500);  // Example size, adjust as necessary
+					trace.marker.size.push(250);  // Fixed size for visibility
+					trace.marker.symbol.push(getSymbolForLeague(league)); // Set the symbol based on league
+					trace.marker.color.push(getColor(continent)); // Set color based on continent
 				});
 
 				// Ensure we have seasons and continents populated
@@ -647,7 +673,7 @@
 
 				// Create the main traces, one for each continent
 				var traces = allContinents.map(function (continent) {
-					var data = firstSeason[continent] || { x: [], y: [], id: [], text: [], marker: { size: [] } };
+					var data = firstSeason[continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
 					return {
 						name: continent,
 						x: data.x.slice(),
@@ -657,11 +683,32 @@
 						mode: 'markers',
 						marker: {
 							size: data.marker.size,
+							symbol: data.marker.symbol,
+							color: data.marker.color,
 							sizemode: 'area',
 							sizeref: 2,
 						}
 					};
 				});
+
+				// Add dummy traces for league symbols
+				var leagues = ['NFL', 'NBA', 'MLB', 'NHL', 'MLS'];
+				var leagueSymbols = leagues.map(league => ({
+					x: [0], // Minimal non-null x-coordinate
+					y: [0], // Minimal non-null y-coordinate
+					mode: 'markers',
+					marker: {
+						size: 10,
+						symbol: getSymbolForLeague(league),
+						color: 'rgba(0,0,0,1)' // Ensure the marker is visible
+					},
+					name: league,
+					showlegend: true, // Ensure the legend should show this trace
+					hoverinfo: 'none' // Disable hover information if not needed
+				}));
+
+				// Concatenate leagueSymbols to the traces array
+				traces = traces.concat(leagueSymbols);
 
 				// Create a frame for each season
 				var frames = [];
@@ -669,7 +716,7 @@
 					frames.push({
 						name: season,
 						data: allContinents.map(function (continent) {
-							var data = lookup[season][continent] || { x: [], y: [], id: [], text: [], marker: { size: [] } };
+							var data = lookup[season][continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
 							return {
 								name: continent,
 								x: data.x.slice(),
@@ -679,6 +726,8 @@
 								mode: 'markers',
 								marker: {
 									size: data.marker.size,
+									symbol: data.marker.symbol,
+									color: data.marker.color,
 									sizemode: 'area',
 									sizeref: 2
 								}
@@ -703,11 +752,11 @@
 				var layout = {
 					xaxis: {
 						title: 'Defensive Performance',
-						range: [0, 100]  // Adjust according to the actual data range
+						range: [0, 100]
 					},
 					yaxis: {
 						title: 'Offensive Performance',
-						range: [0, 100]  // Adjust according to the actual data range
+						range: [0, 100]
 					},
 					hovermode: 'closest',
 					updatemenus: [{
