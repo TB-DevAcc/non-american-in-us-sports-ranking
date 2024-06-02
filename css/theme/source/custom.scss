@@ -408,7 +408,76 @@ figcaption:before {
   text-align: center;
 }
 
+
+// Podium Slide
+
+.podium-slide .row {
+  max-width: 30vw;
+  align-items: center;
+  justify-content: space-between;
+  h1, h2, h3, h4 {
+    margin: 1em 1em 1em 1em;
+  }
+}
+
+.podium-slide .column {
+  height: 100%;
+  justify-content: center;
+}
+
 .gauge_base,
 .gauge_percent {
   transition: stroke-dashoffset 2s;
+}
+
+.gauge_text {
+  fill: black;
+  font-family: $mainFont;
+  // font-size: $heading2Size;
+  text-anchor: middle;
+  animation: fadeIn 2s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+
+#podium-slide-1 .slide-container {
+  background-image: url('../../../src/img/background_zdeno.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#podium-slide-1 .column {
+  align-items: flex-end;
+}
+
+#podium-slide-2 .slide-container {
+  background-image: url('../../../src/img/background_alex.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#podium-slide-2 .column {
+  align-items: flex-start;
+}
+
+#podium-slide-3 .slide-container {
+  background-image: url('../../../src/img/background_ming.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#podium-slide-3 .row {
+  max-width: 80vw;
 }

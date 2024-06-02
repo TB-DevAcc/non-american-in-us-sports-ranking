@@ -478,10 +478,10 @@
 				linearGradient.setAttribute("x2", "100%");
 				linearGradient.setAttribute("y2", "100%");
 				const stop1 = document.createElementNS(svgNS, "stop");
-				stop1.setAttribute("offset", "25%");
+				stop1.setAttribute("offset", "0%");
 				stop1.setAttribute("stop-color", "#B75D69");
 				const stop2 = document.createElementNS(svgNS, "stop");
-				stop2.setAttribute("offset", "95%");
+				stop2.setAttribute("offset", "100%");
 				stop2.setAttribute("stop-color", "#edc79b");
 				linearGradient.appendChild(stop1);
 				linearGradient.appendChild(stop2);
@@ -515,36 +515,85 @@
 				circlePercent.setAttribute("transform", transform);
 				svg.appendChild(circlePercent);
 
+				const text = document.createElementNS(svgNS, "text");
+				text.setAttribute("x", radius);
+				text.setAttribute("y", radius + radius * 0.15);
+				text.setAttribute("class", "gauge_text");
+				text.setAttribute("font-size", radius * 0.7);
+				text.textContent = "0";
+				svg.appendChild(text);
+
 				document.getElementById(containerId).appendChild(svg);
-				return circlePercent;
+				return { circle: circlePercent, text: text };
 			}
 
 			// Initialize gauges after Reveal is ready
 			Reveal.on('ready', function (event) {
 				const gauges = [];
-				gauges.push(createGauge("gaugeContainer1", 100));
-				gauges.push(createGauge("gaugeContainer2", 100));
-				gauges.push(createGauge("gaugeContainer3", 100));
+				gauges.push(createGauge("gaugeContainer1", 45));
+				gauges.push(createGauge("gaugeContainer2", 45));
+				gauges.push(createGauge("gaugeContainer3", 45));
+				gauges.push(createGauge("gaugeContainer4", 45));
+				gauges.push(createGauge("gaugeContainer5", 45));
+				gauges.push(createGauge("gaugeContainer6", 45));
+				gauges.push(createGauge("gaugeContainer7", 45));
+				gauges.push(createGauge("gaugeContainer8", 45));
+				gauges.push(createGauge("gaugeContainer9", 45));
+				gauges.push(createGauge("gaugeContainer10", 45));
+				gauges.push(createGauge("gaugeContainer11", 45));
+				gauges.push(createGauge("gaugeContainer12", 45));
+				gauges.push(createGauge("gaugeContainer13", 45));
+				gauges.push(createGauge("gaugeContainer14", 45));
+				gauges.push(createGauge("gaugeContainer15", 45));
 
 				function animateGauge(gauge, percent) {
-					const circumference = parseFloat(gauge.getAttribute("stroke-dasharray").split(' ')[0]);
+					const circumference = parseFloat(gauge.circle.getAttribute("stroke-dasharray").split(' ')[0]);
 					const offset = circumference - (percent / 100) * (circumference * 1);
-					gauge.style.transition = 'stroke-dashoffset 2s ease-out';
-					gauge.style.strokeDashoffset = offset.toString();
+					gauge.circle.style.transition = 'stroke-dashoffset 2s ease-out';
+					gauge.circle.style.strokeDashoffset = offset.toString();
+
+					let start = 0;
+					const step = (timestamp) => {
+						if (!start) start = timestamp;
+						const elapsed = timestamp - start;
+						const currentPercent = Math.min(elapsed / 2000 * percent, percent);
+						gauge.text.textContent = `${currentPercent.toFixed(1)}`;
+						if (currentPercent < percent) {
+							window.requestAnimationFrame(step);
+						}
+					};
+					window.requestAnimationFrame(step);
 				}
 
 				// Listen for slide changes to animate gauges
 				Reveal.on('slidechanged', function (event) {
 					if (event.currentSlide.id == 'podium-slide-1') {
-						animateGauge(gauges[0], 100);
-						animateGauge(gauges[1], 90);
-						animateGauge(gauges[2], 30);
+						animateGauge(gauges[0], 61.3);
+						animateGauge(gauges[1], 49.3);
+						animateGauge(gauges[2], 66.9);
+						animateGauge(gauges[3], 99.0);
+						animateGauge(gauges[4], 85.9);
+					}
+					else if (event.currentSlide.id == 'podium-slide-2') {
+						animateGauge(gauges[5], 69.0);
+						animateGauge(gauges[6], 68.8);
+						animateGauge(gauges[7], 67.2);
+						animateGauge(gauges[8], 75.4);
+						animateGauge(gauges[9], 85.9);
+					}
+					else if (event.currentSlide.id == 'podium-slide-3') {
+						animateGauge(gauges[10], 88.7);
+						animateGauge(gauges[11], 58.6);
+						animateGauge(gauges[12], 61.2);
+						animateGauge(gauges[13], 89.2);
+						animateGauge(gauges[14], 100.0);
 					}
 				});
 			});
 		});
 
 	</script>
+
 </body>
 
 </html>
