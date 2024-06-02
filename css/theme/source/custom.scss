@@ -299,6 +299,7 @@ figcaption:before {
     text-align: center;
   }
   h1 {
+    // font-style: italic;
     margin: 0 0 1em 0;
   }
   .val-change {
@@ -483,8 +484,45 @@ figcaption:before {
   max-width: 80vw;
 }
 
-// Final slide
-
-.final-slide h1 {
-  font-family: 'jasd', 'Wingdings', monospace;
+// explore slides
+#playerRankings {
+  font-size: smaller;
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
 }
+
+#playerRankings th,
+#playerRankings td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+#playerRankings .svg-line td {
+  padding: 0;
+  height: 25px;
+}
+
+#playerRankings .svg-line-rotate {
+  rotate: 180deg;
+}
+
+#playerRankings .svg-header-line td {
+  padding: 0;
+  height: 50px;
+}
+
+#playerRankings .metric {
+  font-size: 0.8em;
+  color: $color-primary;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.svg-horizontal-line {
+  width: 100%;
+  height: 100%;
+}
+
+
+// Final slide
