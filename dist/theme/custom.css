@@ -677,3 +677,8 @@ figcaption:before {
   align-items: center;
   text-align: center;
 }
+
+.gauge_base,
+.gauge_percent {
+  transition: stroke-dashoffset 2s;
+}

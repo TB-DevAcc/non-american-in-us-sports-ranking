@@ -56,7 +56,8 @@
 				"title",
 				"data",
 				"method",
-				"pillars"
+				// "pillars",
+				"podium"
 			];
 
 			// Select the container for the slides
@@ -448,6 +449,100 @@
 				}
 			});
 		}
+
+	</script>
+
+	<script>
+		// Gauges
+		document.addEventListener('DOMContentLoaded', function () {
+			// Function to create a gauge
+			function createGauge(containerId, radius) {
+				const strokeWidth = radius * 0.2;
+				const innerRadius = radius - strokeWidth;
+				const circumference = innerRadius * 2 * Math.PI;
+				const arc = circumference * 0.9;
+				const dashArray = `${arc} ${circumference}`;
+				const transform = `rotate(108 ${radius} ${radius})`;
+
+				const svgNS = "http://www.w3.org/2000/svg";
+				const svg = document.createElementNS(svgNS, "svg");
+				svg.setAttribute("width", radius * 2);
+				svg.setAttribute("height", radius * 2);
+				svg.setAttribute("class", "gauge");
+
+				const gradient = document.createElementNS(svgNS, "defs");
+				const linearGradient = document.createElementNS(svgNS, "linearGradient");
+				linearGradient.setAttribute("id", `grad${containerId}`);
+				linearGradient.setAttribute("x1", "0%");
+				linearGradient.setAttribute("y1", "0%");
+				linearGradient.setAttribute("x2", "100%");
+				linearGradient.setAttribute("y2", "100%");
+				const stop1 = document.createElementNS(svgNS, "stop");
+				stop1.setAttribute("offset", "25%");
+				stop1.setAttribute("stop-color", "#B75D69");
+				const stop2 = document.createElementNS(svgNS, "stop");
+				stop2.setAttribute("offset", "95%");
+				stop2.setAttribute("stop-color", "#edc79b");
+				linearGradient.appendChild(stop1);
+				linearGradient.appendChild(stop2);
+				gradient.appendChild(linearGradient);
+				svg.appendChild(gradient);
+
+				const circleBase = document.createElementNS(svgNS, "circle");
+				circleBase.setAttribute("class", "gauge_base");
+				circleBase.setAttribute("cx", radius);
+				circleBase.setAttribute("cy", radius);
+				circleBase.setAttribute("r", innerRadius);
+				circleBase.setAttribute("fill", "transparent");
+				circleBase.setAttribute("stroke", "gray");
+				circleBase.setAttribute("stroke-dasharray", dashArray);
+				circleBase.setAttribute("stroke-linecap", "round");
+				circleBase.setAttribute("stroke-width", strokeWidth);
+				circleBase.setAttribute("transform", transform);
+				svg.appendChild(circleBase);
+
+				const circlePercent = document.createElementNS(svgNS, "circle");
+				circlePercent.setAttribute("class", "gauge_percent");
+				circlePercent.setAttribute("cx", radius);
+				circlePercent.setAttribute("cy", radius);
+				circlePercent.setAttribute("r", innerRadius);
+				circlePercent.setAttribute("fill", "transparent");
+				circlePercent.setAttribute("stroke", `url(#grad${containerId})`);
+				circlePercent.setAttribute("stroke-dasharray", dashArray);
+				circlePercent.setAttribute("stroke-dashoffset", arc);
+				circlePercent.setAttribute("stroke-linecap", "round");
+				circlePercent.setAttribute("stroke-width", strokeWidth);
+				circlePercent.setAttribute("transform", transform);
+				svg.appendChild(circlePercent);
+
+				document.getElementById(containerId).appendChild(svg);
+				return circlePercent;
+			}
+
+			// Initialize gauges after Reveal is ready
+			Reveal.on('ready', function (event) {
+				const gauges = [];
+				gauges.push(createGauge("gaugeContainer1", 100));
+				gauges.push(createGauge("gaugeContainer2", 100));
+				gauges.push(createGauge("gaugeContainer3", 100));
+
+				function animateGauge(gauge, percent) {
+					const circumference = parseFloat(gauge.getAttribute("stroke-dasharray").split(' ')[0]);
+					const offset = circumference - (percent / 100) * (circumference * 1);
+					gauge.style.transition = 'stroke-dashoffset 2s ease-out';
+					gauge.style.strokeDashoffset = offset.toString();
+				}
+
+				// Listen for slide changes to animate gauges
+				Reveal.on('slidechanged', function (event) {
+					if (event.currentSlide.id == 'podium-slide-1') {
+						animateGauge(gauges[0], 100);
+						animateGauge(gauges[1], 90);
+						animateGauge(gauges[2], 30);
+					}
+				});
+			});
+		});
 
 	</script>
 </body>
