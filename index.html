@@ -599,217 +599,231 @@
 
 	<script>
 		// Gapminder animation
-		Reveal.on('ready', function (event) {
-			d3.csv('./src/data/data_seasons.csv').then(function (data) {
-				var lookup = {};
+		Reveal.on('slidechanged', function (event) {
+			if (event.currentSlide.id == 'explore-slide-1') {
+				d3.csv('./src/data/data_seasons.csv').then(function (data) {
+					var lookup = {};
 
-				function getData(season, continent) {
-					var bySeason = lookup[season] || (lookup[season] = {});
-					var trace = bySeason[continent] || (bySeason[continent] = {
-						x: [],
-						y: [],
-						id: [],
-						text: [],
-						marker: { size: [], symbol: [], color: [] } // Include color in the marker object
+					function getData(season, continent) {
+						var bySeason = lookup[season] || (lookup[season] = {});
+						var trace = bySeason[continent] || (bySeason[continent] = {
+							x: [],
+							y: [],
+							id: [],
+							text: [],
+							marker: { size: [], symbol: [], color: [] } // Include color in the marker object
+						});
+						return trace;
+					}
+
+					function getSymbolForLeague(league) {
+						var symbols = {
+							'NFL': 'diamond',
+							'NBA': 'circle',
+							'MLB': 'star',
+							'NHL': 'cross',
+							'MLS': 'star-triangle-up'
+						};
+						return symbols[league] || 'circle'; // Default to circle if no match
+					}
+
+					function getColor(continent) {
+						var colors = {
+							'Africa': "#30323d",
+							'Europe': "#b75d69",
+							'Asia': "#6510ad",
+							'North America': "#559cad",
+							'South America': "#60992D",
+							'Oceania': '#edc79b'
+						};
+						return colors[continent] || '#AAAAAA'; // Default color if no match
+					}
+
+					// Process each row
+					data.forEach(function (datum) {
+						var season = datum.Season;
+						var continent = datum['Home Continent'];
+						var league = datum.League;
+						var trace = getData(season, continent);
+
+						// Create the tooltip content
+						var tooltipText = `Player: ${datum.Player}<br>` +
+							`League: ${datum.League}<br>` +
+							`Season: ${datum.Season}<br>` +
+							`Home Country: ${datum['Home Country']}<br>` +
+							`Home City: ${datum['Home City']}<br>` +
+							`Overall Value: ${datum['Overall Value']}<br>` +
+							`Offensive Performance: ${datum['Offensive Performance']}<br>` +
+							`Defensive Performance: ${datum['Defensive Performance']}<br>` +
+							`Biometrics: ${datum['Biometrics']}<br>` +
+							`Migration Difficulty: ${datum['Migration Difficulty']}`;
+
+						trace.text.push(tooltipText);
+						trace.id.push(datum.Player);
+						trace.x.push(+datum['Defensive Performance']);
+						trace.y.push(+datum['Offensive Performance']);
+						trace.marker.size.push(250);  // Fixed size for visibility
+						trace.marker.symbol.push(getSymbolForLeague(league)); // Set the symbol based on league
+						trace.marker.color.push(getColor(continent)); // Set color based on continent
 					});
-					return trace;
-				}
 
-				function getSymbolForLeague(league) {
-					var symbols = {
-						'NFL': 'square',
-						'NBA': 'circle',
-						'MLB': 'diamond',
-						'NHL': 'cross',
-						'MLS': 'x'
-					};
-					return symbols[league] || 'circle'; // Default to circle if no match
-				}
+					// Ensure we have seasons and continents populated
+					var seasons = Object.keys(lookup);
+					if (seasons.length === 0) {
+						console.error('No data available for seasons');
+						return;
+					}
 
-				function getColor(continent) {
-					var colors = {
-						'Africa': '#FF5733',
-						'Europe': '#33FFCE',
-						'Asia': '#337BFF',
-						'North America': '#8333FF',
-						'South America': '#FF8333',
-						'Oceania': '#33FF57'
-					};
-					return colors[continent] || '#AAAAAA'; // Default color if no match
-				}
-
-				// Process each row
-				data.forEach(function (datum) {
-					var season = datum.Season;
-					var continent = datum['Home Continent'];
-					var league = datum.League;
-					var trace = getData(season, continent);
-
-					trace.text.push(datum.Player);
-					trace.id.push(datum.Player);
-					trace.x.push(+datum['Defensive Performance']);
-					trace.y.push(+datum['Offensive Performance']);
-					trace.marker.size.push(250);  // Fixed size for visibility
-					trace.marker.symbol.push(getSymbolForLeague(league)); // Set the symbol based on league
-					trace.marker.color.push(getColor(continent)); // Set color based on continent
-				});
-
-				// Ensure we have seasons and continents populated
-				var seasons = Object.keys(lookup);
-				if (seasons.length === 0) {
-					console.error('No data available for seasons');
-					return;
-				}
-
-				// Gather all continents across all seasons
-				var allContinents = new Set();
-				seasons.forEach(season => {
-					Object.keys(lookup[season]).forEach(continent => {
-						allContinents.add(continent);
+					// Gather all continents across all seasons
+					var allContinents = new Set();
+					seasons.forEach(season => {
+						Object.keys(lookup[season]).forEach(continent => {
+							allContinents.add(continent);
+						});
 					});
-				});
-				allContinents = Array.from(allContinents); // Convert Set to Array for easier processing
+					allContinents = Array.from(allContinents); // Convert Set to Array for easier processing
 
-				var firstSeason = lookup[seasons[0]];
+					var firstSeason = lookup[seasons[0]];
 
-				// Create the main traces, one for each continent
-				var traces = allContinents.map(function (continent) {
-					var data = firstSeason[continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
-					return {
-						name: continent,
-						x: data.x.slice(),
-						y: data.y.slice(),
-						id: data.id.slice(),
-						text: data.text.slice(),
+					// Create the main traces, one for each continent
+					var traces = allContinents.map(function (continent) {
+						var data = firstSeason[continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
+						return {
+							name: continent,
+							x: data.x.slice(),
+							y: data.y.slice(),
+							id: data.id.slice(),
+							text: data.text.slice(),
+							mode: 'markers',
+							marker: {
+								size: data.marker.size,
+								symbol: data.marker.symbol,
+								color: data.marker.color,
+								sizemode: 'area',
+								sizeref: 2,
+							}
+						};
+					});
+
+					// Add dummy traces for league symbols
+					var leagues = ['NFL', 'NBA', 'MLB', 'NHL', 'MLS'];
+					var leagueSymbols = leagues.map(league => ({
+						x: [0], // Minimal non-null x-coordinate
+						y: [0], // Minimal non-null y-coordinate
 						mode: 'markers',
 						marker: {
-							size: data.marker.size,
-							symbol: data.marker.symbol,
-							color: data.marker.color,
-							sizemode: 'area',
-							sizeref: 2,
-						}
-					};
-				});
-
-				// Add dummy traces for league symbols
-				var leagues = ['NFL', 'NBA', 'MLB', 'NHL', 'MLS'];
-				var leagueSymbols = leagues.map(league => ({
-					x: [0], // Minimal non-null x-coordinate
-					y: [0], // Minimal non-null y-coordinate
-					mode: 'markers',
-					marker: {
-						size: 10,
-						symbol: getSymbolForLeague(league),
-						color: 'rgba(0,0,0,1)' // Ensure the marker is visible
-					},
-					name: league,
-					showlegend: true, // Ensure the legend should show this trace
-					hoverinfo: 'none' // Disable hover information if not needed
-				}));
-
-				// Concatenate leagueSymbols to the traces array
-				traces = traces.concat(leagueSymbols);
-
-				// Create a frame for each season
-				var frames = [];
-				seasons.forEach(function (season) {
-					frames.push({
-						name: season,
-						data: allContinents.map(function (continent) {
-							var data = lookup[season][continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
-							return {
-								name: continent,
-								x: data.x.slice(),
-								y: data.y.slice(),
-								id: data.id.slice(),
-								text: data.text.slice(),
-								mode: 'markers',
-								marker: {
-									size: data.marker.size,
-									symbol: data.marker.symbol,
-									color: data.marker.color,
-									sizemode: 'area',
-									sizeref: 2
-								}
-							};
-						})
-					});
-				});
-
-				// Slider steps for each season
-				var sliderSteps = seasons.map(function (season) {
-					return {
-						method: 'animate',
-						label: season,
-						args: [[season], {
-							mode: 'immediate',
-							transition: { duration: 300 },
-							frame: { duration: 300, redraw: true }
-						}]
-					};
-				});
-
-				var layout = {
-					xaxis: {
-						title: 'Defensive Performance',
-						range: [0, 100]
-					},
-					yaxis: {
-						title: 'Offensive Performance',
-						range: [0, 100]
-					},
-					hovermode: 'closest',
-					updatemenus: [{
-						x: 0,
-						y: 0,
-						yanchor: 'top',
-						xanchor: 'left',
-						showactive: false,
-						direction: 'left',
-						type: 'buttons',
-						pad: { t: 87, r: 10 },
-						buttons: [{
-							method: 'animate',
-							args: [null, {
-								mode: 'immediate',
-								fromcurrent: true,
-								transition: { duration: 300 },
-								frame: { duration: 500, redraw: true }
-							}],
-							label: 'Play'
-						}, {
-							method: 'animate',
-							args: [[null], {
-								mode: 'immediate',
-								transition: { duration: 0 },
-								frame: { duration: 0, redraw: false }
-							}],
-							label: 'Pause'
-						}]
-					}],
-					sliders: [{
-						pad: { l: 130, t: 55 },
-						currentvalue: {
-							visible: true,
-							prefix: 'Season:',
-							xanchor: 'right',
-							font: { size: 20, color: '#666' }
+							size: 10,
+							symbol: getSymbolForLeague(league),
+							color: 'rgba(0,0,0,1)' // Ensure the marker is visible
 						},
-						steps: sliderSteps
-					}]
-				};
+						name: league,
+						showlegend: true, // Ensure the legend should show this trace
+						hoverinfo: 'none' // Disable hover information if not needed
+					}));
 
-				// Create the plot
-				Plotly.newPlot('myDiv', {
-					data: traces,
-					layout: layout,
-					frames: frames,
+					// Concatenate leagueSymbols to the traces array
+					traces = traces.concat(leagueSymbols);
+
+					// Create a frame for each season
+					var frames = [];
+					seasons.forEach(function (season) {
+						frames.push({
+							name: season,
+							data: allContinents.map(function (continent) {
+								var data = lookup[season][continent] || { x: [], y: [], id: [], text: [], marker: { size: [], symbol: [], color: [] } };
+								return {
+									name: continent,
+									x: data.x.slice(),
+									y: data.y.slice(),
+									id: data.id.slice(),
+									text: data.text.slice(),
+									mode: 'markers',
+									marker: {
+										size: data.marker.size,
+										symbol: data.marker.symbol,
+										color: data.marker.color,
+										sizemode: 'area',
+										sizeref: 2
+									}
+								};
+							})
+						});
+					});
+
+					// Slider steps for each season
+					var sliderSteps = seasons.map(function (season) {
+						return {
+							method: 'animate',
+							label: season,
+							args: [[season], {
+								mode: 'immediate',
+								transition: { duration: 300 },
+								frame: { duration: 300, redraw: true }
+							}]
+						};
+					});
+
+					var layout = {
+						xaxis: {
+							title: 'Defensive Performance',
+							range: [0, 100]
+						},
+						yaxis: {
+							title: 'Offensive Performance',
+							range: [0, 100]
+						},
+						hovermode: 'closest',
+						updatemenus: [{
+							x: 0,
+							y: 0,
+							yanchor: 'top',
+							xanchor: 'left',
+							showactive: false,
+							direction: 'left',
+							type: 'buttons',
+							pad: { t: 87, r: 10 },
+							buttons: [{
+								method: 'animate',
+								args: [null, {
+									mode: 'immediate',
+									fromcurrent: true,
+									transition: { duration: 300 },
+									frame: { duration: 500, redraw: true }
+								}],
+								label: 'Play'
+							}, {
+								method: 'animate',
+								args: [[null], {
+									mode: 'immediate',
+									transition: { duration: 0 },
+									frame: { duration: 0, redraw: false }
+								}],
+								label: 'Pause'
+							}]
+						}],
+						sliders: [{
+							pad: { l: 130, t: 55 },
+							currentvalue: {
+								visible: true,
+								prefix: 'Season:',
+								xanchor: 'right',
+								font: { size: 20, color: '#666' }
+							},
+							steps: sliderSteps
+						}]
+					};
+
+					// Create the plot
+					Plotly.newPlot('myDiv', {
+						data: traces,
+						layout: layout,
+						frames: frames,
+					});
+
+				}).catch(function (error) {
+					console.error('Error loading CSV:', error);
 				});
-
-			}).catch(function (error) {
-				console.error('Error loading CSV:', error);
-			});
+			}
 		});
 
 
